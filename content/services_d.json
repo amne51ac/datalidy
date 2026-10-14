@@ -1,746 +1,746 @@
 {
-  "practices": [
+ "practices": [
+  {
+   "slug": "investor-venture-advisory",
+   "name": "Investor & Venture Advisory",
+   "meta_title": "Investor & Venture Advisory: Behavioral Diligence",
+   "meta_description": "Behavioral science for private equity, venture and impact investors: customer diligence, management assessment, predictive KPIs and founder coaching.",
+   "tagline": "Behavioral evidence for investment decisions, from first diligence call through value creation and exit.",
+   "intro": [
+    "Every investment thesis is, at its core, a prediction about behavior. It assumes customers will keep buying, expand and refer; that users will adopt the product rather than tolerate it; that a management team will make sound decisions under pressure; and that employees will stay through change. Financial models describe the consequences of those behaviors. They rarely test the behaviors themselves. Our Investor & Venture Advisory practice brings behavioral science to private equity sponsors, venture capital investors, family offices, impact investors and the founders and portfolio companies they back, so the assumptions beneath a deal are examined as carefully as the numbers above it.",
+    "The work draws on behavioral design, research methods and psychometrics, applied to the questions investors actually face. In diligence we read the behavioral signals in customer and operating data: cohort and logo retention, the conversion points that drive growth, adoption and engagement curves, and the gap between what customers say in interviews and what they do in the product. We assess management teams with research-grade methods rather than impressions. After close, we build predictive KPIs that give operating partners, boards and LPs an earlier and more honest view of performance.",
+    "We also know the other side of the table. The firm brings hands-on operating experience in product, sales and partnerships, so our advice to founders and CEOs reflects the realities of building, not only evaluating. And because durable returns depend on people, we connect value creation with social good: impact measurement that holds up to scrutiny, responsible growth practices, and portfolio companies that serve employees, customers and communities well while they compound value for investors."
+   ],
+   "themes": [
     {
-      "slug": "investor-venture-advisory",
-      "name": "Investor & Venture Advisory",
-      "meta_title": "Investor & Venture Advisory: Behavioral Diligence",
-      "meta_description": "Behavioral science for private equity, venture and impact investors: customer diligence, management assessment, predictive KPIs and founder coaching.",
-      "tagline": "Behavioral evidence for investment decisions, from first diligence call through value creation and exit.",
-      "intro": [
-        "Every investment thesis is, at its core, a prediction about behavior. It assumes customers will keep buying, expand and refer; that users will adopt the product rather than tolerate it; that a management team will make sound decisions under pressure; and that employees will stay through change. Financial models describe the consequences of those behaviors. They rarely test the behaviors themselves. Our Investor & Venture Advisory practice brings behavioral science to private equity sponsors, venture capital investors, family offices, impact investors and the founders and portfolio companies they back, so the assumptions beneath a deal are examined as carefully as the numbers above it.",
-        "The work draws on more than two decades of behavioral design, research methods and psychometrics, applied to the questions investors actually face. In diligence we read the behavioral signals in customer and operating data: cohort and logo retention, the conversion points that drive growth, adoption and engagement curves, and the gap between what customers say in interviews and what they do in the product. We assess management teams with research-grade methods rather than impressions. After close, we build predictive KPIs that give operating partners, boards and LPs an earlier and more honest view of performance.",
-        "We also know the other side of the table. The firm's experience includes founding and grant-funding startups, managing distributed product teams, and running product, sales and partnerships, so our advice to founders and CEOs reflects the realities of building, not only evaluating. And because durable returns depend on people, we connect value creation with social good: impact measurement that holds up to scrutiny, responsible growth practices, and portfolio companies that serve employees, customers and communities well while they compound value for investors."
-      ],
-      "themes": [
-        {
-          "title": "Diligence that tests behavior, not just numbers",
-          "body": "Quality of revenue is a behavioral question. We examine how cohorts retain, where conversion stalls, how deeply customers adopt the product, and whether stated satisfaction matches observed usage. The result is a clearer view of which growth assumptions in the investment thesis are supported by evidence and which are being filled in by optimism, delivered in time to shape the LOI, price and IC memo."
-        },
-        {
-          "title": "People risk, assessed with rigor",
-          "body": "Management quality is often the deciding factor in a deal and the least rigorously measured. We apply structured interviews, validated instruments and behavioral observation to evaluate leadership teams, key-person risk and organizational readiness for the plan ahead, then turn findings into coaching, hiring and retention priorities that support the first 100 days and the years that follow."
-        },
-        {
-          "title": "Value creation that compounds and does good",
-          "body": "We design predictive KPIs that move portfolio monitoring from lagging financials to leading behavioral indicators, and we coach founders and CEOs to lead through scale. For impact-oriented capital, we build measurement frameworks aligned with the IMP five dimensions and IRIS+ metrics, so financial performance and social outcomes are tracked with the same discipline and reported credibly to LPs."
-        }
-      ]
+     "title": "Diligence that tests behavior, not just numbers",
+     "body": "Quality of revenue is a behavioral question. We examine how cohorts retain, where conversion stalls, how deeply customers adopt the product, and whether stated satisfaction matches observed usage. The result is a clearer view of which growth assumptions in the investment thesis are supported by evidence and which are being filled in by optimism, delivered in time to shape the LOI, price and IC memo."
+    },
+    {
+     "title": "People risk, assessed with rigor",
+     "body": "Management quality is often the deciding factor in a deal and the least rigorously measured. We apply structured interviews, validated instruments and behavioral observation to evaluate leadership teams, key-person risk and organizational readiness for the plan ahead, then turn findings into coaching, hiring and retention priorities that support the first 100 days and the years that follow."
+    },
+    {
+     "title": "Value creation that compounds and does good",
+     "body": "We design predictive KPIs that move portfolio monitoring from lagging financials to leading behavioral indicators, and we coach founders and CEOs to lead through scale. For impact-oriented capital, we build measurement frameworks aligned with the IMP five dimensions and IRIS+ metrics, so financial performance and social outcomes are tracked with the same discipline and reported credibly to LPs."
     }
-  ],
-  "services": [
+   ]
+  }
+ ],
+ "services": [
+  {
+   "slug": "private-equity-advisory",
+   "practice": "investor-venture-advisory",
+   "name": "Private Equity Advisory",
+   "meta_title": "Private Equity Advisory: Behavioral Diligence & Value",
+   "meta_description": "Private equity advisory grounded in behavioral science: test the investment thesis, assess management, and build predictive KPIs for the hold period.",
+   "primary_keyword": "private equity advisory",
+   "summary": "Behavioral science for sponsors and operating partners: pressure-test the thesis before LOI, assess management, and build the KPIs that guide the hold.",
+   "lede": "Our private equity advisory helps sponsors and operating partners test the behavioral assumptions inside an investment thesis, from customer retention to management decision-making, and turn them into evidence that guides the deal and the hold period.",
+   "challenge": [
+    "Private equity firms are skilled at modeling cash flows, debt capacity and multiple expansion. The harder part is the set of human behaviors those models quietly assume. A value creation plan may depend on customers accepting a price increase, a sales team adopting a new motion, or a founder-led company transitioning to professional management. Each of those is a behavioral bet, and each is usually underwritten with management presentations, a handful of reference calls and a data room that was assembled to tell a story. When the bet is wrong, the miss rarely shows up until well into the hold period.",
+    "The pressure of a competitive process makes this worse. Deal teams work against exclusivity windows, advisors focus on the questions they were scoped to answer, and the behavioral evidence that would sharpen the IC memo sits unexamined in CRM exports, product logs and support tickets. After close, operating partners inherit a 100-day plan built on those same assumptions, with board reporting that tracks lagging financials. Private equity advisory from a behavioral science perspective closes that gap, testing what people actually do before capital is committed and measuring it consistently afterward."
+   ],
+   "approach": [
     {
-      "slug": "private-equity-advisory",
-      "practice": "investor-venture-advisory",
-      "name": "Private Equity Advisory",
-      "meta_title": "Private Equity Advisory: Behavioral Diligence & Value",
-      "meta_description": "Private equity advisory grounded in behavioral science: test the investment thesis, assess management, and build predictive KPIs for the hold period.",
-      "primary_keyword": "private equity advisory",
-      "summary": "Behavioral science for sponsors and operating partners: pressure-test the thesis before LOI, assess management, and build the KPIs that guide the hold.",
-      "lede": "Our private equity advisory helps sponsors and operating partners test the behavioral assumptions inside an investment thesis, from customer retention to management decision-making, and turn them into evidence that guides the deal and the hold period.",
-      "challenge": [
-        "Private equity firms are skilled at modeling cash flows, debt capacity and multiple expansion. The harder part is the set of human behaviors those models quietly assume. A value creation plan may depend on customers accepting a price increase, a sales team adopting a new motion, or a founder-led company transitioning to professional management. Each of those is a behavioral bet, and each is usually underwritten with management presentations, a handful of reference calls and a data room that was assembled to tell a story. When the bet is wrong, the miss rarely shows up until well into the hold period.",
-        "The pressure of a competitive process makes this worse. Deal teams work against exclusivity windows, advisors focus on the questions they were scoped to answer, and the behavioral evidence that would sharpen the IC memo sits unexamined in CRM exports, product logs and support tickets. After close, operating partners inherit a 100-day plan built on those same assumptions, with board reporting that tracks lagging financials. Private equity advisory from a behavioral science perspective closes that gap, testing what people actually do before capital is committed and measuring it consistently afterward."
-      ],
-      "approach": [
-        {
-          "phase": "Observe",
-          "title": "Frame the thesis as behaviors",
-          "body": "We work with the deal team to translate the investment thesis into the specific customer, employee and leadership behaviors it depends on. We then gather qualitative evidence through customer interviews, management conversations and, where access allows, observation of how the product and the sales process actually work, so the analysis starts from the assumptions that matter most to returns."
-        },
-        {
-          "phase": "Signal",
-          "title": "Read the data room for behavior",
-          "body": "We analyze customer, transaction and operating data for behavioral signals: cohort and logo retention, expansion and contraction patterns, conversion points in the funnel, and adoption depth by segment. We compare what customers report with what they do, flag where untested assumptions are filling gaps, and summarize findings in terms the IC memo and LOI negotiation can use."
-        },
-        {
-          "phase": "Design",
-          "title": "Shape the 100-day plan",
-          "body": "Findings become a focused value creation agenda: the behavioral levers most likely to move retention, pricing realization and sales productivity, the leadership priorities that support them, and a short list of predictive KPIs for the board. We help operating partners and management agree on which hypotheses to test first and what evidence would change the plan."
-        },
-        {
-          "phase": "Test",
-          "title": "Pilot before scaling initiatives",
-          "body": "Rather than rolling out a pricing change, new sales process or customer success model across the business at once, we design controlled pilots and A/B tests that show whether the intervention changes behavior. This protects the hold-period timeline by surfacing what works early and avoiding broad initiatives that look sound in a deck but fail in practice."
-        },
-        {
-          "phase": "Scale",
-          "title": "Embed measurement and leadership",
-          "body": "We help portfolio leadership operationalize what was learned: board decks built around leading indicators, dashboards that operating partners can trust, and coaching for executives who must sustain new behaviors across their teams. Toward exit, the same evidence base supports a credible equity story about the durability of customer relationships and the strength of the organization."
-        }
-      ],
-      "deliverables": [
-        "Behavioral assumptions map of the investment thesis",
-        "Cohort, logo retention and expansion analysis",
-        "IC memo inputs on quality of revenue and risk",
-        "Prioritized 100-day value creation hypotheses",
-        "Predictive KPI set for board and operating partner reporting",
-        "Pilot and A/B test designs for key initiatives"
-      ],
-      "outcomes": [
-        "Investment committee decisions informed by behavioral evidence rather than management narrative alone",
-        "Clearer view of which value creation levers are supported by customer and operating data",
-        "Earlier warning on retention, adoption and execution risks during the hold period",
-        "A more credible exit story built on durable, measurable customer and team behaviors"
-      ],
-      "who_we_serve": "We support deal partners, principals and operating partners at lower middle market and middle market private equity firms, along with independent sponsors and family offices making direct investments. Typical moments include pre-LOI thesis testing, confirmatory diligence when exclusivity is tight, the first 100 days after close, a mid-hold reset when performance drifts from plan, and pre-exit preparation. We also work directly with portfolio company CEOs and executive teams who want an outside, evidence-based view of customer and organizational behavior.",
-      "impact_lens": "Private equity ownership shapes the daily experience of employees, the service customers receive and the health of the communities where portfolio companies operate. Our private equity advisory treats those stakeholders as part of the value creation case, not an afterthought. Plans that rely on understanding customers and supporting employees tend to be more durable than plans that rely on cost cutting alone. We help sponsors find growth that customers welcome and teams can sustain, and we measure people outcomes alongside financial ones.",
-      "faqs": [
-        {
-          "q": "How is this different from traditional commercial due diligence?",
-          "a": "Traditional commercial diligence typically sizes the market, reviews competitive position and runs a customer survey. We add a behavioral lens: analyzing what customers actually do in transaction and product data, comparing it with what they say, and identifying the specific behaviors the investment thesis depends on. The two approaches are complementary, and we often work alongside existing advisors to fill the gaps their scope does not cover."
-        },
-        {
-          "q": "Can you work within a tight exclusivity window?",
-          "a": "Yes. We scope work to the questions that matter most for the IC decision and the time available. In a compressed process, that may mean focusing on cohort retention and a small set of customer interviews rather than a full journey analysis. We are explicit about what the evidence can and cannot support, so the deal team knows where confidence is warranted and where risk remains."
-        },
-        {
-          "q": "Do you work with operating partners after close?",
-          "a": "Frequently. Many engagements begin in diligence and continue into the first 100 days, when findings become a value creation plan. We work alongside operating partners and portfolio leadership to design pilots, define predictive KPIs for board reporting and coach executives through the behavioral changes the plan requires. The aim is to build capability inside the portfolio company, not dependence on outside advisors."
-        },
-        {
-          "q": "What data do you need from the target company?",
-          "a": "It varies by business model, but useful sources include customer-level transaction or billing history, CRM opportunity data, product usage logs, support tickets and any existing survey results. We work with whatever is available in the data room and are comfortable with messy, unintegrated datasets. Where data is thin, we rely more heavily on structured interviews and say clearly how that limits the conclusions."
-        }
-      ],
-      "related_services": [
-        "commercial-due-diligence",
-        "management-team-assessment",
-        "portfolio-value-creation",
-        "post-acquisition-integration"
-      ],
-      "related_industries": [
-        "private-equity-portfolio-companies",
-        "technology-saas",
-        "professional-services"
-      ],
-      "related_insights": [
-        "cost-of-untested-assumptions",
-        "predictive-kpis-vs-vanity-metrics"
-      ]
+     "phase": "Observe",
+     "title": "Frame the thesis as behaviors",
+     "body": "We work with the deal team to translate the investment thesis into the specific customer, employee and leadership behaviors it depends on. We then gather qualitative evidence through customer interviews, management conversations and, where access allows, observation of how the product and the sales process actually work, so the analysis starts from the assumptions that matter most to returns."
     },
     {
-      "slug": "venture-capital-advisory",
-      "practice": "investor-venture-advisory",
-      "name": "Venture Capital & Startup Advisory",
-      "meta_title": "Venture Capital & Startup Advisory | Behavioral Science",
-      "meta_description": "Venture capital and startup advisory that reads early behavioral signals, sets milestones between rounds, and helps founders scale from Series A to C.",
-      "primary_keyword": "venture capital advisory",
-      "summary": "Help for venture investors and founders to read early traction honestly, set milestones that matter between rounds, and scale without losing what works.",
-      "lede": "Our venture capital advisory helps investors and founders separate real traction from noise, reading the behavioral signals in early usage and revenue data to set milestones between rounds and build companies that scale on evidence.",
-      "challenge": [
-        "Early-stage investing runs on thin data. A seed or Series A company may have a few dozen customers, a few months of usage history and a founder who is persuasive by necessity. Investors look for product-market fit, but the indicators they rely on, such as top-line growth, logo announcements and pilot counts, can be driven by founder hustle rather than genuine pull. The question that matters is behavioral: are users coming back on their own, adopting the product more deeply over time and pulling colleagues in, or is growth being pushed uphill?",
-        "Founders face the mirror image of this problem. Between rounds they must choose which milestones to chase, and the metrics that impress in a pitch are not always the ones that predict a durable business. As the company moves from Series A to Series C, early habits in hiring, product and sales start to break, and the founding team must lead an organization it has never run before. Venture capital advisory grounded in behavioral science gives both sides a shared, honest language for traction, risk and readiness to scale."
-      ],
-      "approach": [
-        {
-          "phase": "Observe",
-          "title": "Understand the user and the founder",
-          "body": "We start with qualitative research: interviews with active, lapsed and prospective users, a close look at onboarding and first-use experience, and structured conversations with the founding team about how decisions get made. This grounds the analysis in how the product actually fits into users' lives and work, and how the company actually operates."
-        },
-        {
-          "phase": "Signal",
-          "title": "Separate pull from push",
-          "body": "We analyze early usage and revenue data for signals of genuine product-market fit: activation rates by cohort, the shape of retention curves, depth of engagement over time, and organic expansion within accounts. Even small datasets reveal whether a few behavioral moments predict long-term use, and whether growth depends on those moments or on founder effort that will not scale."
-        },
-        {
-          "phase": "Design",
-          "title": "Set milestones that predict value",
-          "body": "With investors and founders together, we define the handful of milestones that should guide the period before the next round: predictive behavioral KPIs rather than vanity metrics, paired with product, onboarding and go-to-market changes most likely to move them. This gives the board and the founding team a shared definition of progress."
-        },
-        {
-          "phase": "Test",
-          "title": "Run fast, disciplined experiments",
-          "body": "Startups experiment constantly but often without the design to learn from it. We help teams structure A/B tests and pilots with clear hypotheses, adequate samples for their stage and honest readouts. The goal is a faster cycle of learning that conserves runway and produces evidence a next-round investor will find credible."
-        },
-        {
-          "phase": "Scale",
-          "title": "Build the company that comes next",
-          "body": "As the company grows, we support the founder and leadership team through the transition from founder-led selling and product decisions to a scalable organization. That includes coaching, team design, board reporting that tracks leading indicators, and the habits of measurement that let a Series B or C company keep learning as quickly as it did at seed."
-        }
-      ],
-      "deliverables": [
-        "Product-market fit evidence review based on behavioral data",
-        "Cohort activation and retention curve analysis",
-        "Milestone plan with predictive KPIs between rounds",
-        "Experiment roadmap with hypotheses and success criteria",
-        "Board reporting template built around leading indicators",
-        "Founder and leadership team scaling assessment"
-      ],
-      "outcomes": [
-        "Investment decisions grounded in observed user behavior rather than pitch narrative",
-        "Founders and boards aligned on milestones that predict durable value",
-        "Faster, more disciplined learning cycles that make better use of runway",
-        "Leadership teams prepared for the organizational demands of each new stage"
-      ],
-      "who_we_serve": "We work with partners and platform teams at seed and growth-stage venture capital firms, corporate venture arms, angel syndicates and family offices investing directly in startups. We also work with founders and CEOs of venture-backed companies, often at the request of their investors. Common trigger moments include evaluating a Series A or B opportunity, setting post-investment milestones, preparing for the next raise, a stall in growth between rounds, and the Series A to C scaling period when founder-led habits begin to strain.",
-      "impact_lens": "Startups that grow on genuine user value tend to treat customers better and build healthier cultures than startups that grow by pushing metrics. Our venture capital advisory favors products that help people do what they already want to do, and we are cautious about growth tactics that exploit attention or erode trust. We also pay attention to the people building the company: sustainable founder workloads, psychological safety on small teams, and organizations that stay humane as they scale.",
-      "faqs": [
-        {
-          "q": "Is early-stage data really enough to analyze?",
-          "a": "Often it is more informative than people expect. Even a modest number of users can show whether retention curves flatten or keep declining, whether specific onboarding moments predict long-term use, and whether engagement deepens over time. We are careful about the limits of small samples, combine data with qualitative research, and present findings as evidence that sharpens judgment rather than replaces it."
-        },
-        {
-          "q": "Do you work for the investor or the founder?",
-          "a": "Both, depending on the engagement, and we are always clear about who the client is. Investors engage us for diligence and post-investment support. Founders engage us directly, or at an investor's suggestion, for milestone planning, experimentation and coaching. When investors sponsor founder support, we agree in advance what will be shared so that trust on both sides is protected."
-        },
-        {
-          "q": "What makes your startup advice different from other advisors?",
-          "a": "The firm has founder experience, including building and grant-funding startups, managing distributed product teams and running product, sales and partnerships. We pair that operating perspective with behavioral science and research methods, so recommendations are both practical for a resource-constrained team and grounded in evidence about how users and teams actually behave."
-        },
-        {
-          "q": "Can you help prepare for a fundraise?",
-          "a": "Yes. We help founders build a traction story grounded in behavioral evidence: cohort retention, activation, engagement depth and the leading indicators that predict revenue. Investors increasingly look past top-line growth to these signals. Presenting them honestly, including what is not yet proven and how the next round will test it, tends to build more credibility than a polished narrative alone."
-        }
-      ],
-      "related_services": [
-        "founder-ceo-coaching",
-        "commercial-due-diligence",
-        "impact-investing-advisory"
-      ],
-      "related_industries": [
-        "venture-backed-startups",
-        "technology-saas",
-        "digital-health"
-      ],
-      "related_insights": [
-        "predictive-kpis-vs-vanity-metrics",
-        "habit-formation"
-      ]
+     "phase": "Signal",
+     "title": "Read the data room for behavior",
+     "body": "We analyze customer, transaction and operating data for behavioral signals: cohort and logo retention, expansion and contraction patterns, conversion points in the funnel, and adoption depth by segment. We compare what customers report with what they do, flag where untested assumptions are filling gaps, and summarize findings in terms the IC memo and LOI negotiation can use."
     },
     {
-      "slug": "commercial-due-diligence",
-      "practice": "investor-venture-advisory",
-      "name": "Customer & Commercial Due Diligence",
-      "meta_title": "Commercial Due Diligence: Customer Behavior Analysis",
-      "meta_description": "Commercial due diligence that reads customer behavior: cohort retention, conversion points, adoption depth and the gap between stated and revealed preference.",
-      "primary_keyword": "commercial due diligence",
-      "summary": "Customer diligence that reads what buyers actually do: retention by cohort, conversion points, adoption depth and the gap between stated and revealed behavior.",
-      "lede": "Our commercial due diligence examines the customer behavior beneath the revenue line, analyzing retention, conversion and adoption data alongside structured interviews so investors understand how durable a target's growth really is.",
-      "challenge": [
-        "Most commercial due diligence answers market questions well: how large the opportunity is, how fast it is growing and how the target is positioned against competitors. It is less reliable on customer questions. A survey of current customers may report high satisfaction while usage data shows engagement quietly declining. Reference calls tend to reach the happiest accounts. Revenue that looks recurring may depend on a few large customers, a renewal cycle that has not yet been tested, or contracts that are signed but barely used.",
-        "These are questions about quality of revenue, and they are fundamentally behavioral. Customers reveal their real intentions in what they do: how quickly they adopt, which features they rely on, whether usage spreads across their organization, and how they respond to price changes. When diligence relies on stated preferences instead of revealed behavior, investors can pay for growth that will not persist. Commercial due diligence built on behavioral data gives the deal team a sharper view of retention risk, expansion potential and the assumptions in the model that the evidence does not support."
-      ],
-      "approach": [
-        {
-          "phase": "Observe",
-          "title": "Hear from the right customers",
-          "body": "We design and conduct structured customer interviews that reach beyond the reference list, including recent wins, lapsed accounts and lost prospects where possible. Interview guides are built with research methods that reduce bias and probe for real decision drivers, switching costs and unmet needs, rather than asking customers to rate their satisfaction."
-        },
-        {
-          "phase": "Signal",
-          "title": "Analyze retention and adoption",
-          "body": "We analyze customer-level revenue and usage data for cohort and logo retention, expansion and contraction behavior, concentration, and adoption depth by segment. We identify the conversion points that predict whether an account grows or churns, and define behavioral types of customers. Net revenue retention is examined qualitatively by cohort to show what is driving it, not just its headline level."
-        },
-        {
-          "phase": "Design",
-          "title": "Reconcile said and done",
-          "body": "We compare what customers report in interviews and surveys with what they do in the data. Where the two diverge, we explain why and what it means for the investment thesis. The output is a clear, prioritized view of which growth assumptions in the model are well supported, which are uncertain, and which warrant price or structural protection."
-        },
-        {
-          "phase": "Test",
-          "title": "Stress-test the revenue model",
-          "body": "We translate behavioral findings into scenarios the deal team can use: retention assumptions by cohort, plausible ranges for expansion, and the sensitivity of the plan to changes in key customer behaviors. Where a hypothesis can be checked quickly, for example through a targeted data cut or additional interviews, we test it before the IC meeting."
-        },
-        {
-          "phase": "Scale",
-          "title": "Carry findings past close",
-          "body": "Diligence findings should not end at signing. We convert them into a baseline of predictive customer KPIs and a list of retention and expansion hypotheses for the 100-day plan, so operating partners and management start the hold period with an evidence base and a shared understanding of where customer risk lies."
-        }
-      ],
-      "deliverables": [
-        "Commercial due diligence report focused on customer behavior",
-        "Cohort and logo retention analysis with segment views",
-        "Structured customer interview program and synthesis",
-        "Stated versus revealed behavior reconciliation",
-        "Quality of revenue risk register for the IC memo",
-        "Baseline customer KPIs for the 100-day plan"
-      ],
-      "outcomes": [
-        "Clearer understanding of how durable and diversified the target's revenue really is",
-        "Specific retention and expansion risks identified before price and terms are final",
-        "IC memos that distinguish supported growth assumptions from optimistic ones",
-        "A ready-made customer evidence base for the value creation plan after close"
-      ],
-      "who_we_serve": "We support private equity deal teams, growth equity investors, venture capital firms leading later rounds, family offices and corporate development teams evaluating acquisitions. Engagements most often occur pre-LOI, when a quick behavioral read can shape price and structure, and during confirmatory diligence, when deeper analysis of the data room and customer interviews can confirm or challenge the thesis. We also conduct sell-side customer analysis for companies preparing for a sale or recapitalization.",
-      "impact_lens": "Understanding customers deeply is good for returns and good for customers. When diligence shows where a product falls short of what customers need, the resulting value creation plan can focus on improving the product and service rather than extracting more from the same accounts. Our commercial due diligence highlights where customer trust is strong and where it is fragile, helping investors back businesses that earn loyalty rather than depend on lock-in or friction.",
-      "faqs": [
-        {
-          "q": "What is the difference between stated and revealed customer behavior?",
-          "a": "Stated behavior is what customers tell you: satisfaction scores, intent to renew, interview responses. Revealed behavior is what they actually do: usage, renewal, expansion, support contacts. The two often diverge, and the gap is informative. A customer who reports high satisfaction while usage declines is a retention risk. We analyze both and explain the differences so investors are not relying on stated preference alone."
-        },
-        {
-          "q": "How do you evaluate net revenue retention?",
-          "a": "We look beyond the headline figure to how it is composed. Strong overall retention can mask weak cohorts offset by a few large expansions, or recent cohorts that behave differently from older ones. We break retention down by cohort, segment, product and customer size, and connect patterns to behavioral drivers such as onboarding quality and adoption depth, so the deal team understands whether the pattern is likely to persist."
-        },
-        {
-          "q": "Can you work alongside our existing diligence advisors?",
-          "a": "Yes. We frequently complement market-focused commercial diligence, quality of earnings and technology diligence providers. Our scope focuses on customer behavior and the human assumptions in the thesis, which are often under-covered. We coordinate with other advisors to avoid duplicated interviews and data requests, and to make sure findings from each workstream inform the others."
-        },
-        {
-          "q": "What if the target's data is messy or incomplete?",
-          "a": "It usually is. Customer data in growing companies is often spread across billing, CRM and product systems that were never integrated. We are experienced at reconciling unintegrated datasets and at stating clearly what can and cannot be concluded from them. Where gaps remain, we use structured interviews to fill them and flag the remaining uncertainty for the deal team."
-        }
-      ],
-      "related_services": [
-        "private-equity-advisory",
-        "management-team-assessment",
-        "venture-capital-advisory"
-      ],
-      "related_industries": [
-        "private-equity-portfolio-companies",
-        "technology-saas",
-        "retail-consumer"
-      ],
-      "related_insights": [
-        "conversion-points-customer-journey",
-        "behavioral-vs-demographic-segmentation"
-      ]
+     "phase": "Design",
+     "title": "Shape the 100-day plan",
+     "body": "Findings become a focused value creation agenda: the behavioral levers most likely to move retention, pricing realization and sales productivity, the leadership priorities that support them, and a short list of predictive KPIs for the board. We help operating partners and management agree on which hypotheses to test first and what evidence would change the plan."
     },
     {
-      "slug": "management-team-assessment",
-      "practice": "investor-venture-advisory",
-      "name": "Management Team Assessment",
-      "meta_title": "Management Team Assessment for Investors",
-      "meta_description": "Management team assessment for investors using research-grade methods: evaluate leadership, key-person risk and readiness for the plan before and after close.",
-      "primary_keyword": "management team assessment",
-      "summary": "Research-grade evaluation of leadership teams for investors: capabilities, key-person risk, team dynamics and readiness to execute the plan ahead.",
-      "lede": "Our management team assessment gives investors a rigorous, evidence-based view of the leaders they are backing, using structured interviews, validated instruments and behavioral observation to evaluate capability, key-person risk and readiness to execute.",
-      "challenge": [
-        "Investors routinely say they back people as much as businesses, yet management evaluation is often the least structured part of diligence. Impressions form during polished management presentations and a few dinners. Reference checks reach colleagues chosen by the executive. Background checks confirm credentials but say little about how a leader makes decisions under pressure, develops a team or adapts when the plan changes. These gaps matter most in exactly the situations where investors depend on management: aggressive growth plans, founder transitions and operational turnarounds.",
-        "Teams also matter as systems, not just as collections of individuals. A strong CEO may be surrounded by a leadership team that defers rather than challenges. A capable CFO may be one departure away from leaving the business without institutional knowledge. Key-person risk, succession gaps and team dynamics affect value as directly as customer churn. A management team assessment grounded in psychometrics and behavioral research gives deal teams and boards an evidence base for decisions about leadership, retention arrangements and support, rather than relying on instinct alone."
-      ],
-      "approach": [
-        {
-          "phase": "Observe",
-          "title": "Structured interviews and observation",
-          "body": "We conduct structured, competency-based interviews with the CEO and key executives, focused on past behavior in situations relevant to the investment plan. Where possible, we observe the team working together, for example in a planning session or operating review, to see how decisions are actually made, how conflict is handled and who carries influence."
-        },
-        {
-          "phase": "Signal",
-          "title": "Validated measures and team data",
-          "body": "We use validated psychometric instruments and structured multi-rater input to assess leadership style, decision-making and team dynamics. Where available, we also review people data such as tenure, turnover by manager and engagement results to identify signals of leadership effectiveness and key-person dependence across the organization."
-        },
-        {
-          "phase": "Design",
-          "title": "Map capability to the plan",
-          "body": "Findings are mapped against what the investment plan will require of each leader and of the team as a whole. We identify strengths to build on, capability gaps, succession and key-person risks, and the specific leadership behaviors most important to the first 100 days. Recommendations cover coaching, hiring, role changes and retention arrangements."
-        },
-        {
-          "phase": "Test",
-          "title": "Validate with evidence over time",
-          "body": "Assessment is a hypothesis about how leaders will perform. After close, we help boards and operating partners track a small set of leadership indicators and observe performance against the plan, so early concerns can be addressed through support rather than discovered through missed results months later."
-        },
-        {
-          "phase": "Scale",
-          "title": "Develop the team that will deliver",
-          "body": "We turn assessment into practical development for each leader: individual executive coaching, team coaching focused on decision-making and accountability, and succession plans that reduce key-person risk. This builds a leadership team capable of executing the value creation plan and of running the business well through exit and beyond."
-        }
-      ],
-      "deliverables": [
-        "Individual executive profiles mapped to plan requirements",
-        "Leadership team dynamics and decision-making assessment",
-        "Key-person and succession risk analysis",
-        "Retention arrangement and incentive considerations",
-        "First 100 days leadership development priorities",
-        "Board-ready summary for the investment committee"
-      ],
-      "outcomes": [
-        "Investment decisions informed by structured evidence about the people executing the plan",
-        "Key-person and succession risks identified and addressed before they affect performance",
-        "Clearer targeting of coaching, hiring and retention investment in leadership",
-        "Leadership teams better prepared for the specific demands of the value creation plan"
-      ],
-      "who_we_serve": "We work with private equity deal partners and operating partners, venture capital investors leading significant rounds, family offices and boards of portfolio companies. Assessments are typically commissioned during confirmatory diligence, in the first 100 days after close, before a founder transition or CEO succession, ahead of a major acquisition or integration, or when performance diverges from plan and the board needs an objective view of leadership capacity. We also assess leadership teams at companies preparing for a sale.",
-      "impact_lens": "Leadership quality shapes the working lives of every employee in a company. A management team assessment conducted with care and transparency can be developmental for the executives involved, not only evaluative. We hold to professional standards in psychometric testing, protect participant confidentiality appropriately and give leaders useful feedback. Better leadership produces better places to work, more thoughtful treatment of customers and stronger relationships with the communities where companies operate.",
-      "faqs": [
-        {
-          "q": "How does this differ from executive search firm assessments?",
-          "a": "Search firm assessments are usually designed to compare candidates for a role. Our management team assessment evaluates an existing team against the specific requirements of an investment plan, with attention to team dynamics, key-person risk and development needs. We use research-grade methods from psychometrics and behavioral science, and we connect findings directly to coaching and value creation after close."
-        },
-        {
-          "q": "Will management teams feel threatened by the assessment?",
-          "a": "Some initial caution is normal. We explain the purpose clearly, share how findings will be used and give each executive meaningful feedback. Many leaders find the process valuable, particularly when it leads to coaching and development support. Handled well, the assessment builds trust between management and new owners rather than eroding it."
-        },
-        {
-          "q": "Can you assess a founder-led company preparing for professional management?",
-          "a": "Yes, and this is one of the most important uses of the service. Founder transitions carry significant key-person risk and emotional weight. We assess the founder's strengths and the roles where they add the most value, the readiness of the broader team, and the gaps a new leader or new hires must fill, then help design a transition that preserves what made the company successful."
-        },
-        {
-          "q": "How long does a management team assessment take?",
-          "a": "Scope depends on the size of the team and the timeline of the deal. A focused assessment of a CEO and a few direct reports can fit within a confirmatory diligence period. A broader assessment of the full leadership team, including team observation and multi-rater input, is often conducted in the first 100 days after close, when access is easier."
-        }
-      ],
-      "related_services": [
-        "private-equity-advisory",
-        "founder-ceo-coaching",
-        "post-acquisition-integration"
-      ],
-      "related_industries": [
-        "private-equity-portfolio-companies",
-        "professional-services",
-        "venture-backed-startups"
-      ],
-      "related_insights": [
-        "psychometrics-for-business-surveys",
-        "how-leaders-decide-under-pressure"
-      ]
+     "phase": "Test",
+     "title": "Pilot before scaling initiatives",
+     "body": "Rather than rolling out a pricing change, new sales process or customer success model across the business at once, we design controlled pilots and A/B tests that show whether the intervention changes behavior. This protects the hold-period timeline by surfacing what works early and avoiding broad initiatives that look sound in a deck but fail in practice."
     },
     {
-      "slug": "portfolio-value-creation",
-      "practice": "investor-venture-advisory",
-      "name": "Portfolio Value Creation",
-      "meta_title": "Portfolio Value Creation with Predictive KPIs",
-      "meta_description": "Portfolio value creation through behavioral science: predictive KPIs for board and LP reporting, and tested initiatives that grow retention and revenue.",
-      "primary_keyword": "portfolio value creation",
-      "summary": "Predictive KPIs, tested initiatives and leadership support that help portfolio companies grow retention, revenue and capability across the hold period.",
-      "lede": "Our portfolio value creation work helps sponsors and portfolio leadership move from lagging financials to predictive behavioral KPIs, test growth initiatives before scaling them, and build the capability to sustain results through exit.",
-      "challenge": [
-        "Portfolio monitoring tends to look backward. Monthly board decks report revenue, EBITDA and pipeline, all of which describe what has already happened. By the time a retention problem or a stalled sales initiative appears in the financials, the behaviors that caused it have been in motion for months. Operating partners spread across several portfolio companies need earlier signals, but the metrics companies track are often chosen for convenience rather than predictive value, and they vary so much across the portfolio that comparison is difficult.",
-        "Value creation initiatives face a related problem. Pricing changes, new sales motions, customer success programs and digital transformations are typically rolled out broadly on the strength of a compelling plan. Few are tested. When results disappoint, it is hard to tell whether the idea was wrong, the execution was weak or the measurement was misleading. Portfolio value creation grounded in behavioral science addresses both issues: it identifies the behaviors that lead financial results, measures them consistently, and tests initiatives before committing the hold period to them."
-      ],
-      "approach": [
-        {
-          "phase": "Observe",
-          "title": "Map the journeys that drive value",
-          "body": "We map the customer and employee journeys most connected to the value creation plan, using interviews, process observation and review of existing systems. This shows where value is won or lost: the onboarding steps where customers stall, the handoffs where sales and service break down, the decisions that frontline teams make without good information."
-        },
-        {
-          "phase": "Signal",
-          "title": "Build predictive KPIs",
-          "body": "Using our Behavioral Signals Design methodology, we analyze operating data across often unintegrated systems to identify the conversion points and behavioral types that predict revenue, retention and margin. We then define a small set of predictive KPIs for each portfolio company, with consistent definitions that support comparison and LP reporting across the portfolio."
-        },
-        {
-          "phase": "Design",
-          "title": "Design targeted interventions",
-          "body": "For each priority KPI, we design interventions using behavioral design, experience design and service design: changes to onboarding, pricing presentation, sales process, customer communications or manager routines. Each intervention is framed as a testable hypothesis with a clear expected effect on the behaviors that lead financial results."
-        },
-        {
-          "phase": "Test",
-          "title": "Test before rolling out",
-          "body": "Where volume allows, we run A/B tests and controlled pilots to confirm which interventions change behavior before they are scaled across the business. This conserves management attention, protects the hold-period timeline and produces evidence that strengthens board confidence and, eventually, the equity story presented to buyers."
-        },
-        {
-          "phase": "Scale",
-          "title": "Dashboards, routines and coaching",
-          "body": "Successful interventions are implemented with dashboards that portfolio leadership and operating partners can rely on, operating routines that keep attention on leading indicators, and coaching for executives and managers who must sustain new behaviors. The aim is lasting capability inside the portfolio company, ready to be demonstrated at exit."
-        }
-      ],
-      "deliverables": [
-        "Predictive KPI framework for each portfolio company",
-        "Portfolio-level monitoring dashboard with consistent definitions",
-        "Board deck and LP reporting templates with leading indicators",
-        "Prioritized intervention backlog framed as testable hypotheses",
-        "A/B test and pilot designs with readout plans",
-        "Leadership coaching and operating cadence recommendations"
-      ],
-      "outcomes": [
-        "Earlier visibility into retention, conversion and execution issues across the portfolio",
-        "Value creation initiatives scaled on evidence rather than on the strength of a plan",
-        "More consistent, credible board and LP reporting grounded in leading indicators",
-        "Portfolio companies with lasting measurement and experimentation capability ahead of exit"
-      ],
-      "who_we_serve": "We support operating partners, portfolio operations teams and value creation leads at private equity firms, growth equity investors and family offices with controlling stakes. We also work directly with portfolio company CEOs, CFOs, chief revenue officers and chief customer officers. Common moments include the first 100 days, a mid-hold reset when the plan is off track, standardizing KPIs and LP reporting across a portfolio, scaling a growth initiative that worked in one company, and building a credible performance record ahead of exit.",
-      "impact_lens": "Value created by understanding and serving people better tends to last longer than value created by squeezing them. Our portfolio value creation work favors interventions that make products easier to adopt, services more responsive and jobs more manageable. We measure employee and customer outcomes alongside financial ones and steer away from tactics that rely on hidden friction or manipulative design. Companies built this way are more resilient and more attractive to the next owner.",
-      "faqs": [
-        {
-          "q": "What makes a KPI predictive rather than descriptive?",
-          "a": "A descriptive KPI reports what happened, such as last quarter's revenue. A predictive KPI measures a behavior that reliably precedes an outcome, such as how many new customers complete a key onboarding step in their first weeks. Predictive KPIs give leaders time to act. We identify them by analyzing which early behaviors actually separate customers who grow from those who churn."
-        },
-        {
-          "q": "Can you standardize metrics across a diverse portfolio?",
-          "a": "Within limits, yes. Different business models need different specific KPIs, but most can be organized into a common structure covering acquisition, activation, retention, expansion and team health. We define consistent principles and reporting formats so operating partners and LPs can compare performance across the portfolio while each company tracks the behaviors that matter most for its model."
-        },
-        {
-          "q": "Is A/B testing practical in a mid-market business?",
-          "a": "Usually, though it may look different from testing in a large consumer technology company. Many mid-market tests are pilots across regions, sales teams or customer segments, with careful comparison to a control group. We design tests appropriate to the volume and structure of each business and are clear about how much confidence a given design can support."
-        },
-        {
-          "q": "How do you work with our operating partners?",
-          "a": "We complement operating partners rather than replace them. They bring sector and functional expertise and relationships with management. We bring behavioral science, research methods and experimentation design. Typically we work alongside an operating partner on a defined set of priorities in one or more portfolio companies, transferring methods and tools so the operating team can continue the work independently."
-        }
-      ],
-      "related_services": [
-        "private-equity-advisory",
-        "post-acquisition-integration",
-        "management-team-assessment",
-        "commercial-due-diligence"
-      ],
-      "related_industries": [
-        "private-equity-portfolio-companies",
-        "technology-saas",
-        "banking-financial-services"
-      ],
-      "related_insights": [
-        "leading-and-lagging-indicators",
-        "what-is-behavioral-signals-design"
-      ]
-    },
-    {
-      "slug": "founder-ceo-coaching",
-      "practice": "investor-venture-advisory",
-      "name": "Founder & CEO Coaching",
-      "meta_title": "Founder & CEO Coaching for Venture-Backed Leaders",
-      "meta_description": "Founder and CEO coaching for venture and PE-backed leaders: build the team, the board relationship and the judgment needed to lead the company through scale.",
-      "primary_keyword": "founder and CEO coaching",
-      "summary": "Coaching for founders and CEOs of investor-backed companies, grounded in behavioral science and real operating experience, to lead well through scale.",
-      "lede": "Our founder and CEO coaching helps leaders of investor-backed companies grow into the role their company now requires, building judgment, leadership teams and board relationships through the transitions that come with scale.",
-      "challenge": [
-        "The skills that make a founder successful at the start are not the skills the company needs at every later stage. Early on, founders win through speed, conviction and personal involvement in every decision. As the company grows from a small team to a scaling organization, those same habits can become bottlenecks: decisions queue up behind the founder, senior hires struggle to find their footing and the culture begins to depend on one person's energy. Founders often recognize the problem before they know what to do about it, and the people around them may be reluctant to say it plainly.",
-        "CEOs of private equity portfolio companies face a different version of the same pressure. They must deliver an aggressive plan on a fixed timeline, manage a board with sharp expectations and lead teams through change, often while integrating acquisitions or replacing executives. Investors frequently see leadership as the main risk to a plan but have limited ways to help directly. Founder and CEO coaching grounded in behavioral science and operating experience offers a confidential space to build the self-awareness, skills and support systems that leading at scale demands."
-      ],
-      "approach": [
-        {
-          "phase": "Observe",
-          "title": "Understand the leader in context",
-          "body": "Coaching begins with understanding the leader, the company and the stage it is in. We conduct confidential interviews with the leader and, with their agreement, with co-founders, executives and board members. Where possible we observe leadership meetings and board sessions to see how the leader actually shows up, not only how they describe themselves."
-        },
-        {
-          "phase": "Signal",
-          "title": "Find the behaviors that matter most",
-          "body": "We use validated assessments and structured multi-rater feedback, alongside indicators such as decision latency, executive turnover and engagement data, to find the small number of leadership behaviors that most affect company performance. This keeps coaching focused on what matters at this stage rather than on generic leadership development."
-        },
-        {
-          "phase": "Design",
-          "title": "Build a focused coaching plan",
-          "body": "Together with the leader, we define a coaching plan with clear goals tied to company priorities: delegating to a new executive team, building a productive board relationship, preparing for a raise or exit, or navigating a founder transition. Each goal is translated into specific behaviors the leader will practice, with prompts built into existing routines."
-        },
-        {
-          "phase": "Test",
-          "title": "Practice, feedback and adjustment",
-          "body": "Leaders try new behaviors in real situations: a delegated decision, a difficult board conversation, a reorganized leadership meeting. We review what happened, gather feedback and adjust. Periodic check-ins with the leader's team and board, with consent, show whether changes are visible to others and making a difference to the company."
-        },
-        {
-          "phase": "Scale",
-          "title": "Extend to the leadership team",
-          "body": "Sustainable leadership at scale depends on a strong team, not a single person. As individual coaching progresses, we often extend the work to the executive team: clarifying roles and decision rights, building psychological safety and productive conflict, and establishing operating rhythms that let the company grow without routing every decision through the founder or CEO."
-        }
-      ],
-      "deliverables": [
-        "Confidential leadership assessment and stakeholder feedback synthesis",
-        "Individual coaching plan tied to company priorities",
-        "Regular one-to-one coaching sessions over a defined period",
-        "Board relationship and communication guidance",
-        "Leadership team role and decision rights clarification",
-        "Progress reviews with agreed stakeholder input"
-      ],
-      "outcomes": [
-        "Founders and CEOs who delegate effectively and make better decisions under pressure",
-        "Stronger, more cohesive leadership teams able to carry more of the load",
-        "More productive and trusting relationships between leaders and their boards",
-        "Smoother leadership transitions with less disruption to people and performance"
-      ],
-      "who_we_serve": "We coach founders and CEOs of venture-backed startups, typically from seed through Series C, and CEOs of private equity portfolio companies, including first-time CEOs and leaders who have recently stepped up from a functional role. Engagements are commissioned by the leader, the board or an investor. Common moments include rapid scaling from Series A to C, the first 100 days under new ownership, a founder transition to a new CEO or chair role, preparation for a major raise or exit, and periods of strain between leader and board.",
-      "impact_lens": "How a founder or CEO leads shapes the daily experience of everyone in the company and, increasingly, the customers and communities it serves. Our founder and CEO coaching pays attention to sustainable pace, ethical decision-making and the wellbeing of the leader as a person, not only as an asset. Leaders who are self-aware and supported build healthier cultures, retain good people and make choices that hold up to scrutiny as their companies grow in influence.",
-      "faqs": [
-        {
-          "q": "Is the coaching confidential if our investor pays for it?",
-          "a": "Yes. We agree on confidentiality boundaries with the leader and the sponsor before coaching begins. Typically the sponsor receives information about engagement and progress on agreed goals, but not the content of coaching conversations. This structure protects the trust that makes coaching work while giving investors confidence that their support is being used well."
-        },
-        {
-          "q": "How is this different from having an experienced mentor?",
-          "a": "Mentors share their own experience, which can be valuable. Coaching is more structured and more focused on the leader's own development. We draw on behavioral science, validated assessment and coaching methods, combined with founder and operating experience, including building and grant-funding startups and running product, sales and partnerships. Many leaders benefit from both a mentor and a coach."
-        },
-        {
-          "q": "Can you help with a founder transition?",
-          "a": "Yes. Founder transitions, whether to a chair role, a product or technical role, or out of the company, are among the most sensitive moments in a company's life. We help founders clarify what they want and where they add the most value, support the board in designing a fair process, and coach the incoming leader. Our goal is a transition that respects the founder and protects the company."
-        },
-        {
-          "q": "How long does founder and CEO coaching typically last?",
-          "a": "Most engagements run for several months, with sessions every week or two and periodic reviews with agreed stakeholders. The length depends on the goals and the stage of the company. Some leaders continue with lighter-touch support through major milestones such as a fundraise, acquisition or exit. We review progress regularly and end the engagement when goals are met."
-        }
-      ],
-      "related_services": [
-        "venture-capital-advisory",
-        "management-team-assessment",
-        "portfolio-value-creation"
-      ],
-      "related_industries": [
-        "venture-backed-startups",
-        "private-equity-portfolio-companies",
-        "technology-saas"
-      ],
-      "related_insights": [
-        "what-is-executive-coaching",
-        "teams-as-growth-engines"
-      ]
-    },
-    {
-      "slug": "impact-investing-advisory",
-      "practice": "investor-venture-advisory",
-      "name": "Impact Investing Advisory",
-      "meta_title": "Impact Investing Advisory & Impact Measurement",
-      "meta_description": "Impact investing advisory using behavioral science: impact diligence, IMP-aligned measurement, IRIS+ metrics and credible LP reporting on social outcomes.",
-      "primary_keyword": "impact investing advisory",
-      "summary": "Impact diligence, measurement frameworks and reporting that hold social outcomes to the same evidentiary standard as financial returns.",
-      "lede": "Our impact investing advisory helps funds, family offices and the companies they back define, measure and improve real social outcomes, using behavioral science to show whether products and services actually change the lives they are meant to.",
-      "challenge": [
-        "Impact investors face a measurement problem that financial investors largely do not. Revenue and margin are well defined and audited. Social outcomes are not. Many impact reports rely on outputs, such as products sold, users reached or programs delivered, because those are easy to count. But reaching people is not the same as changing their circumstances. A digital health tool may be downloaded widely and used rarely. A financial inclusion product may expand access while leaving underlying behaviors unchanged. Without outcome evidence, impact claims are hard to verify and easy to overstate.",
-        "Frameworks help but do not solve the problem on their own. The Impact Management Project's five dimensions of impact and the IRIS+ catalog of metrics give investors a common structure for describing what, who, how much, contribution and risk. Applying them well requires research design: knowing which behaviors lead to the intended outcome, how to measure them reliably and how to separate a company's contribution from what would have happened anyway. Impact investing advisory grounded in behavioral science brings that rigor to diligence, monitoring and LP reporting."
-      ],
-      "approach": [
-        {
-          "phase": "Observe",
-          "title": "Understand the people served",
-          "body": "We begin with the people a company intends to benefit, using interviews, contextual inquiry and journey mapping to understand their circumstances, needs and the barriers they face. This grounds the theory of change in real experience and often reveals gaps between how a product is designed to help and how it is actually used."
-        },
-        {
-          "phase": "Signal",
-          "title": "Find the behaviors that create impact",
-          "body": "We analyze product, program and outcome data to identify the behaviors that lead to meaningful social results: sustained engagement, completion, adherence or changed financial habits. These become predictive impact KPIs, connected to the IMP five dimensions and, where appropriate, to IRIS+ metrics, so they can be compared and reported consistently."
-        },
-        {
-          "phase": "Design",
-          "title": "Build the measurement framework",
-          "body": "We design an impact measurement framework that fits the fund's thesis and each company's model: a clear theory of change, outcome and behavior indicators, data collection methods that do not overburden companies, and an honest approach to contribution and impact risk. Where impact can be improved, we also design product and service changes to strengthen it."
-        },
-        {
-          "phase": "Test",
-          "title": "Evaluate what works",
-          "body": "We design evaluations proportionate to the stage and resources of each company, from simple pre and post comparisons to pilots with comparison groups. Where companies are testing product changes, we help them include impact outcomes alongside commercial metrics, so they learn which features improve both returns and social results."
-        },
-        {
-          "phase": "Scale",
-          "title": "Report credibly to LPs",
-          "body": "We help funds turn portfolio data into impact reporting that LPs can trust: consistent metrics, clear distinction between outputs and outcomes, and candid discussion of limitations. We also build capability in portfolio companies so impact measurement becomes part of how they run the business, not a separate annual exercise."
-        }
-      ],
-      "deliverables": [
-        "Impact diligence assessment for prospective investments",
-        "Theory of change and impact thesis articulation",
-        "IMP five dimensions mapping for each portfolio company",
-        "Impact KPI framework referencing IRIS+ metrics where relevant",
-        "Evaluation designs for priority outcome questions",
-        "LP impact report structure and portfolio data templates"
-      ],
-      "outcomes": [
-        "Impact claims backed by outcome evidence rather than activity counts alone",
-        "Portfolio companies that understand which behaviors drive both returns and social results",
-        "More credible, consistent impact reporting to LPs and other stakeholders",
-        "Clearer investment decisions about where capital can create meaningful social change"
-      ],
-      "who_we_serve": "We work with impact funds, family offices with impact mandates, foundations making program-related and mission-related investments, development finance teams and mainstream private equity and venture firms building impact or ESG strategies. We also support mission-driven founders in health, education, financial inclusion and community services. Typical moments include developing an impact thesis, pre-investment impact diligence, the first 100 days of setting measurement expectations, preparing annual LP impact reports and planning an exit that preserves the mission.",
-      "impact_lens": "This service exists because social good deserves the same rigor as financial return. Our impact investing advisory helps capital reach outcomes that matter to people: better health, more accessible education, greater financial security and stronger communities. We are careful about impact claims, because overstated impact damages trust in the whole field. And we apply behavioral science ethically, helping people do what they already want to do rather than steering them toward outcomes they did not choose.",
-      "faqs": [
-        {
-          "q": "What are the IMP five dimensions of impact?",
-          "a": "The Impact Management Project framework describes impact through five dimensions: what outcome occurs, who experiences it, how much change happens, the contribution of the enterprise relative to what would have happened otherwise, and the risk that impact differs from expectations. It provides a shared language used widely by impact investors. We use it to structure measurement and reporting, supplemented by behavioral research on how outcomes come about."
-        },
-        {
-          "q": "How do you use IRIS+ in measurement frameworks?",
-          "a": "IRIS+ is a widely used catalog of impact metrics and core metric sets organized by theme. We reference it to select standardized indicators where they fit, which supports comparability and LP reporting. We supplement standardized metrics with company-specific behavioral indicators when those better predict the outcomes that matter, and we explain how the two relate."
-        },
-        {
-          "q": "Can small portfolio companies realistically measure impact?",
-          "a": "Yes, if the framework is proportionate. Early-stage companies cannot run large evaluations, but most can track a few behavioral indicators that lead to outcomes and collect simple outcome data from a sample of the people they serve. We design measurement that fits company resources and grows in rigor as the company scales, rather than imposing a burden that distracts from the business."
-        },
-        {
-          "q": "Do you help mainstream funds that are not impact funds?",
-          "a": "Yes. Many private equity and venture firms want to understand the social effects of their portfolio companies, respond to LP questions or develop a responsible growth approach. We help them identify where portfolio companies affect employees, customers and communities, select practical indicators and integrate them into existing value creation and reporting processes without building a separate impact apparatus."
-        }
-      ],
-      "related_services": [
-        "venture-capital-advisory",
-        "portfolio-value-creation",
-        "commercial-due-diligence"
-      ],
-      "related_industries": [
-        "digital-health",
-        "healthcare-health-systems",
-        "venture-backed-startups"
-      ],
-      "related_insights": [
-        "research-to-practice-gap",
-        "ethics-of-persuasive-technology"
-      ]
-    },
-    {
-      "slug": "post-acquisition-integration",
-      "practice": "investor-venture-advisory",
-      "name": "Post-Acquisition Integration",
-      "meta_title": "Post-Acquisition Integration: People & Customers",
-      "meta_description": "Post-acquisition integration grounded in behavioral science: retain key people, protect customer relationships and integrate acquired teams after close.",
-      "primary_keyword": "post-acquisition integration",
-      "summary": "Integration support focused on the people side of a deal: retaining key talent, protecting customers and bringing acquired teams together well.",
-      "lede": "Our post-acquisition integration work focuses on the behaviors that determine whether a deal delivers: whether key people stay, whether customers remain loyal and whether acquired teams adopt new ways of working.",
-      "challenge": [
-        "Integration plans are usually strong on systems, finance and legal entities and weaker on people. Yet the reasons acquisitions underperform are often behavioral. Key engineers or sales leaders leave because they feel uncertain or undervalued. Customers who trusted the founder start to look at competitors. Acquired teams comply with new processes on paper while quietly working around them. Retention arrangements keep people on the payroll without keeping them engaged. By the time these problems appear in revenue or turnover figures, much of the value the deal was meant to capture may already be at risk.",
-        "For private equity sponsors pursuing buy-and-build strategies, the challenge repeats with each add-on, and the platform's ability to integrate becomes a core capability. For strategic acquirers and venture-backed companies making their first acquisitions, it is often a new skill learned under pressure. Post-acquisition integration grounded in behavioral science treats the human side of the deal with the same planning discipline as systems and finance, starting before close and continuing until new behaviors are established."
-      ],
-      "approach": [
-        {
-          "phase": "Observe",
-          "title": "Understand both organizations",
-          "body": "We conduct confidential interviews and listening sessions across both organizations to understand culture, informal networks, decision-making norms and concerns about the deal. We also speak with key customers where appropriate. This identifies the people, relationships and practices that carry value, and the friction points most likely to cause problems."
-        },
-        {
-          "phase": "Signal",
-          "title": "Spot retention and customer risk",
-          "body": "We analyze people and customer data for early warning signals: flight risk among key contributors, engagement shifts after announcement, changes in customer usage, support contacts and renewal behavior. We combine these with interview findings to prioritize where retention arrangements, leadership attention and customer outreach will matter most."
-        },
-        {
-          "phase": "Design",
-          "title": "Design the people integration",
-          "body": "We design the human side of integration: communication sequences that reduce uncertainty, retention arrangements that reward engagement as well as tenure, role and decision-rights clarity, onboarding for acquired employees into new systems and processes, and customer communication that protects trust. Each element is grounded in what motivates people and what makes new behaviors easy to adopt."
-        },
-        {
-          "phase": "Test",
-          "title": "Pilot and monitor adoption",
-          "body": "Before rolling out new processes or tools across the acquired organization, we pilot them with a small group, measure adoption and gather feedback. Pulse surveys and behavioral indicators track engagement and customer health through the integration period, so problems are addressed early rather than discovered in quarterly results."
-        },
-        {
-          "phase": "Scale",
-          "title": "Build repeatable integration capability",
-          "body": "We coach integration leaders and managers who must sustain the combined organization, and for platforms with active acquisition programs, we codify what worked into a repeatable integration playbook. This turns integration from a one-time scramble into a capability that strengthens with every add-on and supports the equity story at exit."
-        }
-      ],
-      "deliverables": [
-        "Cultural and organizational integration assessment",
-        "Key-person retention risk analysis and recommendations",
-        "Customer retention risk analysis and outreach plan",
-        "Integration communication plan for employees and customers",
-        "Adoption metrics and engagement pulse program",
-        "Repeatable integration playbook for buy-and-build platforms"
-      ],
-      "outcomes": [
-        "Key people retained and engaged through the uncertainty of ownership change",
-        "Customer relationships protected during the transition to new ownership and systems",
-        "Faster, more genuine adoption of shared processes and tools by acquired teams and their managers",
-        "A repeatable integration capability that supports buy-and-build strategies and strengthens with each add-on"
-      ],
-      "who_we_serve": "We support private equity sponsors and operating partners executing platform and add-on acquisitions, portfolio company CEOs and integration leaders, corporate development teams at strategic acquirers and venture-backed companies making their first acquisitions. Engagements typically begin during confirmatory diligence or between signing and close, continue through the first 100 days and extend through the first year. We are also engaged when an integration has stalled and leadership needs to understand why people and customers are not following the plan.",
-      "impact_lens": "Acquisitions are disruptive for the people who live through them. Employees worry about their jobs, customers worry about service and communities worry about local operations. Post-acquisition integration done with care reduces needless anxiety, treats people honestly and preserves the relationships that made the acquired company valuable. We help acquirers make decisions transparently, support affected employees well and protect customer trust, which serves both the people involved and the long-term value of the combined business.",
-      "faqs": [
-        {
-          "q": "When should integration planning start?",
-          "a": "Ideally during confirmatory diligence. Understanding culture, key people and customer relationships before close allows the deal team to plan retention arrangements, communication and leadership roles in advance. Day one messages and the first weeks after announcement shape how employees and customers interpret everything that follows, so early preparation has an outsized influence on how the integration unfolds."
-        },
-        {
-          "q": "How do you approach retention arrangements for key people?",
-          "a": "Retention bonuses and equity rollovers keep people on the payroll, but they do not guarantee engagement. We help design arrangements that combine financial incentives with clarity about role, growth and recognition, which matter at least as much to many contributors. We also identify which people are truly critical, based on knowledge, relationships and influence, rather than relying on title alone."
-        },
-        {
-          "q": "Can you help with cultural integration?",
-          "a": "Yes, though we approach culture through behavior rather than abstract values statements. We identify the specific practices that differ between organizations, such as how decisions are made, how information flows and how performance is recognized, and focus on the ones that most affect results. Changing a small number of concrete behaviors tends to be more effective than broad cultural programs."
-        },
-        {
-          "q": "Do you work on repeated add-on acquisitions?",
-          "a": "Frequently. Buy-and-build strategies depend on integrating acquisitions efficiently and consistently. We help platforms learn from each integration, refine their approach and codify it into a practical playbook that internal teams can run. Over time this reduces dependence on outside support and makes integration capability part of the platform's value. Each integration also becomes a source of evidence for the next."
-        }
-      ],
-      "related_services": [
-        "private-equity-advisory",
-        "management-team-assessment",
-        "portfolio-value-creation"
-      ],
-      "related_industries": [
-        "private-equity-portfolio-companies",
-        "professional-services",
-        "healthcare-health-systems"
-      ],
-      "related_insights": [
-        "group-behavior-change",
-        "people-problems-are-business-problems"
-      ]
+     "phase": "Scale",
+     "title": "Embed measurement and leadership",
+     "body": "We help portfolio leadership operationalize what was learned: board decks built around leading indicators, dashboards that operating partners can trust, and coaching for executives who must sustain new behaviors across their teams. Toward exit, the same evidence base supports a credible equity story about the durability of customer relationships and the strength of the organization."
     }
-  ]
+   ],
+   "deliverables": [
+    "Behavioral assumptions map of the investment thesis",
+    "Cohort, logo retention and expansion analysis",
+    "IC memo inputs on quality of revenue and risk",
+    "Prioritized 100-day value creation hypotheses",
+    "Predictive KPI set for board and operating partner reporting",
+    "Pilot and A/B test designs for key initiatives"
+   ],
+   "outcomes": [
+    "Investment committee decisions informed by behavioral evidence rather than management narrative alone",
+    "Clearer view of which value creation levers are supported by customer and operating data",
+    "Earlier warning on retention, adoption and execution risks during the hold period",
+    "A more credible exit story built on durable, measurable customer and team behaviors"
+   ],
+   "who_we_serve": "We support deal partners, principals and operating partners at lower middle market and middle market private equity firms, along with independent sponsors and family offices making direct investments. Typical moments include pre-LOI thesis testing, confirmatory diligence when exclusivity is tight, the first 100 days after close, a mid-hold reset when performance drifts from plan, and pre-exit preparation. We also work directly with portfolio company CEOs and executive teams who want an outside, evidence-based view of customer and organizational behavior.",
+   "impact_lens": "Private equity ownership shapes the daily experience of employees, the service customers receive and the health of the communities where portfolio companies operate. Our private equity advisory treats those stakeholders as part of the value creation case, not an afterthought. Plans that rely on understanding customers and supporting employees tend to be more durable than plans that rely on cost cutting alone. We help sponsors find growth that customers welcome and teams can sustain, and we measure people outcomes alongside financial ones.",
+   "faqs": [
+    {
+     "q": "How is this different from traditional commercial due diligence?",
+     "a": "Traditional commercial diligence typically sizes the market, reviews competitive position and runs a customer survey. We add a behavioral lens: analyzing what customers actually do in transaction and product data, comparing it with what they say, and identifying the specific behaviors the investment thesis depends on. The two approaches are complementary, and we often work alongside existing advisors to fill the gaps their scope does not cover."
+    },
+    {
+     "q": "Can you work within a tight exclusivity window?",
+     "a": "Yes. We scope work to the questions that matter most for the IC decision and the time available. In a compressed process, that may mean focusing on cohort retention and a small set of customer interviews rather than a full journey analysis. We are explicit about what the evidence can and cannot support, so the deal team knows where confidence is warranted and where risk remains."
+    },
+    {
+     "q": "Do you work with operating partners after close?",
+     "a": "Frequently. Many engagements begin in diligence and continue into the first 100 days, when findings become a value creation plan. We work alongside operating partners and portfolio leadership to design pilots, define predictive KPIs for board reporting and coach executives through the behavioral changes the plan requires. The aim is to build capability inside the portfolio company, not dependence on outside advisors."
+    },
+    {
+     "q": "What data do you need from the target company?",
+     "a": "It varies by business model, but useful sources include customer-level transaction or billing history, CRM opportunity data, product usage logs, support tickets and any existing survey results. We work with whatever is available in the data room and are comfortable with messy, unintegrated datasets. Where data is thin, we rely more heavily on structured interviews and say clearly how that limits the conclusions."
+    }
+   ],
+   "related_services": [
+    "commercial-due-diligence",
+    "management-team-assessment",
+    "portfolio-value-creation",
+    "post-acquisition-integration"
+   ],
+   "related_industries": [
+    "private-equity-portfolio-companies",
+    "technology-saas",
+    "professional-services"
+   ],
+   "related_insights": [
+    "cost-of-untested-assumptions",
+    "predictive-kpis-vs-vanity-metrics"
+   ]
+  },
+  {
+   "slug": "venture-capital-advisory",
+   "practice": "investor-venture-advisory",
+   "name": "Venture Capital & Startup Advisory",
+   "meta_title": "Venture Capital & Startup Advisory | Behavioral Science",
+   "meta_description": "Venture capital and startup advisory that reads early behavioral signals, sets milestones between rounds, and helps founders scale from Series A to C.",
+   "primary_keyword": "venture capital advisory",
+   "summary": "Help for venture investors and founders to read early traction honestly, set milestones that matter between rounds, and scale without losing what works.",
+   "lede": "Our venture capital advisory helps investors and founders separate real traction from noise, reading the behavioral signals in early usage and revenue data to set milestones between rounds and build companies that scale on evidence.",
+   "challenge": [
+    "Early-stage investing runs on thin data. A seed or Series A company may have a few dozen customers, a few months of usage history and a founder who is persuasive by necessity. Investors look for product-market fit, but the indicators they rely on, such as top-line growth, logo announcements and pilot counts, can be driven by founder hustle rather than genuine pull. The question that matters is behavioral: are users coming back on their own, adopting the product more deeply over time and pulling colleagues in, or is growth being pushed uphill?",
+    "Founders face the mirror image of this problem. Between rounds they must choose which milestones to chase, and the metrics that impress in a pitch are not always the ones that predict a durable business. As the company moves from Series A to Series C, early habits in hiring, product and sales start to break, and the founding team must lead an organization it has never run before. Venture capital advisory grounded in behavioral science gives both sides a shared, honest language for traction, risk and readiness to scale."
+   ],
+   "approach": [
+    {
+     "phase": "Observe",
+     "title": "Understand the user and the founder",
+     "body": "We start with qualitative research: interviews with active, lapsed and prospective users, a close look at onboarding and first-use experience, and structured conversations with the founding team about how decisions get made. This grounds the analysis in how the product actually fits into users' lives and work, and how the company actually operates."
+    },
+    {
+     "phase": "Signal",
+     "title": "Separate pull from push",
+     "body": "We analyze early usage and revenue data for signals of genuine product-market fit: activation rates by cohort, the shape of retention curves, depth of engagement over time, and organic expansion within accounts. Even small datasets reveal whether a few behavioral moments predict long-term use, and whether growth depends on those moments or on founder effort that will not scale."
+    },
+    {
+     "phase": "Design",
+     "title": "Set milestones that predict value",
+     "body": "With investors and founders together, we define the handful of milestones that should guide the period before the next round: predictive behavioral KPIs rather than vanity metrics, paired with product, onboarding and go-to-market changes most likely to move them. This gives the board and the founding team a shared definition of progress."
+    },
+    {
+     "phase": "Test",
+     "title": "Run fast, disciplined experiments",
+     "body": "Startups experiment constantly but often without the design to learn from it. We help teams structure A/B tests and pilots with clear hypotheses, adequate samples for their stage and honest readouts. The goal is a faster cycle of learning that conserves runway and produces evidence a next-round investor will find credible."
+    },
+    {
+     "phase": "Scale",
+     "title": "Build the company that comes next",
+     "body": "As the company grows, we support the founder and leadership team through the transition from founder-led selling and product decisions to a scalable organization. That includes coaching, team design, board reporting that tracks leading indicators, and the habits of measurement that let a Series B or C company keep learning as quickly as it did at seed."
+    }
+   ],
+   "deliverables": [
+    "Product-market fit evidence review based on behavioral data",
+    "Cohort activation and retention curve analysis",
+    "Milestone plan with predictive KPIs between rounds",
+    "Experiment roadmap with hypotheses and success criteria",
+    "Board reporting template built around leading indicators",
+    "Founder and leadership team scaling assessment"
+   ],
+   "outcomes": [
+    "Investment decisions grounded in observed user behavior rather than pitch narrative",
+    "Founders and boards aligned on milestones that predict durable value",
+    "Faster, more disciplined learning cycles that make better use of runway",
+    "Leadership teams prepared for the organizational demands of each new stage"
+   ],
+   "who_we_serve": "We work with partners and platform teams at seed and growth-stage venture capital firms, corporate venture arms, angel syndicates and family offices investing directly in startups. We also work with founders and CEOs of venture-backed companies, often at the request of their investors. Common trigger moments include evaluating a Series A or B opportunity, setting post-investment milestones, preparing for the next raise, a stall in growth between rounds, and the Series A to C scaling period when founder-led habits begin to strain.",
+   "impact_lens": "Startups that grow on genuine user value tend to treat customers better and build healthier cultures than startups that grow by pushing metrics. Our venture capital advisory favors products that help people do what they already want to do, and we are cautious about growth tactics that exploit attention or erode trust. We also pay attention to the people building the company: sustainable founder workloads, psychological safety on small teams, and organizations that stay humane as they scale.",
+   "faqs": [
+    {
+     "q": "Is early-stage data really enough to analyze?",
+     "a": "Often it is more informative than people expect. Even a modest number of users can show whether retention curves flatten or keep declining, whether specific onboarding moments predict long-term use, and whether engagement deepens over time. We are careful about the limits of small samples, combine data with qualitative research, and present findings as evidence that sharpens judgment rather than replaces it."
+    },
+    {
+     "q": "Do you work for the investor or the founder?",
+     "a": "Both, depending on the engagement, and we are always clear about who the client is. Investors engage us for diligence and post-investment support. Founders engage us directly, or at an investor's suggestion, for milestone planning, experimentation and coaching. When investors sponsor founder support, we agree in advance what will be shared so that trust on both sides is protected."
+    },
+    {
+     "q": "What makes your startup advice different from other advisors?",
+     "a": "The firm brings hands-on operating experience in product, sales and partnerships. We pair that operating perspective with behavioral science and research methods, so recommendations are both practical for a resource-constrained team and grounded in evidence about how users and teams actually behave."
+    },
+    {
+     "q": "Can you help prepare for a fundraise?",
+     "a": "Yes. We help founders build a traction story grounded in behavioral evidence: cohort retention, activation, engagement depth and the leading indicators that predict revenue. Investors increasingly look past top-line growth to these signals. Presenting them honestly, including what is not yet proven and how the next round will test it, tends to build more credibility than a polished narrative alone."
+    }
+   ],
+   "related_services": [
+    "founder-ceo-coaching",
+    "commercial-due-diligence",
+    "impact-investing-advisory"
+   ],
+   "related_industries": [
+    "venture-backed-startups",
+    "technology-saas",
+    "digital-health"
+   ],
+   "related_insights": [
+    "predictive-kpis-vs-vanity-metrics",
+    "habit-formation"
+   ]
+  },
+  {
+   "slug": "commercial-due-diligence",
+   "practice": "investor-venture-advisory",
+   "name": "Customer & Commercial Due Diligence",
+   "meta_title": "Commercial Due Diligence: Customer Behavior Analysis",
+   "meta_description": "Commercial due diligence that reads customer behavior: cohort retention, conversion points, adoption depth and the gap between stated and revealed preference.",
+   "primary_keyword": "commercial due diligence",
+   "summary": "Customer diligence that reads what buyers actually do: retention by cohort, conversion points, adoption depth and the gap between stated and revealed behavior.",
+   "lede": "Our commercial due diligence examines the customer behavior beneath the revenue line, analyzing retention, conversion and adoption data alongside structured interviews so investors understand how durable a target's growth really is.",
+   "challenge": [
+    "Most commercial due diligence answers market questions well: how large the opportunity is, how fast it is growing and how the target is positioned against competitors. It is less reliable on customer questions. A survey of current customers may report high satisfaction while usage data shows engagement quietly declining. Reference calls tend to reach the happiest accounts. Revenue that looks recurring may depend on a few large customers, a renewal cycle that has not yet been tested, or contracts that are signed but barely used.",
+    "These are questions about quality of revenue, and they are fundamentally behavioral. Customers reveal their real intentions in what they do: how quickly they adopt, which features they rely on, whether usage spreads across their organization, and how they respond to price changes. When diligence relies on stated preferences instead of revealed behavior, investors can pay for growth that will not persist. Commercial due diligence built on behavioral data gives the deal team a sharper view of retention risk, expansion potential and the assumptions in the model that the evidence does not support."
+   ],
+   "approach": [
+    {
+     "phase": "Observe",
+     "title": "Hear from the right customers",
+     "body": "We design and conduct structured customer interviews that reach beyond the reference list, including recent wins, lapsed accounts and lost prospects where possible. Interview guides are built with research methods that reduce bias and probe for real decision drivers, switching costs and unmet needs, rather than asking customers to rate their satisfaction."
+    },
+    {
+     "phase": "Signal",
+     "title": "Analyze retention and adoption",
+     "body": "We analyze customer-level revenue and usage data for cohort and logo retention, expansion and contraction behavior, concentration, and adoption depth by segment. We identify the conversion points that predict whether an account grows or churns, and define behavioral types of customers. Net revenue retention is examined qualitatively by cohort to show what is driving it, not just its headline level."
+    },
+    {
+     "phase": "Design",
+     "title": "Reconcile said and done",
+     "body": "We compare what customers report in interviews and surveys with what they do in the data. Where the two diverge, we explain why and what it means for the investment thesis. The output is a clear, prioritized view of which growth assumptions in the model are well supported, which are uncertain, and which warrant price or structural protection."
+    },
+    {
+     "phase": "Test",
+     "title": "Stress-test the revenue model",
+     "body": "We translate behavioral findings into scenarios the deal team can use: retention assumptions by cohort, plausible ranges for expansion, and the sensitivity of the plan to changes in key customer behaviors. Where a hypothesis can be checked quickly, for example through a targeted data cut or additional interviews, we test it before the IC meeting."
+    },
+    {
+     "phase": "Scale",
+     "title": "Carry findings past close",
+     "body": "Diligence findings should not end at signing. We convert them into a baseline of predictive customer KPIs and a list of retention and expansion hypotheses for the 100-day plan, so operating partners and management start the hold period with an evidence base and a shared understanding of where customer risk lies."
+    }
+   ],
+   "deliverables": [
+    "Commercial due diligence report focused on customer behavior",
+    "Cohort and logo retention analysis with segment views",
+    "Structured customer interview program and synthesis",
+    "Stated versus revealed behavior reconciliation",
+    "Quality of revenue risk register for the IC memo",
+    "Baseline customer KPIs for the 100-day plan"
+   ],
+   "outcomes": [
+    "Clearer understanding of how durable and diversified the target's revenue really is",
+    "Specific retention and expansion risks identified before price and terms are final",
+    "IC memos that distinguish supported growth assumptions from optimistic ones",
+    "A ready-made customer evidence base for the value creation plan after close"
+   ],
+   "who_we_serve": "We support private equity deal teams, growth equity investors, venture capital firms leading later rounds, family offices and corporate development teams evaluating acquisitions. Engagements most often occur pre-LOI, when a quick behavioral read can shape price and structure, and during confirmatory diligence, when deeper analysis of the data room and customer interviews can confirm or challenge the thesis. We also conduct sell-side customer analysis for companies preparing for a sale or recapitalization.",
+   "impact_lens": "Understanding customers deeply is good for returns and good for customers. When diligence shows where a product falls short of what customers need, the resulting value creation plan can focus on improving the product and service rather than extracting more from the same accounts. Our commercial due diligence highlights where customer trust is strong and where it is fragile, helping investors back businesses that earn loyalty rather than depend on lock-in or friction.",
+   "faqs": [
+    {
+     "q": "What is the difference between stated and revealed customer behavior?",
+     "a": "Stated behavior is what customers tell you: satisfaction scores, intent to renew, interview responses. Revealed behavior is what they actually do: usage, renewal, expansion, support contacts. The two often diverge, and the gap is informative. A customer who reports high satisfaction while usage declines is a retention risk. We analyze both and explain the differences so investors are not relying on stated preference alone."
+    },
+    {
+     "q": "How do you evaluate net revenue retention?",
+     "a": "We look beyond the headline figure to how it is composed. Strong overall retention can mask weak cohorts offset by a few large expansions, or recent cohorts that behave differently from older ones. We break retention down by cohort, segment, product and customer size, and connect patterns to behavioral drivers such as onboarding quality and adoption depth, so the deal team understands whether the pattern is likely to persist."
+    },
+    {
+     "q": "Can you work alongside our existing diligence advisors?",
+     "a": "Yes. We frequently complement market-focused commercial diligence, quality of earnings and technology diligence providers. Our scope focuses on customer behavior and the human assumptions in the thesis, which are often under-covered. We coordinate with other advisors to avoid duplicated interviews and data requests, and to make sure findings from each workstream inform the others."
+    },
+    {
+     "q": "What if the target's data is messy or incomplete?",
+     "a": "It usually is. Customer data in growing companies is often spread across billing, CRM and product systems that were never integrated. We are experienced at reconciling unintegrated datasets and at stating clearly what can and cannot be concluded from them. Where gaps remain, we use structured interviews to fill them and flag the remaining uncertainty for the deal team."
+    }
+   ],
+   "related_services": [
+    "private-equity-advisory",
+    "management-team-assessment",
+    "venture-capital-advisory"
+   ],
+   "related_industries": [
+    "private-equity-portfolio-companies",
+    "technology-saas",
+    "retail-consumer"
+   ],
+   "related_insights": [
+    "conversion-points-customer-journey",
+    "behavioral-vs-demographic-segmentation"
+   ]
+  },
+  {
+   "slug": "management-team-assessment",
+   "practice": "investor-venture-advisory",
+   "name": "Management Team Assessment",
+   "meta_title": "Management Team Assessment for Investors",
+   "meta_description": "Management team assessment for investors using research-grade methods: evaluate leadership, key-person risk and readiness for the plan before and after close.",
+   "primary_keyword": "management team assessment",
+   "summary": "Research-grade evaluation of leadership teams for investors: capabilities, key-person risk, team dynamics and readiness to execute the plan ahead.",
+   "lede": "Our management team assessment gives investors a rigorous, evidence-based view of the leaders they are backing, using structured interviews, validated instruments and behavioral observation to evaluate capability, key-person risk and readiness to execute.",
+   "challenge": [
+    "Investors routinely say they back people as much as businesses, yet management evaluation is often the least structured part of diligence. Impressions form during polished management presentations and a few dinners. Reference checks reach colleagues chosen by the executive. Background checks confirm credentials but say little about how a leader makes decisions under pressure, develops a team or adapts when the plan changes. These gaps matter most in exactly the situations where investors depend on management: aggressive growth plans, founder transitions and operational turnarounds.",
+    "Teams also matter as systems, not just as collections of individuals. A strong CEO may be surrounded by a leadership team that defers rather than challenges. A capable CFO may be one departure away from leaving the business without institutional knowledge. Key-person risk, succession gaps and team dynamics affect value as directly as customer churn. A management team assessment grounded in psychometrics and behavioral research gives deal teams and boards an evidence base for decisions about leadership, retention arrangements and support, rather than relying on instinct alone."
+   ],
+   "approach": [
+    {
+     "phase": "Observe",
+     "title": "Structured interviews and observation",
+     "body": "We conduct structured, competency-based interviews with the CEO and key executives, focused on past behavior in situations relevant to the investment plan. Where possible, we observe the team working together, for example in a planning session or operating review, to see how decisions are actually made, how conflict is handled and who carries influence."
+    },
+    {
+     "phase": "Signal",
+     "title": "Validated measures and team data",
+     "body": "We use validated psychometric instruments and structured multi-rater input to assess leadership style, decision-making and team dynamics. Where available, we also review people data such as tenure, turnover by manager and engagement results to identify signals of leadership effectiveness and key-person dependence across the organization."
+    },
+    {
+     "phase": "Design",
+     "title": "Map capability to the plan",
+     "body": "Findings are mapped against what the investment plan will require of each leader and of the team as a whole. We identify strengths to build on, capability gaps, succession and key-person risks, and the specific leadership behaviors most important to the first 100 days. Recommendations cover coaching, hiring, role changes and retention arrangements."
+    },
+    {
+     "phase": "Test",
+     "title": "Validate with evidence over time",
+     "body": "Assessment is a hypothesis about how leaders will perform. After close, we help boards and operating partners track a small set of leadership indicators and observe performance against the plan, so early concerns can be addressed through support rather than discovered through missed results months later."
+    },
+    {
+     "phase": "Scale",
+     "title": "Develop the team that will deliver",
+     "body": "We turn assessment into practical development for each leader: individual executive coaching, team coaching focused on decision-making and accountability, and succession plans that reduce key-person risk. This builds a leadership team capable of executing the value creation plan and of running the business well through exit and beyond."
+    }
+   ],
+   "deliverables": [
+    "Individual executive profiles mapped to plan requirements",
+    "Leadership team dynamics and decision-making assessment",
+    "Key-person and succession risk analysis",
+    "Retention arrangement and incentive considerations",
+    "First 100 days leadership development priorities",
+    "Board-ready summary for the investment committee"
+   ],
+   "outcomes": [
+    "Investment decisions informed by structured evidence about the people executing the plan",
+    "Key-person and succession risks identified and addressed before they affect performance",
+    "Clearer targeting of coaching, hiring and retention investment in leadership",
+    "Leadership teams better prepared for the specific demands of the value creation plan"
+   ],
+   "who_we_serve": "We work with private equity deal partners and operating partners, venture capital investors leading significant rounds, family offices and boards of portfolio companies. Assessments are typically commissioned during confirmatory diligence, in the first 100 days after close, before a founder transition or CEO succession, ahead of a major acquisition or integration, or when performance diverges from plan and the board needs an objective view of leadership capacity. We also assess leadership teams at companies preparing for a sale.",
+   "impact_lens": "Leadership quality shapes the working lives of every employee in a company. A management team assessment conducted with care and transparency can be developmental for the executives involved, not only evaluative. We hold to professional standards in psychometric testing, protect participant confidentiality appropriately and give leaders useful feedback. Better leadership produces better places to work, more thoughtful treatment of customers and stronger relationships with the communities where companies operate.",
+   "faqs": [
+    {
+     "q": "How does this differ from executive search firm assessments?",
+     "a": "Search firm assessments are usually designed to compare candidates for a role. Our management team assessment evaluates an existing team against the specific requirements of an investment plan, with attention to team dynamics, key-person risk and development needs. We use research-grade methods from psychometrics and behavioral science, and we connect findings directly to coaching and value creation after close."
+    },
+    {
+     "q": "Will management teams feel threatened by the assessment?",
+     "a": "Some initial caution is normal. We explain the purpose clearly, share how findings will be used and give each executive meaningful feedback. Many leaders find the process valuable, particularly when it leads to coaching and development support. Handled well, the assessment builds trust between management and new owners rather than eroding it."
+    },
+    {
+     "q": "Can you assess a founder-led company preparing for professional management?",
+     "a": "Yes, and this is one of the most important uses of the service. Founder transitions carry significant key-person risk and emotional weight. We assess the founder's strengths and the roles where they add the most value, the readiness of the broader team, and the gaps a new leader or new hires must fill, then help design a transition that preserves what made the company successful."
+    },
+    {
+     "q": "How long does a management team assessment take?",
+     "a": "Scope depends on the size of the team and the timeline of the deal. A focused assessment of a CEO and a few direct reports can fit within a confirmatory diligence period. A broader assessment of the full leadership team, including team observation and multi-rater input, is often conducted in the first 100 days after close, when access is easier."
+    }
+   ],
+   "related_services": [
+    "private-equity-advisory",
+    "founder-ceo-coaching",
+    "post-acquisition-integration"
+   ],
+   "related_industries": [
+    "private-equity-portfolio-companies",
+    "professional-services",
+    "venture-backed-startups"
+   ],
+   "related_insights": [
+    "psychometrics-for-business-surveys",
+    "how-leaders-decide-under-pressure"
+   ]
+  },
+  {
+   "slug": "portfolio-value-creation",
+   "practice": "investor-venture-advisory",
+   "name": "Portfolio Value Creation",
+   "meta_title": "Portfolio Value Creation with Predictive KPIs",
+   "meta_description": "Portfolio value creation through behavioral science: predictive KPIs for board and LP reporting, and tested initiatives that grow retention and revenue.",
+   "primary_keyword": "portfolio value creation",
+   "summary": "Predictive KPIs, tested initiatives and leadership support that help portfolio companies grow retention, revenue and capability across the hold period.",
+   "lede": "Our portfolio value creation work helps sponsors and portfolio leadership move from lagging financials to predictive behavioral KPIs, test growth initiatives before scaling them, and build the capability to sustain results through exit.",
+   "challenge": [
+    "Portfolio monitoring tends to look backward. Monthly board decks report revenue, EBITDA and pipeline, all of which describe what has already happened. By the time a retention problem or a stalled sales initiative appears in the financials, the behaviors that caused it have been in motion for months. Operating partners spread across several portfolio companies need earlier signals, but the metrics companies track are often chosen for convenience rather than predictive value, and they vary so much across the portfolio that comparison is difficult.",
+    "Value creation initiatives face a related problem. Pricing changes, new sales motions, customer success programs and digital transformations are typically rolled out broadly on the strength of a compelling plan. Few are tested. When results disappoint, it is hard to tell whether the idea was wrong, the execution was weak or the measurement was misleading. Portfolio value creation grounded in behavioral science addresses both issues: it identifies the behaviors that lead financial results, measures them consistently, and tests initiatives before committing the hold period to them."
+   ],
+   "approach": [
+    {
+     "phase": "Observe",
+     "title": "Map the journeys that drive value",
+     "body": "We map the customer and employee journeys most connected to the value creation plan, using interviews, process observation and review of existing systems. This shows where value is won or lost: the onboarding steps where customers stall, the handoffs where sales and service break down, the decisions that frontline teams make without good information."
+    },
+    {
+     "phase": "Signal",
+     "title": "Build predictive KPIs",
+     "body": "Using our Behavioral Signals Design methodology, we analyze operating data across often unintegrated systems to identify the conversion points and behavioral types that predict revenue, retention and margin. We then define a small set of predictive KPIs for each portfolio company, with consistent definitions that support comparison and LP reporting across the portfolio."
+    },
+    {
+     "phase": "Design",
+     "title": "Design targeted interventions",
+     "body": "For each priority KPI, we design interventions using behavioral design, experience design and service design: changes to onboarding, pricing presentation, sales process, customer communications or manager routines. Each intervention is framed as a testable hypothesis with a clear expected effect on the behaviors that lead financial results."
+    },
+    {
+     "phase": "Test",
+     "title": "Test before rolling out",
+     "body": "Where volume allows, we run A/B tests and controlled pilots to confirm which interventions change behavior before they are scaled across the business. This conserves management attention, protects the hold-period timeline and produces evidence that strengthens board confidence and, eventually, the equity story presented to buyers."
+    },
+    {
+     "phase": "Scale",
+     "title": "Dashboards, routines and coaching",
+     "body": "Successful interventions are implemented with dashboards that portfolio leadership and operating partners can rely on, operating routines that keep attention on leading indicators, and coaching for executives and managers who must sustain new behaviors. The aim is lasting capability inside the portfolio company, ready to be demonstrated at exit."
+    }
+   ],
+   "deliverables": [
+    "Predictive KPI framework for each portfolio company",
+    "Portfolio-level monitoring dashboard with consistent definitions",
+    "Board deck and LP reporting templates with leading indicators",
+    "Prioritized intervention backlog framed as testable hypotheses",
+    "A/B test and pilot designs with readout plans",
+    "Leadership coaching and operating cadence recommendations"
+   ],
+   "outcomes": [
+    "Earlier visibility into retention, conversion and execution issues across the portfolio",
+    "Value creation initiatives scaled on evidence rather than on the strength of a plan",
+    "More consistent, credible board and LP reporting grounded in leading indicators",
+    "Portfolio companies with lasting measurement and experimentation capability ahead of exit"
+   ],
+   "who_we_serve": "We support operating partners, portfolio operations teams and value creation leads at private equity firms, growth equity investors and family offices with controlling stakes. We also work directly with portfolio company CEOs, CFOs, chief revenue officers and chief customer officers. Common moments include the first 100 days, a mid-hold reset when the plan is off track, standardizing KPIs and LP reporting across a portfolio, scaling a growth initiative that worked in one company, and building a credible performance record ahead of exit.",
+   "impact_lens": "Value created by understanding and serving people better tends to last longer than value created by squeezing them. Our portfolio value creation work favors interventions that make products easier to adopt, services more responsive and jobs more manageable. We measure employee and customer outcomes alongside financial ones and steer away from tactics that rely on hidden friction or manipulative design. Companies built this way are more resilient and more attractive to the next owner.",
+   "faqs": [
+    {
+     "q": "What makes a KPI predictive rather than descriptive?",
+     "a": "A descriptive KPI reports what happened, such as last quarter's revenue. A predictive KPI measures a behavior that reliably precedes an outcome, such as how many new customers complete a key onboarding step in their first weeks. Predictive KPIs give leaders time to act. We identify them by analyzing which early behaviors actually separate customers who grow from those who churn."
+    },
+    {
+     "q": "Can you standardize metrics across a diverse portfolio?",
+     "a": "Within limits, yes. Different business models need different specific KPIs, but most can be organized into a common structure covering acquisition, activation, retention, expansion and team health. We define consistent principles and reporting formats so operating partners and LPs can compare performance across the portfolio while each company tracks the behaviors that matter most for its model."
+    },
+    {
+     "q": "Is A/B testing practical in a mid-market business?",
+     "a": "Usually, though it may look different from testing in a large consumer technology company. Many mid-market tests are pilots across regions, sales teams or customer segments, with careful comparison to a control group. We design tests appropriate to the volume and structure of each business and are clear about how much confidence a given design can support."
+    },
+    {
+     "q": "How do you work with our operating partners?",
+     "a": "We complement operating partners rather than replace them. They bring sector and functional expertise and relationships with management. We bring behavioral science, research methods and experimentation design. Typically we work alongside an operating partner on a defined set of priorities in one or more portfolio companies, transferring methods and tools so the operating team can continue the work independently."
+    }
+   ],
+   "related_services": [
+    "private-equity-advisory",
+    "post-acquisition-integration",
+    "management-team-assessment",
+    "commercial-due-diligence"
+   ],
+   "related_industries": [
+    "private-equity-portfolio-companies",
+    "technology-saas",
+    "banking-financial-services"
+   ],
+   "related_insights": [
+    "leading-and-lagging-indicators",
+    "what-is-behavioral-signals-design"
+   ]
+  },
+  {
+   "slug": "founder-ceo-coaching",
+   "practice": "investor-venture-advisory",
+   "name": "Founder & CEO Coaching",
+   "meta_title": "Founder & CEO Coaching for Venture-Backed Leaders",
+   "meta_description": "Founder and CEO coaching for venture and PE-backed leaders: build the team, the board relationship and the judgment needed to lead the company through scale.",
+   "primary_keyword": "founder and CEO coaching",
+   "summary": "Coaching for founders and CEOs of investor-backed companies, grounded in behavioral science and real operating experience, to lead well through scale.",
+   "lede": "Our founder and CEO coaching helps leaders of investor-backed companies grow into the role their company now requires, building judgment, leadership teams and board relationships through the transitions that come with scale.",
+   "challenge": [
+    "The skills that make a founder successful at the start are not the skills the company needs at every later stage. Early on, founders win through speed, conviction and personal involvement in every decision. As the company grows from a small team to a scaling organization, those same habits can become bottlenecks: decisions queue up behind the founder, senior hires struggle to find their footing and the culture begins to depend on one person's energy. Founders often recognize the problem before they know what to do about it, and the people around them may be reluctant to say it plainly.",
+    "CEOs of private equity portfolio companies face a different version of the same pressure. They must deliver an aggressive plan on a fixed timeline, manage a board with sharp expectations and lead teams through change, often while integrating acquisitions or replacing executives. Investors frequently see leadership as the main risk to a plan but have limited ways to help directly. Founder and CEO coaching grounded in behavioral science and operating experience offers a confidential space to build the self-awareness, skills and support systems that leading at scale demands."
+   ],
+   "approach": [
+    {
+     "phase": "Observe",
+     "title": "Understand the leader in context",
+     "body": "Coaching begins with understanding the leader, the company and the stage it is in. We conduct confidential interviews with the leader and, with their agreement, with co-founders, executives and board members. Where possible we observe leadership meetings and board sessions to see how the leader actually shows up, not only how they describe themselves."
+    },
+    {
+     "phase": "Signal",
+     "title": "Find the behaviors that matter most",
+     "body": "We use validated assessments and structured multi-rater feedback, alongside indicators such as decision latency, executive turnover and engagement data, to find the small number of leadership behaviors that most affect company performance. This keeps coaching focused on what matters at this stage rather than on generic leadership development."
+    },
+    {
+     "phase": "Design",
+     "title": "Build a focused coaching plan",
+     "body": "Together with the leader, we define a coaching plan with clear goals tied to company priorities: delegating to a new executive team, building a productive board relationship, preparing for a raise or exit, or navigating a founder transition. Each goal is translated into specific behaviors the leader will practice, with prompts built into existing routines."
+    },
+    {
+     "phase": "Test",
+     "title": "Practice, feedback and adjustment",
+     "body": "Leaders try new behaviors in real situations: a delegated decision, a difficult board conversation, a reorganized leadership meeting. We review what happened, gather feedback and adjust. Periodic check-ins with the leader's team and board, with consent, show whether changes are visible to others and making a difference to the company."
+    },
+    {
+     "phase": "Scale",
+     "title": "Extend to the leadership team",
+     "body": "Sustainable leadership at scale depends on a strong team, not a single person. As individual coaching progresses, we often extend the work to the executive team: clarifying roles and decision rights, building psychological safety and productive conflict, and establishing operating rhythms that let the company grow without routing every decision through the founder or CEO."
+    }
+   ],
+   "deliverables": [
+    "Confidential leadership assessment and stakeholder feedback synthesis",
+    "Individual coaching plan tied to company priorities",
+    "Regular one-to-one coaching sessions over a defined period",
+    "Board relationship and communication guidance",
+    "Leadership team role and decision rights clarification",
+    "Progress reviews with agreed stakeholder input"
+   ],
+   "outcomes": [
+    "Founders and CEOs who delegate effectively and make better decisions under pressure",
+    "Stronger, more cohesive leadership teams able to carry more of the load",
+    "More productive and trusting relationships between leaders and their boards",
+    "Smoother leadership transitions with less disruption to people and performance"
+   ],
+   "who_we_serve": "We coach founders and CEOs of venture-backed startups, typically from seed through Series C, and CEOs of private equity portfolio companies, including first-time CEOs and leaders who have recently stepped up from a functional role. Engagements are commissioned by the leader, the board or an investor. Common moments include rapid scaling from Series A to C, the first 100 days under new ownership, a founder transition to a new CEO or chair role, preparation for a major raise or exit, and periods of strain between leader and board.",
+   "impact_lens": "How a founder or CEO leads shapes the daily experience of everyone in the company and, increasingly, the customers and communities it serves. Our founder and CEO coaching pays attention to sustainable pace, ethical decision-making and the wellbeing of the leader as a person, not only as an asset. Leaders who are self-aware and supported build healthier cultures, retain good people and make choices that hold up to scrutiny as their companies grow in influence.",
+   "faqs": [
+    {
+     "q": "Is the coaching confidential if our investor pays for it?",
+     "a": "Yes. We agree on confidentiality boundaries with the leader and the sponsor before coaching begins. Typically the sponsor receives information about engagement and progress on agreed goals, but not the content of coaching conversations. This structure protects the trust that makes coaching work while giving investors confidence that their support is being used well."
+    },
+    {
+     "q": "How is this different from having an experienced mentor?",
+     "a": "Mentors share their own experience, which can be valuable. Coaching is more structured and more focused on the leader's own development. We draw on behavioral science, validated assessment and coaching methods, combined with hands-on operating experience in product, sales and partnerships. Many leaders benefit from both a mentor and a coach."
+    },
+    {
+     "q": "Can you help with a founder transition?",
+     "a": "Yes. Founder transitions, whether to a chair role, a product or technical role, or out of the company, are among the most sensitive moments in a company's life. We help founders clarify what they want and where they add the most value, support the board in designing a fair process, and coach the incoming leader. Our goal is a transition that respects the founder and protects the company."
+    },
+    {
+     "q": "How long does founder and CEO coaching typically last?",
+     "a": "Most engagements run for several months, with sessions every week or two and periodic reviews with agreed stakeholders. The length depends on the goals and the stage of the company. Some leaders continue with lighter-touch support through major milestones such as a fundraise, acquisition or exit. We review progress regularly and end the engagement when goals are met."
+    }
+   ],
+   "related_services": [
+    "venture-capital-advisory",
+    "management-team-assessment",
+    "portfolio-value-creation"
+   ],
+   "related_industries": [
+    "venture-backed-startups",
+    "private-equity-portfolio-companies",
+    "technology-saas"
+   ],
+   "related_insights": [
+    "what-is-executive-coaching",
+    "teams-as-growth-engines"
+   ]
+  },
+  {
+   "slug": "impact-investing-advisory",
+   "practice": "investor-venture-advisory",
+   "name": "Impact Investing Advisory",
+   "meta_title": "Impact Investing Advisory & Impact Measurement",
+   "meta_description": "Impact investing advisory using behavioral science: impact diligence, IMP-aligned measurement, IRIS+ metrics and credible LP reporting on social outcomes.",
+   "primary_keyword": "impact investing advisory",
+   "summary": "Impact diligence, measurement frameworks and reporting that hold social outcomes to the same evidentiary standard as financial returns.",
+   "lede": "Our impact investing advisory helps funds, family offices and the companies they back define, measure and improve real social outcomes, using behavioral science to show whether products and services actually change the lives they are meant to.",
+   "challenge": [
+    "Impact investors face a measurement problem that financial investors largely do not. Revenue and margin are well defined and audited. Social outcomes are not. Many impact reports rely on outputs, such as products sold, users reached or programs delivered, because those are easy to count. But reaching people is not the same as changing their circumstances. A digital health tool may be downloaded widely and used rarely. A financial inclusion product may expand access while leaving underlying behaviors unchanged. Without outcome evidence, impact claims are hard to verify and easy to overstate.",
+    "Frameworks help but do not solve the problem on their own. The Impact Management Project's five dimensions of impact and the IRIS+ catalog of metrics give investors a common structure for describing what, who, how much, contribution and risk. Applying them well requires research design: knowing which behaviors lead to the intended outcome, how to measure them reliably and how to separate a company's contribution from what would have happened anyway. Impact investing advisory grounded in behavioral science brings that rigor to diligence, monitoring and LP reporting."
+   ],
+   "approach": [
+    {
+     "phase": "Observe",
+     "title": "Understand the people served",
+     "body": "We begin with the people a company intends to benefit, using interviews, contextual inquiry and journey mapping to understand their circumstances, needs and the barriers they face. This grounds the theory of change in real experience and often reveals gaps between how a product is designed to help and how it is actually used."
+    },
+    {
+     "phase": "Signal",
+     "title": "Find the behaviors that create impact",
+     "body": "We analyze product, program and outcome data to identify the behaviors that lead to meaningful social results: sustained engagement, completion, adherence or changed financial habits. These become predictive impact KPIs, connected to the IMP five dimensions and, where appropriate, to IRIS+ metrics, so they can be compared and reported consistently."
+    },
+    {
+     "phase": "Design",
+     "title": "Build the measurement framework",
+     "body": "We design an impact measurement framework that fits the fund's thesis and each company's model: a clear theory of change, outcome and behavior indicators, data collection methods that do not overburden companies, and an honest approach to contribution and impact risk. Where impact can be improved, we also design product and service changes to strengthen it."
+    },
+    {
+     "phase": "Test",
+     "title": "Evaluate what works",
+     "body": "We design evaluations proportionate to the stage and resources of each company, from simple pre and post comparisons to pilots with comparison groups. Where companies are testing product changes, we help them include impact outcomes alongside commercial metrics, so they learn which features improve both returns and social results."
+    },
+    {
+     "phase": "Scale",
+     "title": "Report credibly to LPs",
+     "body": "We help funds turn portfolio data into impact reporting that LPs can trust: consistent metrics, clear distinction between outputs and outcomes, and candid discussion of limitations. We also build capability in portfolio companies so impact measurement becomes part of how they run the business, not a separate annual exercise."
+    }
+   ],
+   "deliverables": [
+    "Impact diligence assessment for prospective investments",
+    "Theory of change and impact thesis articulation",
+    "IMP five dimensions mapping for each portfolio company",
+    "Impact KPI framework referencing IRIS+ metrics where relevant",
+    "Evaluation designs for priority outcome questions",
+    "LP impact report structure and portfolio data templates"
+   ],
+   "outcomes": [
+    "Impact claims backed by outcome evidence rather than activity counts alone",
+    "Portfolio companies that understand which behaviors drive both returns and social results",
+    "More credible, consistent impact reporting to LPs and other stakeholders",
+    "Clearer investment decisions about where capital can create meaningful social change"
+   ],
+   "who_we_serve": "We work with impact funds, family offices with impact mandates, foundations making program-related and mission-related investments, development finance teams and mainstream private equity and venture firms building impact or ESG strategies. We also support mission-driven founders in health, education, financial inclusion and community services. Typical moments include developing an impact thesis, pre-investment impact diligence, the first 100 days of setting measurement expectations, preparing annual LP impact reports and planning an exit that preserves the mission.",
+   "impact_lens": "This service exists because social good deserves the same rigor as financial return. Our impact investing advisory helps capital reach outcomes that matter to people: better health, more accessible education, greater financial security and stronger communities. We are careful about impact claims, because overstated impact damages trust in the whole field. And we apply behavioral science ethically, helping people do what they already want to do rather than steering them toward outcomes they did not choose.",
+   "faqs": [
+    {
+     "q": "What are the IMP five dimensions of impact?",
+     "a": "The Impact Management Project framework describes impact through five dimensions: what outcome occurs, who experiences it, how much change happens, the contribution of the enterprise relative to what would have happened otherwise, and the risk that impact differs from expectations. It provides a shared language used widely by impact investors. We use it to structure measurement and reporting, supplemented by behavioral research on how outcomes come about."
+    },
+    {
+     "q": "How do you use IRIS+ in measurement frameworks?",
+     "a": "IRIS+ is a widely used catalog of impact metrics and core metric sets organized by theme. We reference it to select standardized indicators where they fit, which supports comparability and LP reporting. We supplement standardized metrics with company-specific behavioral indicators when those better predict the outcomes that matter, and we explain how the two relate."
+    },
+    {
+     "q": "Can small portfolio companies realistically measure impact?",
+     "a": "Yes, if the framework is proportionate. Early-stage companies cannot run large evaluations, but most can track a few behavioral indicators that lead to outcomes and collect simple outcome data from a sample of the people they serve. We design measurement that fits company resources and grows in rigor as the company scales, rather than imposing a burden that distracts from the business."
+    },
+    {
+     "q": "Do you help mainstream funds that are not impact funds?",
+     "a": "Yes. Many private equity and venture firms want to understand the social effects of their portfolio companies, respond to LP questions or develop a responsible growth approach. We help them identify where portfolio companies affect employees, customers and communities, select practical indicators and integrate them into existing value creation and reporting processes without building a separate impact apparatus."
+    }
+   ],
+   "related_services": [
+    "venture-capital-advisory",
+    "portfolio-value-creation",
+    "commercial-due-diligence"
+   ],
+   "related_industries": [
+    "digital-health",
+    "healthcare-health-systems",
+    "venture-backed-startups"
+   ],
+   "related_insights": [
+    "research-to-practice-gap",
+    "ethics-of-persuasive-technology"
+   ]
+  },
+  {
+   "slug": "post-acquisition-integration",
+   "practice": "investor-venture-advisory",
+   "name": "Post-Acquisition Integration",
+   "meta_title": "Post-Acquisition Integration: People & Customers",
+   "meta_description": "Post-acquisition integration grounded in behavioral science: retain key people, protect customer relationships and integrate acquired teams after close.",
+   "primary_keyword": "post-acquisition integration",
+   "summary": "Integration support focused on the people side of a deal: retaining key talent, protecting customers and bringing acquired teams together well.",
+   "lede": "Our post-acquisition integration work focuses on the behaviors that determine whether a deal delivers: whether key people stay, whether customers remain loyal and whether acquired teams adopt new ways of working.",
+   "challenge": [
+    "Integration plans are usually strong on systems, finance and legal entities and weaker on people. Yet the reasons acquisitions underperform are often behavioral. Key engineers or sales leaders leave because they feel uncertain or undervalued. Customers who trusted the founder start to look at competitors. Acquired teams comply with new processes on paper while quietly working around them. Retention arrangements keep people on the payroll without keeping them engaged. By the time these problems appear in revenue or turnover figures, much of the value the deal was meant to capture may already be at risk.",
+    "For private equity sponsors pursuing buy-and-build strategies, the challenge repeats with each add-on, and the platform's ability to integrate becomes a core capability. For strategic acquirers and venture-backed companies making their first acquisitions, it is often a new skill learned under pressure. Post-acquisition integration grounded in behavioral science treats the human side of the deal with the same planning discipline as systems and finance, starting before close and continuing until new behaviors are established."
+   ],
+   "approach": [
+    {
+     "phase": "Observe",
+     "title": "Understand both organizations",
+     "body": "We conduct confidential interviews and listening sessions across both organizations to understand culture, informal networks, decision-making norms and concerns about the deal. We also speak with key customers where appropriate. This identifies the people, relationships and practices that carry value, and the friction points most likely to cause problems."
+    },
+    {
+     "phase": "Signal",
+     "title": "Spot retention and customer risk",
+     "body": "We analyze people and customer data for early warning signals: flight risk among key contributors, engagement shifts after announcement, changes in customer usage, support contacts and renewal behavior. We combine these with interview findings to prioritize where retention arrangements, leadership attention and customer outreach will matter most."
+    },
+    {
+     "phase": "Design",
+     "title": "Design the people integration",
+     "body": "We design the human side of integration: communication sequences that reduce uncertainty, retention arrangements that reward engagement as well as tenure, role and decision-rights clarity, onboarding for acquired employees into new systems and processes, and customer communication that protects trust. Each element is grounded in what motivates people and what makes new behaviors easy to adopt."
+    },
+    {
+     "phase": "Test",
+     "title": "Pilot and monitor adoption",
+     "body": "Before rolling out new processes or tools across the acquired organization, we pilot them with a small group, measure adoption and gather feedback. Pulse surveys and behavioral indicators track engagement and customer health through the integration period, so problems are addressed early rather than discovered in quarterly results."
+    },
+    {
+     "phase": "Scale",
+     "title": "Build repeatable integration capability",
+     "body": "We coach integration leaders and managers who must sustain the combined organization, and for platforms with active acquisition programs, we codify what worked into a repeatable integration playbook. This turns integration from a one-time scramble into a capability that strengthens with every add-on and supports the equity story at exit."
+    }
+   ],
+   "deliverables": [
+    "Cultural and organizational integration assessment",
+    "Key-person retention risk analysis and recommendations",
+    "Customer retention risk analysis and outreach plan",
+    "Integration communication plan for employees and customers",
+    "Adoption metrics and engagement pulse program",
+    "Repeatable integration playbook for buy-and-build platforms"
+   ],
+   "outcomes": [
+    "Key people retained and engaged through the uncertainty of ownership change",
+    "Customer relationships protected during the transition to new ownership and systems",
+    "Faster, more genuine adoption of shared processes and tools by acquired teams and their managers",
+    "A repeatable integration capability that supports buy-and-build strategies and strengthens with each add-on"
+   ],
+   "who_we_serve": "We support private equity sponsors and operating partners executing platform and add-on acquisitions, portfolio company CEOs and integration leaders, corporate development teams at strategic acquirers and venture-backed companies making their first acquisitions. Engagements typically begin during confirmatory diligence or between signing and close, continue through the first 100 days and extend through the first year. We are also engaged when an integration has stalled and leadership needs to understand why people and customers are not following the plan.",
+   "impact_lens": "Acquisitions are disruptive for the people who live through them. Employees worry about their jobs, customers worry about service and communities worry about local operations. Post-acquisition integration done with care reduces needless anxiety, treats people honestly and preserves the relationships that made the acquired company valuable. We help acquirers make decisions transparently, support affected employees well and protect customer trust, which serves both the people involved and the long-term value of the combined business.",
+   "faqs": [
+    {
+     "q": "When should integration planning start?",
+     "a": "Ideally during confirmatory diligence. Understanding culture, key people and customer relationships before close allows the deal team to plan retention arrangements, communication and leadership roles in advance. Day one messages and the first weeks after announcement shape how employees and customers interpret everything that follows, so early preparation has an outsized influence on how the integration unfolds."
+    },
+    {
+     "q": "How do you approach retention arrangements for key people?",
+     "a": "Retention bonuses and equity rollovers keep people on the payroll, but they do not guarantee engagement. We help design arrangements that combine financial incentives with clarity about role, growth and recognition, which matter at least as much to many contributors. We also identify which people are truly critical, based on knowledge, relationships and influence, rather than relying on title alone."
+    },
+    {
+     "q": "Can you help with cultural integration?",
+     "a": "Yes, though we approach culture through behavior rather than abstract values statements. We identify the specific practices that differ between organizations, such as how decisions are made, how information flows and how performance is recognized, and focus on the ones that most affect results. Changing a small number of concrete behaviors tends to be more effective than broad cultural programs."
+    },
+    {
+     "q": "Do you work on repeated add-on acquisitions?",
+     "a": "Frequently. Buy-and-build strategies depend on integrating acquisitions efficiently and consistently. We help platforms learn from each integration, refine their approach and codify it into a practical playbook that internal teams can run. Over time this reduces dependence on outside support and makes integration capability part of the platform's value. Each integration also becomes a source of evidence for the next."
+    }
+   ],
+   "related_services": [
+    "private-equity-advisory",
+    "management-team-assessment",
+    "portfolio-value-creation"
+   ],
+   "related_industries": [
+    "private-equity-portfolio-companies",
+    "professional-services",
+    "healthcare-health-systems"
+   ],
+   "related_insights": [
+    "group-behavior-change",
+    "people-problems-are-business-problems"
+   ]
+  }
+ ]
 }

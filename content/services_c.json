@@ -9,7 +9,7 @@
       "intro": [
         "Every commercial number is the sum of decisions people make: a buyer agreeing to a second meeting, a relationship manager introducing a colleague, a customer renewing instead of drifting away. Most growth plans treat those decisions as volume to be pushed. Our growth and commercial strategy work treats them as behavior to be understood, because behavior can be observed, predicted and improved with far more precision than a forecast built on last year's averages.",
         "We bring behavioral science, process design and data analysis to the moments where revenue is won or lost. That means mapping how deals actually move through a firm, testing which messages change minds, and defining the leading indicators that tell a leadership team whether a strategy is working before the quarter closes. The same lens serves investors, who need to know whether a company's customers and leaders will behave the way the investment thesis assumes.",
-        "Our perspective is shaped by practice as much as theory. We have mapped cross-sell processes in commercial real estate capital markets, researched the gap between an industry's real benefits and public perception, and founded and scaled software companies of our own. We know what it takes to turn insight into a pipeline that moves, a product people adopt and a customer base that stays."
+        "Our perspective is shaped by practice as much as theory. We treat sales processes, messaging and products as behavioral systems, and we know what it takes to turn insight into a pipeline that moves, a product people adopt and a customer base that stays."
       ],
       "themes": [
         {
@@ -65,7 +65,7 @@
       "lede": "A cross-sell strategy fails or succeeds in small moments: a banker deciding whether to introduce a colleague, a client deciding whether to take the meeting. We map those moments, measure them and redesign the process around them.",
       "challenge": [
         "Most firms with more than one line of business believe their clients should buy more than one thing from them. Leadership sets cross-sell targets, launches incentive plans and builds shared CRM fields. Yet the referrals stay thin. The reasons are rarely about effort. Producers worry that a colleague will mishandle a relationship they spent years building. Clients are not sure what the second service is or why it matters to them now. Credit for the outcome is ambiguous, so the safest choice is to do nothing.",
-        "Those are behavioral problems, and a cross-sell strategy that ignores them tends to produce activity without results. In commercial real estate capital markets, for example, we have seen that the decisive moments sit in handoffs between debt, equity, investment sales and servicing teams, where accountability blurs and information gets lost. Until a firm can see which handoffs convert, which stall and why, incentive changes and training programs are educated guesses rather than interventions aimed at a known cause."
+        "Those are behavioral problems, and a cross-sell strategy that ignores them tends to produce activity without results. In firms with several service lines, for example, the decisive moments often sit in handoffs between teams, where accountability blurs and information gets lost. Until a firm can see which handoffs convert, which stall and why, incentive changes and training programs are educated guesses rather than interventions aimed at a known cause."
       ],
       "approach": [
         {
@@ -108,7 +108,7 @@
         "Clients understand why a second service is relevant to them at the moment it is offered",
         "Pipeline reviews track leading indicators of cross-sell rather than waiting for quarterly revenue results"
       ],
-      "who_we_serve": "We work with heads of sales, chief revenue officers, managing directors and practice leaders in multi-line firms: commercial real estate capital markets platforms, banks and wealth managers, professional services firms and B2B technology companies. Typical trigger moments include a merger that brought new service lines under one brand, a cross-sell target that keeps being missed, a new CRM rollout, or a strategic plan that depends on deepening existing client relationships rather than winning new ones.",
+      "who_we_serve": "We work with heads of sales, chief revenue officers, managing directors and practice leaders in multi-line firms: real estate services firms, banks and wealth managers, professional services firms and B2B technology companies. Typical trigger moments include a merger that brought new service lines under one brand, a cross-sell target that keeps being missed, a new CRM rollout, or a strategic plan that depends on deepening existing client relationships rather than winning new ones.",
       "impact_lens": "Good cross-selling serves clients first. When handoffs are clear, clients get coordinated advice instead of fragmented pitches and spend less time repeating their story to different teams. Employees benefit from a process that protects their relationships and recognizes collaboration fairly, which reduces internal friction and turf conflict. Firms that build trust this way earn deeper relationships honestly, and we deliberately avoid pressure tactics that sell products clients do not need.",
       "faqs": [
         {
@@ -155,7 +155,7 @@
       "lede": "Brand messaging research should tell you more than which tagline people like. We study the gap between what your audience believes and what is true, then test which framing actually changes beliefs and behavior.",
       "challenge": [
         "Many messaging decisions are made in a conference room. A team debates three headlines, picks the one leadership prefers, and launches. When results disappoint, the explanation is usually creative execution or media spend. The deeper issue is often that nobody established what the audience currently believes, which beliefs are blocking action, and whether the chosen message addresses them at all. Preference surveys add little, because people are poor predictors of what will persuade them.",
-        "The gap between an organization's real value and public perception can be wide. We have researched exactly that gap for an industry whose genuine benefits were poorly understood by consumers, in order to ground an education campaign in evidence rather than assumption. That work showed how much depends on framing: whether a benefit is expressed as a gain or an avoided loss, whether it is anchored to something familiar, and whether the messenger is trusted. Small framing choices carry large consequences."
+        "The gap between an organization's real value and public perception can be wide. Closing it starts with research into how audiences actually perceive the benefits, so messaging rests on evidence rather than assumption. Much depends on framing: whether a benefit is expressed as a gain or an avoided loss, whether it is anchored to something familiar, and whether the messenger is trusted. Small framing choices carry large consequences."
       ],
       "approach": [
         {
@@ -422,10 +422,10 @@
       "meta_description": "Product strategy consulting from former founders: jobs to be done research, behavioral evidence, prototyping and user testing to build products people adopt.",
       "primary_keyword": "product strategy consulting",
       "summary": "Decide what to build and why, using jobs-to-be-done research, behavioral evidence and fast user testing from a team that has founded products.",
-      "lede": "Our product strategy consulting is shaped by having founded and scaled software products ourselves. We help teams decide what to build by studying the behavior they need to change, then prototyping and testing before committing engineering time.",
+      "lede": "Our product strategy consulting treats every product decision as a behavioral bet. We help teams decide what to build by studying the behavior they need to change, then prototyping and testing before committing engineering time.",
       "challenge": [
         "Product roadmaps fill up quickly. Sales relays customer requests, executives bring ideas from board meetings, engineers propose technical improvements and competitors ship features that feel urgent to match. Without a clear model of what users are trying to accomplish and which behaviors drive adoption and retention, prioritization becomes a negotiation. Teams ship steadily, yet the product grows more complex without becoming more valuable, and usage data shows features that few people touch.",
-        "We have lived this problem from the inside. We founded and scaled a research-dissemination platform built on social technology, and a website compliance archiving product for banks and dealerships, and learned that the hardest product questions are behavioral. Will people change an established habit to use this? What prompt will bring them back? What makes a compliance officer trust an automated record? We have also taught behavioral design, user testing and human-computer interaction, and we bring that discipline to the product strategy work we do for clients."
+        "The hardest product questions are behavioral. Will people change an established habit to use this? What prompt will bring them back? What makes a cautious buyer trust an automated tool? We bring the discipline of behavioral design, user testing and human-computer interaction to these questions, so product strategy rests on evidence about behavior rather than enthusiasm for features."
       ],
       "approach": [
         {
@@ -485,7 +485,7 @@
         },
         {
           "q": "Can you help an early-stage startup?",
-          "a": "Yes. Early-stage companies often benefit most, because untested assumptions are cheapest to correct before they are built into the product and the sales story. We tailor the scope to the stage, focusing on the few questions that most affect product-market fit and the evidence investors will want to see. We have been in that position ourselves, which shapes how practical our advice is."
+          "a": "Yes. Early-stage companies often benefit most, because untested assumptions are cheapest to correct before they are built into the product and the sales story. We tailor the scope to the stage, focusing on the few questions that most affect product-market fit and the evidence investors will want to see."
         }
       ],
       "related_services": [
@@ -875,7 +875,7 @@
       "lede": "Effective learning design measures success by what learners do afterward, not by completion rates. We draw on adult learning, behavioral science and years of university teaching to build programs that change practice in classrooms, clinics and workplaces.",
       "challenge": [
         "Organizations invest heavily in education and training, yet much of it fails to change behavior. Continuing education courses are completed for credit and forgotten. Professional development days leave teachers inspired on Friday and back to old routines on Monday. Online modules produce completion certificates without new practice. The underlying issue is that many programs are designed to transfer information, while the real goal is a change in what people do under real conditions, with competing demands and limited time.",
-        "We have taught behavioral design, user testing, human-computer interaction and data visualization at a design institute, and we bring both classroom experience and behavioral science to learning design. Adult learners need relevance, autonomy and the chance to apply new skills to their own problems. Habits change through practice, feedback and prompts in context. Learning design that respects these principles, and that is evaluated by changes in practice, produces programs that matter to learners and to the people they serve."
+        "We bring behavioral science and instructional experience to learning design. Adult learners need relevance, autonomy and the chance to apply new skills to their own problems. Habits change through practice, feedback and prompts in context. Learning design that respects these principles, and that is evaluated by changes in practice, produces programs that matter to learners and to the people they serve."
       ],
       "approach": [
         {
@@ -965,7 +965,7 @@
       "lede": "Research translation turns findings into knowledge people can understand and act on. We help researchers, academic medical centers and associations design and test dissemination that reaches clinicians, educators, policymakers and the public.",
       "challenge": [
         "Valuable research too often reaches only other researchers. Findings appear in journals behind paywalls, written for specialists, while the clinicians, teachers, community leaders and patients who could use them never encounter them or cannot interpret them. The research-to-practice gap is well documented and costly. Evidence that could improve care, learning or public policy waits years to be adopted, and public trust in science suffers when people encounter it mostly through oversimplified headlines.",
-        "We have worked on this problem from several directions. We founded a research-dissemination platform built on social technology, designed to help scientific knowledge travel beyond academic circles. We have taught data visualization and behavioral design. We have studied how audiences interpret evidence. Effective research translation requires understanding what specific audiences need, how they make decisions, which formats and messengers they trust, and how to communicate uncertainty honestly. It is a design and behavior problem, not only a writing problem."
+        "We approach this problem through behavioral design, data visualization and research on how audiences interpret evidence. Effective research translation requires understanding what specific audiences need, how they make decisions, which formats and messengers they trust, and how to communicate uncertainty honestly. It is a design and behavior problem, not only a writing problem."
       ],
       "approach": [
         {
@@ -1055,7 +1055,7 @@
       "lede": "A public awareness campaign should change what people understand and do, not just how many see it. We research the gap between evidence and public perception, design ethical messages, and test them before launch.",
       "challenge": [
         "Public education campaigns often begin with a creative concept rather than an understanding of the audience. Organizations know their message is important, so they assume visibility will lead to understanding and action. But awareness alone rarely changes behavior. People filter information through existing beliefs, trusted sources and practical constraints. A campaign that ignores those filters may reach millions of people and change very little, or worse, reinforce misconceptions by repeating them.",
-        "We have researched the gap between an industry's real benefits and consumer perception specifically to ground an education campaign in science. That work showed how much campaigns depend on understanding which beliefs block action, which messengers are trusted and how framing affects interpretation. Public health and education campaigns face the same challenges with higher stakes. A public awareness campaign grounded in behavioral science targets the beliefs and barriers that matter, uses honest framing and builds in evaluation from the start."
+        "Effective education campaigns depend on understanding which beliefs block action, which messengers are trusted and how framing affects interpretation. Public health and education campaigns face the same challenges with higher stakes. A public awareness campaign grounded in behavioral science targets the beliefs and barriers that matter, uses honest framing and builds in evaluation from the start."
       ],
       "approach": [
         {

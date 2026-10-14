@@ -387,9 +387,6 @@ ul.bullets.plain.light, ul.bullets.plain.light li { border-color: var(--line-dar
 ul.bullets.plain.light li a { color: #fff; }
 .section-dark .split figure::before { border-color: rgba(214,180,126,.5); }
 .sig .card { padding-top: 28px; }
-.exp-title { text-align: center; font: 600 .72rem/1.4 var(--sans); letter-spacing: .16em; text-transform: uppercase; color: var(--muted); margin-bottom: 26px; }
-.exp-list { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 14px 40px; }
-.exp-list li { font: 400 1.15rem/1.3 var(--serif); color: var(--ink); opacity: .82; }
 @media (max-width: 1080px) { .mega-grid { grid-template-columns: repeat(4, 1fr); } }
 @media (max-width: 900px) { .mega-grid { grid-template-columns: 1fr 1fr; } .practices-grid .practice-wide { grid-column: auto; } .practices-grid .practice-wide ul { columns: 1; } }
 @media (max-width: 640px) { .mega-grid { grid-template-columns: 1fr; } }

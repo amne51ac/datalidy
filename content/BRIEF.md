@@ -1,7 +1,7 @@
 # Datalidy content brief
 
 ## The firm
-Datalidy (website: datalidy.com) is a Chicago-based behavioral science and data advisory firm. It began in 2003 as a behavioral design consultancy and is rooted in clinical and health psychology, behavioral medicine, human-computer interaction (HCI), persuasive technology, research methods and psychometrics, university teaching in design and computing, startup founding and product development, and executive coaching.
+Datalidy (website: datalidy.com) is a behavioral science and data advisory firm grounded in clinical and health psychology, behavioral medicine, human-computer interaction (HCI), persuasive technology, research methods and psychometrics, product development, and executive coaching.
 
 Its core belief: **performance is behavior.** Customer conversion, technology adoption, patient adherence, employee engagement and leadership effectiveness are all behaviors, and behaviors leave signals in data. Predicting how people will behave should not be an expensive guess.
 
@@ -34,8 +34,9 @@ Positioning lines: "Read the signals. Design the behavior. Measure what matters.
 Formal, confident, precise, warm but not casual; scientifically literate without jargon walls. Written for executives, founders, product and marketing leaders, health system and association leaders, and investors. Concrete and specific, no filler, no hype ("revolutionary", "synergy", "cutting-edge", "unlock", "leverage" as a verb, "in today's fast-paced world", "delve"). American English. No em dashes; use commas, colons or periods.
 
 ## Hard rules
-- Never name any person (no founders, staff, partners or individual clients). Never name client organizations; the site lists selected organizations in one place that the editor controls.
-- NO invented statistics, percentages, dollar figures, case studies, testimonials, awards or headcounts. You may describe types of past work generically ("for an automotive brand's owner-experience center", "for a mortgage lender") but never with results numbers.
+- Never name any person (no founders, staff, partners or individual clients) and never name client organizations. No client lists.
+- No identifying specifics about the people behind the firm or their past work: no founding year, years of experience, location, degrees, teaching posts, previous companies or startups, or descriptions of specific past projects (e.g. "for an automotive brand", "cross-sell in commercial real estate capital markets"). Describe capabilities and disciplines generically instead.
+- NO invented statistics, percentages, dollar figures, case studies, testimonials, awards or headcounts.
 - No promises of guaranteed results.
 - Every page must be genuinely useful and distinct, written for search intent. Include the primary keyword naturally in the lede and a few times in the body. No keyword stuffing.
 - Plain text only in strings (no Markdown, no HTML).

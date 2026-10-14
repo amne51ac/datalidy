@@ -310,16 +310,6 @@ def toc_html(pg, items, cta=True):
 
 # ---------------------------------------------------------------- pages
 
-EXPERIENCE = ["American Heart Association", "American Medical Association", "Northwestern University Feinberg School of Medicine",
-              "Stanford Persuasive Technology Lab", "Rush University Medical Center", "Audi USA", "Success Mortgage Partners",
-              "IHRSA"]
-
-
-def experience_strip(title="Selected organizations our principals have advised"):
-    items = "".join(f"<li>{e(x)}</li>" for x in EXPERIENCE)
-    return f'<section class="section-tight section-white"><div class="wrap"><p class="exp-title">{e(title)}</p><ul class="exp-list">{items}</ul></div></section>'
-
-
 def build_home():
     pg = Page("")
     practice_cards = []
@@ -353,7 +343,7 @@ def build_home():
   <p class="lede">{BRAND} is a behavioral science and data advisory firm for investors, leaders and mission-driven institutions. We find the human behaviors that predict performance in customers, teams and portfolios, then design the changes that move them, for returns and for the public good.</p>
   <div class="hero-actions"><a class="btn btn-primary" href="contact/">Start a conversation {ARROW}</a><a class="btn btn-ghost" href="services/behavioral-signals-design/">Behavioral Signals Design</a></div>
   <div class="hero-stats">
-    <div><strong>Since 2003</strong><span>Behavioral design and research roots</span></div>
+    <div><strong>Evidence-led</strong><span>Behavioral science and research methods</span></div>
     <div><strong>{len(PRACTICES)} practices</strong><span>From investor advisory to public good</span></div>
     <div><strong>{len(SERVICES)} services</strong><span>One evidence-led method underneath</span></div>
     <div><strong>One conviction</strong><span>Performance is behavior</span></div>
@@ -433,7 +423,6 @@ def build_home():
   <p style="margin-top:40px"><a class="link-arrow" href="approach/">How we work</a></p>
 </div></section>
 
-{experience_strip()}
 
 <section class="section"><div class="wrap">
   <div class="section-head"><div><span class="eyebrow">Industries</span><h2>Where we work.</h2></div>
@@ -719,22 +708,21 @@ def build_about():
     wc = "".join(f'<div class="card"><h3>{e(t)}</h3><p>{e(b)}</p></div>' for t, b in who)
     disciplines = ["Behavioral science and behavioral design", "Clinical and health psychology", "Behavioral medicine",
                    "Human-computer interaction and usability", "Persuasive technology", "Research methods and psychometrics",
-                   "Data analysis and visualization", "Executive and team coaching", "Startup founding and product development",
-                   "University teaching in design and computing"]
+                   "Data analysis and visualization", "Executive and team coaching", "Product development and operations"]
     disc = "".join(f"<li>{e(d)}</li>" for d in disciplines)
     body = f"""<section class="hero hero-page"><div class="wrap">
 {crumbs_html(pg, trail)}
 <span class="eyebrow">About {BRAND}</span><h1>We make human behavior measurable, predictable and improvable.</h1>
-<p class="lede">{BRAND} is a Chicago-based behavioral science and data advisory firm. We help investors, leaders and mission-driven institutions solve the people problems that decide performance, inside the business and beyond it, and we hold that work to the standard of the public good.</p></div></section>
+<p class="lede">{BRAND} is a behavioral science and data advisory firm. We help investors, leaders and mission-driven institutions solve the people problems that decide performance, inside the business and beyond it, and we hold that work to the standard of the public good.</p></div></section>
 <section class="section"><div class="wrap"><div class="belief">
-<div><span class="eyebrow">Our story</span><h2>Two decades of applied behavioral science.</h2></div>
+<div><span class="eyebrow">Our story</span><h2>Applied behavioral science, built for decisions.</h2></div>
 <div class="prose">
-<p>{BRAND} began in 2003 as a behavioral design consultancy, working at the intersection of psychology, health and technology. Over two decades our principals have built that practice across academic medicine and public health, university classrooms in design and computing, startups we founded and scaled, and enterprise programs for some of the most recognized brands in the country.</p>
+<p>{BRAND} works at the intersection of psychology, health, technology and business. Our practice brings together behavioral science, research methods, design and coaching, applied to the questions investors, executives and mission-driven leaders actually face.</p>
 <p>Along the way we learned something simple. Organizations are drowning in data and starving for signal. The behaviors that actually predict conversion, adoption, adherence, engagement and leadership effectiveness are usually hiding in plain sight, buried in systems that were never integrated and covered by assumptions that were never tested.</p>
 <p>So we built a way to find them. Our Behavioral Signals Design approach turns noisy data into predictive, behavior-based KPIs and clear experiments. Our coaching practice helps leaders and teams act on what the signals show. And our commitment to social impact keeps the work honest: behavioral science should help people do what they already want to do, never manipulate them.</p>
 </div></div></div></section>
 <section class="section section-alt"><div class="wrap"><div class="belief">
-<div><span class="eyebrow">Our expertise</span><h2>The disciplines behind the work.</h2><p class="lede" style="margin-top:16px">Our principals are PhD-trained behavioral scientists, executive coaches, founders and university faculty.</p></div>
+<div><span class="eyebrow">Our expertise</span><h2>The disciplines behind the work.</h2><p class="lede" style="margin-top:16px">Our work combines behavioral science, research rigor, design craft and coaching experience.</p></div>
 <div class="prose"><ul class="bullets">{disc}</ul></div></div></div></section>
 <section class="section section-dark"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Our values</span><h2>What we stand for.</h2></div><p></p></div>
 <div class="grid g3">
@@ -744,10 +732,9 @@ def build_about():
 </div></div></section>
 <section class="section"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Who we serve</span><h2>Our clients.</h2></div><p>We work with people who believe that understanding human behavior is both the right thing to do and the smart thing to do.</p></div>
 <div class="grid g4">{wc}</div></div></section>
-{experience_strip()}
 {cta_band(pg)}"""
     write(pg, layout(pg, title="About Our Firm", active="about",
-                     description="Datalidy is a Chicago-based behavioral science and data advisory firm, rooted in psychology, HCI and coaching, serving investors, leaders and the public good.",
+                     description="Datalidy is a behavioral science and data advisory firm, grounded in psychology, HCI and coaching, serving investors, leaders and the public good.",
                      body=body, ld=[crumbs_ld(trail), ORG_LD], img=IMG_PAGE["about"]), "0.8")
 
 
