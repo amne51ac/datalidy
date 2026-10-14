@@ -33,6 +33,9 @@ IMG_INDUSTRY = {
     "hospitality": 258154,
 }
 IMG_TOPIC = {"Design": 3810792, "Leadership": 3184338, "Analytics": 3862130, "Impact": 6646918, "Strategy": 3183197, "Capital": 1181396}
+POOL = [3810792, 3184360, 1595385, 7688336, 3184287, 6646918, 3183197, 3862130, 3184291, 6647037, 3184639,
+        1181406, 3184418, 3184465, 7579831, 2422293, 3184338, 3183150, 6994982, 1181396, 3182812, 7092613, 3861969, 1108101,
+        323705, 264636, 1105766, 433308, 258154, 290595]
 IMG_PAGE = {"home": 290595, "home-split": 3182812, "services": 3184639, "industries": 1105766, "insights": 3862130,
             "approach": 3184418, "about": 1595385, "contact": 3184465}
 
@@ -67,6 +70,7 @@ def load():
 
 
 PRACTICES, SERVICES, INDUSTRIES, INSIGHTS = load()
+IMG_INSIGHT = {slug: POOL[n % len(POOL)] for n, slug in enumerate(INSIGHTS)}
 
 ARROW = '<svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M2 8h11M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.6"/></svg>'
 LOGO = ('<svg viewBox="0 0 32 32" aria-hidden="true"><rect x="1" y="1" width="30" height="30" rx="3" fill="none" stroke="#d6b47e" stroke-width="1.5"/>'
@@ -280,7 +284,7 @@ def service_card(pg, s, show_practice=True):
 
 
 def insight_card(pg, a):
-    return (f'<a class="card" data-topic="{e(a["topic"])}" href="{pg.u("insights/" + a["slug"] + "/")}"><div class="card-img"><img src="{pg.u(f'assets/img/{IMG_TOPIC.get(a["topic"], 3183197)}-sm.jpg')}" alt="" loading="lazy" width="720" height="405"></div><div class="meta">{e(a["topic"])}</div>'
+    return (f'<a class="card" data-topic="{e(a["topic"])}" href="{pg.u("insights/" + a["slug"] + "/")}"><div class="card-img"><img src="{pg.u(f'assets/img/{IMG_INSIGHT[a["slug"]]}-sm.jpg')}" alt="" loading="lazy" width="720" height="405"></div><div class="meta">{e(a["topic"])}</div>'
             f'<h3>{e(a["title"])}</h3><p>{e(a["summary"])}</p><span class="more">Read</span></a>')
 
 
@@ -602,7 +606,7 @@ def build_insights():
                "publisher": {"@type": "Organization", "name": BRAND, "logo": {"@type": "ImageObject", "url": SITE + "/assets/logo.png"}},
                "mainEntityOfPage": SITE + "/" + pg.path, "image": SITE + "/assets/og.png", "datePublished": TODAY, "dateModified": TODAY}
         write(pg, layout(pg, title=a["meta_title"], description=a["meta_description"], body=body, active="insights", og_type="article",
-                         ld=[crumbs_ld(trail), art, faq_ld(a["faqs"])], img=IMG_TOPIC.get(a["topic"])), "0.7")
+                         ld=[crumbs_ld(trail), art, faq_ld(a["faqs"])], img=IMG_INSIGHT[slug]), "0.7")
 
 
 def build_approach():
