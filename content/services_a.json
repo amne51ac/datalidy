@@ -1,0 +1,1588 @@
+{
+  "practices": [
+    {
+      "slug": "capital-investment-advisory",
+      "name": "Capital & Investment Advisory",
+      "meta_title": "Capital & Investment Advisory: The People Side of Deals",
+      "meta_description": "People-focused advisory for private equity, impact investors and acquirers: human capital diligence, value creation, integration and exit readiness.",
+      "tagline": "Evidence-based advice on the people who determine whether an investment thesis holds.",
+      "intro": [
+        "Capital & Investment Advisory serves private equity sponsors, impact investors, family offices and corporate acquirers at the moments when people decisions carry the most financial weight: before signing, in the first hundred days, during integration and ahead of exit. We assess leadership teams, size organizational risk, build value creation plans that account for the workforce, and design measurement frameworks that investors and limited partners can trust. Our work sits alongside financial, commercial and legal diligence, and it answers the question those workstreams rarely address directly: can these people deliver this plan?",
+        "The people lens matters because most investment theses depend on human behavior. Revenue growth assumes a sales team that stays and performs. Margin expansion assumes managers who can redesign work without losing the operators who hold institutional knowledge. Integration assumes two cultures can agree on how decisions get made. When these assumptions fail, they tend to fail quietly and late. We bring them into view early, using structured interviews, people analytics and organizational diagnostics, so that sponsors can price risk, plan for it and act on it.",
+        "We also hold a conviction that responsible ownership and strong returns are compatible. Companies that treat employees fairly, serve customers well and earn the trust of their communities tend to be more resilient businesses. For impact and ESG-minded investors, we help translate that conviction into credible measurement, without overstating results or adding reporting burden that teams cannot sustain. We aim for evidence that boards, managers and stakeholders can all use."
+      ],
+      "themes": [
+        {
+          "title": "Leadership is the thesis",
+          "body": "Every deal model contains an implicit bet on a management team. We make that bet explicit by assessing leaders against the specific demands of the value creation plan, not against a generic competency list. Sponsors get a clear view of where the team is strong, where it is thin, and which gaps must be closed before the plan is credible."
+        },
+        {
+          "title": "Workforce risk is financial risk",
+          "body": "Key person dependency, compensation misalignment, attrition in critical roles and unresolved cultural friction all show up eventually in EBITDA. We quantify these exposures where the data allows and describe them precisely where it does not, so that investment committees can weigh people risk alongside commercial and operational risk with the same rigor."
+        },
+        {
+          "title": "Impact that holds up to scrutiny",
+          "body": "Impact and ESG claims face growing scrutiny from limited partners, regulators and the public. We help investors define outcomes that matter to employees, customers and communities, choose indicators they can collect consistently, and report with appropriate humility. The goal is measurement that informs decisions inside the portfolio, not only reporting that satisfies outside audiences."
+        }
+      ]
+    },
+    {
+      "slug": "leadership-organization",
+      "name": "Leadership & Organization",
+      "meta_title": "Leadership & Organization Consulting",
+      "meta_description": "Leadership and organization consulting grounded in evidence: org design, executive coaching, change, culture, succession and board governance.",
+      "tagline": "Stronger leaders, clearer structures and healthier cultures, built on evidence and designed with your people.",
+      "intro": [
+        "Leadership & Organization helps executives, boards and senior teams build organizations that can carry out their strategy. We work on the structures, roles, decision rights and leadership capabilities that determine how work actually gets done, and on the culture that shapes how people behave when no one is directing them. Engagements range from focused executive coaching for a single leader to enterprise-wide organizational design and change programs that touch every level of a company or public agency.",
+        "The people lens matters here because organizations are not org charts. A structure that looks efficient on paper can slow decisions, overload middle managers and push talented people out. A leadership team that appears aligned in the boardroom can send conflicting signals to the front line. We use interviews, network analysis, surveys and operational data to see how the organization really functions, then co-design changes with the people who will live inside them. That combination of measurement and participation is what makes changes stick.",
+        "Our approach follows the same disciplined arc in every engagement: Listen, Measure, Design, Deliver, Sustain. We are direct about trade-offs, specific about accountabilities and realistic about the pace at which people can absorb change. We believe that leaders who build trust, clarity and fairness inside their organizations are better placed to serve customers and communities well, and that this is also the most reliable route to lasting performance."
+      ],
+      "themes": [
+        {
+          "title": "Clarity before capability",
+          "body": "Many leadership problems are design problems in disguise. When decision rights are ambiguous, spans of control are uneven or accountabilities overlap, even capable leaders struggle. We start by clarifying who decides what, how teams connect and where work gets stuck, so that development investments build on a structure that lets people succeed rather than compensate for one that does not."
+        },
+        {
+          "title": "Change people can sustain",
+          "body": "Organizations can absorb only so much change at once. We sequence initiatives with attention to change load, equip managers to lead conversations with their teams, and track adoption through leading indicators rather than launch dates. This reduces change fatigue and gives leaders an honest picture of whether new ways of working are taking hold."
+        },
+        {
+          "title": "Leadership as a system",
+          "body": "Individual leaders matter, but leadership is also a system of selection, development, succession, governance and team dynamics. We look at how these elements reinforce or undermine each other, from how the board oversees talent to how front-line supervisors are promoted, and design coherent improvements rather than isolated programs."
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "slug": "private-equity-advisory",
+      "practice": "capital-investment-advisory",
+      "name": "Private Equity Advisory",
+      "meta_title": "Private Equity Advisory: Human Capital & Value Creation",
+      "meta_description": "Private equity advisory focused on the people side of the deal cycle: diligence, management assessment, 100-day plans, integration and exit preparation.",
+      "primary_keyword": "private equity advisory",
+      "summary": "Human capital advice across the full deal cycle, from pre-signing diligence and management assessment through value creation, integration and exit.",
+      "lede": "Private equity advisory for sponsors and operating partners who know that people execute the investment thesis. We bring evidence on leadership, workforce and culture to every stage of ownership, from diligence to exit.",
+      "challenge": [
+        "Private equity firms have built sophisticated capabilities for financial, commercial and operational diligence, yet the human factors that drive most value creation plans are often assessed informally. Management teams are judged through a handful of meetings, workforce data arrives late and incomplete in the data room, and culture is treated as a soft topic until it becomes a hard problem. Holding periods are compressed, debt is expensive, and there is little room to discover in month nine that the CFO cannot scale or that the sales force is quietly leaving.",
+        "Operating partners carry much of this burden across many portfolio companies at once, often without dedicated human capital resources. They need consistent methods for assessing leaders, sizing workforce risk, setting people priorities in the 100-day plan and tracking progress through the hold period. Limited partners are also asking more pointed questions about talent practices, employee outcomes and responsible ownership. The firms that answer those questions credibly, with data rather than anecdote, are better positioned both to create value and to raise their next fund."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Understand the thesis and the team",
+          "body": "We begin with the deal team and operating partners to understand the investment thesis, the value creation levers and the assumptions that depend on people. Where access allows, we conduct structured interviews with management, key employees and, when appropriate, customers, to understand how the business actually runs and where leadership capacity is concentrated or thin."
+        },
+        {
+          "phase": "Measure",
+          "title": "Quantify people risk and opportunity",
+          "body": "We analyze workforce data for attrition patterns, compensation competitiveness, key person dependency, spans and layers, and labor cost structure. We assess leaders against the demands of the specific plan. The result is a fact base that sits alongside financial and commercial diligence and translates people findings into implications for the deal model."
+        },
+        {
+          "phase": "Design",
+          "title": "Build the people agenda",
+          "body": "We translate findings into a prioritized people agenda: leadership changes or additions, retention arrangements for critical talent, management incentive plan design principles, organizational changes and culture priorities. Each item links to a value creation lever, carries an owner and is sequenced realistically within the 100-day plan and the broader hold period."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Support execution through the hold",
+          "body": "We work alongside portfolio company leaders and operating partners to execute: running executive searches with defined success profiles, facilitating leadership team alignment, supporting organizational redesign and guiding managers through change. Our role is to build capability inside the company, not to create permanent dependence on advisors."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Track and report what matters",
+          "body": "We establish a small set of people metrics for board and sponsor review, such as regretted attrition in critical roles, leadership bench strength and engagement in key populations. These indicators feed board packs, LP reporting and, eventually, the exit narrative, giving sponsors evidence that the people agenda is delivering."
+        }
+      ],
+      "deliverables": [
+        "Human capital risk assessment for the investment committee",
+        "Management team assessment against the value creation plan",
+        "People workstream for the 100-day plan",
+        "Key talent retention and incentive alignment recommendations",
+        "Portfolio people metrics framework for board reporting",
+        "Exit-ready leadership and organization narrative"
+      ],
+      "outcomes": [
+        "Investment committees weigh people risk with the same rigor as commercial and financial risk",
+        "Portfolio leadership gaps are identified and addressed early in the hold period",
+        "Critical talent is retained through ownership transitions and organizational change",
+        "Sponsors can describe their human capital approach credibly to limited partners and buyers"
+      ],
+      "who_we_serve": "We work with deal partners, operating partners and heads of portfolio operations at middle-market and growth equity firms, as well as independent sponsors and family offices making control investments. Typical trigger moments include a new platform acquisition, a founder-led business moving to professional management, an underperforming portfolio company, a significant add-on that requires integration, and preparation for a sale process. We also support firms building their first in-house human capital function who want consistent methods across the portfolio.",
+      "impact_lens": "Private equity ownership shapes the working lives of many employees, and the choices sponsors make about leadership, pay, structure and culture ripple outward to customers and communities. Our private equity advisory helps sponsors make those choices with better evidence. Retaining skilled employees, investing in managers and designing fair incentive structures tend to improve service quality and stability for customers. Responsible ownership practices also build trust with communities and limited partners, and they support more durable businesses that continue to perform after exit.",
+      "faqs": [
+        {
+          "q": "What does a private equity human capital advisor do?",
+          "a": "A human capital advisor helps sponsors assess and improve the people side of an investment. That includes evaluating management teams, identifying workforce risks during diligence, building the people workstream of the 100-day plan, supporting leadership hires and organizational change, and tracking people metrics through the hold period. The aim is to make sure the leaders and workforce can deliver the value creation plan, and to surface risks early enough to act on them."
+        },
+        {
+          "q": "When should a PE firm bring in people advisors during a deal?",
+          "a": "Ideally before signing, while there is still time to adjust price, structure or the plan. Pre-close work can be scoped to the access available, often a mix of data room analysis, management sessions and reference conversations. Many sponsors also engage advisors immediately after close to build the 100-day plan, or mid-hold when a portfolio company is underperforming and the root cause appears to be leadership or organizational rather than market-driven."
+        },
+        {
+          "q": "How is this different from executive search?",
+          "a": "Executive search fills specific roles. Our work starts earlier and is broader: we assess whether the current team fits the plan, define what new roles truly require, and address organizational design, incentives and culture around those hires. When search is needed, we help define success profiles and assess finalists, and we can work alongside your preferred search firm. We have no placement fees, so our recommendations are not tied to hiring."
+        },
+        {
+          "q": "Can you work across an entire portfolio?",
+          "a": "Yes. Many operating teams want consistent methods for management assessment, people diligence and people metrics across all portfolio companies. We can design a common toolkit, train deal and operating teams to use it, and provide on-demand support for individual companies. This creates comparable data across the portfolio and helps sponsors identify patterns, such as recurring leadership gaps, that inform future investment decisions."
+        }
+      ],
+      "related_services": [
+        "human-capital-due-diligence",
+        "value-creation-planning",
+        "portfolio-leadership-assessment",
+        "exit-readiness"
+      ],
+      "related_industries": [
+        "private-equity-portfolio-companies",
+        "technology",
+        "professional-services"
+      ],
+      "related_insights": [
+        "human-capital-in-private-equity",
+        "people-problems-are-business-problems"
+      ]
+    },
+    {
+      "slug": "human-capital-due-diligence",
+      "practice": "capital-investment-advisory",
+      "name": "Human Capital Due Diligence",
+      "meta_title": "Human Capital Due Diligence for Investors & Acquirers",
+      "meta_description": "Human capital due diligence that assesses leadership, workforce risk, compensation and culture before you sign, with findings tied to your deal model.",
+      "primary_keyword": "human capital due diligence",
+      "summary": "Pre-signing assessment of leadership, workforce, compensation and culture, with findings translated into deal risks, price considerations and day-one priorities.",
+      "lede": "Human capital due diligence that gives investors and acquirers a clear, evidence-based view of leadership strength, workforce risk and cultural fit before signing, with findings tied directly to valuation and the plan.",
+      "challenge": [
+        "Most deals receive thorough financial, legal and commercial diligence, while the people who will execute the plan receive a few management presentations and a census file. Yet many post-close problems trace back to human factors that were visible, or at least discoverable, before signing: a founder whose relationships hold the customer base together, a compensation structure that cannot survive a change of control, a second layer of management that is thinner than it appears, or an engineering team with a history of quiet attrition.",
+        "Diligence timelines are short, access is limited and sellers present the business in its best light. Deal teams need a disciplined way to test people assumptions within those constraints, and to separate material risks from ordinary organizational noise. They also need findings expressed in terms an investment committee can act on: price adjustments, retention requirements, conditions to close, or priorities for the first hundred days. Human capital due diligence provides that discipline and translates it into decisions."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Structured management sessions",
+          "body": "We conduct structured interviews with the CEO and leadership team, focused on how decisions are made, how the team works together and how each leader thinks about the plan. Where permitted, we add conversations with selected second-layer managers and reference sources. We listen for consistency, depth of operating knowledge and where authority truly sits."
+        },
+        {
+          "phase": "Measure",
+          "title": "Data room people analytics",
+          "body": "We analyze the employee census, payroll, turnover history, compensation and benefits, organization charts and available engagement data. We look for attrition concentrated in critical roles, pay compression or market gaps, key person dependency, unusual spans and layers, and change of control or severance liabilities that affect the deal model."
+        },
+        {
+          "phase": "Design",
+          "title": "Risk register and deal implications",
+          "body": "We consolidate findings into a human capital risk register rated by likelihood and impact, with each risk linked to a deal implication: valuation, structure, retention arrangements, earn-out design, representations, or a 100-day action. This gives the investment committee a concise view of what matters and what does not."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Retention and day-one planning",
+          "body": "For risks that must be addressed at close, we help design retention arrangements for critical talent, outline management incentive plan principles and draft day-one communication priorities. Where a leadership change is likely, we define the role requirements and transition approach so that the business does not lose momentum during the ownership change."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Handover to the value creation plan",
+          "body": "Diligence findings should not sit in a binder. We hand over a set of baseline people metrics and open questions to the post-close team, so that the value creation plan builds directly on what diligence revealed and progress can be measured from day one. Nothing learned is lost."
+        }
+      ],
+      "deliverables": [
+        "Human capital diligence report for the investment committee",
+        "Leadership team assessment with individual and collective findings",
+        "Workforce analytics summary covering attrition, pay and structure",
+        "Human capital risk register with deal implications",
+        "Key talent retention recommendations and priorities",
+        "Baseline people metrics for post-close tracking"
+      ],
+      "outcomes": [
+        "Deal teams enter negotiations with a clear understanding of material people risks",
+        "Valuation and deal structure reflect leadership and workforce realities, not assumptions",
+        "Critical employees are identified and retained through the ownership transition",
+        "The post-close team starts with a fact base rather than rebuilding one"
+      ],
+      "who_we_serve": "Human capital due diligence is commissioned by private equity deal teams, corporate development leaders, family offices and impact investors evaluating control or significant minority investments. It is especially valuable for founder-led businesses, carve-outs from larger corporations, services businesses where talent is the core asset, and cross-border or cross-sector deals where cultural fit is uncertain. Buyers often engage us after a letter of intent is signed and confirmatory diligence begins, though earlier screening is also possible.",
+      "impact_lens": "Ownership changes create real uncertainty for employees, and poorly planned transitions can disrupt livelihoods, customer relationships and local communities. Rigorous human capital due diligence helps buyers anticipate those effects and plan responsibly: identifying fair pay issues before they become legal or reputational problems, recognizing which employees hold customer trust, and planning communication that treats people with respect. Buyers who understand the workforce they are acquiring are better positioned to keep commitments to employees and customers alike.",
+      "faqs": [
+        {
+          "q": "What is included in human capital due diligence?",
+          "a": "Typical scope covers leadership team assessment, workforce demographics and structure, turnover and retention patterns, compensation and benefits benchmarking, incentive and change of control arrangements, HR compliance indicators, and cultural fit or integration risk. Scope is tailored to the deal thesis, so a software business might emphasize engineering retention while a multi-site services business might focus on frontline turnover and labor cost structure."
+        },
+        {
+          "q": "How long does human capital due diligence take?",
+          "a": "Most engagements run in parallel with confirmatory diligence and are scoped to fit the deal timeline, often a few weeks. A focused red flag review can be completed faster when timing is tight. The depth of work depends on data room quality and access to management. We agree on scope and key questions with the deal team at the outset so findings arrive in time to inform the investment committee decision."
+        },
+        {
+          "q": "Can you assess culture during diligence?",
+          "a": "Yes, within the limits of access. We combine management interviews, available survey data, review platform signals, turnover patterns and observation of how the leadership team operates together. We avoid vague labels and instead describe specific cultural characteristics, such as how decisions get made or how performance is managed, that are relevant to the plan or to integration with an existing business."
+        },
+        {
+          "q": "How do findings affect the deal?",
+          "a": "Findings can inform price, structure and planning. Examples include retention or rollover arrangements for key leaders, earn-out terms aligned to people dependencies, specific representations and warranties, conditions related to leadership hires, and priorities for the 100-day plan. Not every finding changes the deal, and part of our job is distinguishing material risks from ordinary issues that any business of similar size would have."
+        }
+      ],
+      "related_services": [
+        "private-equity-advisory",
+        "post-merger-integration",
+        "portfolio-leadership-assessment",
+        "people-analytics"
+      ],
+      "related_industries": [
+        "private-equity-portfolio-companies",
+        "professional-services",
+        "healthcare"
+      ],
+      "related_insights": [
+        "culture-due-diligence",
+        "human-capital-in-private-equity"
+      ]
+    },
+    {
+      "slug": "value-creation-planning",
+      "practice": "capital-investment-advisory",
+      "name": "Value Creation Planning",
+      "meta_title": "Value Creation Planning with a Human Capital Lens",
+      "meta_description": "Value creation planning that links each lever in the investment thesis to the leaders, structure and workforce capabilities needed to deliver it.",
+      "primary_keyword": "value creation planning",
+      "summary": "Value creation plans and 100-day plans that connect each financial lever to the leadership, organization and workforce capabilities required to deliver it.",
+      "lede": "Value creation planning that ties every lever in your investment thesis to the people, roles and capabilities needed to execute it, so the 100-day plan and the full hold period rest on a realistic foundation.",
+      "challenge": [
+        "Value creation plans are usually built from the financial model outward: pricing initiatives, procurement savings, add-on acquisitions, new market entry, operational improvement. Each lever looks sound on a spreadsheet. What is often missing is a rigorous view of who will do the work, whether they have the capacity and capability, and what organizational changes are required. Plans that ask an already stretched leadership team to run five major initiatives simultaneously tend to stall, regardless of the quality of the analysis behind them.",
+        "The first hundred days set the tone for the entire hold period. Employees are watching for signals about the new owner, managers are uncertain about their roles, and the leadership team is absorbing new reporting requirements. A value creation plan that ignores this human context can trigger the very attrition and disengagement that undermine it. Sponsors and management teams need plans that are ambitious about outcomes and honest about the people and organizational conditions needed to get there."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Test the plan with those who will run it",
+          "body": "We interview the leadership team, key managers and selected frontline employees about each value creation lever: what it will take, what has been tried before and what might get in the way. These conversations surface execution risks and hidden capacity constraints that do not appear in the financial model."
+        },
+        {
+          "phase": "Measure",
+          "title": "Capacity and capability baseline",
+          "body": "We map initiatives against the leaders and teams responsible, assess bandwidth and skills gaps, and establish a baseline of people indicators such as turnover in critical roles, manager spans and engagement. This shows where the plan is under-resourced and which capabilities must be hired, built or borrowed."
+        },
+        {
+          "phase": "Design",
+          "title": "An integrated, sequenced plan",
+          "body": "We co-design a value creation plan that pairs each lever with named owners, required organizational changes, talent moves and milestones. Initiatives are sequenced to respect change capacity. The 100-day plan sets out early decisions, quick wins and communications, with clear governance for how the sponsor and management will review progress."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Program management and enablement",
+          "body": "We help stand up a value creation office or equivalent governance rhythm, support leaders in launching initiatives, and coach managers on communicating change. Where new roles are created, we help define them and integrate new hires. The emphasis is on building internal capability to run the plan."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Leading indicators and course correction",
+          "body": "We build a dashboard that tracks both financial milestones and the people indicators that predict them, such as hiring velocity for growth roles or retention of key operators. Quarterly reviews use this evidence to adjust priorities before problems show up in the results. Boards see causes, not only results."
+        }
+      ],
+      "deliverables": [
+        "Integrated value creation plan with people requirements per lever",
+        "100-day plan with decisions, owners and communications",
+        "Leadership capacity and capability gap analysis",
+        "Organizational changes and critical hires roadmap",
+        "Value creation governance model and meeting cadence",
+        "Dashboard combining financial milestones and people leading indicators"
+      ],
+      "outcomes": [
+        "Value creation initiatives have clear owners with the capacity to deliver them",
+        "The first hundred days build confidence among employees rather than uncertainty",
+        "Sponsors and management share one realistic view of priorities and sequencing",
+        "Execution risks surface early through leading indicators instead of missed quarters"
+      ],
+      "who_we_serve": "Our value creation planning clients include private equity operating partners, portfolio company CEOs and CFOs, and boards of sponsor-backed companies. Common trigger moments are the period immediately after close, a change in CEO, a refreshed plan midway through the hold, or an add-on acquisition that changes the shape of the business. We also work with impact investors and family offices who want growth plans that account for employee and community outcomes alongside financial returns.",
+      "impact_lens": "A well-designed value creation plan can raise the quality of work as well as the quality of earnings. When plans account for workload, invest in managers and create clearer roles, employees experience less chaos and more opportunity to grow. Customers benefit from steadier service and fewer disruptions during change. Plans that consider local hiring, fair pay progression and community relationships can also strengthen the places where portfolio companies operate. These outcomes support the financial thesis rather than compete with it.",
+      "faqs": [
+        {
+          "q": "What is a value creation plan in private equity?",
+          "a": "A value creation plan sets out how an investor and management team intend to increase the value of a business during the holding period. It typically covers revenue growth, margin improvement, add-on acquisitions, capital efficiency and organizational strengthening, with milestones, owners and governance. The best plans connect each initiative to the people and capabilities required, because execution capacity is often the binding constraint."
+        },
+        {
+          "q": "What should a 100-day plan include?",
+          "a": "A strong 100-day plan covers early leadership decisions, confirmation of the value creation priorities, key talent retention, reporting and governance changes, quick wins that build credibility, and a communication plan for employees, customers and other stakeholders. It should be specific about owners and dates, and realistic about how much change the organization can absorb while still running the business."
+        },
+        {
+          "q": "How do you account for people in a value creation plan?",
+          "a": "For each initiative, we identify who will lead it, what skills and capacity it requires, which organizational changes it depends on, and which employees are critical to its success. We then compare those requirements with the current organization. Gaps become explicit actions, such as a new hire, a role change, training or retention arrangements, and are tracked like any other milestone."
+        },
+        {
+          "q": "Can you support a plan that has already been written?",
+          "a": "Yes. Many engagements begin with a plan that exists but is not progressing as expected. We review it with the leadership team, diagnose where people and organizational constraints are slowing execution, and recommend adjustments to sequencing, ownership, resourcing or governance. This is often faster and more useful than starting again."
+        }
+      ],
+      "related_services": [
+        "private-equity-advisory",
+        "strategic-workforce-planning",
+        "operating-model-design",
+        "impact-dashboards"
+      ],
+      "related_industries": [
+        "private-equity-portfolio-companies",
+        "manufacturing",
+        "healthcare"
+      ],
+      "related_insights": [
+        "human-capital-in-private-equity",
+        "leading-and-lagging-indicators"
+      ]
+    },
+    {
+      "slug": "post-merger-integration",
+      "practice": "capital-investment-advisory",
+      "name": "Post-Merger Integration",
+      "meta_title": "Post-Merger Integration Consulting: People & Culture",
+      "meta_description": "Post-merger integration consulting focused on leadership selection, organization design, culture and retention so combined businesses deliver the deal case.",
+      "primary_keyword": "post-merger integration",
+      "summary": "Integration support for acquisitions, mergers and carve-outs, focused on leadership, organization design, culture and retaining the people who carry the deal value.",
+      "lede": "Post-merger integration consulting that puts people at the center: selecting leaders fairly, designing the combined organization, bridging cultures and retaining critical talent so the combined business delivers its deal case.",
+      "challenge": [
+        "Acquisitions are often justified by cost and revenue assumptions that depend on two groups of people learning to work as one. Integration teams typically manage systems, finance and legal workstreams well, while the human questions arrive all at once: who leads which function, which roles change or disappear, whose processes prevail and how decisions will be made. Uncertainty spreads quickly, and the most marketable employees, often the ones the buyer most needs, are the first to take calls from recruiters.",
+        "Carve-outs add their own complexity. A business leaving a larger parent must stand up functions it never owned, define its own culture and leadership team, and manage transition service agreements while keeping customers served. Roll-up strategies compound the challenge by repeating integration many times, often with lean teams. In every case, culture clashes, unclear decision rights and poorly handled selection processes erode trust and productivity in ways that rarely appear in integration status reports until value is already lost."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Understand both organizations",
+          "body": "We interview leaders and employees across both organizations, and conduct focus groups in key functions, to understand how each company actually works: how decisions are made, how performance is managed, what people value and what they fear about the deal. This surfaces cultural differences that matter for integration rather than surface-level contrasts."
+        },
+        {
+          "phase": "Measure",
+          "title": "Integration baseline and risk map",
+          "body": "We compare organization structures, spans and layers, job architectures, compensation and benefits, and retention patterns across both businesses. We identify roles critical to deal value and employees at elevated flight risk. A short pulse survey establishes a baseline for sentiment that we track through integration."
+        },
+        {
+          "phase": "Design",
+          "title": "Combined organization and ways of working",
+          "body": "We design the combined organization top down, from leadership structure to functional design, and define decision rights for the integrated business. We develop a fair, transparent selection process for leadership and key roles, harmonization principles for pay and benefits, and a deliberate culture integration plan built with leaders from both sides."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Integration management and change",
+          "body": "We support the integration management office on people workstreams, coordinate leadership selection, prepare managers for difficult conversations and deliver change communications. For carve-outs, we help build standalone functions and leadership. Day one and day one hundred milestones are planned in detail, with attention to how each change lands for employees."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Track integration health",
+          "body": "We monitor retention of critical talent, sentiment, cross-team collaboration and adoption of new processes against the baseline. Integration governance uses this evidence to intervene early. When the formal integration closes, we hand over metrics and ownership to the combined leadership team. Lessons learned inform the next acquisition, which matters for serial acquirers."
+        }
+      ],
+      "deliverables": [
+        "Cultural assessment comparing both organizations on decision-relevant dimensions",
+        "Combined organization design and decision rights framework",
+        "Leadership and key role selection process and criteria",
+        "Critical talent retention plan with flight risk analysis",
+        "Day one and first hundred days people and communications plan",
+        "Integration health dashboard tracking retention and sentiment"
+      ],
+      "outcomes": [
+        "Leaders for the combined organization are selected through a process employees regard as fair",
+        "Critical talent stays through integration and contributes to the deal case",
+        "Employees understand the new structure, their roles and how decisions are made",
+        "Cultural differences are addressed deliberately rather than left to resolve on their own"
+      ],
+      "who_we_serve": "We support corporate development leaders, chief HR officers, integration management office leads and private equity operating partners. Our post-merger integration work covers strategic acquisitions, mergers of equals, platform and add-on combinations in buy-and-build strategies, and carve-outs from larger parents. Nonprofit and healthcare mergers, where mission alignment and community trust are as important as cost structure, are also a frequent focus. Engagements usually begin between signing and close, though we also help with integrations that have stalled.",
+      "impact_lens": "Integrations affect people deeply: roles change, colleagues leave, familiar ways of working disappear. How a combined organization handles those changes signals what it values. Fair selection, honest communication and thoughtful support for affected employees preserve dignity and trust. Customers experience fewer service disruptions when the people serving them are stable and informed. For mergers involving hospitals, nonprofits or community institutions, careful integration protects access to services that communities depend on, which is a social obligation as well as a business priority.",
+      "faqs": [
+        {
+          "q": "Why do mergers fail on the people side?",
+          "a": "Common causes include delayed or opaque leadership decisions, loss of critical talent during uncertainty, unaddressed differences in how the two organizations make decisions, and integration plans that underestimate the change load on managers. Many of these issues are predictable. Assessing culture and talent risk early, and designing fair processes for selection and harmonization, reduces the chance that people issues erode the value of the deal."
+        },
+        {
+          "q": "How do you integrate two company cultures?",
+          "a": "We start by describing each culture in specific, observable terms, such as how decisions are made, how conflict is handled and how performance is recognized. Leaders from both organizations then agree on which practices the combined business will adopt, which it will retire and which it will build new. These choices are embedded in structures, processes and leadership behavior, not only communicated through values statements."
+        },
+        {
+          "q": "How is a carve-out different from a typical integration?",
+          "a": "In a carve-out, the business must build an independent organization rather than fold into an existing one. That means standing up functions previously provided by the parent, appointing a standalone leadership team, defining a distinct culture and managing transition service agreements. Employees often face uncertainty about their identity and career paths, so clear communication and early leadership decisions are especially important."
+        },
+        {
+          "q": "When should integration planning begin?",
+          "a": "Integration planning ideally begins during diligence, when cultural and talent risks are first assessed, and accelerates between signing and close. Early planning allows leadership decisions to be announced quickly after close, which reduces uncertainty. Where regulatory constraints limit information sharing before close, we use clean team arrangements and plan around what is permissible."
+        }
+      ],
+      "related_services": [
+        "human-capital-due-diligence",
+        "change-management",
+        "organizational-design",
+        "culture-transformation"
+      ],
+      "related_industries": [
+        "private-equity-portfolio-companies",
+        "healthcare",
+        "nonprofits-foundations"
+      ],
+      "related_insights": [
+        "culture-due-diligence",
+        "change-fatigue"
+      ]
+    },
+    {
+      "slug": "impact-investing-advisory",
+      "practice": "capital-investment-advisory",
+      "name": "Impact Investing Advisory",
+      "meta_title": "Impact Investing Advisory for Funds and Foundations",
+      "meta_description": "Impact investing advisory for funds, foundations and family offices: impact theses, diligence, portfolio support and stakeholder-informed measurement.",
+      "primary_keyword": "impact investing advisory",
+      "summary": "Advice for impact funds, foundations and family offices on impact theses, investment diligence, portfolio support and stakeholder-informed measurement.",
+      "lede": "Impact investing advisory for funds, foundations, family offices and CDFIs that want their capital to improve outcomes for workers, customers and communities, with evidence strong enough to guide decisions and withstand scrutiny.",
+      "challenge": [
+        "Impact investors face a demanding dual mandate. They must generate the financial returns their investors expect while producing social or environmental outcomes that are real, attributable and meaningful to the people they are meant to benefit. Many funds articulate an impact thesis at launch but struggle to apply it consistently in deal selection, to support portfolio companies in deepening impact, or to separate genuine contribution from favorable trends. Without that discipline, impact claims become difficult to defend.",
+        "The people whose lives an investment is intended to improve are often absent from the process. Impact theses are written by investors, metrics are chosen for convenience and reporting flows upward to limited partners, rarely back to employees or communities. Meanwhile, expectations from asset owners and regulators continue to rise, and accusations of impact washing carry real reputational cost. Investors need practical ways to bring stakeholder voice into investment decisions and to manage impact with the same seriousness as financial performance."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Ground the thesis in stakeholder voice",
+          "body": "We interview fund leadership, investment committee members and portfolio leaders, and, where appropriate, conduct listening sessions with workers, customers and community members affected by the strategy. This helps confirm whether the intended outcomes match what stakeholders actually need, and where the thesis may rest on untested assumptions."
+        },
+        {
+          "phase": "Measure",
+          "title": "Impact diligence and baselines",
+          "body": "We help build impact diligence into the investment process, assessing intended outcomes, depth and scale of effect, contribution and risk, using widely recognized dimensions of impact. For existing portfolios, we establish baselines on job quality, access and affordability, or other outcomes central to the thesis."
+        },
+        {
+          "phase": "Design",
+          "title": "Impact thesis and management system",
+          "body": "We co-design or refine the fund's theory of change, impact scoring approach, investment committee templates and portfolio engagement model. Where relevant, we help structure impact-linked terms or incentives. Each element is designed to be practical for deal teams and proportionate for portfolio companies with limited reporting capacity."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Portfolio support and capability building",
+          "body": "We work directly with portfolio companies on impact-relevant improvements, such as job quality, inclusive hiring, customer access or community engagement, and train investment teams to apply the impact framework consistently. Support is tailored to company stage and sector. We emphasize practical changes that portfolio leaders can sustain with their own teams and budgets."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Reporting and learning",
+          "body": "We help design LP reporting that is candid about progress and limitations, and internal review processes that feed learning back into future investment decisions. Where useful, we prepare funds for independent verification of their impact management practices. Learning reviews ask what worked, for whom and why, and feed those answers into the next round of investment decisions."
+        }
+      ],
+      "deliverables": [
+        "Fund-level impact thesis and theory of change",
+        "Impact diligence framework and investment committee template",
+        "Stakeholder listening findings for priority portfolio themes",
+        "Portfolio impact baseline and indicator set",
+        "Portfolio company impact improvement plans",
+        "Impact report structure for limited partners and stakeholders"
+      ],
+      "outcomes": [
+        "Investment decisions apply the impact thesis consistently from screening through exit",
+        "Portfolio companies receive practical support to deepen impact alongside growth",
+        "Impact claims are grounded in evidence and stakeholder perspectives rather than assertion",
+        "Limited partners receive transparent reporting that includes both progress and shortfalls"
+      ],
+      "who_we_serve": "We serve impact fund managers, foundation program-related and mission-related investment teams, family offices with impact mandates, community development financial institutions and corporate venture arms with social objectives. Typical trigger moments include launching a new fund, preparing for an LP diligence process, responding to concerns about impact credibility, expanding into a new impact theme, or professionalizing an impact practice that has grown faster than its systems. We also support asset owners evaluating impact managers.",
+      "impact_lens": "Impact investing exists to direct capital toward better outcomes for people and the planet, so the quality of impact management determines whether that purpose is fulfilled. By bringing workers, customers and communities into the design of theses and metrics, our impact investing advisory helps investments respond to real needs. Better job quality in portfolio companies benefits employees and their families. Improved access to essential products and services benefits underserved customers. Honest reporting strengthens trust across the field and helps more capital flow toward what works.",
+      "faqs": [
+        {
+          "q": "What does an impact investing advisor do?",
+          "a": "An impact investing advisor helps investors define what impact they intend to create, assess it during diligence, support portfolio companies in achieving it and measure and report results credibly. Work can include developing a theory of change, designing impact scoring for the investment committee, building stakeholder engagement into the process and preparing reports for limited partners. The goal is to manage impact with the same rigor as financial returns."
+        },
+        {
+          "q": "How do you avoid impact washing?",
+          "a": "Credible impact rests on clear intended outcomes, evidence of contribution, honest reporting of shortfalls and input from affected stakeholders. We help investors define specific outcomes, distinguish their contribution from broader trends, choose indicators that reflect real change for people, and report transparently. Independent verification of impact management practices can provide additional assurance where investors seek it."
+        },
+        {
+          "q": "Which impact frameworks do you work with?",
+          "a": "We work with the frameworks and standards our clients already use or that their limited partners expect, including widely adopted dimensions of impact, sector taxonomies and principles for impact management. We are framework-agnostic and focus on making whichever approach is chosen useful in practice, so that it informs investment and portfolio decisions rather than serving only as a reporting exercise."
+        },
+        {
+          "q": "Can you help a conventional fund develop an impact strategy?",
+          "a": "Yes. Some conventional funds want to launch a dedicated impact vehicle, while others want to integrate impact considerations into an existing strategy. We help assess whether the firm's sourcing, expertise and portfolio support capabilities fit an impact mandate, define a credible thesis, and design the investment process changes required. We are candid when a proposed strategy is unlikely to produce the intended outcomes."
+        }
+      ],
+      "related_services": [
+        "esg-impact-measurement",
+        "theory-of-change",
+        "social-impact-strategy",
+        "philanthropy-advisory"
+      ],
+      "related_industries": [
+        "financial-services-cdfis",
+        "nonprofits-foundations",
+        "social-enterprises-b-corps"
+      ],
+      "related_insights": [
+        "impact-measurement-management",
+        "theory-of-change-explained"
+      ]
+    },
+    {
+      "slug": "esg-impact-measurement",
+      "practice": "capital-investment-advisory",
+      "name": "ESG & Impact Measurement",
+      "meta_title": "ESG & Impact Measurement Consulting",
+      "meta_description": "ESG and impact measurement consulting that builds credible, decision-useful metrics on workforce, customers and communities for investors and companies.",
+      "primary_keyword": "ESG and impact measurement",
+      "summary": "Decision-useful ESG and impact measurement frameworks, with particular depth on social and human capital indicators for investors and portfolio companies.",
+      "lede": "ESG and impact measurement consulting that helps investors and companies build credible, proportionate metrics, with particular depth in the social and human capital indicators that are hardest to measure well.",
+      "challenge": [
+        "Investors and companies face a growing volume of ESG and impact data requests from limited partners, lenders, customers and regulators. Disclosure regimes and industry frameworks differ in scope and definitions, and portfolio companies with lean finance and HR teams often spend significant effort completing questionnaires that produce little insight. Environmental metrics have matured faster than social ones, leaving workforce, community and customer outcomes measured inconsistently or reduced to simple headcounts.",
+        "The deeper problem is that much ESG data is collected to satisfy external audiences rather than to improve decisions. Metrics are selected for availability, not relevance. Data quality is uneven across the portfolio, and few organizations can explain how their indicators connect to material risks or to the outcomes they claim. Investors who want measurement that is credible to outside stakeholders and useful to management need a framework grounded in materiality, sensible data practices and the perspectives of the people affected."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Clarify purpose and materiality",
+          "body": "We interview investment teams, portfolio leaders and, where relevant, employees and community stakeholders to understand what decisions measurement should inform and which issues are material. We consider both financial materiality and the impact on people and the environment, the perspective often described as double materiality."
+        },
+        {
+          "phase": "Measure",
+          "title": "Data audit and baselines",
+          "body": "We audit existing ESG data collection across the fund or company: what is collected, how it is defined, how reliable it is and who uses it. For social indicators such as turnover, pay equity, health and safety, training and employee voice, we establish baselines with clear definitions and documented methods."
+        },
+        {
+          "phase": "Design",
+          "title": "Proportionate measurement framework",
+          "body": "We design a core indicator set aligned to applicable frameworks and disclosure regimes, with sector-specific additions where material. Each indicator has a definition, owner, data source and collection frequency. We keep the burden proportionate to company size so that portfolio teams can report reliably without diverting attention from running the business."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Roll out data collection and training",
+          "body": "We implement collection templates or platforms, train portfolio company contacts, and support the first reporting cycle. We help companies interpret their results and identify improvement priorities, so measurement leads to action rather than ending at submission. Early cycles surface data gaps and definitional issues, which we resolve with companies before they become recurring problems."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Reporting, assurance readiness and review",
+          "body": "We build dashboards and report structures for boards, investment committees and limited partners, and prepare data processes for external assurance where required. An annual review refines indicators as frameworks, regulation and portfolio composition change. Changes are made deliberately, so year-over-year comparisons remain meaningful and reporting stays credible to limited partners and other stakeholders."
+        }
+      ],
+      "deliverables": [
+        "Materiality assessment covering financial and stakeholder impacts",
+        "Core and sector-specific ESG indicator set with definitions",
+        "Social and human capital metrics methodology",
+        "Data collection templates and portfolio company guidance",
+        "Board and limited partner ESG reporting structure",
+        "Assurance readiness review of data processes"
+      ],
+      "outcomes": [
+        "ESG data reflects material issues rather than whatever is easiest to collect",
+        "Portfolio companies report consistently with a manageable level of effort",
+        "Social and workforce indicators inform management decisions and improvement priorities",
+        "Investors can respond confidently to limited partner and regulatory requests"
+      ],
+      "who_we_serve": "Our ESG and impact measurement work serves private equity and private credit firms, impact funds, family offices, foundations with investment portfolios, and companies preparing for investor or regulatory disclosure. Clients include heads of ESG and sustainability, investor relations leaders, chief financial officers and chief people officers. Engagements are often triggered by a new fundraise, a significant LP questionnaire, new disclosure requirements in a key market, or a recognition that existing ESG reporting is not informing decisions.",
+      "impact_lens": "Measurement shapes attention. When investors and companies measure job quality, fair pay, safety and employee voice with care, those outcomes receive management attention and resources. Good customer and community indicators help companies notice when their products or operations cause harm or exclude people. Proportionate frameworks also respect the time of portfolio teams, many of whom are small. Credible, honest ESG and impact measurement builds trust with stakeholders and helps capital markets reward businesses that serve people well.",
+      "faqs": [
+        {
+          "q": "What is the difference between ESG and impact measurement?",
+          "a": "ESG measurement typically assesses how environmental, social and governance factors affect a company's risk and performance, and how the company manages them. Impact measurement focuses on the outcomes a company or investment produces for people and the planet, including whether those outcomes would have occurred anyway. Many investors need both, and a well-designed framework can serve both purposes with a shared core of indicators."
+        },
+        {
+          "q": "How do you measure the S in ESG?",
+          "a": "Social measurement covers workforce, customers, supply chain and communities. For the workforce, useful indicators include turnover and retention, pay equity, health and safety, training, employee engagement and representation. For customers and communities, indicators depend on the business and might cover access, affordability, product safety or local employment. We combine quantitative data with structured employee and stakeholder input to capture what numbers alone miss."
+        },
+        {
+          "q": "What is double materiality?",
+          "a": "Double materiality considers two perspectives: how sustainability issues affect a company's financial position, and how the company affects people and the environment. Some disclosure regimes require both perspectives. In practice, applying double materiality helps companies identify issues that may not yet affect financial results but matter significantly to employees, communities or ecosystems, and that may become financially material over time."
+        },
+        {
+          "q": "How do you reduce the ESG reporting burden on portfolio companies?",
+          "a": "We start by eliminating indicators that no one uses, aligning definitions across frameworks so one data point can satisfy several requests, and drawing on data the company already holds in payroll, HR and finance systems. We tailor requirements to company size and sector. Clear guidance, templates and a single annual collection cycle also reduce the repeated ad hoc requests that frustrate portfolio teams."
+        }
+      ],
+      "related_services": [
+        "impact-investing-advisory",
+        "impact-dashboards",
+        "pay-equity-analysis",
+        "corporate-social-responsibility"
+      ],
+      "related_industries": [
+        "private-equity-portfolio-companies",
+        "financial-services-cdfis",
+        "energy-utilities"
+      ],
+      "related_insights": [
+        "double-materiality",
+        "impact-measurement-management"
+      ]
+    },
+    {
+      "slug": "portfolio-leadership-assessment",
+      "practice": "capital-investment-advisory",
+      "name": "Portfolio Leadership Assessment",
+      "meta_title": "Portfolio Leadership Assessment for PE Sponsors",
+      "meta_description": "Portfolio leadership assessment that evaluates CEOs and management teams against the value creation plan, with clear actions for sponsors and boards.",
+      "primary_keyword": "leadership assessment",
+      "summary": "Evidence-based leadership assessment of portfolio CEOs and management teams against the specific demands of the value creation plan.",
+      "lede": "Portfolio leadership assessment for sponsors and boards who need an objective view of whether the CEO and management team can deliver the plan, and a clear set of development, hiring or succession actions.",
+      "challenge": [
+        "Sponsors routinely cite leadership as one of the most important determinants of portfolio outcomes, yet many still assess management teams informally, through deal team impressions, board meeting performance and reference calls. These signals are useful but incomplete. Leaders who present well may struggle to build teams or make hard operational choices, while quieter leaders may be underestimated. The cost of a delayed leadership change is high, and so is the cost of an unnecessary one.",
+        "The question is rarely whether someone is a good executive in general. It is whether this leader, and this team, can deliver this specific plan in this time frame. A founder who built the business to its current scale may or may not be the right person to professionalize it for its next phase. A CFO who managed a stable business may need significant support to run an add-on program and prepare for exit. Sponsors need assessments that answer those specific questions fairly and rigorously."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Define what the plan requires",
+          "body": "We start with the sponsor and board to translate the value creation plan into leadership requirements: the decisions, capabilities and behaviors each role must deliver over the hold period. We then conduct in-depth structured interviews with each executive, exploring their track record, judgment and approach to the challenges ahead."
+        },
+        {
+          "phase": "Measure",
+          "title": "Multi-source evidence",
+          "body": "We gather confidential input from direct reports, peers and board members, and use validated psychometric tools where appropriate. We review team dynamics by observing leadership meetings and analyzing how decisions flow. Evidence is assessed against the plan-specific requirements, not a generic leadership model. Findings are calibrated across assessors."
+        },
+        {
+          "phase": "Design",
+          "title": "Individual and team findings",
+          "body": "We present a clear view of each leader's strengths, risks and development needs, and an assessment of the team as a whole: capability gaps, overlaps, decision-making patterns and bench depth. Recommendations distinguish between development, role change, additional hires and succession planning. Each recommendation states its urgency and its link to plan risk."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Feedback and development planning",
+          "body": "Each executive receives a constructive feedback session and a development plan, which helps make the assessment a tool for growth rather than only evaluation. Where changes are required, we help sponsors plan transitions thoughtfully, including role definitions for new hires and support for leaders moving on."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Reassess as the plan evolves",
+          "body": "We help boards track development progress and revisit the assessment at key milestones, such as after a major add-on or ahead of exit preparation, so leadership capacity keeps pace with the business. Where several portfolio companies are assessed with the same method, sponsors also gain comparable data that reveals recurring leadership patterns across the portfolio and informs future investment decisions."
+        }
+      ],
+      "deliverables": [
+        "Plan-specific leadership success profiles for each executive role",
+        "Individual executive assessment reports with strengths and risks",
+        "Leadership team effectiveness and capability gap analysis",
+        "Bench strength and succession readiness view",
+        "Individual development plans and feedback sessions",
+        "Board summary with recommended leadership actions"
+      ],
+      "outcomes": [
+        "Sponsors make leadership decisions based on structured evidence rather than impressions alone",
+        "Executives receive clear, fair feedback and focused development priorities linked to the plan",
+        "Leadership gaps are filled before they slow the value creation plan",
+        "Boards maintain an ongoing view of bench strength and succession readiness"
+      ],
+      "who_we_serve": "Our leadership assessment clients include private equity operating partners, talent partners, deal leads and portfolio company boards, as well as family office and impact investors with board representation. Assessments are commonly commissioned shortly after acquisition, when a portfolio company misses plan, ahead of a significant add-on or transformation, before a CEO succession decision, or as part of exit preparation. Some sponsors use our approach as a standard step across every new platform investment.",
+      "impact_lens": "Leadership decisions shape the daily experience of every employee in a portfolio company. Fair, evidence-based leadership assessment reduces the likelihood of abrupt, poorly explained changes at the top, and helps sponsors invest in developing leaders rather than simply replacing them. Strong management teams create better working conditions, more consistent service for customers and steadier employment for communities that depend on local businesses. When transitions are necessary, a thoughtful process treats departing leaders with respect and protects the organization from disruption.",
+      "faqs": [
+        {
+          "q": "How do private equity firms assess management teams?",
+          "a": "Practices vary widely. Some firms rely on deal team judgment and references, while others use structured interviews, multi-rater feedback and psychometric assessment. The most useful assessments evaluate leaders against the specific demands of the value creation plan and examine the team as a whole, not only individuals. Findings should lead to concrete actions: development, role changes, additional hires or succession plans."
+        },
+        {
+          "q": "Will a leadership assessment unsettle the management team?",
+          "a": "It can if handled poorly. We are transparent with executives about the purpose and process, emphasize development as well as evaluation, and provide each leader with constructive feedback. Many executives value an objective view of their strengths and growth areas. The sponsor and board agree in advance how findings will be shared, which builds trust in the process."
+        },
+        {
+          "q": "Do you use psychometric tests?",
+          "a": "Where appropriate, we use validated instruments to add insight on cognitive approach, personality and leadership style. They are one input among several and never the sole basis for a decision. Structured interviews, track record analysis and multi-source feedback carry most of the weight, because they speak more directly to how a leader will handle the plan's actual challenges."
+        },
+        {
+          "q": "Should the founder remain CEO after investment?",
+          "a": "There is no general answer. Many founders lead successfully through institutional ownership, particularly with strong supporting executives and clear governance. Others are better suited to a chair, product or customer-facing role as the business professionalizes. Our assessment considers the founder's capabilities, motivation and fit with the plan, and helps sponsors and founders reach a decision that serves the business."
+        }
+      ],
+      "related_services": [
+        "private-equity-advisory",
+        "succession-planning",
+        "executive-coaching",
+        "team-effectiveness"
+      ],
+      "related_industries": [
+        "private-equity-portfolio-companies",
+        "technology",
+        "manufacturing"
+      ],
+      "related_insights": [
+        "human-capital-in-private-equity",
+        "middle-managers"
+      ]
+    },
+    {
+      "slug": "exit-readiness",
+      "practice": "capital-investment-advisory",
+      "name": "Exit Readiness",
+      "meta_title": "Exit Readiness: Leadership, Talent & People Story",
+      "meta_description": "Exit readiness support that strengthens leadership depth, retains key talent and prepares a credible people narrative for buyers and their diligence teams.",
+      "primary_keyword": "exit readiness",
+      "summary": "Preparing portfolio companies for sale by strengthening leadership depth, securing key talent and building an evidence-based people story for buyers.",
+      "lede": "Exit readiness support that prepares your leadership team, workforce data and people narrative for buyer scrutiny, so the business demonstrates durable capability beyond the current owner and management team.",
+      "challenge": [
+        "Buyers increasingly scrutinize human capital during diligence. They want to know whether the management team will stay and can scale, whether key person dependency has been reduced, whether compensation and incentives are sound, and whether the culture will survive another ownership change. Businesses that cannot answer these questions with clean data and a coherent story risk lower valuations, extended diligence, heavier earn-outs or retention demands that shift value away from sellers.",
+        "Exit preparation also creates its own people risks. Rumors of a sale unsettle employees, executives with significant equity may begin to disengage, and management bandwidth is consumed by the process while the business still needs to hit its numbers. Leaders who are critical to the equity story may not have retention arrangements that extend past close. Sponsors need to address these risks well ahead of launching a process, while there is still time to build bench strength and evidence of performance."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "See the business as a buyer will",
+          "body": "We interview the leadership team, board and selected managers to understand the equity story and how people contribute to it. We anticipate the questions buyers and their advisors are likely to ask about leadership, talent, culture and incentives, and identify where current answers are weak."
+        },
+        {
+          "phase": "Measure",
+          "title": "Vendor-side human capital review",
+          "body": "We conduct a sell-side human capital review: workforce data quality, attrition trends, compensation benchmarking, incentive and change of control arrangements, key person dependencies and leadership bench depth. This mirrors buyer diligence so issues are found and addressed by the seller first. Each issue is rated by buyer sensitivity."
+        },
+        {
+          "phase": "Design",
+          "title": "Close gaps and shape the narrative",
+          "body": "We prioritize fixes that can be completed before launch, such as strengthening the second layer of leadership, formalizing succession plans, cleaning HR data or rebalancing incentives. We help build a factual people narrative for the information memorandum and management presentation, grounded in metrics the business can substantiate."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Prepare leaders and protect talent",
+          "body": "We prepare the management team for diligence sessions on organization and talent, design retention arrangements for critical employees through the transaction, and plan internal communications for the moment the process becomes known. We help leadership balance process demands with running the business. Executives rehearse likely buyer questions."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Data room and transition support",
+          "body": "We organize people data for the data room, support responses to buyer questions and prepare handover materials so the incoming owner inherits a clear view of the organization. This continuity benefits employees and supports a smoother transition. We also help the leadership team set out how the people agenda would continue under new ownership."
+        }
+      ],
+      "deliverables": [
+        "Sell-side human capital review mirroring buyer diligence",
+        "Prioritized pre-launch remediation plan for people risks",
+        "Leadership bench and succession documentation for buyers",
+        "Key employee retention arrangements through the transaction",
+        "People and culture narrative for marketing materials",
+        "Organized people data and diligence response support"
+      ],
+      "outcomes": [
+        "Buyers see a leadership team and organization that can perform beyond the current owner",
+        "People-related diligence findings are anticipated and addressed well before the sale process launches",
+        "Critical employees remain engaged and committed through the sale process",
+        "Employees experience the ownership transition with clarity rather than uncertainty"
+      ],
+      "who_we_serve": "Exit readiness engagements are typically commissioned by private equity sponsors, portfolio company CEOs and CFOs, and boards preparing for a sale, recapitalization or public listing. Founder-owned businesses preparing for an external sale or a transition to employee ownership also use this work. Ideal timing is a year or more before launch, which allows meaningful improvements in leadership depth and data quality, though shorter preparation windows can focus on the highest-priority risks.",
+      "impact_lens": "A sale process can be an unsettling time for employees, who may hear rumors without explanation and worry about their future. Thoughtful exit readiness reduces that uncertainty through clear communication and fair retention arrangements. Building leadership depth and documenting how the business works also protects customers from disruption when ownership changes. For companies considering employee ownership or mission-aligned buyers, preparation helps sellers evaluate options that preserve jobs, culture and community commitments alongside price.",
+      "faqs": [
+        {
+          "q": "What does exit readiness mean for human capital?",
+          "a": "It means the business can show buyers a capable, committed leadership team with depth below it, reduced dependence on any single person, sound incentive and compensation structures, clean workforce data and a healthy culture. It also means having retention arrangements in place for critical employees and a plan for communicating with the workforce once the sale process becomes known."
+        },
+        {
+          "q": "When should exit preparation start?",
+          "a": "Ideally a year or more before a planned process. That window allows time to hire or develop leaders, reduce key person dependency, address compensation issues and build a track record that substantiates the people story. Shorter windows are workable but focus on documentation, data quality, retention arrangements and diligence preparation rather than structural improvements."
+        },
+        {
+          "q": "What do buyers look for in a management team?",
+          "a": "Buyers look for leaders who have delivered results, understand the business deeply and can credibly execute the next owner's plan. They also look for depth below the top team, alignment among leaders, and evidence that key executives intend to stay. Clarity about each leader's role, track record and incentives after the transaction helps buyers assess management risk."
+        },
+        {
+          "q": "How do you retain key employees during a sale?",
+          "a": "Retention starts with identifying who is genuinely critical to value and continuity, then designing arrangements such as transaction bonuses or extended vesting that reward staying through close and beyond. Equally important are honest communication, clear roles during the process and visible leadership. Financial incentives work best when employees also trust how the transition is being managed."
+        }
+      ],
+      "related_services": [
+        "private-equity-advisory",
+        "portfolio-leadership-assessment",
+        "succession-planning",
+        "people-analytics"
+      ],
+      "related_industries": [
+        "private-equity-portfolio-companies",
+        "technology",
+        "professional-services"
+      ],
+      "related_insights": [
+        "human-capital-in-private-equity",
+        "leading-and-lagging-indicators"
+      ]
+    },
+    {
+      "slug": "leadership-consulting",
+      "practice": "leadership-organization",
+      "name": "Leadership Consulting",
+      "meta_title": "Leadership Consulting for Executives and Senior Teams",
+      "meta_description": "Leadership consulting that strengthens executives and leadership pipelines through evidence, clear expectations and development built around real work.",
+      "primary_keyword": "leadership consulting",
+      "summary": "Evidence-based leadership consulting to define what good leadership looks like for your strategy and build it across executives and managers.",
+      "lede": "Leadership consulting for organizations that need their leaders to deliver a demanding strategy. We define the leadership your strategy requires, assess the gap, and build capability through development tied to real work.",
+      "challenge": [
+        "Most organizations invest in leadership development, yet many executives remain unsure whether it is working. Programs are often generic, disconnected from strategy and evaluated by participant satisfaction rather than changes in behavior or results. Leadership competency models sit in HR systems but rarely shape who gets promoted. Meanwhile, the demands on leaders keep shifting: hybrid teams, rapid technological change, tighter budgets and higher expectations from employees about fairness, flexibility and purpose.",
+        "The result is a familiar pattern. Senior leaders carry too much, middle managers are promoted for technical skill and given little support, and high-potential employees leave because they cannot see a path forward. Leadership becomes a bottleneck to strategy. Organizations need a clear, specific view of what leadership must look like to deliver their strategy, an honest assessment of where they stand, and development that changes how leaders actually behave in their daily work."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Connect leadership to strategy",
+          "body": "We interview executives, board members and a cross-section of managers and employees to understand the strategy, the leadership challenges it creates and how leaders are currently experienced. We pay particular attention to the gap between espoused leadership values and the behaviors that actually get rewarded."
+        },
+        {
+          "phase": "Measure",
+          "title": "Leadership capability baseline",
+          "body": "We assess current leadership capability using multi-rater feedback, engagement and retention data by manager, promotion patterns and, where useful, network analysis. This shows where leadership strength is concentrated, where it is thin and how leadership quality affects outcomes such as retention and performance. Findings are shared with leaders openly."
+        },
+        {
+          "phase": "Design",
+          "title": "A leadership framework people use",
+          "body": "We co-design a concise leadership framework that describes specific, observable behaviors for each level, from first-line manager to executive. We align it with selection, performance management and promotion, and design development journeys that combine learning, coaching, stretch assignments and peer cohorts tied to real business challenges."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Development built around real work",
+          "body": "We deliver leadership programs, facilitate executive offsites and coach senior leaders. Participants work on live strategic problems, which builds capability and advances business priorities simultaneously. We train internal facilitators and HR partners so the organization can sustain the approach. Senior leaders teach in programs, which signals commitment and reinforces the behaviors the framework describes."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Measure behavior change",
+          "body": "We track changes in multi-rater feedback, team engagement, retention and internal mobility to assess whether leadership is improving. Leaders and HR review this evidence together and adjust investment toward what works. Evaluation is planned from the outset with clear comparison points, so results are credible to executives and boards, and we report candidly when programs are not producing the change intended."
+        }
+      ],
+      "deliverables": [
+        "Leadership requirements linked to strategic priorities",
+        "Leadership capability assessment across levels",
+        "Leadership framework with observable behaviors by level",
+        "Development journeys for executives, senior and first-line leaders",
+        "Executive offsite design and facilitation",
+        "Leadership effectiveness dashboard and evaluation approach"
+      ],
+      "outcomes": [
+        "Leaders share a clear, practical understanding of what is expected of them",
+        "Promotion and development decisions reflect the leadership the strategy requires",
+        "Leadership development produces observable changes in behavior and team outcomes",
+        "A stronger, more diverse pipeline of leaders ready for broader responsibility when roles open"
+      ],
+      "who_we_serve": "Our leadership consulting clients include chief executives, chief people officers, heads of talent and leadership development, and boards. We work with growing companies, portfolio businesses, health systems, universities, nonprofits and public agencies. Common triggers include a new strategy that demands different leadership, rapid growth that has outpaced the leadership bench, low engagement scores traced to managers, a new CEO shaping a team, or a leadership program that has not produced results.",
+      "impact_lens": "Leadership quality is one of the strongest influences on how people experience work. Better leaders create teams where people feel respected, understand their purpose and can grow. Those conditions reduce burnout and turnover and allow employees to serve customers with more care. In mission-driven organizations, stronger leadership translates directly into better services for patients, students or communities. Leadership consulting that focuses on fairness and inclusion also widens access to leadership roles for people who have historically been overlooked.",
+      "faqs": [
+        {
+          "q": "What does a leadership consultant do?",
+          "a": "A leadership consultant helps organizations define the leadership they need, assess current capability and build stronger leaders. Work can include developing leadership frameworks, designing development programs, coaching executives, facilitating leadership team sessions and aligning promotion and performance processes with leadership expectations. Good leadership consulting starts from strategy and measures whether leaders actually change how they work."
+        },
+        {
+          "q": "How do you measure the impact of leadership development?",
+          "a": "We look beyond satisfaction surveys to changes in observable behavior, measured through multi-rater feedback before and after development, and to outcomes in leaders' teams, such as engagement, retention, internal mobility and performance. We set up the evaluation design at the start so that comparisons are meaningful, and we are candid when results are mixed."
+        },
+        {
+          "q": "Do you deliver off-the-shelf leadership programs?",
+          "a": "No. We use proven content and methods, but every program is designed around the client's strategy, leadership framework and real business challenges. Participants work on live problems, apply learning between sessions and receive coaching. This takes more design effort than an off-the-shelf program but produces development that is relevant and more likely to transfer to daily work."
+        },
+        {
+          "q": "How do you develop middle managers?",
+          "a": "Middle managers need clear expectations, manageable spans of control, practical skills in coaching and prioritization, and the authority to make decisions. We address both capability and conditions: development in core management skills alongside changes to role design, workload and decision rights. Peer cohorts help managers solve problems together and build networks across the organization."
+        }
+      ],
+      "related_services": [
+        "executive-coaching",
+        "team-effectiveness",
+        "succession-planning",
+        "talent-strategy"
+      ],
+      "related_industries": [
+        "healthcare",
+        "education",
+        "technology"
+      ],
+      "related_insights": [
+        "middle-managers",
+        "psychological-safety"
+      ]
+    },
+    {
+      "slug": "executive-coaching",
+      "practice": "leadership-organization",
+      "name": "Executive Coaching",
+      "meta_title": "Executive Coaching for CEOs and Senior Leaders",
+      "meta_description": "Executive coaching for CEOs and senior leaders, grounded in multi-source feedback, clear goals and the realities of the role, with progress you can see.",
+      "primary_keyword": "executive coaching",
+      "summary": "Confidential executive coaching for CEOs and senior leaders, grounded in multi-source feedback and focused on the specific demands of the role.",
+      "lede": "Executive coaching for CEOs, senior executives and high-potential leaders facing new roles, larger mandates or difficult transitions, grounded in candid feedback and focused on measurable changes in how you lead.",
+      "challenge": [
+        "Senior leaders rarely receive honest feedback. The higher they rise, the more people filter what they hear, and the fewer peers they have with whom to think through difficult decisions. Executives stepping into larger roles, such as a first CEO appointment, a functional leader joining the executive team or a founder leading through institutional investment, often discover that the habits that brought them success now limit them. Without support, they may adapt slowly, at real cost to their teams and organizations.",
+        "Organizations also struggle to get value from coaching. Engagements drift without clear goals, the sponsor has little visibility into progress, and coaches with mixed qualifications offer advice disconnected from the business context. Coaching is sometimes used as a remedial last step rather than as an investment in leaders with significant potential. Executives and their sponsors need coaching that is confidential yet accountable, grounded in evidence about how the leader is experienced, and tied to the outcomes the role demands."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Understand the leader and the context",
+          "body": "We begin with conversations with the leader and their sponsor, such as the CEO, board chair or chief people officer, to understand the role, the challenges ahead and what success would look like. We agree on confidentiality boundaries and how progress will be shared. Expectations are written down."
+        },
+        {
+          "phase": "Measure",
+          "title": "Multi-source feedback",
+          "body": "We gather structured feedback through interviews with direct reports, peers, board members and others who work closely with the leader, often complemented by a validated assessment. This produces a candid, specific picture of strengths, blind spots and how the leader's behavior affects others. The leader receives it in a facilitated session."
+        },
+        {
+          "phase": "Design",
+          "title": "A focused development plan",
+          "body": "With the leader, we translate feedback into two or three development goals tied to the demands of the role, each with observable behaviors that colleagues would notice. The plan is shared with the sponsor so expectations are aligned and the organization can support the leader's growth."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Regular coaching on real situations",
+          "body": "Coaching sessions focus on the leader's live challenges: an upcoming board meeting, a difficult team conversation, a restructuring decision. We help the leader prepare, practice, reflect and adjust. Between sessions, the leader applies new approaches and gathers feedback, building durable habits. Sessions can be in person or virtual, with access between sessions for urgent moments."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Review progress and hand over",
+          "body": "At midpoint and close, we gather follow-up feedback from colleagues to assess change. A final review with the sponsor agrees on next steps, so development continues after the engagement through the leader's own practices and support network. That may include peer support, a mentor, ongoing feedback routines or periodic check-ins with the coach."
+        }
+      ],
+      "deliverables": [
+        "Three-way contracting session with leader and sponsor",
+        "Multi-source feedback report with themes and examples",
+        "Individual development plan with observable goals",
+        "Regular confidential coaching sessions over the engagement",
+        "Midpoint and final progress reviews with colleague feedback",
+        "Sustainability plan for continued development"
+      ],
+      "outcomes": [
+        "Leaders gain an accurate understanding of how they are experienced by others",
+        "Executives make the transition into larger or new roles more quickly and confidently",
+        "Colleagues observe specific, lasting changes in the leader's behavior and its effect on the team",
+        "Sponsors see a clear link between coaching investment and leadership effectiveness"
+      ],
+      "who_we_serve": "We coach chief executives, executive team members, founders, managing partners, executive directors of nonprofits and senior public officials. Engagements are often sponsored by boards, CEOs, chief people officers or private equity operating partners. Common trigger moments include a promotion or new appointment, onboarding an executive hired from outside, a founder transitioning to a professional CEO role, preparation for succession, a leadership team under strain, or feedback indicating that a strong performer's style is limiting their impact.",
+      "impact_lens": "When senior leaders change how they lead, the effects reach far beyond them. A CEO who listens better, delegates more clearly or handles conflict more constructively shapes the experience of everyone who reports to them, and of those further down the line. That improves retention, reduces stress and creates room for people to contribute fully. Executive coaching for leaders of mission-driven organizations and public agencies can also strengthen services that customers and communities depend on.",
+      "faqs": [
+        {
+          "q": "What is executive coaching?",
+          "a": "Executive coaching is a confidential, one-on-one development relationship between a senior leader and a qualified coach. It focuses on specific goals tied to the leader's role, typically informed by feedback from colleagues. Unlike training, coaching works on the leader's real situations and decisions. Good coaching builds self-awareness, expands the leader's options and produces behavior changes that colleagues notice."
+        },
+        {
+          "q": "How long does an executive coaching engagement last?",
+          "a": "Most engagements run between six and twelve months, with sessions every two to four weeks. That timeframe allows for feedback, goal setting, sustained practice and a follow-up assessment of change. Shorter engagements can support a specific transition, such as the first months in a new role, while longer relationships sometimes suit CEOs who value a consistent thinking partner."
+        },
+        {
+          "q": "Is executive coaching confidential?",
+          "a": "Yes. The content of coaching conversations remains confidential between the leader and coach. At the outset, we agree with the leader and sponsor on what will be shared, typically the development goals and overall progress. This balance protects the trust coaching requires while giving the organization appropriate visibility into its investment."
+        },
+        {
+          "q": "How do you measure coaching results?",
+          "a": "We measure change against the goals agreed at the start, using follow-up feedback from the same colleagues who contributed to the initial assessment. We also consider evidence such as team engagement, retention or progress on business objectives connected to the goals. The sponsor and leader review results together at the end of the engagement."
+        }
+      ],
+      "related_services": [
+        "leadership-consulting",
+        "succession-planning",
+        "portfolio-leadership-assessment",
+        "team-effectiveness"
+      ],
+      "related_industries": [
+        "professional-services",
+        "nonprofits-foundations",
+        "private-equity-portfolio-companies"
+      ],
+      "related_insights": [
+        "psychological-safety",
+        "measuring-trust"
+      ]
+    },
+    {
+      "slug": "management-consulting",
+      "practice": "leadership-organization",
+      "name": "Management Consulting",
+      "meta_title": "Management Consulting with a People-First Lens",
+      "meta_description": "Management consulting that solves complex business problems by pairing rigorous analysis with a deep understanding of the people who make the work happen.",
+      "primary_keyword": "management consulting",
+      "summary": "Rigorous management consulting for complex business problems, pairing structured analysis with insight into the people who will carry out the answer.",
+      "lede": "Management consulting for leaders facing complex problems in performance, growth or organization. We combine structured analysis with deep attention to people, so recommendations are both sound and capable of being carried out.",
+      "challenge": [
+        "Leaders often face problems that cut across functions and resist simple answers: a business that is growing but losing margin, a service organization whose quality varies widely across sites, a public agency asked to deliver more with fewer resources, or a nonprofit whose programs have expanded faster than its operations. Internal teams are busy running the organization and may be too close to the issue to see it clearly. Traditional consulting can provide analytical horsepower, but recommendations often stall because they underestimate the human side of implementation.",
+        "Many organizations have experienced consulting projects that produced impressive analysis and little lasting change. The slide deck identified the right answer, but managers were not involved in shaping it, employees did not understand it and the organization lacked the capability to sustain it. Leaders need advisors who bring rigor and independence, and who also understand that the way a solution is developed, and who develops it, largely determines whether it succeeds."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Frame the right problem",
+          "body": "We start by defining the problem precisely with leaders, then test that definition through interviews and site visits with managers, front-line employees and, where relevant, customers. Many engagements change direction at this stage, because the presenting problem is a symptom of something deeper. We also review prior work."
+        },
+        {
+          "phase": "Measure",
+          "title": "Hypothesis-driven analysis",
+          "body": "We build a fact base using operational, financial, customer and workforce data, testing hypotheses rather than collecting data for its own sake. We look for variation across sites, teams or segments, which often reveals both the root causes of a problem and internal examples of what good looks like."
+        },
+        {
+          "phase": "Design",
+          "title": "Solutions shaped with the organization",
+          "body": "We develop options with working teams that include the managers and employees who will carry them out. Options are evaluated against clear criteria, including financial impact, feasibility, risk and effect on employees and customers. Leaders receive a recommendation with explicit trade-offs, not a single answer presented as inevitable."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Implementation with internal owners",
+          "body": "We support implementation through pilots, detailed planning, project management and change support. Internal owners lead each workstream with our support, building the capability to continue after we leave. We adapt the plan as pilots reveal what works in practice. Steering committees review progress and decide on adjustments with clear evidence in hand."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Embed and hand over",
+          "body": "We establish performance measures, governance routines and documentation so that improvements become standard practice. A structured handover ensures internal teams own the results and know how to respond if performance drifts. We also document the methods used, such as root cause analysis and pilot design, so internal teams can apply the same disciplined problem solving to the next challenge without outside support."
+        }
+      ],
+      "deliverables": [
+        "Problem definition and issue tree agreed with leadership",
+        "Fact base drawing on operational, financial and workforce data",
+        "Options assessment with explicit trade-offs and criteria",
+        "Recommendation and implementation roadmap",
+        "Pilot design, results and scale-up plan",
+        "Performance measures and governance for sustaining results"
+      ],
+      "outcomes": [
+        "Leaders address root causes rather than symptoms of complex business problems",
+        "Recommendations reflect the knowledge of the people closest to the work",
+        "Implementation progresses steadily because internal owners helped shape the solution from the start",
+        "The organization builds problem-solving capability it retains after the engagement"
+      ],
+      "who_we_serve": "Our management consulting clients are chief executives, chief operating officers, executive directors, agency heads and boards across companies, health systems, universities, nonprofits and government. Typical triggers include declining performance without a clear cause, a growth plan that requires new capabilities, inconsistent service quality across locations, cost pressure that leaders want to address without damaging service or morale, and complex decisions that would benefit from independent analysis.",
+      "impact_lens": "Management decisions about structure, process and resources shape the working lives of employees and the experiences of customers. Our management consulting approach involves the people affected and weighs the human consequences of each option alongside financial ones. That reduces the risk of improvements that cut costs while degrading service or burning out staff. For public agencies and nonprofits, better management translates into more effective services for the communities they serve, which is the ultimate test of good advice.",
+      "faqs": [
+        {
+          "q": "What does a management consultant do?",
+          "a": "A management consultant helps leaders solve complex problems related to strategy, operations, organization and performance. Work typically involves defining the problem, gathering and analyzing data, developing and evaluating options, recommending a course of action and supporting implementation. The value lies in independent perspective, structured problem solving and the ability to bring experience from other organizations."
+        },
+        {
+          "q": "How is your management consulting different?",
+          "a": "We place equal weight on analytical rigor and on the people who will carry out the answer. We involve managers and employees in shaping solutions, assess the human impact of each option and build internal capability during the engagement. This approach is grounded in the belief that how a solution is developed strongly affects whether it is adopted and sustained."
+        },
+        {
+          "q": "Do you work with nonprofits and government agencies?",
+          "a": "Yes. Mission-driven and public organizations face many of the same management challenges as companies, often with tighter resources and more complex stakeholder environments. We adapt our methods to those contexts, including governance structures, funding constraints and public accountability requirements, and we consider community outcomes as a central measure of success."
+        },
+        {
+          "q": "How long does a typical engagement take?",
+          "a": "Duration depends on scope. A focused diagnostic can take several weeks, while a full engagement from diagnosis through implementation support may run several months. We often structure work in phases with decision points, so leaders can confirm the direction before committing to implementation and adjust scope as the problem becomes clearer."
+        }
+      ],
+      "related_services": [
+        "operating-model-design",
+        "process-improvement",
+        "organizational-design",
+        "strategic-planning"
+      ],
+      "related_industries": [
+        "healthcare",
+        "public-sector",
+        "nonprofits-foundations"
+      ],
+      "related_insights": [
+        "people-problems-are-business-problems",
+        "systems-thinking"
+      ]
+    },
+    {
+      "slug": "organizational-design",
+      "practice": "leadership-organization",
+      "name": "Organizational Design",
+      "meta_title": "Organizational Design Consulting: Structure That Works",
+      "meta_description": "Organizational design consulting covering structure, spans and layers, decision rights and roles, co-designed with your people to support your strategy.",
+      "primary_keyword": "organizational design",
+      "summary": "Organizational design consulting covering structure, spans and layers, decision rights and roles, built from strategy and tested with your people.",
+      "lede": "Organizational design consulting that aligns structure, roles, spans of control and decision rights with your strategy, using evidence about how work really flows and the input of people who do it.",
+      "challenge": [
+        "Organizations grow by accretion. Teams are added to address new priorities, managers are promoted to retain talent, and reporting lines shift around individuals rather than strategy. Over time, the structure accumulates layers, uneven spans of control, duplicated functions and unclear accountabilities. Decisions slow down because too many people must agree, while important work falls between teams. Employees experience this as frustration, rework and a sense that no one owns the problems they care about.",
+        "Restructuring is often treated as the fix, but redrawing boxes on an org chart rarely solves underlying issues. Reorganizations can be disruptive, consume leadership attention and cause talented people to leave, especially when the rationale is unclear or the process feels unfair. Leaders need organizational design grounded in strategy and evidence, attentive to how work actually flows, explicit about decision rights, and implemented in a way that maintains trust and continuity."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Start from strategy and pain points",
+          "body": "We clarify the strategic priorities the organization must support and the design criteria leaders will use to judge options. Interviews and workshops with leaders, managers and employees surface where work gets stuck, where accountability is unclear and where collaboration is difficult. These pain points become explicit tests for any design."
+        },
+        {
+          "phase": "Measure",
+          "title": "Structural diagnostic",
+          "body": "We analyze spans and layers, role distribution, cost by function, and decision-making patterns. Organizational network analysis shows how information and collaboration actually flow, often revealing informal structures that differ from the formal chart. This evidence grounds design choices in fact rather than assumption. Costs are compared by function and level."
+        },
+        {
+          "phase": "Design",
+          "title": "Options, decision rights and roles",
+          "body": "We develop structural options, such as functional, divisional, matrix or hybrid models, and assess them against agreed criteria. We define decision rights using tools like RACI or similar frameworks, clarify accountabilities, and design key roles. Managers and employees test the design to identify issues before implementation."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Transition with care",
+          "body": "We plan the transition in detail: sequencing, role mapping, fair selection processes where needed, and communication at every level. We support leaders through difficult conversations and help teams establish new ways of working, including handoffs, forums and governance routines. Employees know where they stand before changes take effect, which reduces anxiety and rumor."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Review and refine",
+          "body": "We track indicators such as decision speed, role clarity, spans and retention after the change, and conduct a structured review within months of go-live. Designs are refined based on evidence, and governance ensures the structure does not drift back to old patterns. Leaders own the reviews."
+        }
+      ],
+      "deliverables": [
+        "Design criteria linked to strategic priorities",
+        "Spans and layers and structural cost diagnostic",
+        "Organizational network analysis of collaboration patterns",
+        "Structural options assessment and recommended design",
+        "Decision rights framework and accountability matrix",
+        "Transition plan with role mapping and communications"
+      ],
+      "outcomes": [
+        "The organization's structure, roles and reporting lines clearly support its strategic priorities",
+        "Decisions are made faster, at the right level, with clear accountability",
+        "Managers have manageable spans and roles that allow them to lead well",
+        "Employees understand the new structure and how they contribute to it"
+      ],
+      "who_we_serve": "We support chief executives, chief operating officers, chief people officers and functional leaders in companies, portfolio businesses, health systems, universities, nonprofits and public agencies. Organizational design work is often triggered by a new strategy, rapid growth, a merger or acquisition, a cost review, a move to shared services, a new CEO, or persistent symptoms such as slow decisions, unclear accountability and silos that frustrate customers and employees.",
+      "impact_lens": "Organizational structure shapes daily work in ways employees feel immediately: who they report to, whether they can make decisions, how often they wait on others and whether their contributions are visible. Good organizational design reduces frustration and burnout and gives people roles they can succeed in. Customers benefit from clearer ownership of their needs and faster responses. Designing changes with employees, and handling transitions fairly, also preserves trust during a period that can otherwise feel threatening.",
+      "faqs": [
+        {
+          "q": "What is organizational design?",
+          "a": "Organizational design is the process of shaping an organization's structure, roles, processes, decision rights and governance so that it can carry out its strategy. It goes beyond the org chart to include how work flows between teams, how decisions are made, how people are measured and rewarded, and how the organization adapts. Good design starts from strategy and is tested against how work really happens."
+        },
+        {
+          "q": "What is the ideal span of control?",
+          "a": "There is no single ideal. Appropriate spans depend on the complexity and variety of work, how experienced team members are, how much coordination is required and how much of a manager's time goes to their own individual work. Routine operational teams can support wider spans, while complex or highly varied work needs narrower ones. We analyze current spans against these factors rather than applying a universal target."
+        },
+        {
+          "q": "How do you clarify decision rights?",
+          "a": "We identify the decisions that matter most to strategy and performance, then define who recommends, who decides, who must be consulted and who needs to be informed. Frameworks such as RACI help structure the conversation, but the real value comes from leaders agreeing explicitly on ownership and holding to those agreements. We test decision rights against real scenarios before finalizing them."
+        },
+        {
+          "q": "How do you reduce disruption during a reorganization?",
+          "a": "Disruption is reduced by a clear rationale, fair processes, fast decisions on leadership roles, honest communication and support for managers who must explain changes to their teams. We sequence changes carefully, protect critical customer-facing work and identify key talent at risk. Involving employees in testing the design also surfaces practical problems early and builds understanding."
+        }
+      ],
+      "related_services": [
+        "operating-model-design",
+        "organizational-network-analysis",
+        "change-management",
+        "strategic-workforce-planning"
+      ],
+      "related_industries": [
+        "healthcare",
+        "public-sector",
+        "manufacturing"
+      ],
+      "related_insights": [
+        "middle-managers",
+        "systems-thinking"
+      ]
+    },
+    {
+      "slug": "change-management",
+      "practice": "leadership-organization",
+      "name": "Change Management",
+      "meta_title": "Change Management Consulting Built on Evidence",
+      "meta_description": "Change management consulting that helps people adopt new strategies, systems and structures, with adoption measured through evidence rather than launch dates.",
+      "primary_keyword": "change management consulting",
+      "summary": "Change management that helps employees understand, adopt and sustain new strategies, systems and ways of working, with adoption measured through evidence.",
+      "lede": "Change management consulting that helps organizations bring people through major transitions, from new systems and structures to new strategies, by designing change with them and measuring real adoption rather than activity.",
+      "challenge": [
+        "Organizations change constantly: new technology platforms, restructurings, mergers, policy shifts, return-to-office decisions, new service models and the adoption of AI tools. Each initiative may be sensible on its own, but employees experience them together, often with limited explanation and little say. Change fatigue sets in, cynicism grows, and even well-designed initiatives struggle to win commitment. Leaders see delays, workarounds and declining engagement without always understanding why. Often the problem is not the change itself but how it was introduced.",
+        "Many change efforts focus on communication and training plans that are produced near the end of a project, after key decisions have been made. They track activity, such as emails sent or courses completed, rather than whether people have actually changed how they work. Managers, who carry most of the burden of explaining change, are rarely prepared for that role. Organizations need change management that starts early, involves the people affected, equips managers and measures adoption honestly."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Understand how change will land",
+          "body": "We conduct interviews and focus groups with groups affected by the change to understand their concerns, current workload, past experiences of change and what would make the transition workable. This reveals resistance that is rooted in legitimate practical issues, which often improves the change itself."
+        },
+        {
+          "phase": "Measure",
+          "title": "Impact assessment and readiness baseline",
+          "body": "We assess the impact of the change on each group: what changes in their roles, processes, tools and behaviors, and how significant each shift is. We measure readiness and identify concurrent initiatives to gauge change load. This shapes where to focus effort and how to sequence."
+        },
+        {
+          "phase": "Design",
+          "title": "Change strategy designed with stakeholders",
+          "body": "We design a change strategy covering sponsorship, stakeholder engagement, communication, training and reinforcement, tailored to each affected group. Representatives from those groups help shape the approach. We build a change network of respected employees who provide feedback and support peers. Each group's plan reflects how much its work actually changes, avoiding a uniform approach that over-serves some and under-serves others."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Equip leaders and managers",
+          "body": "We coach sponsors on visible leadership, prepare managers with practical guides for team conversations, and deliver communications and training timed to when people need them. We run feedback loops during rollout to identify issues quickly and adjust the plan. Sponsors hear directly from the front line through regular feedback sessions and visible follow-up."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Measure adoption and reinforce",
+          "body": "We track adoption through behavioral and operational indicators, such as system usage, process compliance and outcome measures, alongside sentiment. Reinforcement mechanisms, including recognition, performance expectations and removal of old workarounds, help new ways of working become the norm. Leaders review the evidence on a regular cadence and act where adoption is lagging."
+        }
+      ],
+      "deliverables": [
+        "Stakeholder and change impact assessment by affected group",
+        "Change readiness baseline and change load analysis",
+        "Change strategy and integrated engagement plan",
+        "Manager toolkits for leading team conversations",
+        "Change network design and enablement",
+        "Adoption dashboard tracking behavior and sentiment"
+      ],
+      "outcomes": [
+        "Employees understand why change is happening and what it means for them",
+        "Managers are prepared and confident leading their teams through transition",
+        "Adoption is measured directly against defined behaviors, allowing timely course correction during rollout",
+        "The organization reduces change fatigue by sequencing concurrent initiatives realistically for each group"
+      ],
+      "who_we_serve": "Our change management consulting supports transformation leaders, chief information officers, chief people officers, project sponsors and program management offices. Typical initiatives include enterprise technology implementations, restructurings, mergers and integrations, new operating models, new service delivery approaches in health and public services, and responsible adoption of AI tools. We work with companies, public agencies and nonprofits, and we often join programs already underway when adoption has fallen behind plan.",
+      "impact_lens": "Change done poorly takes a real toll: stress, lost confidence, disrupted relationships with customers and, in public services, disruption to people who depend on them. Change done well respects people's time, knowledge and concerns. By involving employees in shaping change and equipping managers to support their teams, we help organizations reduce unnecessary disruption. Customers and communities experience steadier service through transitions, and employees build confidence that future changes will be handled fairly.",
+      "faqs": [
+        {
+          "q": "What is change management?",
+          "a": "Change management is the structured approach to helping people adopt new ways of working, whether those involve technology, processes, structures or strategy. It covers understanding how the change affects different groups, building leadership sponsorship, engaging stakeholders, communicating, training and reinforcing new behaviors. Its purpose is to ensure an initiative's intended benefits are realized through actual adoption."
+        },
+        {
+          "q": "Why do change initiatives fail?",
+          "a": "Common reasons include unclear rationale, weak or inconsistent sponsorship, too many concurrent changes, limited involvement of the people affected, underprepared managers and a focus on launch rather than adoption. Many of these are avoidable when change management begins early, alongside the design of the initiative, rather than being added after decisions have been made."
+        },
+        {
+          "q": "How do you measure change adoption?",
+          "a": "We define what adoption looks like in observable terms for each group, such as using a new system for specific tasks or following a new process. We track these behaviors through operational data where possible, supplemented by pulse surveys and manager feedback. Combining behavior and sentiment indicators gives a more accurate picture than training completion or communication metrics."
+        },
+        {
+          "q": "How do you prevent change fatigue?",
+          "a": "We map all concurrent initiatives affecting each group to understand cumulative change load, then work with leaders to sequence, combine or pause initiatives where load is too high. We also make change easier to absorb through clear explanations, adequate time for learning and removal of old tasks. Listening to employees regularly helps identify fatigue before it becomes disengagement."
+        }
+      ],
+      "related_services": [
+        "culture-transformation",
+        "organizational-design",
+        "post-merger-integration",
+        "employee-listening"
+      ],
+      "related_industries": [
+        "healthcare",
+        "public-sector",
+        "energy-utilities"
+      ],
+      "related_insights": [
+        "change-fatigue",
+        "middle-managers"
+      ]
+    },
+    {
+      "slug": "culture-transformation",
+      "practice": "leadership-organization",
+      "name": "Culture Transformation",
+      "meta_title": "Culture Transformation Consulting: Evidence-Led Change",
+      "meta_description": "Culture transformation consulting that defines the culture your strategy needs in observable terms and changes the systems and behaviors that shape it.",
+      "primary_keyword": "culture transformation",
+      "summary": "Culture transformation that names the behaviors your strategy needs and changes the systems, leadership habits and routines that shape them.",
+      "lede": "Culture transformation consulting that moves beyond values statements to change how people actually behave, by diagnosing current culture with evidence and redesigning the systems, rituals and leadership habits that shape it.",
+      "challenge": [
+        "Culture is often described as the way things are done when no one is watching, and leaders frequently recognize that their current culture does not support their strategy. A company pursuing innovation may have a culture that punishes failure. A health system focused on safety may find staff hesitant to speak up. An organization committed to inclusion may see that only certain voices shape decisions. Leaders sense these gaps but struggle to describe them precisely or to know where to begin.",
+        "Many culture initiatives start with new values, launched through events and posters, and fade within months because nothing else changes. Employees notice when stated values conflict with who gets promoted, how budgets are allocated and how leaders respond to bad news. Culture is shaped by systems, incentives, routines and leadership behavior, and it changes only when those change. Organizations need a disciplined approach that treats culture as something that can be measured, designed and managed over time."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Ethnographic culture diagnostic",
+          "body": "We conduct interviews, focus groups and observation across levels and locations, paying attention to stories people tell, behaviors that are rewarded and the unwritten rules that shape decisions. This qualitative work reveals the culture as employees experience it, including subcultures that differ across teams or sites."
+        },
+        {
+          "phase": "Measure",
+          "title": "Quantify the culture",
+          "body": "We complement qualitative insight with a culture survey, analysis of existing engagement data, and indicators such as promotion patterns, turnover and speak-up rates. This allows leaders to see where culture differs across groups and to track change over time against a clear baseline. Results are compared across sites."
+        },
+        {
+          "phase": "Design",
+          "title": "Define target behaviors and levers",
+          "body": "With leaders and employee co-design teams, we define a small set of culture shifts in observable, behavioral terms. We then identify the levers that will reinforce those behaviors: leadership routines, decision processes, performance and reward systems, onboarding, rituals and symbols. Every lever has an accountable leader and a clear first step that employees will notice."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Change systems and leader behavior",
+          "body": "We help leaders model target behaviors visibly, redesign processes and policies that conflict with the desired culture, and support teams in adopting new routines. Culture champions across the organization test changes locally and share what works, so transformation spreads through practice rather than slogans. Early visible changes build credibility."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Track and reinforce",
+          "body": "We establish a culture dashboard combining survey indicators with behavioral and operational measures. Regular reviews with leadership assess progress, identify where the culture is shifting and where it is stuck, and adjust interventions. Culture transformation is a multi-year effort, and governance keeps it on the agenda."
+        }
+      ],
+      "deliverables": [
+        "Culture diagnostic combining qualitative and quantitative findings",
+        "Culture baseline survey and analysis by group",
+        "Target culture shifts defined in observable behaviors",
+        "Culture levers roadmap covering systems, routines and leadership",
+        "Leadership behavior commitments and support plan",
+        "Culture dashboard and governance cadence"
+      ],
+      "outcomes": [
+        "Leaders and employees share a specific, honest understanding of current culture",
+        "Desired behaviors are reinforced by systems, incentives and leadership routines",
+        "Employees notice consistent changes in how decisions are made and people are treated",
+        "Progress is tracked through evidence, allowing leaders to adjust course over time"
+      ],
+      "who_we_serve": "Culture transformation clients include chief executives, chief people officers, chief culture officers and boards. We work with companies after a merger or change of ownership, health systems focusing on safety and staff wellbeing, professional services firms facing retention challenges, nonprofits addressing internal equity, and public agencies modernizing services. Triggers often include a new strategy, a crisis or reputational event, poor engagement results, persistent turnover or a leadership transition that opens space for change.",
+      "impact_lens": "Culture determines whether people feel safe to speak up, treated fairly and able to do their best work. A healthier culture reduces burnout, harassment and exclusion, and helps organizations retain people who might otherwise leave. Customers notice culture in the quality and consistency of service. In healthcare and public services, cultures that encourage speaking up about risks help protect patients and communities. Culture transformation that is honest and evidence-based creates workplaces that serve both people and performance.",
+      "faqs": [
+        {
+          "q": "How do you change organizational culture?",
+          "a": "Culture changes when the behaviors leaders model, the systems that reward people and the routines that shape daily work all change together. We start by diagnosing current culture with evidence, define a small number of target shifts in behavioral terms, and then change the levers that reinforce them, such as decision processes, performance management and leadership habits. Progress is measured and reviewed over time."
+        },
+        {
+          "q": "How long does culture transformation take?",
+          "a": "Meaningful culture change usually takes several years, though early shifts can be visible within months when leaders change their own behavior and remove obvious contradictions. We structure transformation in phases, with clear indicators of progress at each stage, so leaders can see whether the effort is working and sustain commitment over the necessary time frame."
+        },
+        {
+          "q": "Can culture be measured?",
+          "a": "Yes, though no single measure captures it fully. We combine culture surveys focused on specific behaviors, analysis of engagement data, operational indicators such as promotion patterns and speak-up rates, and qualitative research. Tracking these over time and across groups gives leaders a reliable picture of where culture is changing and where it is not."
+        },
+        {
+          "q": "What role does psychological safety play in culture?",
+          "a": "Psychological safety, the shared belief that it is safe to take interpersonal risks such as raising concerns or admitting mistakes, is foundational to learning, innovation and quality. Research, including Amy Edmondson's work, has highlighted its importance in teams. We often assess psychological safety as part of a culture diagnostic and help leaders build the behaviors that strengthen it."
+        }
+      ],
+      "related_services": [
+        "change-management",
+        "employee-listening",
+        "leadership-consulting",
+        "employee-experience"
+      ],
+      "related_industries": [
+        "healthcare",
+        "professional-services",
+        "hospitality"
+      ],
+      "related_insights": [
+        "psychological-safety",
+        "belonging-at-work"
+      ]
+    },
+    {
+      "slug": "succession-planning",
+      "practice": "leadership-organization",
+      "name": "Succession Planning",
+      "meta_title": "Succession Planning Consulting for CEOs and Leaders",
+      "meta_description": "Succession planning consulting for CEO and critical roles: success profiles, objective bench assessment, development plans and fair, transparent processes.",
+      "primary_keyword": "succession planning",
+      "summary": "CEO and leadership succession planning that builds ready benches for critical roles through clear success profiles, objective assessment and targeted development.",
+      "lede": "Succession planning consulting for boards and executive teams who want ready successors for the CEO and critical roles, built on clear success profiles, objective assessment of internal talent and deliberate development.",
+      "challenge": [
+        "Leadership transitions are among the riskiest moments in an organization's life, yet many boards and executive teams lack credible succession plans. Plans may exist on paper, listing names next to roles, but they often rest on informal impressions, favor candidates who resemble current leaders and overlook talent below the senior team. When a CEO departs unexpectedly or a critical executive resigns, the organization discovers that its bench is thinner than assumed and turns to an external search under time pressure.",
+        "Succession planning is also sensitive. Incumbents may be reluctant to discuss their departure, high-potential candidates may leave if they cannot see a path forward, and processes that feel opaque can damage trust. Boards need to fulfill their responsibility for CEO succession without destabilizing the current leadership. Organizations need succession planning that is rigorous, fair and forward-looking, designed around what future roles will require rather than what current incumbents do today."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Define future role requirements",
+          "body": "We interview board members, the CEO and executives to understand strategic direction and what future leaders will need to deliver. For each critical role, we develop a success profile describing the experiences, capabilities and attributes required, looking ahead to the organization's next phase rather than backward at the incumbent."
+        },
+        {
+          "phase": "Measure",
+          "title": "Objective bench assessment",
+          "body": "We assess internal candidates against the success profiles using structured interviews, multi-rater feedback and, where appropriate, validated assessments. We map readiness levels, such as ready now or ready in a few years, and analyze the diversity and depth of each bench, including risks where single candidates or none exist."
+        },
+        {
+          "phase": "Design",
+          "title": "Succession plan and development",
+          "body": "We build succession plans for each critical role, with targeted development for each candidate: stretch assignments, broader exposure, coaching and board visibility. We design emergency succession arrangements and define when external benchmarking or search should complement internal candidates. Plans also address knowledge transfer, the relationships successors must build and how candidates will be told about their development without implied promises."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Development and transition support",
+          "body": "We support candidates through development, including coaching and assignment design, and help boards run CEO selection processes when the time comes. For transitions, we plan the handover, the onboarding of the new leader and the role of the departing executive, so continuity is preserved. Departing leaders are supported thoughtfully."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Regular talent reviews",
+          "body": "We establish an annual or semiannual talent review process for the board and executive team, with metrics such as bench coverage, readiness progress and internal fill rates. This keeps succession a living process rather than a document reviewed once and forgotten. Calibration sessions help reduce bias in readiness ratings."
+        }
+      ],
+      "deliverables": [
+        "Forward-looking success profiles for CEO and critical roles",
+        "Internal candidate assessments and readiness mapping",
+        "Succession plans with bench depth and risk analysis",
+        "Individual development plans for succession candidates",
+        "Emergency succession protocol for the board",
+        "Talent review process and succession metrics"
+      ],
+      "outcomes": [
+        "Boards have confidence in a credible plan for CEO and executive succession",
+        "Critical roles have identified successors with focused, tracked development already underway",
+        "Succession decisions rest on objective criteria tied to future needs",
+        "High-potential leaders see a fair, visible path to greater responsibility"
+      ],
+      "who_we_serve": "Our succession planning clients include board chairs, nominating and governance committees, chief executives and chief people officers in companies, family businesses, private equity portfolio companies, health systems, universities and nonprofits. Common triggers include an approaching CEO retirement, a board recognizing gaps in its succession oversight, an unexpected executive departure, preparation for a founder transition, investor or regulator questions about leadership continuity, and organizations wanting to broaden diversity in their leadership pipeline.",
+      "impact_lens": "Thoughtful succession planning protects the people who depend on an organization. Employees experience less disruption when leadership transitions are well prepared, customers see continuity in relationships and service, and communities that rely on hospitals, universities or major employers benefit from stability. Objective, transparent succession processes also widen opportunity, helping talented people from varied backgrounds be recognized and developed. Planning ahead for transitions honors the organization's mission by ensuring it outlasts any single leader.",
+      "faqs": [
+        {
+          "q": "What is succession planning?",
+          "a": "Succession planning is the process of identifying and developing people to fill critical leadership roles when they become vacant. It involves defining what each role will require in the future, assessing internal candidates, creating development plans to close readiness gaps and preparing for both planned and emergency transitions. Effective succession planning is ongoing rather than a one-time exercise."
+        },
+        {
+          "q": "What is the board's role in CEO succession?",
+          "a": "Boards are responsible for ensuring there is a credible plan for CEO succession, both for planned transitions and emergencies. That includes agreeing on the future leadership profile, overseeing assessment and development of internal candidates, deciding whether to consider external candidates and ultimately selecting the next CEO. Boards should review succession regularly, not only when a transition is imminent."
+        },
+        {
+          "q": "How far in advance should CEO succession planning begin?",
+          "a": "Ideally, succession planning is continuous, with a meaningful plan in place several years before an expected transition. That timeframe allows internal candidates to gain the experience they need and gives the board time to evaluate them. An emergency succession plan should exist at all times, regardless of the expected timing of the CEO's departure."
+        },
+        {
+          "q": "How do you make succession planning fair and inclusive?",
+          "a": "We use success profiles tied to future needs rather than the incumbent's style, structured assessment methods that reduce bias, and calibration sessions that challenge assumptions. We look deeper into the organization for potential candidates and examine whether development opportunities are distributed fairly. Transparent criteria help candidates understand how decisions are made."
+        }
+      ],
+      "related_services": [
+        "board-advisory-governance",
+        "executive-coaching",
+        "portfolio-leadership-assessment",
+        "talent-strategy"
+      ],
+      "related_industries": [
+        "healthcare",
+        "education",
+        "nonprofits-foundations"
+      ],
+      "related_insights": [
+        "leading-and-lagging-indicators",
+        "skills-based-organization"
+      ]
+    },
+    {
+      "slug": "board-advisory-governance",
+      "practice": "leadership-organization",
+      "name": "Board Advisory & Governance",
+      "meta_title": "Board Advisory & Governance Consulting",
+      "meta_description": "Board advisory and governance consulting: board evaluations, composition and skills matrices, committee design and stronger oversight of people and culture.",
+      "primary_keyword": "board governance consulting",
+      "summary": "Board evaluations, composition planning and governance design that strengthen board oversight of strategy, leadership succession, people, culture and stakeholder impact.",
+      "lede": "Board governance consulting for corporate, nonprofit and sponsor-backed boards that want to strengthen oversight, improve how they work together and govern people, culture and stakeholder impact with the same rigor as financial performance.",
+      "challenge": [
+        "Boards are expected to oversee more than ever: strategy, risk, executive performance, culture, workforce issues, cybersecurity, sustainability and stakeholder relationships. Yet many boards spend most meeting time on backward-looking reports and compliance items, leaving limited room for strategic discussion. Board composition may not reflect the skills the organization now needs, committee responsibilities can overlap or leave gaps, and the relationship between the board and management may be either too distant or too operational.",
+        "Human capital and culture oversight is a particular gap. Boards often receive limited workforce data beyond headcount and engagement scores and may learn of cultural problems only when they become public. Nonprofit boards face additional challenges around fundraising expectations, role clarity and recruitment, while boards of sponsor-backed companies must balance investor priorities with independent oversight. Boards need practical, candid support to assess how well they work and to govern the issues that matter most."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Confidential board interviews",
+          "body": "We interview each director and key executives confidentially about board effectiveness, dynamics, information quality, agenda focus and the board-management relationship. This surfaces candid perspectives that rarely emerge in the boardroom and identifies differences in how directors view their role. All input is reported in aggregate to protect confidentiality."
+        },
+        {
+          "phase": "Measure",
+          "title": "Board evaluation and governance review",
+          "body": "We complement interviews with a structured board evaluation survey, observe board and committee meetings, and review charters, agendas, board materials and governance documents. We assess composition against a skills matrix tied to strategy and compare governance practices with recognized standards for the organization's sector. Findings are benchmarked against peers."
+        },
+        {
+          "phase": "Design",
+          "title": "Governance improvements",
+          "body": "We recommend changes to board composition, committee structure and charters, agenda design, board materials and the delegation of authority between board and management. We help design oversight of people and culture, including the metrics the board should receive and how often they should discuss them."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Facilitate and implement",
+          "body": "We facilitate board retreats and feedback discussions, support director recruitment with defined profiles, design onboarding for new directors and help management improve board reporting. For nonprofit boards, we clarify roles, expectations and the board's relationship with the executive director. Board materials are redesigned to focus on decisions and insight rather than volume."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Regular evaluation and development",
+          "body": "We help the board establish a regular evaluation cycle, an annual governance calendar and ongoing director education on topics such as human capital oversight and stakeholder impact. This makes board effectiveness a continuous practice rather than an occasional review. Periodic external facilitation keeps the evaluation candid and the board accountable to its own commitments."
+        }
+      ],
+      "deliverables": [
+        "Confidential board effectiveness evaluation and findings",
+        "Board skills matrix and composition recommendations",
+        "Committee structure and charter recommendations",
+        "Human capital and culture oversight framework and board metrics",
+        "Board retreat design and facilitation",
+        "Annual governance calendar and evaluation cycle"
+      ],
+      "outcomes": [
+        "Boards spend more of their time on strategy, leadership and material risks",
+        "Board composition reflects the skills and perspectives the organization needs",
+        "Directors receive meaningful information on people, culture and stakeholder impact",
+        "Roles and responsibilities between board and management are clear and respected"
+      ],
+      "who_we_serve": "Our board governance consulting serves board chairs, lead independent directors, governance committee chairs, corporate secretaries, chief executives and executive directors. Clients include companies, private equity-backed boards, family business boards, nonprofit and foundation boards, health system and university trustees, and public authorities. Triggers include a periodic board evaluation, a change in chair or CEO, rapid growth, a governance concern raised by investors or regulators, board recruitment, or a board wanting to strengthen its oversight of workforce and culture.",
+      "impact_lens": "Boards set the tone for how an organization treats its people, customers and communities. When boards oversee culture, workforce practices and stakeholder outcomes thoughtfully, those issues receive sustained attention from management. Well-functioning nonprofit and public boards help organizations deliver on their missions and use resources responsibly. Diverse, well-informed boards are better equipped to anticipate how decisions will affect different groups. Good governance protects the organization's long-term health and the trust that employees and communities place in it.",
+      "faqs": [
+        {
+          "q": "What is a board evaluation?",
+          "a": "A board evaluation is a structured assessment of how effectively a board and its committees fulfill their responsibilities. It typically examines composition, structure, processes, information quality, dynamics and the board-management relationship. Evaluations may use surveys, confidential interviews and meeting observation. An independent facilitator often draws out more candid input and offers an external perspective on governance practices."
+        },
+        {
+          "q": "How should boards oversee human capital and culture?",
+          "a": "Boards should define which workforce and culture issues are material to strategy and risk, receive regular metrics such as turnover in critical roles, engagement, safety, pay equity and succession readiness, and discuss them with management in depth. Many boards assign this oversight to a compensation or people committee with a broadened charter. Directors may also gain insight through site visits and conversations beyond the executive team."
+        },
+        {
+          "q": "What is a board skills matrix?",
+          "a": "A board skills matrix maps the expertise, experience and perspectives the board needs against what current directors bring. It helps identify gaps, guide recruitment and plan for director succession. A useful matrix is tied to the organization's strategy and risks rather than a generic list, and it is updated as strategy and board composition change."
+        },
+        {
+          "q": "Do you work with nonprofit boards?",
+          "a": "Yes. Nonprofit boards face distinct challenges, including clarifying the board's role relative to staff, setting fundraising expectations, recruiting directors with relevant skills and lived experience, and overseeing mission impact. We help nonprofit boards evaluate their effectiveness, clarify roles and responsibilities, strengthen the partnership with the executive director and govern mission outcomes."
+        }
+      ],
+      "related_services": [
+        "succession-planning",
+        "executive-coaching",
+        "nonprofit-strategy",
+        "esg-impact-measurement"
+      ],
+      "related_industries": [
+        "nonprofits-foundations",
+        "private-equity-portfolio-companies",
+        "healthcare"
+      ],
+      "related_insights": [
+        "stakeholder-capitalism",
+        "leading-and-lagging-indicators"
+      ]
+    },
+    {
+      "slug": "team-effectiveness",
+      "practice": "leadership-organization",
+      "name": "Team Effectiveness",
+      "meta_title": "Team Effectiveness Consulting for Leadership Teams",
+      "meta_description": "Team effectiveness consulting for leadership and critical teams: clearer purpose, decision rights and trust, built on diagnostics and real work sessions.",
+      "primary_keyword": "team effectiveness",
+      "summary": "Team effectiveness work for leadership teams and critical cross-functional teams, building clarity of purpose, sound decision-making and trust.",
+      "lede": "Team effectiveness consulting for leadership teams and critical cross-functional teams that need to make better decisions together, work through tension productively and deliver shared priorities rather than parallel agendas.",
+      "challenge": [
+        "Many senior teams are groups of capable individuals rather than teams. Each executive runs their function well, but the team spends meeting time on updates rather than decisions, avoids difficult conversations and leaves cross-functional problems unresolved. Members may agree in the room and act differently afterward. These dynamics are rarely discussed openly, yet employees feel them through conflicting priorities, slow decisions and signals that leaders are not aligned. The cost is slower execution and lost confidence.",
+        "Cross-functional teams face similar challenges with less authority. Product teams, transformation programs, clinical units and project teams must coordinate across reporting lines, often with unclear decision rights and competing incentives. Hybrid and distributed work adds complexity. Generic team-building events can create goodwill but rarely change how a team operates. Teams need a clear diagnosis of what is limiting their effectiveness and practical changes to purpose, structure, routines and relationships. The work must change, not only the mood."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Individual interviews",
+          "body": "We interview each team member and selected stakeholders who work with the team, exploring purpose, priorities, decision-making, meeting quality, trust and how conflict is handled. Confidential conversations surface views members may not share in the group, including perceptions of the leader's role. All input is reported in themes, not by name."
+        },
+        {
+          "phase": "Measure",
+          "title": "Team diagnostic",
+          "body": "We use a validated team effectiveness survey and observe the team in action, often in its regular meetings. Where useful, we analyze meeting time allocation and decision flow. Findings show how the team rates itself on key conditions for effectiveness, such as clear purpose, right membership, psychological safety and supportive context."
+        },
+        {
+          "phase": "Design",
+          "title": "Team charter and operating rhythm",
+          "body": "In facilitated working sessions, the team agrees on its shared purpose and priorities, which decisions belong to the team versus individuals, and how it will work together, including meeting design, norms for debate and commitments to each other. The output is a practical team charter, not an abstract values list."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Work on real issues",
+          "body": "We facilitate sessions where the team applies new practices to its actual agenda: making a difficult resource decision, resolving a cross-functional conflict or setting annual priorities. We coach the team leader and give real-time feedback on dynamics, helping new habits take hold. Sessions are short, focused and regular."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Pulse checks and team reviews",
+          "body": "We conduct brief pulse surveys and periodic team reviews to track progress against the baseline. The team learns to review its own effectiveness regularly, so improvement continues as membership and priorities change. We equip the team leader to facilitate these reviews independently, including how to raise difficult topics and renegotiate commitments, so the practice continues without outside facilitation as the team evolves."
+        }
+      ],
+      "deliverables": [
+        "Confidential team interviews and stakeholder perspectives",
+        "Team effectiveness diagnostic report",
+        "Team charter covering purpose, priorities and decision rights",
+        "Redesigned meeting cadence and agenda structures",
+        "Facilitated working sessions on live business issues",
+        "Team leader coaching and progress pulse surveys"
+      ],
+      "outcomes": [
+        "The team shares clear priorities and acts on them consistently",
+        "Meetings focus on decisions and problem solving rather than updates",
+        "Members raise disagreements openly in the room and resolve them constructively together",
+        "Employees experience more consistent direction and fewer conflicting demands from the team"
+      ],
+      "who_we_serve": "Team effectiveness work serves CEOs and their executive teams, functional leadership teams, newly formed teams after a reorganization or merger, private equity portfolio management teams, clinical and operational leadership groups in health systems, and cross-functional program teams. Common triggers include a new leader forming a team, a team integrating new members, visible tension or misalignment, a demanding strategy that requires joint ownership, or feedback from employees that leaders send mixed messages.",
+      "impact_lens": "Teams at the top of an organization set the conditions for everyone else. When leadership teams align on priorities, make clear decisions and model respectful disagreement, employees face fewer conflicting demands and more coherent direction. Psychological safety within teams supports learning and helps people raise concerns early, which protects customers and, in fields like healthcare, patient safety. Effective cross-functional teams also deliver better experiences for customers whose needs span organizational boundaries.",
+      "faqs": [
+        {
+          "q": "What makes a team effective?",
+          "a": "Research on team effectiveness consistently points to a few conditions: a compelling shared purpose, the right membership, clear roles and decision rights, sound norms for how the team works, a supportive organizational context and psychological safety. Teams that have these conditions in place tend to perform better. Our team effectiveness work diagnoses which conditions are weak and helps the team strengthen them."
+        },
+        {
+          "q": "How is this different from team building?",
+          "a": "Team building events typically focus on relationships and goodwill and are often disconnected from the team's actual work. Team effectiveness work addresses purpose, decision rights, meeting design and how the team handles real issues, alongside trust and relationships. We work on the team's live agenda so improvements carry directly into how the team operates."
+        },
+        {
+          "q": "How do you help a leadership team that does not trust each other?",
+          "a": "Low trust often has specific causes, such as unclear decision rights, competing incentives, past conflicts or inconsistent behavior. We identify those causes through confidential interviews, then help the team address them directly in facilitated conversations. Trust builds when members make and keep explicit commitments to each other, which we help the team practice and review over time."
+        },
+        {
+          "q": "How long does a team effectiveness engagement take?",
+          "a": "A typical engagement runs several months, beginning with a diagnostic, followed by a series of working sessions and periodic follow-up. Some teams start with a single offsite and then continue with quarterly sessions. Sustained work over time produces more durable change than a single event, because new practices need repetition to become habits."
+        }
+      ],
+      "related_services": [
+        "leadership-consulting",
+        "executive-coaching",
+        "organizational-network-analysis",
+        "culture-transformation"
+      ],
+      "related_industries": [
+        "technology",
+        "healthcare",
+        "private-equity-portfolio-companies"
+      ],
+      "related_insights": [
+        "psychological-safety",
+        "measuring-trust"
+      ]
+    }
+  ]
+}

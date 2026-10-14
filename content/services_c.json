@@ -1,0 +1,1587 @@
+{
+  "practices": [
+    {
+      "slug": "social-impact-community",
+      "name": "Social Impact & Community",
+      "meta_title": "Social Impact & Community Consulting",
+      "meta_description": "Social impact and community consulting: strategy, theory of change, stakeholder engagement, philanthropy and public sector work grounded in evidence.",
+      "tagline": "Evidence-based strategy for organizations accountable to communities, not only to balance sheets.",
+      "intro": [
+        "The Social Impact & Community practice helps foundations, nonprofits, public agencies and companies design, deliver and measure work that changes conditions for people outside their walls. We build social impact strategies, theories of change, engagement processes, philanthropic portfolios and workforce programs that hold up under scrutiny from boards, funders, residents and regulators. Our work sits where good intentions meet operational reality: the program that must scale without losing fidelity, the corporate commitment that must survive a leadership change, the public service that must reach the residents it was designed for.",
+        "We lead with people because social outcomes are produced by people. A workforce program succeeds when employers, training providers and learners each see a reason to stay engaged. A community investment lasts when residents shaped it and can see their priorities in it. A grant strategy works when grantees can report honestly about what is and is not working. Our Listen, Measure, Design, Deliver, Sustain method treats those relationships as the core of the strategy, not a consultation step added at the end.",
+        "We also hold impact work to the same evidentiary standard as any other investment decision. That means separating outputs from outcomes, naming assumptions, choosing indicators that can be collected without burdening the people being served, and building learning systems that help leaders change course when the evidence points somewhere unexpected. Rigor and humility are not in tension; together they are what make impact claims credible to the people who fund, govern and depend on the work."
+      ],
+      "themes": [
+        {
+          "title": "Outcomes over outputs",
+          "body": "Counting workshops held or dollars granted is easy. Demonstrating that conditions changed for people is harder and more important. We help clients build logic models and measurement frameworks that distinguish activities, outputs, outcomes and long-term impact, so that reports to boards and funders describe real change and acknowledge contribution rather than overstating attribution."
+        },
+        {
+          "title": "Power-aware participation",
+          "body": "Engagement is only as credible as the influence it offers. Using frameworks such as the IAP2 Spectrum of Public Participation, we help clients decide honestly whether they are informing, consulting, involving, collaborating with or empowering communities, and then design processes, compensation and feedback loops that match that promise."
+        },
+        {
+          "title": "Durable institutions",
+          "body": "Impact depends on organizations that can sustain it. We strengthen the governance, operating models, partnerships and talent systems behind mission-driven work, so that strategies outlast a single grant cycle, executive tenure or political term, and so that staff closest to communities have the capacity and authority to act on what they learn."
+        }
+      ]
+    },
+    {
+      "slug": "strategy-operations",
+      "name": "Strategy & Operations",
+      "meta_title": "Strategy & Operations Consulting",
+      "meta_description": "Strategy and operations consulting that puts people at the center: strategic planning, operating models, process improvement, customer, AI and talent strategy.",
+      "tagline": "Strategy and operations that work because the people who run them helped build them.",
+      "intro": [
+        "The Strategy & Operations practice helps leadership teams set direction and build the organization that can deliver it. We work on strategic plans, operating models, process improvement, customer and innovation strategy, responsible AI adoption and talent strategy for companies, investor-backed businesses, nonprofits and public institutions. The common thread is execution: most strategies fail not because the analysis was wrong but because decision rights, workflows, incentives and capabilities were never redesigned to support them.",
+        "Our people lens is practical rather than sentimental. Every operating model is a set of decisions about who does what work, with what information, under whose authority. Every process improvement changes someone's day. Every AI deployment shifts tasks, skills and judgment between people and systems. We start by listening to the employees and customers who live inside those systems, measure where value and friction actually sit, and design changes with the people who will have to run them.",
+        "The result is strategy that is explicit about trade-offs, operations that are simpler to work within, and organizations that can adapt as conditions change. We bring the analytical discipline of a strategy firm and the implementation patience of an operating partner, and we hand over the dashboards, governance routines and internal capability needed to sustain progress after our engagement ends."
+      ],
+      "themes": [
+        {
+          "title": "Strategy that reaches the front line",
+          "body": "A plan that lives in a board deck changes little. We translate strategic choices into priorities, objectives and key results, resource allocation and management routines that middle managers can use, and we test the plan with the employees and customers who will experience it before it is finalized."
+        },
+        {
+          "title": "Operations designed around people",
+          "body": "We map how work actually flows, from customer request to delivery, using value stream mapping and service blueprinting to find handoffs, rework and waiting. Improvements are designed with frontline teams, which tends to produce changes that stick and surfaces the practical knowledge that never appears in a process manual."
+        },
+        {
+          "title": "Responsible adoption of new technology",
+          "body": "AI and automation are operating model decisions, not only technology decisions. We help leaders choose use cases, set governance, assess workforce impact and plan reskilling and job redesign, so that productivity gains do not come at the cost of trust, fairness or the institutional knowledge that employees carry."
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "slug": "social-impact-strategy",
+      "practice": "social-impact-community",
+      "name": "Social Impact Strategy",
+      "meta_title": "Social Impact Strategy Consulting",
+      "meta_description": "Social impact strategy consulting that links purpose to evidence: focused outcome priorities, logic models, measurement and governance your board can trust.",
+      "primary_keyword": "social impact strategy consulting",
+      "summary": "Define where your organization can create meaningful social change, what it will take, and how you will know it is working.",
+      "lede": "Our social impact strategy consulting helps leaders choose focused outcome priorities, align resources and partnerships behind them, and build the evidence to show stakeholders that the work is changing conditions for people.",
+      "challenge": [
+        "Many organizations carry a portfolio of well-intended commitments that grew one decision at a time: a signature program here, a partnership there, a pledge made during a moment of public attention. Each makes sense on its own, but together they rarely add up to a coherent strategy. Boards ask what the organization is actually achieving, funders and investors request evidence the organization cannot produce, and staff spread across too many priorities to do any of them well. The result is activity that is hard to explain and harder to defend.",
+        "The people problem underneath is just as serious. Communities that were promised partnership often experience extraction instead: surveys without follow-up, pilots that end when funding does. Employees who joined for the mission lose confidence when impact claims outpace reality. Leaders sense the gap but lack a shared language to make trade-offs, so decisions default to whoever argues hardest or whichever initiative has the most visible sponsor. A credible social impact strategy has to repair those relationships as well as clarify the plan."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Mapping what you do and what others need",
+          "body": "We interview leaders, staff, partners, funders and community members, and review existing programs, grants and commitments. The aim is to understand the problem from the perspective of the people experiencing it, where your organization has genuine standing to act, and where community expectations differ from internal assumptions about your role and contribution."
+        },
+        {
+          "phase": "Measure",
+          "title": "Baselining assets, gaps and evidence",
+          "body": "We inventory current investments against outcomes, assess the strength of existing evidence, and scan the landscape of other actors working on the same issues. A materiality and contribution analysis shows where your resources, expertise and relationships are most likely to change outcomes, and where you would add little beyond what others already provide well."
+        },
+        {
+          "phase": "Design",
+          "title": "Choosing focus and building the logic",
+          "body": "With a cross-functional working group and community advisors, we set a small number of outcome priorities, test them against your capabilities, and build a logic model for each that links activities to outputs, short-term outcomes and long-term impact, with assumptions and risks stated plainly enough to be tested."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Aligning resources, roles and partners",
+          "body": "We translate priorities into a multiyear roadmap, budget reallocation, governance structure and partner model. That includes deciding what to stop or sunset responsibly, clarifying decision rights between leadership and program teams, and preparing managers and partners to explain the strategy in their own words to staff, grantees and residents."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Measuring, learning and reporting",
+          "body": "We set up an impact measurement framework with a manageable set of indicators, data collection that respects participants' time, and a learning cadence where leaders review evidence and adjust. Board and public reporting templates distinguish contribution from attribution, so the organization can report progress honestly and stand behind its claims."
+        }
+      ],
+      "deliverables": [
+        "Stakeholder and community listening synthesis",
+        "Portfolio inventory mapped to outcomes and evidence strength",
+        "Prioritized outcome areas with explicit trade-off rationale",
+        "Logic model and assumptions register for each priority",
+        "Multiyear roadmap, budget alignment and governance charter",
+        "Impact measurement framework and board reporting template"
+      ],
+      "outcomes": [
+        "A focused set of outcome priorities that leaders, staff and partners can explain consistently.",
+        "Resources concentrated where the organization has the strongest standing and evidence to contribute.",
+        "Impact reporting that boards, funders and communities regard as credible and candid.",
+        "A regular learning rhythm that informs decisions rather than only satisfying compliance requests."
+      ],
+      "who_we_serve": "We work with chief executives, chief impact and sustainability officers, foundation presidents, nonprofit boards and executive directors, and investor-backed companies with a stated mission. Typical trigger moments include a new chief executive or board chair, a strategic plan refresh, a major gift or endowment change, rising pressure from investors or regulators for impact evidence, or a recognition that the current portfolio of commitments has grown too diffuse to manage, explain or fund well.",
+      "impact_lens": "A focused social impact strategy changes more than a report. Communities receive sustained commitment instead of short pilots, and they gain a real voice in setting priorities. Employees see a clear connection between their work and the mission, which supports engagement and retention. Customers and partners can trust the organization's claims. And because the strategy is built on evidence and honest trade-offs, scarce resources go further toward the social good the organization exists to advance.",
+      "faqs": [
+        {
+          "q": "What does a social impact strategy consultant do?",
+          "a": "A social impact strategy consultant helps an organization decide which social outcomes to pursue, how its programs, investments and partnerships will contribute to them, and how progress will be measured. The work combines research with affected communities, analysis of existing activity and evidence, facilitated priority setting with leadership, and the design of governance and measurement so the strategy can be managed, reported and improved over time."
+        },
+        {
+          "q": "How is social impact strategy different from CSR?",
+          "a": "Corporate social responsibility often describes a company's broader conduct and commitments, including ethics, environmental practices and community giving. Social impact strategy is narrower and more outcome-focused: it asks which specific changes in people's lives or conditions the organization will work toward, through what causal pathways, and with what evidence. Many companies use social impact strategy to give their CSR program sharper focus and more credible measurement."
+        },
+        {
+          "q": "How long does a social impact strategy engagement take?",
+          "a": "Timelines depend on the size of the portfolio and the depth of community engagement required. A focused strategy for a single business unit or foundation program moves faster than an enterprise-wide redesign with multiple community advisory processes. We agree on scope and milestones at the outset, and we design the engagement so that early findings inform decisions while the full strategy is still being developed."
+        },
+        {
+          "q": "How do you measure social impact without overburdening programs?",
+          "a": "We start with the decisions leaders actually need to make and choose the fewest indicators that inform them. Where possible we use administrative data already collected, sample rather than survey everyone, and pair quantitative indicators with periodic qualitative evidence. Participants and frontline staff help select what is measured, which improves data quality and ensures measurement is useful to the people delivering and receiving services."
+        }
+      ],
+      "related_services": [
+        "theory-of-change",
+        "esg-impact-measurement",
+        "stakeholder-engagement",
+        "corporate-social-responsibility"
+      ],
+      "related_industries": [
+        "nonprofits-foundations",
+        "social-enterprises-b-corps",
+        "financial-services-cdfis"
+      ],
+      "related_insights": [
+        "theory-of-change-explained",
+        "impact-measurement-management"
+      ]
+    },
+    {
+      "slug": "community-engagement",
+      "practice": "social-impact-community",
+      "name": "Community Engagement",
+      "meta_title": "Community Engagement Consulting",
+      "meta_description": "Community engagement consulting that gives residents real influence: IAP2-informed design, inclusive outreach, compensated co-design and visible report-backs.",
+      "primary_keyword": "community engagement consulting",
+      "summary": "Design engagement that gives residents real influence, builds trust over time and produces decisions communities recognize as their own.",
+      "lede": "Our community engagement consulting helps organizations design participation that is honest about the influence it offers, reaches people who are usually left out, and turns what residents say into decisions they can see.",
+      "challenge": [
+        "Organizations that affect a place, whether a hospital system, a developer, a utility, a school district or a city agency, are expected to engage the community. Too often that means a public meeting at an inconvenient hour, a survey that reaches the usual voices, and a summary report that nobody acts on. Residents learn that participation changes little, attendance falls, and the organization concludes that the community is disengaged. Meanwhile projects encounter opposition late, when changes are most expensive and relationships are hardest to repair.",
+        "The underlying problem is a mismatch between what engagement promises and what it delivers. Leaders rarely decide in advance how much influence residents will actually have, so expectations diverge. Engagement teams lack the time, budget or language access to reach renters, shift workers, young people, immigrants or people with disabilities. And there is no feedback loop telling participants what happened to their input. Community engagement consulting must address the design of the decision itself, not only the format of the meetings."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Understanding history, place and trust",
+          "body": "Before designing anything, we learn the history of the relationship between your organization and the community, including past promises and grievances. We conduct interviews with community leaders, trusted messengers and frontline staff, and attend existing community gatherings rather than convening new ones, so we understand how people already organize, communicate and decide."
+        },
+        {
+          "phase": "Measure",
+          "title": "Mapping who is affected and who is heard",
+          "body": "We compare the demographics and geography of past participants with the population affected by the decision, identifying gaps in reach by language, age, tenure, disability and income. We also assess current engagement practices against the IAP2 Spectrum of Public Participation to see where stated intentions and actual influence diverge."
+        },
+        {
+          "phase": "Design",
+          "title": "Matching the method to the promise",
+          "body": "With leadership, we decide which decisions are open, what level of participation is appropriate for each, and what constraints are fixed. We then co-design methods with community partners: compensated advisory groups, small-group conversations hosted by local organizations, multilingual and accessible formats, and deliberative sessions where residents weigh real trade-offs with real information."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Running engagement and closing the loop",
+          "body": "We facilitate or support delivery of the engagement, train staff to host conversations well, and partner with community-based organizations who are compensated for their role. Every phase ends with a report back that shows participants what was heard, what changed as a result and, where input was not adopted, why."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Building lasting engagement capacity",
+          "body": "We help institutionalize engagement through standards, a participation policy, a community feedback tracker and an internal community of practice. Where appropriate we support standing advisory bodies or community benefit agreements, so engagement becomes an ongoing relationship with accountability rather than a series of disconnected project consultations."
+        }
+      ],
+      "deliverables": [
+        "Community context and relationship history assessment",
+        "Participation gap analysis by geography and demographics",
+        "Engagement plan mapped to the IAP2 participation spectrum",
+        "Co-designed engagement toolkit with accessible, multilingual materials",
+        "Report-back summaries showing how input shaped decisions",
+        "Engagement standards, policy and community feedback tracker"
+      ],
+      "outcomes": [
+        "Residents who are usually absent from decisions take part and see their influence reflected.",
+        "Fewer late-stage objections because concerns surface early, when plans can still change.",
+        "Clear, shared expectations about which decisions are open to community influence and how.",
+        "Staff who can plan and host respectful engagement without relying on outside facilitators."
+      ],
+      "who_we_serve": "We serve community relations and government affairs leaders, public agency directors, hospital community benefit teams, real estate and infrastructure developers, utilities, school districts and foundations working in place-based initiatives. Engagements often begin when a major capital project, rezoning, facility closure, community health needs assessment or rate case requires public input, when prior engagement has damaged trust, or when leaders recognize that their current approach consistently hears from the same small group of voices.",
+      "impact_lens": "Good community engagement improves decisions and the relationships around them. Residents gain real influence over changes to their neighborhoods and services, and they are compensated for their expertise rather than asked to give it freely. Employees in community-facing roles gain the skills and authority to build trust. Projects designed with community input tend to fit local needs better, face less opposition and serve residents more equitably, which benefits both the organization and the place it serves.",
+      "faqs": [
+        {
+          "q": "What is the IAP2 Spectrum of Public Participation?",
+          "a": "The IAP2 Spectrum, developed by the International Association for Public Participation, describes five levels of public influence: inform, consult, involve, collaborate and empower. Each level carries a different promise to the public. We use it to help leaders decide, before engagement begins, how much influence the community will have over a given decision, and to design methods and communications that match that promise honestly."
+        },
+        {
+          "q": "How do you reach community members who do not usually participate?",
+          "a": "We go where people already are rather than asking them to come to us. That means partnering with trusted community organizations, compensating participants for their time, offering childcare, food, translation and accessible formats, and scheduling around work and caregiving. We track who participates against who is affected so that gaps are visible during the process, not discovered afterward when it is too late to adjust."
+        },
+        {
+          "q": "Should community members be paid for participating in engagement?",
+          "a": "In most cases, yes. Residents who sit on advisory groups, co-design sessions or deliberative panels contribute expertise about their own lives and neighborhoods, often at personal cost. Compensation recognizes that expertise and makes participation possible for people who cannot donate unpaid time. We help clients set fair, consistent compensation policies that account for their procurement, tax and public benefits considerations."
+        },
+        {
+          "q": "What is the difference between community engagement and stakeholder engagement?",
+          "a": "The terms overlap. Community engagement usually focuses on residents and local organizations affected by decisions in a particular place, with attention to equity and power. Stakeholder engagement is broader, covering investors, employees, regulators, suppliers, customers and advocacy groups, often across many places. Many clients need both, and we design them to complement each other rather than run as separate, competing processes."
+        }
+      ],
+      "related_services": [
+        "community-co-design",
+        "stakeholder-engagement",
+        "public-sector-consulting",
+        "design-research"
+      ],
+      "related_industries": [
+        "public-sector",
+        "community-development-real-estate",
+        "healthcare"
+      ],
+      "related_insights": [
+        "co-design-principles",
+        "community-benefit-agreements"
+      ]
+    },
+    {
+      "slug": "stakeholder-engagement",
+      "practice": "social-impact-community",
+      "name": "Stakeholder Engagement",
+      "meta_title": "Stakeholder Engagement Consulting",
+      "meta_description": "Stakeholder engagement consulting: salience and impact mapping, materiality assessment and engagement routines that bring stakeholder insight into decisions.",
+      "primary_keyword": "stakeholder engagement consulting",
+      "summary": "Identify the stakeholders who matter most to your strategy, understand what they need, and build engagement that strengthens trust and decisions.",
+      "lede": "Our stakeholder engagement consulting helps leaders map who holds influence and who bears impact, understand their interests with evidence, and build engagement routines that inform strategy and earn durable trust.",
+      "challenge": [
+        "Most organizations engage stakeholders reactively. Investor relations, government affairs, communications, HR and sustainability teams each maintain their own relationships, priorities and messages, with little coordination. When a controversy, regulatory change or major transaction arrives, leaders discover they do not have a clear view of who cares, what they care about or how much trust exists. Engagement becomes a defensive exercise in messaging rather than a source of insight that could have shaped the decision earlier.",
+        "There is also a structural blind spot. Stakeholders with power and urgency, such as large investors or regulators, get attention, while those who bear the greatest impact, such as frontline employees, suppliers' workers or nearby communities, are often consulted last or not at all. That imbalance creates risk, because overlooked groups can gain influence quickly, and it weakens decisions, because the people closest to the consequences often see problems first. Effective stakeholder engagement consulting corrects for both."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Hearing stakeholders directly",
+          "body": "We conduct structured interviews and listening sessions across stakeholder groups, internal and external, to understand their interests, expectations, concerns and perceptions of your organization. Internal interviews with functional leaders reveal where relationships are held, what is already known and where messages to different audiences have drifted out of alignment over time."
+        },
+        {
+          "phase": "Measure",
+          "title": "Mapping salience and materiality",
+          "body": "We build a stakeholder map using salience criteria of power, legitimacy and urgency, alongside an assessment of how significantly each group is affected by your decisions. Combined with a materiality assessment of the issues they raise, this shows where attention is concentrated, where it is missing and which issues carry both business and societal significance."
+        },
+        {
+          "phase": "Design",
+          "title": "Building an engagement architecture",
+          "body": "We design an engagement strategy that assigns each priority group an owner, a purpose, appropriate channels and a cadence, from information sharing to formal advisory panels. We set principles for consistency across functions, define escalation paths for emerging issues and build a mechanism for bringing stakeholder insight into leadership and board decision-making."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Engaging and integrating insight",
+          "body": "We support launch of priority engagement activities, from investor and employee forums to multi-stakeholder roundtables, and coach executives who will lead them. Insights are synthesized and routed into the relevant decisions, such as strategy, product, capital allocation or policy positions, and stakeholders are told how their perspectives were considered."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Tracking relationships over time",
+          "body": "We set up a shared stakeholder relationship register, trust and sentiment indicators, and a periodic materiality refresh. Governance assigns oversight to a named executive and, where appropriate, a board committee, so stakeholder engagement remains a managed discipline rather than an activity that fades when the immediate pressure passes."
+        }
+      ],
+      "deliverables": [
+        "Stakeholder interview and listening synthesis report",
+        "Stakeholder map scored on power, legitimacy, urgency and impact",
+        "Materiality assessment of priority stakeholder issues",
+        "Engagement strategy with owners, channels and cadence",
+        "Executive briefing guides and advisory panel charters",
+        "Shared relationship register and trust indicator dashboard"
+      ],
+      "outcomes": [
+        "Leaders share an accurate, current view of who their key stakeholders are and what they expect.",
+        "Emerging issues are identified earlier, before they escalate into reputational or regulatory crises.",
+        "Groups most affected by decisions are heard alongside those with the most formal power.",
+        "Consistent messages and commitments across investor, employee, community and government relationships."
+      ],
+      "who_we_serve": "We work with chief executives, chief sustainability and corporate affairs officers, investor relations and general counsel teams, and boards of companies, public institutions and large nonprofits. Trigger moments include preparing a first sustainability or double materiality assessment, entering a new market or community, a merger or restructuring that affects many groups, a public controversy, a new regulatory regime, or a board request for a clearer picture of stakeholder expectations and risks.",
+      "impact_lens": "Stakeholder engagement done well distributes attention more fairly. Employees, suppliers' workers and communities who are affected by corporate decisions gain a channel to raise concerns before harm occurs. Customers and investors benefit from an organization that understands their expectations and keeps its commitments. And decisions informed by a wider range of perspectives tend to be more resilient, which supports long-term value for shareholders alongside the broader social good the organization affects.",
+      "faqs": [
+        {
+          "q": "What is stakeholder salience?",
+          "a": "Stakeholder salience is a framework from management research that prioritizes stakeholders by three attributes: power to influence the organization, legitimacy of their relationship or claim, and urgency of their concerns. Groups holding more attributes typically receive more attention. We use salience alongside a separate assessment of how significantly each group is affected, because purely salience-based maps can overlook those who bear consequences but lack formal power."
+        },
+        {
+          "q": "How does stakeholder engagement support a materiality assessment?",
+          "a": "A materiality assessment identifies which sustainability and business issues matter most, and stakeholder input is central to it. Under a double materiality approach, organizations assess both how issues affect enterprise value and how the organization affects people and the environment. Structured engagement provides the evidence for both perspectives and helps ensure the assessment reflects real stakeholder concerns rather than internal assumptions."
+        },
+        {
+          "q": "Who should own stakeholder engagement inside an organization?",
+          "a": "Relationships will always be held by multiple functions, but someone must own the overall picture. We usually recommend a named executive accountable for coordination and insight, with functional owners for each priority group and periodic board oversight. The right structure depends on your size and sector; the key is that insights reach decision-makers and commitments are tracked across functions."
+        },
+        {
+          "q": "How do you measure the effectiveness of stakeholder engagement?",
+          "a": "We combine relationship indicators with decision indicators. Relationship indicators include trust and sentiment measures, participation from priority groups and responsiveness to concerns. Decision indicators track whether stakeholder insight was considered in significant decisions and whether stakeholders were told how. Periodic qualitative check-ins with key groups provide context that numbers alone cannot, and help reveal emerging issues early."
+        }
+      ],
+      "related_services": [
+        "community-engagement",
+        "esg-impact-measurement",
+        "board-advisory-governance",
+        "corporate-social-responsibility"
+      ],
+      "related_industries": [
+        "energy-utilities",
+        "financial-services-cdfis",
+        "manufacturing"
+      ],
+      "related_insights": [
+        "stakeholder-capitalism",
+        "double-materiality"
+      ]
+    },
+    {
+      "slug": "theory-of-change",
+      "practice": "social-impact-community",
+      "name": "Theory of Change Development",
+      "meta_title": "Theory of Change Consulting and Logic Models",
+      "meta_description": "Theory of change consulting that makes your causal logic explicit and testable: pathways, assumptions, logic models, indicators and a practical learning agenda.",
+      "primary_keyword": "theory of change consulting",
+      "summary": "Make the causal logic of your work explicit, testable and shared, so strategy, measurement and funding decisions rest on clear assumptions.",
+      "lede": "Our theory of change consulting helps organizations articulate how their activities lead to lasting outcomes, surface the assumptions that link each step, and turn that logic into a practical measurement and learning plan.",
+      "challenge": [
+        "Funders, boards and government partners increasingly ask organizations to submit a theory of change, and many respond by producing a diagram for the proposal that is filed away once the grant is awarded. The diagram often lists activities on the left and aspirational impacts on the right, with arrows standing in for the hardest questions: why would this activity produce that change, for whom, under what conditions, and how would we know? Without those answers, measurement defaults to counting outputs and strategy discussions lack a common reference point.",
+        "Teams also disagree, often silently, about how change happens. Program staff, executives, evaluators and community partners carry different mental models built from different experiences. When those models are never surfaced, the organization pursues several implicit strategies at once, and evaluation findings are interpreted to suit each perspective. A useful theory of change brings those models into the open, reconciles them with evidence and with the lived experience of participants, and becomes a working tool rather than a compliance artifact."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Surfacing how people believe change happens",
+          "body": "We interview staff, leadership, partners and program participants, asking each to describe how they believe the work creates change and what gets in the way. Participants' accounts are essential: they often reveal steps, barriers and outcomes that program designers miss, such as transportation, trust or caregiving constraints that determine whether an intervention reaches anyone."
+        },
+        {
+          "phase": "Measure",
+          "title": "Testing the logic against evidence",
+          "body": "We review program data, prior evaluations and relevant research to assess the strength of each causal link. Assumptions are rated by how well evidence supports them and how critical they are to the overall logic, which identifies the few uncertain, high-stakes links that deserve priority attention in measurement, evaluation and program design."
+        },
+        {
+          "phase": "Design",
+          "title": "Building the theory and logic model",
+          "body": "In facilitated working sessions we work backward from long-term outcomes to define preconditions, then map the pathways, activities and outputs that contribute to them. The result is a narrative theory of change, a visual pathway diagram and a companion logic model, each stating assumptions, contextual factors and the boundary of what the organization contributes."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Putting the theory to work",
+          "body": "We translate the theory into indicators for outputs, short-term and intermediate outcomes, select data sources and methods, and align program plans, grant proposals and staff roles with the pathways. Teams learn to use the theory when making design changes, so it guides decisions about what to start, adapt or stop."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Learning and revising over time",
+          "body": "A theory of change should change as evidence accumulates. We set up a learning agenda with priority questions, a regular review where teams compare results to expectations, and a simple version history so updates are deliberate. Where useful, we prepare the ground for external evaluation by clarifying what can be credibly measured and attributed."
+        }
+      ],
+      "deliverables": [
+        "Interviews on assumptions about how change happens",
+        "Evidence review and assumption strength assessment",
+        "Narrative theory of change and pathway diagram",
+        "Logic model linking activities, outputs and outcomes",
+        "Indicator framework and data collection plan",
+        "Learning agenda and evaluation readiness memo"
+      ],
+      "outcomes": [
+        "Staff, board and partners share a clear, common account of how the work creates change.",
+        "Measurement focuses on outcomes that matter, not only on activities and outputs.",
+        "Critical assumptions are identified and tested before major investments depend on them.",
+        "Funding proposals and evaluations rest on coherent, defensible logic that reviewers can follow."
+      ],
+      "who_we_serve": "We work with nonprofit executive directors and program leaders, foundation program officers and evaluation staff, public agencies designing or commissioning programs, social enterprises and corporate impact teams. Common triggers include a funder requirement for a theory of change, preparation for an external evaluation, a strategic plan or program redesign, scaling a model to new sites, or a realization that staff and partners describe the organization's purpose and methods in noticeably different ways.",
+      "impact_lens": "A rigorous theory of change protects the people programs are meant to serve. Participants' experiences shape the logic, so programs address the barriers they actually face. Staff gain clarity about how their daily work connects to outcomes, which supports motivation and better judgment. Funders and communities receive honest accounts of what an organization can and cannot achieve. And resources move toward approaches with stronger evidence, increasing the social good each dollar and hour can produce.",
+      "faqs": [
+        {
+          "q": "What is the difference between a theory of change and a logic model?",
+          "a": "A theory of change explains why and how a set of activities is expected to produce long-term change, including the preconditions, causal pathways, assumptions and context involved. A logic model is usually a more linear, operational summary of inputs, activities, outputs and outcomes for a specific program. We typically develop both: the theory of change for strategy and learning, the logic model for management and reporting."
+        },
+        {
+          "q": "What is the difference between outputs and outcomes?",
+          "a": "Outputs are the direct products of your activities, such as people trained, sessions delivered or grants made. Outcomes are the changes that result for people or conditions, such as new skills applied, employment obtained or health improved. Outputs are within your control and easy to count; outcomes are what actually matter to participants and funders, and they are where a theory of change should focus measurement."
+        },
+        {
+          "q": "How long does it take to develop a theory of change?",
+          "a": "It depends on the complexity of the program and how many stakeholders need to be involved. A single, well-established program can move relatively quickly, while an organization-wide theory spanning several programs and partners requires more time for interviews, evidence review and consensus building. We prioritize participation over speed where the theory will guide significant decisions or investment."
+        },
+        {
+          "q": "Can a theory of change be used for evaluation?",
+          "a": "Yes. A theory of change gives evaluators a framework to test whether each step in the expected pathway is occurring. Theory-based evaluation approaches, such as contribution analysis, use it to assess how plausibly a program contributed to observed outcomes, which is especially useful when randomized designs are impractical or inappropriate. We design theories with that future use in mind."
+        }
+      ],
+      "related_services": [
+        "social-impact-strategy",
+        "esg-impact-measurement",
+        "nonprofit-strategy",
+        "impact-dashboards"
+      ],
+      "related_industries": [
+        "nonprofits-foundations",
+        "education",
+        "public-sector"
+      ],
+      "related_insights": [
+        "theory-of-change-explained",
+        "social-return-on-investment"
+      ]
+    },
+    {
+      "slug": "nonprofit-strategy",
+      "practice": "social-impact-community",
+      "name": "Nonprofit Strategy",
+      "meta_title": "Nonprofit Strategy Consulting",
+      "meta_description": "Nonprofit strategy consulting for boards and executives: strategic plans, program portfolio and true-cost analysis, revenue models and sustainable capacity.",
+      "primary_keyword": "nonprofit strategy consulting",
+      "summary": "Strategic plans, business models and organizational capacity for nonprofits that need to grow impact without exhausting their people.",
+      "lede": "Our nonprofit strategy consulting helps boards and executive teams make clear choices about mission, programs, revenue and organizational capacity, so the organization can deepen its impact while protecting the staff who deliver it.",
+      "challenge": [
+        "Nonprofit leaders manage an unusual set of tensions. Restricted funding pulls programs in directions set by funders rather than by strategy. Growth often means adding programs faster than the infrastructure, systems and management capacity required to support them. Many organizations have a strategic plan that reads well but does not guide budgets or staffing, so year-to-year decisions are driven by grant deadlines. Boards want clarity on sustainability, while executives struggle to make the case for unrestricted investment in core operations.",
+        "The people cost is significant. Program staff take on expanding caseloads with modest pay, managers are promoted without preparation, and executive directors carry fundraising, operations and external relationships largely alone. Burnout and turnover erode institutional knowledge and relationships with the communities served. Nonprofit strategy consulting that ignores these conditions produces plans the organization cannot execute. Effective strategy treats staff capacity, equitable compensation and leadership depth as strategic choices, not as administrative afterthoughts."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Hearing the whole organization",
+          "body": "We interview board members, executives, managers, frontline staff, funders and partners, and hold listening sessions with program participants where appropriate. A short all-staff survey captures views on mission clarity, workload and confidence in direction. The aim is to understand where the organization is genuinely effective, where it is stretched and what the community needs most."
+        },
+        {
+          "phase": "Measure",
+          "title": "Assessing impact and economics together",
+          "body": "We analyze each program on two dimensions: contribution to mission, using available outcome evidence, and financial sustainability, using true cost including shared overhead. This matrix-based view, combined with a revenue mix analysis and a capacity assessment of leadership, systems and staffing, gives the board a clear, shared picture of strengths and pressures."
+        },
+        {
+          "phase": "Design",
+          "title": "Making the strategic choices",
+          "body": "With a strategy committee of board and staff, we set the intended impact, decide which programs to grow, sustain, redesign or transition, and define the revenue model and organizational investments that support those choices. Community members and frontline staff test options before they are finalized, so decisions reflect conditions on the ground."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Turning the plan into operations",
+          "body": "We convert the strategy into an implementation roadmap, annual operating priorities, an aligned budget and a funder case for unrestricted or capacity-building support. Where structural changes are needed, such as new roles, a revised management layer or program transitions, we support planning, communication and change management with staff and partners."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Governing for follow-through",
+          "body": "We help the board and executive team set a small number of strategic indicators, an operating dashboard and a quarterly review routine that links progress to budget decisions. Board committees receive clear roles in oversight, and staff leaders gain tools to update plans as conditions change without restarting the whole planning process."
+        }
+      ],
+      "deliverables": [
+        "Stakeholder, staff and participant listening synthesis",
+        "Program portfolio analysis of mission impact and true cost",
+        "Organizational capacity and revenue model assessment",
+        "Board-approved strategic plan with intended impact statement",
+        "Implementation roadmap, aligned budget and funder case",
+        "Strategic dashboard and quarterly board review process"
+      ],
+      "outcomes": [
+        "A strategic plan that guides budget, staffing and program decisions, not just external messaging.",
+        "Programs aligned with mission and economics, with responsible transitions where change is needed.",
+        "A stronger case to funders for flexible, multiyear support of core operations.",
+        "Sustainable workloads and clearer leadership roles that reduce burnout and support staff retention."
+      ],
+      "who_we_serve": "We work with nonprofit executive directors and chief executives, board chairs and strategy committees, chief operating officers and development leaders. Clients range from community-based organizations to national networks and affiliates. Common triggers include an expiring strategic plan, executive transition, rapid growth or the loss of a major funder, a merger or partnership opportunity, demand that has outpaced capacity, or a board seeking clearer evidence that programs are achieving the outcomes the organization promises.",
+      "impact_lens": "A sound nonprofit strategy is ultimately about the people the organization serves. Clearer priorities mean programs can go deeper rather than wider, which typically improves quality for participants. Staff benefit from realistic workloads, defined roles and investment in leadership development. Funders gain confidence that their support is well used. And communities gain a more stable institution, one that can keep its commitments through funding cycles and leadership changes.",
+      "faqs": [
+        {
+          "q": "What does a nonprofit strategy consultant do?",
+          "a": "A nonprofit strategy consultant helps leadership and the board clarify the organization's intended impact, assess programs, finances and capacity, and make choices about where to focus. The work typically includes stakeholder research, program and financial analysis, facilitated planning sessions and an implementation roadmap. Good consultants help the organization own the plan, building internal capacity to manage it rather than creating dependence."
+        },
+        {
+          "q": "How is a nonprofit strategic plan different from a business plan?",
+          "a": "A business plan focuses on market opportunity, revenue and profitability. A nonprofit strategic plan starts with mission and intended impact, then addresses how programs, revenue, people and partnerships will advance it. Financial sustainability matters in both, but in a nonprofit it serves the mission. The best nonprofit plans integrate a clear business model, so leaders understand how each program is funded and what it truly costs."
+        },
+        {
+          "q": "Should our nonprofit consider a merger or strategic partnership?",
+          "a": "Mergers, shared services and formal partnerships can increase impact and resilience when they are driven by mission rather than only by financial pressure. We help boards evaluate options by assessing mission alignment, cultural fit, service overlap, financial position and effects on staff and participants. In many cases, a less formal collaboration achieves the goal with lower risk. The analysis comes before the conversation with potential partners."
+        },
+        {
+          "q": "How do you involve staff and community in nonprofit strategic planning?",
+          "a": "We use interviews, surveys and listening sessions to gather perspectives early, include frontline staff and community members on the planning committee or advisory group, and test draft options with them before decisions are final. Participants are compensated where appropriate. This produces a more grounded plan and builds the trust and understanding that implementation depends on."
+        }
+      ],
+      "related_services": [
+        "strategic-planning",
+        "theory-of-change",
+        "board-advisory-governance",
+        "philanthropy-advisory"
+      ],
+      "related_industries": [
+        "nonprofits-foundations",
+        "social-enterprises-b-corps",
+        "education"
+      ],
+      "related_insights": [
+        "okrs-for-mission-driven-organizations",
+        "middle-managers"
+      ]
+    },
+    {
+      "slug": "public-sector-consulting",
+      "practice": "social-impact-community",
+      "name": "Public Sector Consulting",
+      "meta_title": "Public Sector Consulting for Government Agencies",
+      "meta_description": "Public sector consulting that reduces administrative burden, strengthens the public workforce and helps agencies deliver policy goals with accountability.",
+      "primary_keyword": "public sector consulting",
+      "summary": "Help government agencies design services residents can use, build workforce capacity and deliver policy goals with accountability and evidence.",
+      "lede": "Our public sector consulting helps government agencies improve resident-facing services, strengthen their workforce and operating models, and deliver policy priorities with the evidence, transparency and accountability that public institutions require.",
+      "challenge": [
+        "Public agencies are asked to deliver more with constrained budgets, aging systems and a workforce facing significant retirement and recruitment pressures. New funding often arrives with tight timelines and complex compliance requirements. Residents compare government services with the best digital experiences they encounter elsewhere, yet agencies operate within statutes, procurement rules, legacy technology and multiple layers of oversight. The result is services that are difficult to navigate, especially for residents with limited time, language access, disabilities or digital connectivity.",
+        "Inside agencies, the people challenges are equally pressing. Hiring processes are slow, career pathways are unclear and frontline staff often absorb the friction of poorly designed processes. Policy teams, program staff, IT and procurement work in separate silos with different incentives. Change initiatives must survive election cycles and leadership transitions. Effective public sector consulting must respect these constraints, including civil service rules, collective bargaining and public records requirements, while still finding practical ways to improve service delivery."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Understanding residents and public servants",
+          "body": "We conduct research with residents who use, or struggle to access, the service, including those most likely to be excluded. We also spend time with frontline staff, supervisors and partner organizations to understand how policy is actually implemented. This dual view reveals where statutory requirements end and where avoidable administrative burden begins, which is often surprisingly different."
+        },
+        {
+          "phase": "Measure",
+          "title": "Establishing a service baseline",
+          "body": "We analyze administrative data on application volumes, processing times, error rates, approvals, denials and churn, disaggregated where lawful and appropriate to identify inequities. We map the service journey and calculate where time and effort concentrate for residents and staff, and assess workforce data on vacancies, turnover and capacity to see which constraints matter most."
+        },
+        {
+          "phase": "Design",
+          "title": "Co-designing feasible improvements",
+          "body": "We design changes with residents and staff, within legal and budget limits: simplified forms and notices, clearer eligibility communication, revised workflows, data sharing to reduce duplicate requests and role redesign. Where technology or services must be procured, we help define outcomes-based requirements and evaluation criteria that reflect the needs of the people using them."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Implementing within public constraints",
+          "body": "We support pilots with clear success measures, then plan phased rollout, staff training, communications and labor-management engagement. We work alongside agency teams rather than in place of them, and we document decisions to support transparency, audit and public records requirements. Procurement and vendor management support helps keep implementation on schedule and accountable."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Building lasting public capacity",
+          "body": "We help the agency establish service performance dashboards, regular review routines and a small internal team skilled in service design and data use. Playbooks and training materials ensure the approach survives leadership transitions, and public-facing reporting gives residents and elected officials a transparent view of progress toward the agency's goals."
+        }
+      ],
+      "deliverables": [
+        "Resident and frontline staff research synthesis",
+        "Service journey map and administrative burden analysis",
+        "Equity-disaggregated service performance baseline report",
+        "Co-designed service improvements and pilot plans",
+        "Outcomes-based procurement requirements and evaluation criteria",
+        "Performance dashboard, playbooks and internal capability plan"
+      ],
+      "outcomes": [
+        "Residents can access services more easily, with less duplication, confusion and avoidable delay.",
+        "Frontline staff spend less time on rework and more time helping residents.",
+        "Procurements specify outcomes and user needs rather than only technical requirements.",
+        "Agency teams sustain improvements through leadership changes with their own skills and tools."
+      ],
+      "who_we_serve": "We work with agency directors, deputy secretaries, chief operating and performance officers, program administrators and human resources leaders in city, county and state government, along with public authorities and quasi-governmental bodies. Typical triggers include new legislation or funding with implementation deadlines, persistent service backlogs, audit findings, workforce shortages, a modernization initiative, or a new administration seeking to translate policy priorities into measurable improvements for residents. We follow applicable procurement and conflict-of-interest requirements.",
+      "impact_lens": "Public services shape whether people can access food, housing, health care, income and opportunity. Reducing administrative burden helps eligible residents receive the support intended for them, especially those with the least time and fewest resources to navigate complex systems. Public servants gain workflows that respect their expertise and reduce burnout. And taxpayers and elected officials gain clearer evidence of what public investment achieves, which strengthens trust in government institutions.",
+      "faqs": [
+        {
+          "q": "How do government agencies hire public sector consultants?",
+          "a": "Agencies typically procure consulting services through competitive solicitations such as requests for proposals or qualifications, existing cooperative or statewide contracts, or, for smaller engagements, simplified procurement thresholds defined by their jurisdiction. Requirements vary by level of government and funding source. We work within the agency's procurement rules and can explain our approach to scope, deliverables and pricing in terms evaluators need."
+        },
+        {
+          "q": "What is administrative burden in public services?",
+          "a": "Administrative burden refers to the learning, compliance and psychological costs people experience when interacting with government, such as figuring out eligibility, gathering documents, completing forms and dealing with stigma or uncertainty. Research in public administration shows these burdens can deter eligible people from receiving benefits. Reducing them through simpler processes, data sharing and clearer communication is a central aim of resident-centered service improvement."
+        },
+        {
+          "q": "Can human-centered design work within government regulations?",
+          "a": "Yes. Statutes and regulations define what must happen, but agencies usually have considerable discretion over how: the wording of notices, the sequence of steps, which documents are requested and how staff are organized. Human-centered design focuses on that discretionary space. We work with legal and policy staff early to confirm what is required, so proposed changes are both resident-friendly and compliant."
+        },
+        {
+          "q": "How do you sustain improvements after leadership changes?",
+          "a": "We build capability inside the agency rather than relying on consultants, document methods in playbooks, embed performance measures in routine management reviews and involve career staff throughout. Changes that are visible to residents and supported by frontline employees tend to have constituencies that outlast any single administration. Public reporting on progress also creates accountability that encourages continuity."
+        }
+      ],
+      "related_services": [
+        "service-design",
+        "community-engagement",
+        "strategic-workforce-planning",
+        "process-improvement"
+      ],
+      "related_industries": [
+        "public-sector",
+        "education",
+        "healthcare"
+      ],
+      "related_insights": [
+        "what-is-service-design",
+        "systems-thinking"
+      ]
+    },
+    {
+      "slug": "corporate-social-responsibility",
+      "practice": "social-impact-community",
+      "name": "Corporate Social Responsibility",
+      "meta_title": "Corporate Social Responsibility Consulting",
+      "meta_description": "Corporate social responsibility consulting that ties giving, volunteering and business practice to focused, measurable commitments that employees trust.",
+      "primary_keyword": "corporate social responsibility consulting",
+      "summary": "Turn scattered CSR activity into a focused program tied to your business, your people and measurable community outcomes.",
+      "lede": "Our corporate social responsibility consulting helps companies connect giving, volunteering, sourcing and business practices to a coherent strategy that employees believe in, communities value and stakeholders can verify.",
+      "challenge": [
+        "Many corporate social responsibility programs are a collection of sponsorships, matching gifts, volunteer days and causes selected by different executives over many years. They generate goodwill but rarely produce measurable outcomes, and they are often disconnected from how the company actually affects people through its products, workforce, supply chain and footprint. As expectations from investors, regulators and employees rise, companies find that philanthropy alone no longer answers the question of whether the business itself is a responsible actor.",
+        "Employees notice the gap. Many want their employer to stand for something, yet they see CSR announcements that seem unrelated to their daily experience of pay, scheduling, safety or inclusion. Community partners notice when funding priorities shift with each leadership change. Communications teams worry about claims that cannot be substantiated. Corporate social responsibility consulting has to connect the external program with internal practice, so the company's commitments are consistent, credible and rooted in what the business does every day."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Hearing employees and communities",
+          "body": "We gather perspectives from employees across levels and locations, community partners, customers and leaders through interviews, focus groups and short surveys. We ask how people experience the company's role in their lives and communities, what they value in current programs and where they see inconsistencies between stated commitments and actual business practice."
+        },
+        {
+          "phase": "Measure",
+          "title": "Auditing the current footprint",
+          "body": "We inventory all current CSR activity, including giving, volunteering, in-kind support, sponsorships, supplier diversity and community investment, and map it against the company's most significant social impacts through operations, workforce and value chain. A peer and expectation scan identifies where your commitments trail stakeholder expectations or where your claims may be difficult to substantiate."
+        },
+        {
+          "phase": "Design",
+          "title": "Building a focused framework",
+          "body": "We help leadership choose a small number of focus areas where business capabilities, employee passion and community need intersect, and define how giving, volunteering, procurement and core practices will reinforce each other. Each focus area receives a theory of change, community partners selected through clear criteria and a governance model that survives executive turnover."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Launching with employees",
+          "body": "We support the rollout of the refreshed program, including grant guidelines, skills-based volunteering design, employee resource group involvement, partner transitions handled with appropriate notice and internal communications. Managers receive talking points and tools so the program becomes part of how teams work, not an add-on announced once and then forgotten."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Measuring and reporting credibly",
+          "body": "We develop outcome indicators for each focus area, simple partner reporting that does not burden small organizations, and an internal dashboard. Public reporting is aligned with relevant sustainability disclosure expectations and reviewed for substantiation, so the company can describe its contribution accurately and avoid overstated claims that damage trust."
+        }
+      ],
+      "deliverables": [
+        "Employee and community partner listening synthesis",
+        "Inventory of CSR activity mapped to business impacts",
+        "Focus area framework with theory of change for each",
+        "Community partner selection criteria and transition plan",
+        "Skills-based volunteering and employee engagement program design",
+        "Outcome indicators, dashboard and reporting substantiation review"
+      ],
+      "outcomes": [
+        "A focused CSR program that reflects the company's real business impacts and capabilities.",
+        "Employees who understand, trust and participate in the company's community commitments.",
+        "Community partners with steadier, more predictable relationships and support from the company.",
+        "Public claims that can be substantiated and are consistent with internal business practice."
+      ],
+      "who_we_serve": "We work with chief people officers, chief sustainability and corporate affairs officers, foundation and community investment leaders, and chief executives at companies of many sizes, including investor-backed businesses building their first program. Triggers include a new chief executive or brand repositioning, employee pressure for more meaningful engagement, a corporate foundation review, disclosure requirements, an acquisition that combines different programs, or recognition that current giving is diffuse and difficult to explain to employees and investors.",
+      "impact_lens": "Responsible business starts inside the company. Aligning CSR with core practices means employees benefit from commitments that reach their own pay, safety, development and inclusion. Communities gain partners who stay committed and contribute skills as well as funding. Customers can trust that the company's claims reflect reality. And a CSR program built around genuine business strengths tends to deliver more social good per dollar while strengthening the company's reputation and ability to attract talent.",
+      "faqs": [
+        {
+          "q": "What is the difference between CSR and ESG?",
+          "a": "Corporate social responsibility generally refers to a company's voluntary commitments to society, including philanthropy, volunteering and ethical practices. ESG refers to environmental, social and governance factors that investors and regulators use to assess risk, performance and disclosure. The two overlap substantially. A well-designed CSR strategy supports strong performance on the social dimension of ESG, while ESG frameworks add rigor to how CSR outcomes are measured and reported."
+        },
+        {
+          "q": "How do we choose CSR focus areas?",
+          "a": "The strongest focus areas sit where three things meet: a significant community need, a distinctive company capability such as expertise, products or networks, and genuine employee interest. We also look at where the company's operations already affect people, positively or negatively, because commitments related to those impacts are more credible. Listening to employees and communities is essential before narrowing options."
+        },
+        {
+          "q": "What is skills-based volunteering?",
+          "a": "Skills-based volunteering asks employees to contribute their professional expertise, such as finance, legal, technology, marketing or operations, to nonprofit and community partners. Done well, it addresses real capacity needs for partners and offers employees development opportunities. It requires careful scoping, partner input and time commitments that respect the partner's capacity to host volunteers, which is why we design it with partners rather than for them."
+        },
+        {
+          "q": "How do we avoid greenwashing or impact-washing in CSR reporting?",
+          "a": "Report outcomes alongside activities, describe contribution rather than claiming sole credit, disclose limitations and setbacks, and keep evidence on file for every public claim. Reporting should also cover the company's material negative impacts, not only its positive programs. We conduct a substantiation review of claims before publication and align reporting with relevant disclosure standards and advertising guidance."
+        }
+      ],
+      "related_services": [
+        "social-impact-strategy",
+        "stakeholder-engagement",
+        "philanthropy-advisory",
+        "esg-impact-measurement"
+      ],
+      "related_industries": [
+        "retail-consumer",
+        "manufacturing",
+        "technology"
+      ],
+      "related_insights": [
+        "stakeholder-capitalism",
+        "double-materiality"
+      ]
+    },
+    {
+      "slug": "workforce-development",
+      "practice": "social-impact-community",
+      "name": "Workforce Development Programs",
+      "meta_title": "Workforce Development Program Consulting",
+      "meta_description": "Workforce development consulting for employers, workforce boards and funders: sector partnerships, career pathways and outcomes measured by quality jobs.",
+      "primary_keyword": "workforce development consulting",
+      "summary": "Design employer-led training and career pathways that connect people to quality jobs and give employers the skilled talent they need.",
+      "lede": "Our workforce development consulting helps employers, intermediaries, public workforce boards and funders design sector partnerships and career pathway programs that lead to quality jobs, measured by advancement and retention, not only enrollment.",
+      "challenge": [
+        "Employers report persistent difficulty filling skilled roles, while many workers remain in low-wage jobs with few routes to advancement. Workforce programs exist to close that gap, but many are designed from the supply side: a training provider builds a curriculum, enrolls participants and hopes employers will hire graduates. Without employer commitment to hiring, aligned credentials and realistic job quality, graduates struggle to find work that uses their new skills, and employers continue to see programs as disconnected from their needs.",
+        "The people barriers are equally real. Participants juggle training with work, caregiving, transportation and financial pressure, and many drop out for reasons that have nothing to do with ability. Employers' hiring practices may screen out qualified candidates through degree requirements or rigid scheduling. Supervisors may be unprepared to support new hires. Effective workforce development consulting addresses the full system: employer demand, training design, wraparound supports, hiring practices and the job quality that determines whether people stay and advance."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Understanding employers and job seekers",
+          "body": "We interview employers about specific skill needs, hiring practices and retention challenges, and conduct research with current and prospective participants about their goals and barriers. Conversations with training providers, community organizations and workforce boards reveal the existing ecosystem, where referrals break down and which supports participants rely on to complete training and keep their jobs."
+        },
+        {
+          "phase": "Measure",
+          "title": "Analyzing demand, outcomes and job quality",
+          "body": "We analyze labor market data for target occupations, assess wages, benefits, scheduling and advancement potential, and review existing program data on enrollment, completion, placement, retention and earnings, disaggregated to reveal equity gaps. A skills analysis compares what employers require with what current credentials and curricula actually teach."
+        },
+        {
+          "phase": "Design",
+          "title": "Building the sector partnership and pathway",
+          "body": "We co-design an employer-led sector partnership with a shared governance model, then design career pathways with stackable credentials, work-based learning such as apprenticeships, and wraparound supports for transportation, childcare and income. Employers commit to skills-based hiring, supervisor preparation and clear advancement steps, so training leads to quality jobs and progression."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Launching and supporting implementation",
+          "body": "We support the launch of pilot cohorts, employer onboarding, partner agreements, data sharing arrangements and participant recruitment through trusted community channels. Supervisors and mentors receive training to support new hires. We also help prepare funding proposals and braided funding plans that combine public workforce, philanthropic and employer resources to sustain the program."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Tracking outcomes and improving",
+          "body": "We establish shared outcome measures across partners, focused on placement, retention, wage growth and advancement, with dashboards that inform regular partnership meetings. Participant feedback loops identify barriers early. A continuous improvement process helps the partnership adapt curricula and supports as employer needs change and evidence accumulates about which elements work."
+        }
+      ],
+      "deliverables": [
+        "Employer demand and job quality analysis for target occupations",
+        "Participant barrier research and support needs assessment",
+        "Sector partnership charter and governance model",
+        "Career pathway map with stackable credentials and work-based learning",
+        "Braided funding plan and employer commitment agreements",
+        "Shared outcome measures and partnership performance dashboard"
+      ],
+      "outcomes": [
+        "Training aligned with real employer demand, leading to quality jobs rather than certificates alone.",
+        "Higher completion as participants receive the supports they need to finish training.",
+        "Employers adopt skills-based hiring and supervisor practices that improve new hire retention.",
+        "A durable partnership that can sustain funding and adapt to changing labor market needs."
+      ],
+      "who_we_serve": "We work with employer human resources and talent acquisition leaders, workforce development boards, community colleges, training intermediaries, economic development agencies and foundations that fund economic mobility. Engagements often begin with a new public or philanthropic funding opportunity, an employer facing persistent hiring shortages, a regional economic development project, a program with strong enrollment but weak placement or retention outcomes, or a coalition seeking to formalize an informal partnership into a governed sector strategy.",
+      "impact_lens": "Effective workforce development changes lives and local economies. Participants gain skills, credentials and access to jobs with better wages, benefits and advancement potential. Employers gain a pipeline of prepared workers and supervisors who can retain them. Communities benefit from greater economic mobility and reduced barriers for residents who have been excluded from good jobs. And because programs are designed with employers and participants, public and philanthropic investment is more likely to produce lasting results.",
+      "faqs": [
+        {
+          "q": "What is a sector partnership in workforce development?",
+          "a": "A sector partnership brings multiple employers within an industry together with training providers, workforce boards, community organizations and sometimes labor organizations to address shared talent needs. Employers lead in defining skills and committing to hiring, while partners coordinate training, recruitment and support services. Sector strategies are widely regarded in workforce research as one of the more promising approaches for improving both earnings and employer outcomes."
+        },
+        {
+          "q": "How do you measure the success of a workforce development program?",
+          "a": "We focus on outcomes rather than outputs. Enrollment and completion matter, but the critical measures are placement in quality jobs, retention over time, wage growth and advancement. We disaggregate results by demographic group to reveal equity gaps, combine program data with employer and participant feedback, and track job quality indicators such as benefits and scheduling stability."
+        },
+        {
+          "q": "What is skills-based hiring?",
+          "a": "Skills-based hiring evaluates candidates on demonstrated abilities rather than proxies such as degrees or years of experience. It can widen talent pools and improve equity, but it requires redesigning job descriptions, assessments and interview processes, and training hiring managers to apply them consistently. We help employers identify which roles are suitable and build the practices that make skills-based hiring work in practice, not only in policy."
+        },
+        {
+          "q": "How are workforce development programs funded?",
+          "a": "Most successful programs braid several funding sources: public workforce funds, education and apprenticeship funding, philanthropic grants and employer contributions such as wages during training, equipment, instructors or tuition support. Each source carries different eligibility and reporting requirements. We help partnerships design a funding plan that covers core coordination costs, avoids dependence on any single source and aligns reporting across funders."
+        }
+      ],
+      "related_services": [
+        "strategic-workforce-planning",
+        "talent-strategy",
+        "public-sector-consulting",
+        "community-engagement"
+      ],
+      "related_industries": [
+        "manufacturing",
+        "healthcare",
+        "public-sector"
+      ],
+      "related_insights": [
+        "skills-based-organization",
+        "cost-of-employee-turnover"
+      ]
+    },
+    {
+      "slug": "philanthropy-advisory",
+      "practice": "social-impact-community",
+      "name": "Philanthropy Advisory",
+      "meta_title": "Philanthropy Advisory and Grantmaking Strategy",
+      "meta_description": "Philanthropy advisory for foundations, families and corporate funders: grantmaking strategy, trust-based practice, grantee feedback and learning that lasts.",
+      "primary_keyword": "philanthropy advisory",
+      "summary": "Advise foundations, families and corporate funders on grantmaking strategy, trust-based practice and learning that helps grantees and communities thrive.",
+      "lede": "Our philanthropy advisory helps foundations, family offices, donor-advised fund holders and corporate funders clarify their goals, design grantmaking strategies and practices that respect grantees, and learn from their giving over time.",
+      "challenge": [
+        "Philanthropic resources are significant, but strategies are often shaped by founders' early interests, board preferences or the accumulation of legacy grants. Funders may spread grants thinly across many issues, impose application and reporting requirements out of proportion to grant size, or change priorities abruptly. Families face additional complexity when generations hold different values, while corporate foundations balance community goals with business expectations. Without clarity of purpose and approach, philanthropy can produce goodwill without the sustained change donors hope to achieve.",
+        "Power dynamics shape every grantmaking relationship. Grantees often feel unable to speak candidly about challenges for fear of losing funding, so funders receive optimistic reports rather than useful information. Restricted, short-term grants make it difficult for nonprofits to invest in staff, systems and resilience. Communities affected by funding decisions are rarely involved in making them. Thoughtful philanthropy advisory addresses not only what to fund but how to fund: the practices, relationships and accountability that determine whether giving strengthens or strains the field."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Clarifying values and hearing grantees",
+          "body": "We interview trustees, family members, staff and leaders to clarify values, goals, time horizon and appetite for risk. We also gather candid feedback from current and former grantees, through anonymous surveys and third-party interviews, and from community leaders, so the strategy reflects how the funder's practices are actually experienced in the field."
+        },
+        {
+          "phase": "Measure",
+          "title": "Reviewing the grant portfolio",
+          "body": "We analyze the grant portfolio by issue, geography, grant size, duration, restriction and grantee characteristics, and assess what is known about results. We compare the funder's application, reporting and payment practices against its grant sizes, and estimate the burden placed on grantees, which often reveals easy opportunities to reduce friction and redirect staff time to relationships."
+        },
+        {
+          "phase": "Design",
+          "title": "Designing strategy and practice",
+          "body": "We help the board choose focus areas, a theory of change for each and a grantmaking approach: general operating or project support, multiyear commitments, capacity building, participatory grantmaking, program-related investments or policy engagement. We also design grant practices consistent with trust-based philanthropy principles, such as streamlined applications, flexible funding and reporting that serves learning."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Transitioning and launching",
+          "body": "We support the transition from current to future portfolio, including responsible exit plans with adequate notice and tapering for grantees who fall outside new priorities. We help revise guidelines, update grants management workflows, design community advisory structures where appropriate and prepare staff and trustees for new roles in relationship-based grantmaking."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Learning and accountability",
+          "body": "We set up a learning framework that combines grantee feedback, outcome evidence and periodic strategy reviews, with indicators the board can track without imposing new reporting on grantees. Regular grantee perception feedback holds the funder accountable for its own practices, and a cycle of review allows strategy to evolve as conditions and evidence change."
+        }
+      ],
+      "deliverables": [
+        "Trustee and family values and goals synthesis",
+        "Anonymous grantee perception feedback and analysis",
+        "Grant portfolio analysis by focus, size and flexibility",
+        "Grantmaking strategy with theory of change per focus area",
+        "Revised grant practices, guidelines and responsible exit plan",
+        "Learning framework and board strategy review process"
+      ],
+      "outcomes": [
+        "A grantmaking strategy that reflects donors' values and the priorities of affected communities.",
+        "Grantees spend less time on applications and reports and more on their mission.",
+        "Funders receive candid information that improves decisions and strengthens grantee relationships.",
+        "Trustees and staff share a clear framework for evaluating progress and adapting strategy."
+      ],
+      "who_we_serve": "We advise foundation chief executives and boards, family foundations and family offices, donor-advised fund holders with significant giving, corporate foundations and community foundations. Typical triggers include a generational transition in a family foundation, a significant new gift or liquidity event, a new foundation president, a decision to spend down or extend the foundation's life, grantee feedback revealing problematic practices, or a board desire to concentrate resources for greater impact and better learning.",
+      "impact_lens": "Philanthropic practices shape the health of the nonprofit sector and the communities it serves. Flexible, multiyear funding lets grantees invest in staff, fair compensation and resilience. Streamlined processes return time to mission delivery. Including community voices in grantmaking shifts some decision-making power to the people most affected. And funders who learn honestly from grantees make better decisions, so each philanthropic dollar contributes more fully to lasting social good.",
+      "faqs": [
+        {
+          "q": "What is trust-based philanthropy?",
+          "a": "Trust-based philanthropy is an approach to grantmaking that seeks to address power imbalances between funders and grantees. Its commonly cited practices include providing multiyear unrestricted funding, doing the homework so grantees do not have to, simplifying paperwork, being transparent and responsive, soliciting and acting on feedback, and offering support beyond the check. It does not mean abandoning accountability; it means building accountability through relationships and learning."
+        },
+        {
+          "q": "Should a foundation provide general operating support or project grants?",
+          "a": "General operating support gives grantees flexibility to invest where they see the greatest need, including staff, systems and reserves, and is generally more aligned with nonprofit sustainability. Project grants can suit time-limited initiatives or new programs with clear boundaries. Many funders use a mix. The right balance depends on the funder's goals, relationships and confidence in grantees' leadership and strategy."
+        },
+        {
+          "q": "What is participatory grantmaking?",
+          "a": "Participatory grantmaking shifts some or all funding decisions to people affected by the issues being funded, such as community residents, people with lived experience or grantee peers. Models range from community advisory committees that inform staff recommendations to panels that make final decisions. It requires careful design around eligibility, compensation, conflicts of interest and support, but it can improve both decisions and legitimacy."
+        },
+        {
+          "q": "How can a family foundation manage different generations' priorities?",
+          "a": "We start by listening to each generation separately and together, identifying shared values and areas of difference. Options include a shared core strategy with discretionary grants for individual family members, next-generation committees, or distinct focus areas led by different branches. Clear governance, documented donor intent where relevant and facilitated decision-making help families sustain both the foundation and their relationships."
+        }
+      ],
+      "related_services": [
+        "social-impact-strategy",
+        "nonprofit-strategy",
+        "theory-of-change",
+        "impact-investing-advisory"
+      ],
+      "related_industries": [
+        "nonprofits-foundations",
+        "financial-services-cdfis"
+      ],
+      "related_insights": [
+        "social-return-on-investment",
+        "impact-measurement-management"
+      ]
+    },
+    {
+      "slug": "strategic-planning",
+      "practice": "strategy-operations",
+      "name": "Strategic Planning",
+      "meta_title": "Strategic Planning Consulting",
+      "meta_description": "Strategic planning consulting that forces real trade-offs, involves the people who execute the plan, and builds the routines that keep strategy alive all year.",
+      "primary_keyword": "strategic planning consulting",
+      "summary": "Set clear direction, make real trade-offs and build the management routines that turn a strategic plan into daily decisions.",
+      "lede": "Our strategic planning consulting helps leadership teams and boards make explicit choices about where to compete or serve, how to win, and what to stop, then translate those choices into priorities managers can act on.",
+      "challenge": [
+        "Strategic plans often fail in one of two ways. Some are so broad that every existing initiative fits inside them, so nothing changes. Others are thoughtful but disconnected from budgeting, staffing and performance management, so they are revisited once a year and ignored in between. In both cases leaders have not made the hard choices about what the organization will not do, and managers are left to interpret competing priorities on their own, often by defaulting to the most urgent request.",
+        "Planning processes also tend to exclude the people who know the most about customers and operations. Strategy is written by a small group, communicated in a town hall and then cascaded as a list of targets. Middle managers, who must translate strategy into team decisions, receive little context about why choices were made. Employees cannot see how their work connects to the plan. Strategic planning consulting should produce a plan with genuine choices and a process that builds understanding and commitment across the organization."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Gathering perspectives across the organization",
+          "body": "We interview the board and leadership team, hold structured conversations with managers and frontline employees, and gather customer, partner and investor perspectives. An organization-wide survey captures views on current direction, priorities and barriers to execution. This research often reveals disagreement among leaders that must be addressed before any plan can work in practice."
+        },
+        {
+          "phase": "Measure",
+          "title": "Establishing a strategic fact base",
+          "body": "We build a fact base on market dynamics, customer needs, competitive or peer position, financial performance and organizational capabilities, including people metrics such as engagement, turnover and capability gaps. Scenario analysis tests how different futures would affect the organization, so the plan is robust to uncertainty rather than dependent on a single forecast."
+        },
+        {
+          "phase": "Design",
+          "title": "Making explicit choices",
+          "body": "In facilitated sessions, leadership defines its aspiration, where to play, how to win, the capabilities required and the management systems that support them. Options are evaluated against the fact base and tested with managers and employees. We insist on explicit trade-offs: what will receive more investment, what will receive less and what will stop entirely."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Translating strategy into action",
+          "body": "We convert choices into a small set of strategic priorities, objectives and key results, initiative charters with owners and resource requirements, and an aligned budget. Managers receive briefing materials and facilitation guides to discuss the strategy with their teams and translate it into team-level goals, so the plan reaches the front line."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Governing execution",
+          "body": "We design a strategy management routine: quarterly strategy reviews held separately from operational meetings, a dashboard of leading and lagging indicators, and a process for adjusting priorities when assumptions change. Board reporting focuses on progress against strategic choices. We build internal capability so the organization can run future planning cycles itself."
+        }
+      ],
+      "deliverables": [
+        "Leadership, employee and stakeholder perspectives synthesis",
+        "Strategic fact base and scenario analysis",
+        "Strategy on a page with explicit trade-offs",
+        "Objectives and key results with initiative charters",
+        "Manager briefing kit and team cascade guides",
+        "Strategy dashboard and quarterly review operating rhythm"
+      ],
+      "outcomes": [
+        "A leadership team aligned on clear choices, including what the organization will stop doing.",
+        "Budgets, staffing and initiatives that reflect strategic priorities rather than historical patterns.",
+        "Managers and employees who understand the strategy and can connect it to their work.",
+        "A governance rhythm that keeps the plan current as conditions and evidence change."
+      ],
+      "who_we_serve": "We work with chief executives, chief strategy officers, executive teams and boards in companies, investor-backed businesses, nonprofits, health systems, universities and public institutions. Common triggers include a new chief executive or board chair, the end of a planning cycle, a significant market shift, an ownership change or new investment, a merger, underperformance against plan, or a recognition that the current strategy is not shaping decisions because it lacks clear priorities and trade-offs.",
+      "impact_lens": "A clear strategy is a gift to the people who carry it out. Employees spend less effort on conflicting priorities and initiatives that will never be funded. Managers can make decisions with confidence. Customers experience a more consistent organization. When planning includes community and stakeholder perspectives, the plan is more likely to account for the organization's broader effects. And focused resource allocation strengthens the financial performance that sustains jobs and investment over time.",
+      "faqs": [
+        {
+          "q": "What does a strategic planning consultant do?",
+          "a": "A strategic planning consultant designs and facilitates the planning process, builds the fact base, challenges assumptions and helps leaders make and document clear choices. They also help translate strategy into priorities, budgets and governance routines. An effective consultant brings outside perspective and analytical rigor while ensuring the leadership team owns the strategy and has the capability to manage it after the engagement ends."
+        },
+        {
+          "q": "How many years should a strategic plan cover?",
+          "a": "Many organizations plan over a multiyear horizon with annual operating priorities and quarterly reviews. The right horizon depends on how quickly your industry or environment changes and how long major investments take to mature. More important than the horizon is the review rhythm: a plan revisited quarterly and adjusted as evidence emerges is more useful than a longer plan left unchanged."
+        },
+        {
+          "q": "How do you involve employees in strategic planning without slowing it down?",
+          "a": "We gather employee input early through surveys, focus groups and manager conversations, so it shapes the fact base rather than arriving late. We test draft choices with representative groups and use their feedback to refine implementation. Leadership retains decision rights, but employees understand the reasoning. This adds little time and typically accelerates execution because fewer people need to be persuaded later."
+        },
+        {
+          "q": "What is the difference between strategic planning and operational planning?",
+          "a": "Strategic planning decides direction: where the organization will focus, how it will create value and which capabilities it needs. Operational planning determines how work will be organized, resourced and scheduled to deliver those choices in a given period. Both are necessary. Problems arise when operational plans are built without reference to strategy, or when strategy is set without regard to operational capacity."
+        }
+      ],
+      "related_services": [
+        "operating-model-design",
+        "nonprofit-strategy",
+        "change-management",
+        "mission-driven-growth"
+      ],
+      "related_industries": [
+        "healthcare",
+        "education",
+        "private-equity-portfolio-companies"
+      ],
+      "related_insights": [
+        "okrs-for-mission-driven-organizations",
+        "middle-managers"
+      ]
+    },
+    {
+      "slug": "operating-model-design",
+      "practice": "strategy-operations",
+      "name": "Operating Model Design",
+      "meta_title": "Operating Model Design Consulting",
+      "meta_description": "Operating model design that aligns capabilities, structure, decision rights, processes and technology with strategy, and guides the people transition carefully.",
+      "primary_keyword": "operating model design",
+      "summary": "Redesign how work, decisions, people and technology fit together so your organization can deliver its strategy reliably and at scale.",
+      "lede": "Our operating model design work helps leaders define how value is delivered: the capabilities, structures, decision rights, processes, technology and people practices required to execute strategy without unnecessary complexity.",
+      "challenge": [
+        "Operating models usually evolve by accumulation. Functions add teams, regions add local processes, acquisitions bring parallel systems, and shared services are created without clear service levels. Over time the organization becomes harder to navigate: decisions require too many approvals, accountabilities overlap, and customers experience inconsistency depending on which part of the organization they encounter. Leaders sense that cost and speed are suffering but struggle to pinpoint where, because the operating model has never been described as a whole.",
+        "Redesign efforts often fail by focusing on structure alone. A new organization chart is announced, yet decision rights, governance forums, processes, metrics and incentives remain unchanged, so work continues much as before under different names. Employees experience uncertainty and lost relationships without seeing improvement. Effective operating model design treats structure as one element among several and pays attention to how people will actually work, decide and collaborate under the new design, including the managers who must make it function."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Understanding how work really happens",
+          "body": "We interview leaders and conduct workshops with managers and frontline staff to understand where decisions get stuck, where handoffs fail and where work is duplicated. Customer and employee perspectives reveal how the current model is experienced, which is often different from how it is described in organization charts and policy documents."
+        },
+        {
+          "phase": "Measure",
+          "title": "Diagnosing the current model",
+          "body": "We build a current-state view using an operating model canvas covering value chain, capabilities, organization, locations, information systems, suppliers and management system. Activity analysis, spans and layers analysis, decision-rights mapping and cost-to-serve data show where complexity, cost and delay concentrate, establishing a baseline for evaluating design options."
+        },
+        {
+          "phase": "Design",
+          "title": "Designing options with clear principles",
+          "body": "With leadership, we set design principles derived from strategy, then develop and evaluate alternative models: centralized, decentralized, hybrid, platform or shared services. The preferred design specifies capabilities, structure, decision rights using tools such as RAPID or RACI, governance forums, key processes, roles and metrics. Managers and employees test the design through realistic scenarios."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Transitioning with care",
+          "body": "We develop a transition plan covering sequencing, role mapping, talent selection, consultation obligations, communications and change management. Leaders and managers receive guidance on holding individual conversations with affected employees. Implementation proceeds in waves with readiness checks, so business continuity is protected and issues are resolved before the next phase begins."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Embedding the new model",
+          "body": "After transition, we track adoption and performance indicators, run pulse surveys to understand the employee experience of the change and conduct post-implementation reviews. Governance forums are calibrated, decision rights are reinforced and adjustments are made where the design is not working, so the operating model continues to evolve with strategy rather than ossifying again."
+        }
+      ],
+      "deliverables": [
+        "Current-state operating model canvas and diagnostic",
+        "Spans, layers and decision-rights analysis",
+        "Design principles and evaluated operating model options",
+        "Target operating model with roles, governance and metrics",
+        "Transition roadmap, role mapping and change plan",
+        "Adoption dashboard and post-implementation review findings"
+      ],
+      "outcomes": [
+        "Clear accountabilities and decision rights that reduce delays, duplication and unnecessary escalation.",
+        "An organization structured around the capabilities that matter most to the strategy.",
+        "Customers experience greater consistency across channels, regions and business units.",
+        "Employees and managers understand their roles and how work flows across the organization."
+      ],
+      "who_we_serve": "We work with chief executives, chief operating officers, chief people officers and transformation leaders in companies, portfolio companies, health systems, nonprofits and public agencies. Engagements are often triggered by a new strategy, rapid growth that has outpaced the existing structure, an acquisition or merger, a move to shared services, a cost or efficiency mandate, a shift to digital or AI-enabled delivery, or persistent complaints that the organization has become slow and difficult to navigate.",
+      "impact_lens": "Operating models determine the daily working lives of employees and the experience customers receive. A well-designed model gives people clear roles, reasonable spans of control and the authority to make decisions close to the work. Customers benefit from simpler, more reliable service. Transitions handled with transparency and fairness protect trust. And an efficient model frees resources for investment in people, products and the communities the organization serves.",
+      "faqs": [
+        {
+          "q": "What is an operating model?",
+          "a": "An operating model describes how an organization delivers value to customers or beneficiaries. It covers the capabilities required, how work is organized into structures and processes, who makes which decisions, the technology and data that support the work, where work is done, the partners involved and the management system of metrics and governance. It translates strategy into the day-to-day mechanics of the organization."
+        },
+        {
+          "q": "What is an operating model canvas?",
+          "a": "The operating model canvas is a one-page tool, developed by Andrew Campbell and colleagues, for describing an operating model across elements such as value delivery chains, organization, locations, information, suppliers and management system. We use it to create a shared picture of the current and target model, making it easier for leaders to compare options and see how changes in one element affect others."
+        },
+        {
+          "q": "How is operating model design different from a restructuring?",
+          "a": "A restructuring typically changes reporting lines and roles, often with a cost objective. Operating model design is broader: it considers capabilities, processes, decision rights, governance, technology and metrics as well as structure. A restructuring may be one outcome, but without changes to how decisions are made and how work flows, structural changes alone rarely deliver the intended improvement."
+        },
+        {
+          "q": "How do you minimize disruption to employees during operating model change?",
+          "a": "We involve managers and employees in testing the design, communicate clearly about what is known and unknown, and follow fair, consistent processes for role mapping and selection. Transitions are phased with readiness checks. Managers receive training for difficult conversations, and pulse surveys help leaders respond to concerns quickly. Change is never painless, but transparency and fairness strongly affect how it is experienced."
+        }
+      ],
+      "related_services": [
+        "organizational-design",
+        "strategic-planning",
+        "process-improvement",
+        "change-management"
+      ],
+      "related_industries": [
+        "private-equity-portfolio-companies",
+        "healthcare",
+        "financial-services-cdfis"
+      ],
+      "related_insights": [
+        "systems-thinking",
+        "middle-managers"
+      ]
+    },
+    {
+      "slug": "process-improvement",
+      "practice": "strategy-operations",
+      "name": "Process Improvement",
+      "meta_title": "Process Improvement Consulting",
+      "meta_description": "Process improvement consulting using lean methods, value stream mapping and frontline co-design to cut delay and rework while making work simpler for people.",
+      "primary_keyword": "process improvement consulting",
+      "summary": "Use lean methods and frontline insight to remove waste, reduce errors and give people more time for the work that matters.",
+      "lede": "Our process improvement consulting combines lean methods, value stream mapping and frontline co-design to reduce delay, rework and cost, while making work simpler for the employees who do it and the customers it serves.",
+      "challenge": [
+        "Most organizations carry processes that grew by exception. A control was added after an error, an approval was inserted after a dispute, a workaround became standard practice when a system could not handle a common case. Each change made sense at the time, but together they create long lead times, multiple handoffs and high rework. Customers wait, costs rise and capacity is consumed by checking, chasing and correcting rather than by the work customers actually value.",
+        "Employees experience this as frustration. They spend time hunting for information, re-entering data across systems and resolving problems created upstream, often without authority to fix the root cause. Improvement programs that are imposed from above, focused on headcount reduction or driven by consultants who do not understand the work can deepen cynicism. Effective process improvement consulting engages the people closest to the work, focuses on flow and quality and treats freed capacity as something to redeploy thoughtfully."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Going to where the work happens",
+          "body": "We observe work directly, following requests, cases or products through the process, and interview the employees who perform each step. Customers or internal clients describe their experience and what they value. This gemba-style observation reveals the workarounds, waiting and informal knowledge that never appear in process documentation or system reports."
+        },
+        {
+          "phase": "Measure",
+          "title": "Mapping the value stream",
+          "body": "We build current-state value stream maps showing each step, handoff, wait time and rework loop, and calculate lead time, process time, first-pass yield and demand patterns. Failure demand, meaning work caused by earlier errors or unclear communication, is quantified. This baseline distinguishes value-adding work from waste and highlights the constraints that limit flow."
+        },
+        {
+          "phase": "Design",
+          "title": "Co-designing the future state",
+          "body": "In improvement workshops, cross-functional teams design a future-state process: eliminating unnecessary steps, reducing handoffs, standardizing work where variation causes errors, and redesigning roles and decision rights so issues are resolved at first contact. Automation is considered after the process is simplified, so technology does not encode existing waste."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Piloting and implementing",
+          "body": "We run rapid improvement cycles using plan-do-study-act methods, testing changes in a pilot area before broader rollout. Updated standard work, training, visual management boards and job aids support adoption. Where capacity is released, we work with leaders to redeploy it toward customer-facing, higher-value or backlog work, with clear and honest communication to employees."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Building a continuous improvement culture",
+          "body": "We establish daily or weekly huddles, process performance metrics and tiered escalation, and train internal improvement leads and managers in lean problem-solving. Process owners are named and accountable for performance. This builds a sustainable improvement system in which employees identify and solve problems routinely, rather than depending on periodic external projects."
+        }
+      ],
+      "deliverables": [
+        "Direct observation findings and employee interview synthesis",
+        "Current-state value stream maps with lead time analysis",
+        "Failure demand and rework quantification",
+        "Co-designed future-state process and standard work",
+        "Pilot results, rollout plan and capacity redeployment plan",
+        "Tiered huddle system, metrics and improvement training"
+      ],
+      "outcomes": [
+        "Shorter lead times and fewer errors for customers and internal clients alike.",
+        "Employees spend less time on rework, chasing information and duplicate data entry.",
+        "Process owners with clear accountability and the data to manage performance.",
+        "A continuous improvement habit that persists after the initial project concludes."
+      ],
+      "who_we_serve": "We work with chief operating officers, operations and shared services leaders, quality and continuous improvement leaders, and portfolio company operating partners in healthcare, financial services, manufacturing, public agencies and professional services. Engagements often follow customer complaints about delays, growing backlogs, margin pressure, a systems implementation that requires process redesign, an acquisition integrating different processes, or employee feedback indicating that broken processes are a major driver of frustration and turnover.",
+      "impact_lens": "Process improvement affects people on both sides of a transaction. Customers receive faster, more reliable service with fewer errors. Employees gain workflows that respect their time and expertise, and a voice in how work is designed. When improvement is used to redeploy capacity rather than only to cut cost, organizations can expand services, reduce burnout and invest in growth, creating value for employees, customers and communities that extends beyond the financial results.",
+      "faqs": [
+        {
+          "q": "What is value stream mapping?",
+          "a": "Value stream mapping is a lean technique for visualizing every step required to deliver a product or service, from request to completion, including the flow of information and materials. It records process times, wait times, handoffs and rework, distinguishing value-adding activity from waste. Teams use the current-state map to identify problems and design a future-state map that improves flow."
+        },
+        {
+          "q": "What is the difference between lean and Six Sigma?",
+          "a": "Lean focuses on improving flow and eliminating waste, such as waiting, rework, unnecessary movement and overprocessing. Six Sigma focuses on reducing variation and defects using statistical methods. Many organizations combine them. We select methods based on the problem: lean for flow and handoff issues, statistical analysis where variation and quality defects are the main concern, and service design methods where customer experience is central."
+        },
+        {
+          "q": "Will process improvement lead to job cuts?",
+          "a": "Not necessarily, and we recommend that leaders decide and communicate their intentions early. Many organizations redeploy released capacity to backlogs, growth, customer service or new capabilities. Where workforce reductions are being considered, honesty matters, because employees will not share improvement ideas if they believe doing so threatens their colleagues. Clear commitments about how capacity will be used are essential to engagement."
+        },
+        {
+          "q": "Should we automate processes before or after improving them?",
+          "a": "Generally after. Automating a poorly designed process can make waste faster and harder to change. We first simplify and standardize the process, remove unnecessary steps and clarify decision rules. Then we identify which remaining steps are well suited to automation or AI support, and design how employees will work alongside those tools, including exception handling and oversight."
+        }
+      ],
+      "related_services": [
+        "operating-model-design",
+        "service-design",
+        "journey-mapping",
+        "responsible-ai-adoption"
+      ],
+      "related_industries": [
+        "manufacturing",
+        "healthcare",
+        "financial-services-cdfis"
+      ],
+      "related_insights": [
+        "service-blueprinting",
+        "systems-thinking"
+      ]
+    },
+    {
+      "slug": "mission-driven-growth",
+      "practice": "strategy-operations",
+      "name": "Mission-Driven Growth Strategy",
+      "meta_title": "Mission-Driven Growth Strategy Consulting",
+      "meta_description": "Mission-driven growth strategy for social enterprises, B Corps and mission-led companies: scale revenue and impact together without drifting from your purpose.",
+      "primary_keyword": "mission-driven growth strategy",
+      "summary": "Grow revenue, reach and impact together, with growth strategies that strengthen rather than dilute your mission and stakeholder trust.",
+      "lede": "Our mission-driven growth strategy work helps social enterprises, B Corps, mission-led companies and earned-revenue nonprofits find growth paths where commercial success and social impact reinforce each other, and protect the mission as they scale.",
+      "challenge": [
+        "Mission-driven organizations face distinctive growth challenges. Investors and lenders expect growth, yet some paths to scale, such as moving upmarket, entering new channels or cutting costs in the supply chain, can pull the organization away from the people it was founded to serve. Leaders may not have a framework for evaluating whether a growth opportunity strengthens or weakens the mission, so decisions depend on individual instinct or are deferred until a crisis forces a choice.",
+        "Growth also strains culture and people. Early employees who joined for the mission may feel that new hires, processes or investors are changing the organization's character. Founders struggle to delegate. Impact measurement that worked at small scale breaks down. Customers and community partners notice when service quality slips or priorities shift. Mission-driven growth strategy must address the economics of scale as well as the governance, culture and accountability mechanisms that keep the mission central as the organization grows."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Understanding mission and market",
+          "body": "We interview founders, leaders, board members, investors, employees and customers, and conduct research with the communities the organization serves. We seek to understand what the mission means in practice, which customers or beneficiaries are core, and where stakeholders see risks of mission drift, as well as what customers value and where unmet demand exists."
+        },
+        {
+          "phase": "Measure",
+          "title": "Analyzing impact and economics together",
+          "body": "We analyze unit economics, customer segments, channel performance and market size alongside impact data, assessing how each segment and offering contributes to both revenue and mission outcomes. An impact-economics matrix shows which activities are self-sustaining, which require subsidy and which generate surplus that can fund mission work, informing realistic choices about growth."
+        },
+        {
+          "phase": "Design",
+          "title": "Selecting growth paths",
+          "body": "We develop and evaluate growth options, such as new segments, products, geographies, partnerships, licensing, franchising or acquisitions, against both financial and impact criteria. Mission guardrails define what the organization will not compromise. Customers and community members test concepts, and the strategy specifies the capital requirements and investor fit needed to pursue the chosen path."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Scaling with integrity",
+          "body": "We support implementation of priority growth initiatives, including go-to-market planning, partnership agreements, organization design and talent strategy for scaling. We help founders and leaders adapt their roles, design onboarding that conveys mission and culture to new employees, and prepare investor and board communications about how growth and impact goals will be managed together."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Governing mission and growth together",
+          "body": "We help establish integrated performance dashboards that track impact alongside financial metrics, governance mechanisms such as mission committees or legal structures that protect purpose, and regular reviews that test whether growth is advancing the mission. These mechanisms help preserve the organization's purpose through future funding rounds, leadership changes or ownership transitions."
+        }
+      ],
+      "deliverables": [
+        "Stakeholder and customer research on mission and value",
+        "Impact-economics matrix by segment, product and channel",
+        "Evaluated growth options with explicit mission guardrails",
+        "Growth strategy with capital requirements and investor fit",
+        "Scaling plan for organization, talent and culture",
+        "Integrated impact and financial performance dashboard"
+      ],
+      "outcomes": [
+        "Growth decisions evaluated consistently against both financial performance and mission outcomes.",
+        "Clear guardrails that help leaders recognize and avoid mission drift as they scale.",
+        "Investors, lenders and board members aligned on how growth and impact will be balanced.",
+        "A culture and governance structure that carry the mission through scale and transitions."
+      ],
+      "who_we_serve": "We work with founders and chief executives of social enterprises, B Corps and benefit corporations, mission-driven consumer and technology companies, earned-revenue nonprofits, community development financial institutions, and their boards and investors. Typical triggers include preparing for a funding round, considering a new market or acquisition, a plateau after early growth, investor pressure to scale faster, founder transition, or concern among employees and customers that the organization is drifting from its original purpose.",
+      "impact_lens": "When growth and mission reinforce each other, scale means more people served, not only more revenue. Customers and beneficiaries gain wider access to products and services designed with their needs in mind. Employees keep the sense of purpose that drew them to the organization. Communities benefit from enterprises that remain accountable as they grow. And investors gain businesses whose mission strengthens customer loyalty, talent attraction and resilience, supporting long-term financial returns.",
+      "faqs": [
+        {
+          "q": "What is mission drift and how can growing organizations prevent it?",
+          "a": "Mission drift occurs when an organization gradually moves away from its core purpose, often because commercial pressures, funding requirements or growth opportunities pull activity toward more profitable or easier-to-serve segments. Prevention requires explicit mission guardrails, impact metrics reviewed alongside financial metrics, governance that holds leadership accountable for both, and investors whose expectations are aligned with the mission from the start."
+        },
+        {
+          "q": "How do social enterprises balance profit and purpose?",
+          "a": "The most durable social enterprises design business models where impact is integral to value creation, so serving the mission and generating revenue rely on the same activities. Where the two diverge, they make deliberate choices, such as cross-subsidizing mission work with profitable segments or seeking blended capital. Clarity about which activities sustain the organization and which require subsidy is essential to managing the balance."
+        },
+        {
+          "q": "Does B Corp certification or benefit corporation status help protect mission during growth?",
+          "a": "They can help. Benefit corporation status, where available, embeds stakeholder consideration in a company's legal duties, and B Corp certification provides an external standard and assessment. Neither substitutes for strategy, culture and governance, but both can reinforce mission commitments with investors, acquirers and employees. We help leaders evaluate whether these structures fit their circumstances, alongside advice from legal counsel."
+        },
+        {
+          "q": "What kinds of capital suit mission-driven growth?",
+          "a": "Options include impact-oriented equity, revenue-based financing, debt from mission-aligned lenders, recoverable grants, program-related investments and blended structures that combine philanthropic and commercial capital. The right mix depends on the business model, growth timeline and how much control the founders want to retain. Investor alignment with the mission matters as much as terms, because investor expectations shape future decisions."
+        }
+      ],
+      "related_services": [
+        "impact-investing-advisory",
+        "strategic-planning",
+        "customer-strategy",
+        "social-impact-strategy"
+      ],
+      "related_industries": [
+        "social-enterprises-b-corps",
+        "financial-services-cdfis",
+        "retail-consumer"
+      ],
+      "related_insights": [
+        "stakeholder-capitalism",
+        "okrs-for-mission-driven-organizations"
+      ]
+    },
+    {
+      "slug": "customer-strategy",
+      "practice": "strategy-operations",
+      "name": "Customer Strategy",
+      "meta_title": "Customer Strategy Consulting",
+      "meta_description": "Customer strategy consulting grounded in jobs-to-be-done research and needs-based segmentation, with frontline teams equipped to deliver on every promise.",
+      "primary_keyword": "customer strategy consulting",
+      "summary": "Understand what customers are trying to achieve, decide which customers to serve best, and align the organization to deliver on it.",
+      "lede": "Our customer strategy consulting helps organizations understand the jobs customers are trying to get done, choose the segments and value propositions to prioritize, and align teams, processes and employee experience to deliver consistently.",
+      "challenge": [
+        "Many organizations claim to be customer-centric but make decisions based on internal convenience, product features or historical segments. Customer research sits in separate pockets across marketing, product and service teams, rarely synthesized into a shared view. Segmentation is based on demographics or account size rather than needs and behaviors. As a result, organizations try to serve everyone equally, value propositions blur, and investments in channels or features are made without a clear understanding of what customers actually value.",
+        "Customer experience is also shaped by employees, yet customer strategy often ignores them. Frontline staff are asked to deliver a promised experience without the tools, authority, training or staffing to do so. Policies designed to control cost create friction that employees must explain to frustrated customers. The connection between employee experience and customer experience is well established in service research. Customer strategy consulting must account for the operating realities and people who determine whether customer promises are kept."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Understanding customer needs in depth",
+          "body": "We conduct in-depth interviews, contextual observation and jobs-to-be-done research to understand what customers are trying to accomplish, the circumstances that trigger a purchase or service request, and the anxieties and trade-offs involved. Frontline employee interviews provide a parallel view of where customers struggle and what employees wish they could do differently."
+        },
+        {
+          "phase": "Measure",
+          "title": "Quantifying needs and value",
+          "body": "We validate qualitative insights through surveys and analysis of transaction, behavioral, complaint and retention data. Needs-based segmentation identifies distinct customer groups by the outcomes they seek, and customer lifetime value and cost-to-serve analysis show the economics of each segment. Journey analytics identify where customers drop off, complain or require repeated contact."
+        },
+        {
+          "phase": "Design",
+          "title": "Choosing where and how to win",
+          "body": "We help leadership decide which segments to prioritize, define a differentiated value proposition for each and identify the critical moments where the experience must excel. We design the customer experience principles, service standards and supporting employee experience, testing concepts with customers and frontline staff before committing resources."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Aligning the organization",
+          "body": "We translate the customer strategy into initiatives across product, marketing, sales, service and operations, with clear owners and metrics. Frontline employees receive the training, decision authority and tools needed to deliver the promised experience. Policies and processes that create unnecessary friction are redesigned, and incentives are aligned with customer outcomes rather than activity volume."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Listening continuously",
+          "body": "We set up a customer insight system that combines relationship and transactional feedback, operational data and frontline insight, with governance that routes findings to owners and tracks action. Customer and employee experience metrics are reviewed together in leadership routines, so the organization notices changing needs early and adjusts before customers leave."
+        }
+      ],
+      "deliverables": [
+        "Jobs-to-be-done research and customer needs synthesis",
+        "Needs-based segmentation with lifetime value and cost-to-serve",
+        "Value propositions and priority segment choices",
+        "Critical moments map and customer experience principles",
+        "Frontline enablement and policy redesign recommendations",
+        "Customer insight system and integrated experience dashboard"
+      ],
+      "outcomes": [
+        "A shared, evidence-based understanding of what different customers need and value.",
+        "Investment focused on the segments and moments that matter most to growth.",
+        "Frontline employees equipped and authorized to deliver the experience customers are promised.",
+        "Customer feedback that reliably reaches decision-makers and leads to visible improvements."
+      ],
+      "who_we_serve": "We work with chief executives, chief customer and marketing officers, product and service leaders, and operating partners in retail, financial services, healthcare, hospitality, technology and professional services, including investor-backed businesses and mission-driven organizations. Common triggers include declining retention or satisfaction, a new competitor, entry into new markets, a value creation plan that depends on customer growth, a digital transformation, or recognition that customer insight is fragmented across functions and not shaping decisions.",
+      "impact_lens": "A thoughtful customer strategy treats customers as people with goals, constraints and dignity, not only as revenue. Customers gain products and services that fit their lives, with less friction and clearer communication. Employees gain the authority and support to solve problems rather than enforce rules they cannot explain. When strategy deliberately includes underserved customers, organizations can expand access and inclusion while building loyalty that supports durable financial performance.",
+      "faqs": [
+        {
+          "q": "What is jobs-to-be-done?",
+          "a": "Jobs-to-be-done is a framework for understanding customer behavior based on the progress people are trying to make in a particular circumstance, rather than their demographic characteristics or product features. It examines functional, emotional and social dimensions of the job, along with the forces that encourage or prevent switching. It helps organizations design offerings and experiences around what customers are actually trying to achieve."
+        },
+        {
+          "q": "What is the difference between customer strategy and customer experience?",
+          "a": "Customer strategy determines which customers to serve, what value proposition to offer each and how the organization will differentiate. Customer experience concerns how customers perceive their interactions across the journey. Strategy sets direction for experience design; experience design and operations make the strategy real. Without strategy, experience investments are scattered. Without good experience delivery, strategy remains an aspiration."
+        },
+        {
+          "q": "How does employee experience affect customer experience?",
+          "a": "Employees who have the tools, information, training, authority and workload to do their jobs well are better able to serve customers. Service research has long linked employee engagement and capability to customer satisfaction and loyalty. In practice, many customer pain points trace back to internal problems, such as policies, systems or staffing, that employees experience first and can often help solve."
+        },
+        {
+          "q": "What is needs-based segmentation?",
+          "a": "Needs-based segmentation groups customers by the outcomes they seek and the circumstances they are in, rather than only by demographics, firmographics or spending. It typically combines qualitative research with survey and behavioral data to identify segments with distinct priorities. Because each segment values different things, it supports sharper value propositions, product decisions and experience design than traditional segmentation."
+        }
+      ],
+      "related_services": [
+        "journey-mapping",
+        "experience-design",
+        "mission-driven-growth",
+        "innovation-strategy"
+      ],
+      "related_industries": [
+        "retail-consumer",
+        "financial-services-cdfis",
+        "hospitality"
+      ],
+      "related_insights": [
+        "jobs-to-be-done",
+        "moments-that-matter"
+      ]
+    },
+    {
+      "slug": "innovation-strategy",
+      "practice": "strategy-operations",
+      "name": "Innovation Strategy",
+      "meta_title": "Innovation Strategy Consulting",
+      "meta_description": "Innovation strategy consulting to balance your portfolio of bets, set evidence-based funding gates and build the team conditions that turn ideas into results.",
+      "primary_keyword": "innovation strategy consulting",
+      "summary": "Build an innovation portfolio, process and culture that consistently turn real customer and community needs into new value.",
+      "lede": "Our innovation strategy consulting helps leaders decide where to innovate, balance a portfolio of core, adjacent and new bets, and build the processes, governance and team conditions that turn ideas into results.",
+      "challenge": [
+        "Innovation efforts often generate activity without results. Organizations run idea challenges, establish labs or fund pilots, but projects remain stuck in experimentation, lack a path to scale or are disconnected from strategic priorities. Funding follows the annual budget cycle, which favors predictable projects over uncertain ones. Leaders struggle to compare initiatives at different stages, so the portfolio becomes either too conservative to matter or too scattered to sustain, and promising ideas fail to secure owners in the core business.",
+        "The deeper challenges are human. Teams may lack the psychological safety to propose untested ideas or report failed experiments honestly. Middle managers, measured on current performance, have little incentive to release people for innovation work. Innovation teams can become isolated from the operations that must eventually adopt their work. And new products are sometimes designed without meaningful input from the customers and communities they are intended to serve. Innovation strategy consulting must address incentives, culture and the people who will carry ideas forward."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Finding unmet needs and internal barriers",
+          "body": "We conduct research with customers, non-customers and communities to identify unmet needs and emerging behaviors, and interview leaders, innovators and operational managers about how ideas currently move or stall. A short employee survey assesses innovation climate, including psychological safety, resource availability and leadership support for experimentation."
+        },
+        {
+          "phase": "Measure",
+          "title": "Assessing the portfolio and capabilities",
+          "body": "We inventory current innovation initiatives and map them across core, adjacent and transformational horizons, assessing stage, investment, strategic fit and evidence of customer demand. We also assess innovation capabilities, such as research, prototyping, venture processes, partnerships and metrics, identifying where the system breaks down between idea generation and scaled adoption."
+        },
+        {
+          "phase": "Design",
+          "title": "Defining the innovation strategy and system",
+          "body": "We help leaders define strategic innovation priorities and the desired portfolio balance, then design the innovation system: stage-gate or venture-style funding, evidence criteria at each stage, governance, team structures and pathways from pilot to scale. Human-centered design and lean experimentation methods are embedded so teams test assumptions with real users early."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Launching and building capability",
+          "body": "We support the first cycle of the new process, coaching teams through discovery, prototyping and experimentation on priority opportunities. Leaders and managers learn how to sponsor innovation, evaluate evidence and make continue, pivot or stop decisions. We help create incentives and time allocations that enable people across the organization to participate meaningfully."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Governing and learning",
+          "body": "We establish innovation portfolio reviews, leading indicators such as learning velocity and validated assumptions, and lagging indicators such as adoption and revenue from new offerings. Lessons from stopped projects are captured and shared. This governance keeps innovation connected to strategy and ensures the portfolio evolves as markets, technologies and customer needs change."
+        }
+      ],
+      "deliverables": [
+        "Customer and community unmet needs research",
+        "Innovation climate assessment and employee survey findings",
+        "Portfolio map across core, adjacent and transformational horizons",
+        "Innovation strategy, priorities and target portfolio balance",
+        "Stage-based funding, governance and scale-up pathway design",
+        "Innovation team coaching and leadership sponsor training"
+      ],
+      "outcomes": [
+        "An innovation portfolio clearly connected to strategic priorities and real customer needs.",
+        "Faster, evidence-based decisions about whether to continue, pivot or stop initiatives.",
+        "Teams that feel safe proposing ideas, testing assumptions and sharing what they learn.",
+        "Clear pathways for promising pilots to scale within the core business."
+      ],
+      "who_we_serve": "We work with chief executives, chief innovation and strategy officers, product leaders, research and development heads and innovation teams in companies, health systems, universities, financial institutions and mission-driven organizations. Common triggers include stagnating growth, disruptive competitors or technologies, an innovation lab that has not produced scaled results, a new strategic plan requiring new offerings, or board interest in a more disciplined approach to innovation investment and governance.",
+      "impact_lens": "Innovation shapes which problems get solved and for whom. When grounded in research with customers and communities, including those often overlooked, new products and services can expand access and address unmet needs. Employees gain opportunities to contribute ideas, learn new skills and work in environments where experimentation is valued. A disciplined portfolio uses resources responsibly, and innovation that creates social as well as commercial value strengthens the organization's long-term relevance.",
+      "faqs": [
+        {
+          "q": "What is an innovation portfolio?",
+          "a": "An innovation portfolio is the set of innovation initiatives an organization is pursuing, managed as a whole rather than project by project. Portfolios are commonly categorized by horizon or ambition, from improvements to the core business through adjacent opportunities to transformational bets. Managing them as a portfolio helps leaders balance risk and return, allocate resources deliberately and ensure the mix fits the strategy."
+        },
+        {
+          "q": "How do you measure innovation?",
+          "a": "Effective innovation measurement uses different metrics by stage. Early-stage initiatives are measured on learning: assumptions tested, customer evidence gathered and speed of iteration. Later stages are measured on adoption, revenue, cost savings or impact. Applying mature business metrics to early ideas tends to end promising work prematurely, while never applying them allows weak initiatives to continue indefinitely."
+        },
+        {
+          "q": "Why do innovation labs often fail to deliver results?",
+          "a": "Common reasons include isolation from the core business, unclear mandates, lack of sustained funding, no pathway to scale and incentives that discourage operational leaders from adopting new ideas. Labs succeed more often when they work on strategic priorities, involve business owners from the start, use clear evidence criteria and have agreed routes for transferring successful work into operations."
+        },
+        {
+          "q": "How does psychological safety affect innovation?",
+          "a": "Innovation requires people to propose untested ideas, admit uncertainty and report failures honestly. Research on psychological safety, notably Amy Edmondson's work, shows that teams who believe they will not be punished for speaking up are more likely to learn and experiment. Leaders build it by inviting input, responding constructively to bad news and treating well-designed failed experiments as useful learning."
+        }
+      ],
+      "related_services": [
+        "strategic-planning",
+        "customer-strategy",
+        "design-thinking-workshops",
+        "responsible-ai-adoption"
+      ],
+      "related_industries": [
+        "technology",
+        "healthcare",
+        "financial-services-cdfis"
+      ],
+      "related_insights": [
+        "psychological-safety",
+        "jobs-to-be-done"
+      ]
+    },
+    {
+      "slug": "responsible-ai-adoption",
+      "practice": "strategy-operations",
+      "name": "Responsible AI Adoption",
+      "meta_title": "Responsible AI Adoption and Workforce Transition",
+      "meta_description": "Responsible AI adoption: risk-based governance, task-level job redesign and fair workforce transition, so AI improves work and service without eroding trust.",
+      "primary_keyword": "responsible AI adoption",
+      "summary": "Adopt AI with clear governance, fair workforce transition and redesigned work, so productivity gains also earn employee and customer trust.",
+      "lede": "Our responsible AI adoption services help leaders choose valuable use cases, set governance proportionate to risk, redesign jobs and workflows, and prepare employees for change, so AI improves work and service rather than eroding trust.",
+      "challenge": [
+        "Organizations face pressure to adopt AI quickly, from boards, investors, competitors and employees already using tools informally. Many respond with scattered pilots that never scale, or with broad deployments lacking clear governance. Questions about data privacy, accuracy, bias, intellectual property and accountability remain unanswered. Regulatory expectations are evolving across jurisdictions. Without a deliberate approach, organizations either move too slowly to realize value or move too quickly and create risks that harm customers, employees and reputation.",
+        "The workforce dimension is often the least prepared. Employees worry about job security and whether AI will be used to monitor them. Managers do not know how to redesign roles or evaluate AI-assisted work. Expertise and judgment that took years to build may be undervalued or lost. When AI decisions affect hiring, performance or customer eligibility, fairness concerns become acute. Responsible AI adoption requires treating workforce transition, job design and employee voice as central parts of the program, not as communications afterthoughts."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Understanding work and concerns",
+          "body": "We interview leaders, managers and employees across functions to understand current AI use, including informal use, the tasks people find most burdensome and their concerns about AI. Customer and, where relevant, worker representative perspectives are included. This research identifies use cases grounded in real work and surfaces trust issues that adoption must address."
+        },
+        {
+          "phase": "Measure",
+          "title": "Assessing tasks, risks and readiness",
+          "body": "We conduct a task-level analysis of priority roles to identify which activities AI could automate, augment or leave unchanged, and assess data readiness, risk level and potential value of candidate use cases. A risk tiering approach, informed by frameworks such as the NIST AI Risk Management Framework, determines the level of oversight each use case requires."
+        },
+        {
+          "phase": "Design",
+          "title": "Designing governance, work and transition",
+          "body": "We design an AI governance model with policies, review processes, accountability and human oversight proportionate to risk. For priority use cases, we redesign workflows and roles with the employees involved, defining where human judgment remains essential. A workforce transition plan covers reskilling, redeployment, new roles and commitments about how productivity gains will be shared."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Piloting and scaling responsibly",
+          "body": "We support pilots with clear success criteria, including quality, fairness, employee experience and customer outcomes alongside productivity. Training builds AI literacy for all employees and deeper skills for those whose roles change most. Managers learn to lead hybrid human and AI work. Successful pilots scale through a structured process that includes impact assessment and change management."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Monitoring and adapting",
+          "body": "We establish ongoing monitoring of AI performance, fairness, incidents and employee and customer feedback, with clear escalation paths. Governance bodies review the use case portfolio, update policies as regulations and technology change, and track workforce transition indicators. Channels for employees to raise concerns about AI use help catch problems early and sustain trust."
+        }
+      ],
+      "deliverables": [
+        "AI use and workforce sentiment research findings",
+        "Task-level AI exposure analysis for priority roles",
+        "Use case portfolio with value and risk tiering",
+        "AI governance policy, review process and accountability model",
+        "Redesigned roles, workflows and human oversight protocols",
+        "Workforce transition, reskilling and AI literacy plan"
+      ],
+      "outcomes": [
+        "AI use cases selected for clear value and governed in proportion to their risks.",
+        "Employees who understand how AI will affect their work and are prepared to use it well.",
+        "Redesigned roles that preserve essential human judgment, expertise and accountability.",
+        "Monitoring that detects accuracy, fairness and trust issues before they cause serious harm."
+      ],
+      "who_we_serve": "We work with chief executives, chief operating, people, technology, data and risk officers, general counsel and boards in companies, investor-backed portfolio companies, health systems, financial institutions, universities and public agencies. Typical triggers include board or investor questions about AI strategy, widespread informal employee use of AI tools, a major AI platform deployment, regulatory requirements, workforce concerns or labor relations issues, or a value creation plan that assumes AI-driven productivity gains.",
+      "impact_lens": "AI will reshape work for many people, and how organizations adopt it matters. A responsible approach protects employees through reskilling, transparent communication and fair sharing of gains. Customers benefit from AI that is accurate, fair and subject to meaningful human oversight. Communities benefit when organizations avoid deploying systems that reinforce bias or exclusion. And careful adoption builds the trust that lets organizations realize lasting productivity and service improvements from AI.",
+      "faqs": [
+        {
+          "q": "What is responsible AI?",
+          "a": "Responsible AI refers to developing and using artificial intelligence in ways that are safe, fair, transparent, accountable and respectful of privacy and human rights. In practice, it involves governance policies, risk assessment, human oversight, testing for bias and accuracy, monitoring after deployment and mechanisms for people affected by AI decisions to understand and challenge them. It also includes attention to how AI affects workers."
+        },
+        {
+          "q": "How should organizations govern AI use?",
+          "a": "Effective AI governance is proportionate to risk. It typically includes an inventory of AI use, a risk tiering process, policies for acceptable use and data handling, review requirements for higher-risk uses, clear accountability, human oversight and monitoring. Frameworks such as the NIST AI Risk Management Framework and the ISO/IEC AI management system standard provide useful structure. Governance should enable valuable use, not only restrict it."
+        },
+        {
+          "q": "How can we prepare our workforce for AI?",
+          "a": "Start with honest communication about intentions and how gains will be shared. Analyze roles at the task level to understand likely changes, then design reskilling and redeployment pathways. Build AI literacy for everyone and deeper skills for roles that change most. Involve employees in redesigning workflows, because they understand the work and its risks. Train managers to lead teams through the transition."
+        },
+        {
+          "q": "Will AI replace jobs in our organization?",
+          "a": "AI typically changes tasks within jobs before it changes the jobs themselves, automating some activities, augmenting others and creating new ones. The net effect depends on your strategy and choices, including whether productivity gains are used to reduce headcount, grow the business or improve service. We help leaders analyze likely impacts by role and make deliberate, transparent decisions about workforce transition."
+        }
+      ],
+      "related_services": [
+        "strategic-workforce-planning",
+        "change-management",
+        "process-improvement",
+        "talent-strategy"
+      ],
+      "related_industries": [
+        "financial-services-cdfis",
+        "healthcare",
+        "professional-services"
+      ],
+      "related_insights": [
+        "responsible-ai-workforce",
+        "data-ethics"
+      ]
+    },
+    {
+      "slug": "talent-strategy",
+      "practice": "strategy-operations",
+      "name": "Talent Strategy",
+      "meta_title": "Talent Strategy Consulting",
+      "meta_description": "Talent strategy consulting that links critical capabilities to an evidence-based employee value proposition, career architecture and fair internal mobility.",
+      "primary_keyword": "talent strategy consulting",
+      "summary": "Align how you attract, develop, deploy and retain people with your business strategy, built on evidence and a compelling employee value proposition.",
+      "lede": "Our talent strategy consulting helps leaders define the capabilities their strategy requires, build an employee value proposition people believe, and design hiring, development, mobility and retention practices that deliver the right talent.",
+      "challenge": [
+        "Many organizations manage talent through a collection of HR programs, recruiting campaigns, training catalogs, performance processes and compensation reviews, each managed separately and rarely connected to strategy. When the business shifts, such as entering new markets, adopting new technology or changing its operating model, talent practices lag behind. Critical roles remain vacant, skills gaps grow, high performers leave for clearer opportunities elsewhere and costly external hiring becomes the default response to every capability need.",
+        "Employees experience the gap directly. The promises made in recruitment do not match the reality of the job. Career paths are unclear, internal moves are harder than external ones, and development depends on which manager you happen to have. Groups of employees may face different barriers to advancement. Talent strategy consulting must connect the business need for capabilities with what employees need to join, grow and stay, using evidence rather than assumptions about what people value."
+      ],
+      "approach": [
+        {
+          "phase": "Listen",
+          "title": "Understanding what people value",
+          "body": "We interview leaders about strategic capability needs and conduct focus groups and interviews with employees across levels, including recent hires and leavers, about why they joined, stay or leave. Candidate perspectives reveal how the organization is perceived in the talent market. This research forms the basis of an authentic employee value proposition."
+        },
+        {
+          "phase": "Measure",
+          "title": "Analyzing the talent system",
+          "body": "We analyze workforce data on hiring, internal mobility, promotion, performance, engagement, pay and attrition, disaggregated to identify differences across groups. We identify critical roles, those with outsized impact on strategy, and assess supply, risk and skills gaps. Labor market analysis shows competition for key skills and realistic expectations for building versus buying talent."
+        },
+        {
+          "phase": "Design",
+          "title": "Building the talent strategy",
+          "body": "We define the capabilities required by the strategy, a build, buy, borrow and redeploy approach for each critical capability and an employee value proposition grounded in research. We then design aligned practices, such as skills-based hiring, career architecture, an internal talent marketplace, leadership development and targeted retention, testing proposals with employees and managers."
+        },
+        {
+          "phase": "Deliver",
+          "title": "Implementing priority practices",
+          "body": "We support implementation of priority initiatives, including employer brand updates consistent with the EVP, career framework rollout, manager training on development conversations and internal mobility processes. We work with HR, finance and business leaders to align budgets and accountability, and use pilots to test practices before scaling them across the organization."
+        },
+        {
+          "phase": "Sustain",
+          "title": "Measuring talent outcomes",
+          "body": "We establish a talent dashboard tracking leading and lagging indicators such as critical role coverage, internal fill rate, quality of hire, regretted attrition, development participation and equity of outcomes. Regular talent reviews connect these measures to business planning, and periodic employee listening checks whether the value proposition matches lived experience."
+        }
+      ],
+      "deliverables": [
+        "Employee, leaver and candidate research on value and experience",
+        "Workforce analytics and critical role risk assessment",
+        "Capability needs and build, buy, borrow strategy",
+        "Research-based employee value proposition and messaging framework",
+        "Career architecture and internal mobility process design",
+        "Talent dashboard and talent review operating rhythm"
+      ],
+      "outcomes": [
+        "A talent strategy explicitly linked to business priorities and the capabilities they require.",
+        "An employee value proposition that reflects the real experience of working there.",
+        "More internal moves and clearer career paths that keep valued people growing.",
+        "Fairer, more consistent access to development and advancement across all employee groups."
+      ],
+      "who_we_serve": "We work with chief people officers, chief executives, talent and HR leaders, and operating partners in companies, investor-backed businesses, health systems, nonprofits and public institutions. Triggers include a new strategy or operating model, persistent hiring difficulties for critical roles, rising regretted attrition, an acquisition combining different talent practices, adoption of AI changing skill requirements, employer brand challenges, or a board request for a clearer view of talent risk and capability.",
+      "impact_lens": "Talent strategy determines who gets opportunity inside an organization. Employees gain clear career paths, fair access to development and a workplace that matches its promises. Customers benefit from capable, engaged employees who stay long enough to build expertise and relationships. Inclusive hiring and mobility practices can open opportunity to people historically excluded from good jobs. And a talent system aligned with strategy supports performance that sustains employment and investment.",
+      "faqs": [
+        {
+          "q": "What is an employee value proposition?",
+          "a": "An employee value proposition, or EVP, describes the total value employees receive in exchange for their work, including compensation, benefits, career growth, work environment, culture, purpose and flexibility. A strong EVP is grounded in research with current employees and candidates, differentiated from competitors for talent and honest about the experience. It guides recruitment messaging and helps prioritize investments in employee experience."
+        },
+        {
+          "q": "What is the difference between talent strategy and workforce planning?",
+          "a": "Strategic workforce planning analyzes future workforce demand and supply, identifying gaps in numbers and skills over time. Talent strategy uses those insights, along with research on what people value, to decide how the organization will attract, develop, deploy and retain talent. Workforce planning answers what talent you need; talent strategy answers how you will secure and grow it."
+        },
+        {
+          "q": "What does build, buy, borrow mean in talent strategy?",
+          "a": "It is a framework for closing capability gaps. Build means developing existing employees through training, experience and mobility. Buy means hiring externally. Borrow means using contractors, partners or temporary talent. Many organizations also consider redeployment, moving people from roles with declining demand to roles with growing demand, and automation. The right mix depends on time, cost, risk and the strategic importance of the capability."
+        },
+        {
+          "q": "How do you identify critical roles?",
+          "a": "Critical roles are those with a disproportionate effect on strategy execution, customer outcomes or risk, not necessarily the most senior roles. We assess roles by strategic impact, performance variability, difficulty of replacement and supply in the labor market. Critical roles then receive focused attention in succession, development, retention and workforce planning, so the organization concentrates effort where it matters most."
+        }
+      ],
+      "related_services": [
+        "strategic-workforce-planning",
+        "employee-experience",
+        "succession-planning",
+        "retention-analytics"
+      ],
+      "related_industries": [
+        "technology",
+        "healthcare",
+        "professional-services"
+      ],
+      "related_insights": [
+        "skills-based-organization",
+        "cost-of-employee-turnover"
+      ]
+    }
+  ]
+}
