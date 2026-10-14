@@ -18,25 +18,26 @@ SITE = "https://datalidy.com"
 BRAND = "Datalidy"
 EMAIL = "hello@datalidy.com"
 TODAY = date.today().isoformat()
-PHASES = ["Listen", "Measure", "Design", "Deliver", "Sustain"]
+PHASES = ["Observe", "Signal", "Design", "Test", "Scale"]
 
 # Photography (Pexels, self-hosted in static/assets/img as <id>.jpg and <id>-sm.jpg)
 IMG_PRACTICE = {
-    "capital-investment-advisory": 1181406, "leadership-organization": 3184291, "human-centered-design": 3184360,
-    "people-analytics-data": 7688336, "social-impact-community": 6647037, "strategy-operations": 3183150,
+    "behavioral-signals-analytics": 6476589, "investor-venture-advisory": 1181406, "leadership-coaching": 7176317,
+    "behavioral-design-experience": 3184360, "health-behavior": 4386467, "growth-commercial-strategy": 3183150,
+    "social-impact-education": 6647037,
 }
 IMG_INDUSTRY = {
-    "private-equity-portfolio-companies": 1181396, "healthcare": 7579831, "nonprofits-foundations": 6994982,
-    "public-sector": 1105766, "education": 7092613, "financial-services-cdfis": 2422293, "technology": 3861969,
-    "manufacturing": 1108101, "retail-consumer": 264636, "professional-services": 3184338,
-    "social-enterprises-b-corps": 6646918, "community-development-real-estate": 323705, "energy-utilities": 433308,
-    "hospitality": 258154,
+    "healthcare-health-systems": 7579831, "venture-backed-startups": 1438072, "digital-health": 4031818,
+    "fitness-wellness": 1954524, "automotive": 164634, "mortgage-lending": 8293778, "banking-financial-services": 2422293,
+    "commercial-real-estate": 323705, "higher-education": 207692, "k12-education": 5212345,
+    "associations-nonprofits": 6994982, "technology-saas": 3861969, "retail-consumer": 264636,
+    "professional-services": 3184338, "private-equity-portfolio-companies": 1181396,
 }
-POOL = [3810792, 3184360, 1595385, 7688336, 3184287, 6646918, 3183197, 3862130, 3184291, 6647037, 3184639,
-        1181406, 3184418, 3184465, 7579831, 2422293, 3184338, 3183150, 6994982, 1181396, 3182812, 7092613, 3861969, 1108101,
-        323705, 264636, 1105766, 433308, 258154, 290595]
-IMG_PAGE = {"home": 290595, "home-split": 3182812, "services": 3184639, "industries": 1105766, "insights": 3862130,
-            "approach": 3184418, "about": 1595385, "contact": 3184465}
+POOL = [6476589, 3184360, 7176317, 590022, 3810792, 4386467, 3862130, 3184405, 1595385, 7688336, 3183197, 6823562,
+        3184291, 3757376, 3182759, 7578901, 3184639, 6646918, 3184418, 4031818, 3184465, 3183150, 3184287, 1954524,
+        2422293, 3182812, 7092613, 3861969, 6647037, 1181406]
+IMG_PAGE = {"home": 290595, "home-split": 3182812, "investors": 1181406, "social": 6647037, "services": 3184639,
+            "industries": 1105766, "insights": 3862130, "approach": 3184418, "about": 3184405, "contact": 3184465}
 
 e = html.escape
 
@@ -131,7 +132,7 @@ ORG_LD = {
     "logo": SITE + "/assets/logo.png",
     "image": SITE + "/assets/og.png",
     "email": EMAIL,
-    "description": "Datalidy is a data-driven, social-impact advisory and consulting firm solving the people problems of business, from private equity advisory to leadership consulting, service design and people analytics.",
+    "description": "Datalidy is a behavioral science and data advisory firm for investors, leaders and mission-driven institutions, known for Behavioral Signals Design, predictive KPIs, executive coaching and social impact work.",
     "areaServed": "Worldwide",
     "knowsAbout": [],
 }
@@ -188,7 +189,7 @@ def footer(pg):
     <div class="footer-grid">
       <div>
         <a class="brand" href="{pg.u('')}">{LOGO}<span class="brand-name">{BRAND}</span></a>
-        <p>Data-driven advisory for the people side of business. We help investors, leaders and institutions solve people problems inside and outside the organization, for performance and for the common good.</p>
+        <p>Behavioral science and data advisory for investors, leaders and mission-driven institutions. Read the signals. Design the behavior. Measure what matters.</p>
         <p><a href="mailto:{EMAIL}">{EMAIL}</a></p>
       </div>
       <div><h4>Practices</h4><ul>{pr}</ul></div>
@@ -203,7 +204,7 @@ def footer(pg):
         <li><a href="{pg.u('privacy/')}">Privacy</a></li>
       </ul></div>
     </div>
-    <div class="footer-base"><span>© {date.today().year} {BRAND}. All rights reserved.</span><span>Evidence for the people side of business. Photography via Pexels.</span></div>
+    <div class="footer-base"><span>© {date.today().year} {BRAND}. All rights reserved.</span><span>Performance is behavior. Photography via Pexels.</span></div>
   </div>
 </footer>"""
 
@@ -309,96 +310,146 @@ def toc_html(pg, items, cta=True):
 
 # ---------------------------------------------------------------- pages
 
+EXPERIENCE = ["American Heart Association", "American Medical Association", "Northwestern University Feinberg School of Medicine",
+              "Stanford Persuasive Technology Lab", "Rush University Medical Center", "Audi USA", "Success Mortgage Partners",
+              "IHRSA"]
+
+
+def experience_strip(title="Selected organizations our principals have advised"):
+    items = "".join(f"<li>{e(x)}</li>" for x in EXPERIENCE)
+    return f'<section class="section-tight section-white"><div class="wrap"><p class="exp-title">{e(title)}</p><ul class="exp-list">{items}</ul></div></section>'
+
+
 def build_home():
     pg = Page("")
     practice_cards = []
     for n, (slug, p) in enumerate(PRACTICES.items(), 1):
         svcs = [s for s in SERVICES.values() if s["practice"] == slug][:5]
         lis = "".join(f'<li><a href="{pg.u("services/" + s["slug"] + "/")}">{e(s["name"])}<span>→</span></a></li>' for s in svcs)
+        wide = " practice-wide" if n == 1 else ""
         practice_cards.append(
-            f'<div class="card practice-card"><div class="card-img"><img src="{pg.u(f'assets/img/{IMG_PRACTICE.get(slug, 3183197)}-sm.jpg')}" alt="" loading="lazy" width="720" height="405"></div><div class="card-num">0{n}</div><h3>{e(p["name"])}</h3><p>{e(p["tagline"])}</p>'
+            f'<div class="card practice-card{wide}"><div class="card-img"><img src="{pg.u(f"assets/img/{IMG_PRACTICE.get(slug, 3183197)}-sm.jpg")}" alt="" loading="lazy" width="720" height="405"></div>'
+            f'<div class="card-num">0{n}{" · Signature practice" if n == 1 else ""}</div><h3>{e(p["name"])}</h3><p>{e(p["tagline"])}</p>'
             f'<ul>{lis}</ul><a class="link-arrow" href="{pg.u("practices/" + slug + "/")}">View practice</a></div>')
-    featured = [INSIGHTS[k] for k in ["people-problems-are-business-problems", "what-is-service-design", "human-capital-in-private-equity"] if k in INSIGHTS]
+    featured = [INSIGHTS[k] for k in ["people-problems-are-business-problems", "what-is-behavioral-signals-design", "predictive-kpis-vs-vanity-metrics"] if k in INSIGHTS]
     method_desc = {
-        "Listen": "Interviews, ethnography and community listening surface what people actually experience.",
-        "Measure": "People analytics and baselines turn experience into evidence leaders can act on.",
-        "Design": "Service, experience and organizational design, created with the people affected.",
-        "Deliver": "Implementation, change management and capability building that hold under pressure.",
-        "Sustain": "Dashboards, governance and impact measurement so progress compounds after we leave.",
+        "Observe": "Interviews, contextual inquiry and user testing reveal what people actually do, not what they say.",
+        "Signal": "Behavioral data analysis finds the few moments and behavioral types that predict the outcome.",
+        "Design": "Behavioral, experience and service design shape the environment so the right behavior is easier.",
+        "Test": "Experiments, A/B tests and pilots replace untested assumptions with evidence.",
+        "Scale": "Coaching, dashboards and predictive KPIs make the gains durable and visible.",
     }
     method = "".join(f'<div><b>{p}</b><p>{method_desc[p]}</p></div>' for p in PHASES)
     industries = "".join(f'<a href="{pg.u("industries/" + s + "/")}">{e(i["name"])}</a>' for s, i in INDUSTRIES.items())
+    inv = [s for s in SERVICES.values() if s["practice"] == "investor-venture-advisory"]
+    inv_lis = "".join(f'<li><a href="{pg.u("services/" + s["slug"] + "/")}">{e(s["name"])}</a></li>' for s in inv)
+    soc = [s for s in SERVICES.values() if s["practice"] == "social-impact-education"]
+    soc_lis = "".join(f'<li><a href="{pg.u("services/" + s["slug"] + "/")}">{e(s["name"])}</a></li>' for s in soc)
     ld = [ORG_LD, {"@context": "https://schema.org", "@type": "WebSite", "name": BRAND, "url": SITE + "/"}]
     body = f"""
 <section class="hero hero-home"><div class="wrap">
-  <span class="eyebrow">Data-driven advisory · Social impact</span>
-  <h1>The people side of business, <em>measured</em> and <em>designed</em>.</h1>
-  <p class="lede">{BRAND} is an advisory and consulting firm for the people problems that decide whether strategy succeeds. From private equity diligence to leadership, service design and community impact, we bring evidence and human-centered design to the work of serving people well, inside the business and beyond it.</p>
-  <div class="hero-actions"><a class="btn btn-primary" href="contact/">Start a conversation {ARROW}</a><a class="btn btn-ghost" href="services/">Explore our services</a></div>
+  <span class="eyebrow">Behavioral science · Investor advisory · Social impact</span>
+  <h1>Read the signals. Design the behavior. <em>Measure what matters.</em></h1>
+  <p class="lede">{BRAND} is a behavioral science and data advisory firm for investors, leaders and mission-driven institutions. We find the human behaviors that predict performance in customers, teams and portfolios, then design the changes that move them, for returns and for the public good.</p>
+  <div class="hero-actions"><a class="btn btn-primary" href="contact/">Start a conversation {ARROW}</a><a class="btn btn-ghost" href="services/behavioral-signals-design/">Behavioral Signals Design</a></div>
   <div class="hero-stats">
-    <div><strong>{len(PRACTICES)} practices</strong><span>From capital advisory to community impact</span></div>
-    <div><strong>{len(SERVICES)} services</strong><span>Each built on one integrated method</span></div>
-    <div><strong>{len(INDUSTRIES)} industries</strong><span>Private, public and social sectors</span></div>
-    <div><strong>One lens</strong><span>People, measured with rigor and served with care</span></div>
+    <div><strong>Since 2003</strong><span>Behavioral design and research roots</span></div>
+    <div><strong>{len(PRACTICES)} practices</strong><span>From investor advisory to public good</span></div>
+    <div><strong>{len(SERVICES)} services</strong><span>One evidence-led method underneath</span></div>
+    <div><strong>One conviction</strong><span>Performance is behavior</span></div>
   </div>
 </div></section>
 
 <section class="section"><div class="wrap">
   <div class="split" style="margin-bottom:72px">
-    <figure><img src="assets/img/{IMG_PAGE['home-split']}.jpg" alt="A diverse team reviewing work together around a laptop" loading="lazy" width="1920" height="1280"></figure>
-    <div><span class="eyebrow">What we believe</span><h2>People problems are business problems.</h2>
-    <p class="lede">The hardest problems in any organization are rarely technical. They live in how people lead, decide, collaborate and serve. We make them visible, measurable and solvable.</p>
+    <figure><img src="assets/img/{IMG_PAGE['home-split']}.jpg" alt="A team reviewing findings together around a laptop" loading="lazy" width="1920" height="1280"></figure>
+    <div><span class="eyebrow">What we believe</span><h2>Performance is behavior.</h2>
+    <p class="lede">Customer conversion, technology adoption, patient adherence, team engagement and leadership effectiveness are all behaviors, and behaviors leave signals. Predicting what people will do should not be an expensive guess.</p>
     <p><a class="link-arrow" href="insights/people-problems-are-business-problems/">Read our point of view</a></p></div>
   </div>
   <div class="belief">
     <div><span class="eyebrow">Our conviction</span></div>
-    <blockquote>Strategies fail in hallways, not in boardrooms. When an organization serves its people well, its people serve customers and communities well, and <em>performance follows.</em></blockquote>
+    <blockquote>Most organizations are drowning in data and starving for signal. The few behaviors that truly predict outcomes are hiding in plain sight, <em>waiting to be measured.</em></blockquote>
   </div>
   <div class="pillars">
-    <div><h3>Evidence first</h3><p>We measure what others assume. People analytics, rigorous research and clear baselines make the human side of a business as legible as its financials.</p></div>
-    <div><h3>Designed with people</h3><p>Service design, experience design and co-design put the people affected by a decision at the center of making it, which is why our solutions get adopted.</p></div>
-    <div><h3>Impact that compounds</h3><p>We hold ourselves to outcomes for employees, customers and communities, alongside enterprise value, and build the measures to prove it.</p></div>
+    <div><h3>Science, not guesswork</h3><p>Our work is grounded in behavioral science, clinical and health psychology, human-computer interaction and rigorous research methods.</p></div>
+    <div><h3>Signals, not noise</h3><p>We turn large, messy, unintegrated datasets into a handful of behavioral signals and predictive KPIs that leaders can act on.</p></div>
+    <div><h3>Outcomes, not theory</h3><p>We connect theory with measurable, real-world results through experiments, coaching and design that people actually adopt.</p></div>
+  </div>
+</div></section>
+
+<section class="section section-dark"><div class="wrap">
+  <div class="section-head"><div><span class="eyebrow">Signature methodology</span><h2>Behavioral Signals Design.</h2></div>
+  <p>Our proprietary approach to building more predictive KPIs. It finds the few human behaviors that drive an outcome and makes them measurable, testable and improvable.</p></div>
+  <div class="grid g4 sig">
+    <div class="card"><div class="card-num">01</div><h3>Start from the outcome</h3><p>Conversion, adoption, retention, adherence or performance: we anchor on the result that matters to the business and the people it serves.</p></div>
+    <div class="card"><div class="card-num">02</div><h3>Map the journey</h3><p>We trace the full experience and the data around it, often across systems that were never designed to talk to each other.</p></div>
+    <div class="card"><div class="card-num">03</div><h3>Find the signals</h3><p>We isolate the key conversion moments and behavioral types, and surface the untested assumptions quietly filling the gaps.</p></div>
+    <div class="card"><div class="card-num">04</div><h3>Predict and test</h3><p>We define predictive, behavior-based KPIs and clear experiments to improve them, so progress is visible before lagging results arrive.</p></div>
+  </div>
+  <p style="margin-top:40px"><a class="link-arrow" style="color:#fff" href="services/behavioral-signals-design/">Explore Behavioral Signals Design</a></p>
+</div></section>
+
+<section class="section"><div class="wrap">
+  <div class="split">
+    <div><span class="eyebrow">For investors</span><h2>Diligence and value creation that read behavior, not just financials.</h2>
+    <p class="lede">Private equity sponsors, venture investors, family offices and impact funds engage us to see what the numbers alone cannot: how customers really behave, whether a management team can carry the plan, and which signals will predict value long before the quarterly results do.</p>
+    <ul class="bullets plain">{inv_lis}</ul>
+    <p style="margin-top:28px"><a class="btn btn-dark" href="practices/investor-venture-advisory/">Investor &amp; Venture Advisory {ARROW}</a></p></div>
+    <figure><img src="assets/img/{IMG_PAGE['investors']}.jpg" alt="An investment committee meeting in a boardroom" loading="lazy" width="1920" height="1280"></figure>
   </div>
 </div></section>
 
 <section class="section section-alt"><div class="wrap">
-  <div class="section-head"><div><span class="eyebrow">Our practices</span><h2>Six practices. One integrated view of people.</h2></div>
-  <p>Our practices work as one team. A diligence finding becomes a leadership plan; a journey map becomes an operating model; an engagement survey becomes a measurable commitment to a community.</p></div>
-  <div class="grid g3">{''.join(practice_cards)}</div>
+  <div class="section-head"><div><span class="eyebrow">Our practices</span><h2>Seven practices. One science of behavior.</h2></div>
+  <p>Our practices work as one team. A diligence signal becomes a coaching plan; a usability finding becomes a predictive KPI; a health behavior insight becomes a public education campaign.</p></div>
+  <div class="grid g4 practices-grid">{''.join(practice_cards)}</div>
 </div></section>
 
 <section class="section section-dark"><div class="wrap">
-  <div class="section-head"><div><span class="eyebrow">Inside and outside</span><h2>We solve people problems on both sides of the front door.</h2></div>
-  <p>The experience of employees and the experience of customers and communities are two halves of one system. We design them together.</p></div>
-  <div class="inout">
-    <div class="side"><h3>Inside the business</h3><ul><li>Leadership capability and succession</li><li>Culture, trust and psychological safety</li><li>Organizational design and decision rights</li><li>Employee experience and retention</li><li>Workforce planning and skills</li></ul></div>
-    <div class="bridge"><span>One system</span></div>
-    <div class="side"><h3>Outside the business</h3><ul><li>Customer and service experience</li><li>Community engagement and co-design</li><li>Stakeholder trust and accountability</li><li>Social and environmental impact</li><li>Equitable access to services</li></ul></div>
+  <div class="split">
+    <figure><img src="assets/img/{IMG_PAGE['social']}.jpg" alt="A volunteer helping an older man walk to his car" loading="lazy" width="1920" height="1280"></figure>
+    <div><span class="eyebrow">For the public good</span><h2>Behavioral science that serves people, not just metrics.</h2>
+    <p>Our roots are in public health, behavioral medicine, community mental health, education and making scientific knowledge accessible. We bring the same rigor to associations, health systems, schools and nonprofits that we bring to portfolio companies, and we hold every engagement to one ethical standard: help people do what they already want to do, never manipulate them.</p>
+    <ul class="bullets plain light">{soc_lis}</ul>
+    <p style="margin-top:28px"><a class="btn btn-primary" href="practices/social-impact-education/">Social Impact &amp; Public Good {ARROW}</a></p></div>
   </div>
 </div></section>
 
 <section class="section"><div class="wrap">
-  <div class="section-head"><div><span class="eyebrow">Our approach</span><h2>Listen. Measure. Design. Deliver. Sustain.</h2></div>
-  <p>Every engagement follows one disciplined method that pairs quantitative rigor with qualitative depth, so recommendations are both right and adoptable.</p></div>
+  <div class="section-head"><div><span class="eyebrow">Inside and outside</span><h2>We solve people problems on both sides of the front door.</h2></div>
+  <p>How leaders and teams behave shapes how customers, patients and communities are served. We work on both, because they are one system.</p></div>
+  <div class="inout">
+    <div class="side"><h3>Inside the business</h3><ul><li>Leadership clarity and decision-making under pressure</li><li>Team alignment, engagement and performance</li><li>High-performance culture and change that sticks</li><li>Founder and executive coaching through scale</li><li>People analytics and predictive leadership KPIs</li></ul></div>
+    <div class="bridge"><span>One system</span></div>
+    <div class="side"><h3>Outside the business</h3><ul><li>Customer conversion, retention and cross-sell</li><li>Technology and product adoption</li><li>Patient engagement and medication adherence</li><li>Member, student and community engagement</li><li>Public health and education campaigns</li></ul></div>
+  </div>
+</div></section>
+
+<section class="section section-white"><div class="wrap">
+  <div class="section-head"><div><span class="eyebrow">Our approach</span><h2>Observe. Signal. Design. Test. Scale.</h2></div>
+  <p>Every engagement follows one disciplined method that pairs qualitative depth with quantitative rigor, so recommendations are both right and adopted.</p></div>
   <div class="method">{method}</div>
   <p style="margin-top:40px"><a class="link-arrow" href="approach/">How we work</a></p>
 </div></section>
 
-<section class="section section-white"><div class="wrap">
+{experience_strip()}
+
+<section class="section"><div class="wrap">
   <div class="section-head"><div><span class="eyebrow">Industries</span><h2>Where we work.</h2></div>
-  <p>People problems look different in a hospital, a portfolio company, a school district or a community lender. Our teams bring sector fluency to each.</p></div>
+  <p>Behavior looks different in a dealership, a health club, a mortgage file, a classroom or a portfolio company. We bring sector context to each and the same science to all.</p></div>
   <div class="industry-list">{industries}</div>
 </div></section>
 
-<section class="section"><div class="wrap">
+<section class="section section-alt"><div class="wrap">
   <div class="section-head"><div><span class="eyebrow">Insights</span><h2>Ideas we put to work.</h2></div>
-  <p>Our point of view on the concepts that shape the people side of business, from service blueprinting to human capital value creation.</p></div>
+  <p>Our point of view on behavior, measurement and leadership, from predictive KPIs to the ethics of persuasive technology.</p></div>
   <div class="grid g3">{''.join(insight_card(pg, a) for a in featured)}</div>
   <p style="margin-top:40px"><a class="link-arrow" href="insights/">All insights</a></p>
 </div></section>
 {cta_band(pg)}"""
-    write(pg, layout(pg, title=f"{BRAND} | Data-Driven People & Social Impact Consulting", full_title=True,
-                     description="Datalidy is a data-driven social impact consulting firm solving the people problems of business: private equity advisory, leadership, service design and people analytics.",
+    write(pg, layout(pg, title=f"{BRAND} | Behavioral Science, Investor & Social Impact Advisory", full_title=True,
+                     description="Datalidy is a behavioral science and data advisory firm for investors, leaders and mission-driven institutions: predictive KPIs, diligence, coaching and design.",
                      body=body, ld=ld, img=IMG_PAGE["home"]), "1.0")
 
 
@@ -413,8 +464,8 @@ def build_services_hub():
     chips = "".join(f'<li><a href="#{s}">{e(p["name"])}</a></li>' for s, p in PRACTICES.items())
     body = f"""<section class="hero hero-page"><div class="wrap">
 {crumbs_html(pg, [("Home", ""), ("Services", "services/")])}
-<span class="eyebrow">Services</span><h1>Consulting services for the people side of business.</h1>
-<p class="lede">{len(SERVICES)} services across {len(PRACTICES)} practices, all built on one evidence-led, human-centered method. Engage us for a single diagnostic or an integrated transformation.</p>
+<span class="eyebrow">Services</span><h1>Behavioral science consulting services.</h1>
+<p class="lede">{len(SERVICES)} services across {len(PRACTICES)} practices, all built on one method: Observe, Signal, Design, Test, Scale. Engage us for a single diligence sprint or an integrated transformation.</p>
 </div></section>
 <section class="section-tight section-white"><div class="wrap"><ul class="chips">{chips}<li><a href="{pg.u('services/a-z/')}">Services A–Z</a></li></ul></div></section>
 <div class="wrap">{''.join(blocks)}</div>
@@ -425,7 +476,7 @@ def build_services_hub():
               {"@type": "ListItem", "position": i + 1, "url": f"{SITE}/services/{s}/", "name": v["name"]}
               for i, (s, v) in enumerate(SERVICES.items())]}]
     write(pg, layout(pg, title="Consulting Services", active="services",
-                     description="Explore Datalidy's consulting services: private equity advisory, leadership consulting, service design, people analytics, social impact strategy and more.",
+                     description="Explore Datalidy's services: Behavioral Signals Design, predictive KPIs, private equity and venture advisory, executive coaching, behavioral design and social impact.",
                      body=body, ld=ld, img=IMG_PAGE["services"]), "0.9")
 
     # A–Z
@@ -441,7 +492,7 @@ def build_services_hub():
 <p class="lede">Every {BRAND} service in one alphabetical index.</p></div></section>
 <section class="section"><div class="wrap"><div class="az">{az}</div></div></section>{cta_band(pg)}"""
     write(pg, layout(pg, title="Services A–Z", active="services",
-                     description="An alphabetical index of every Datalidy consulting service, from board advisory and change management to theory of change and workforce planning.",
+                     description="An alphabetical index of every Datalidy consulting service, from A/B testing and executive coaching to private equity advisory and usability testing.",
                      body=body), "0.5")
 
 
@@ -518,11 +569,11 @@ def build_industries():
     pg = Page("industries/")
     body = f"""<section class="hero hero-page"><div class="wrap">
 {crumbs_html(pg, [("Home", ""), ("Industries", "industries/")])}
-<span class="eyebrow">Industries</span><h1>Sector fluency for the people side of business.</h1>
-<p class="lede">The people problems of a hospital, a portfolio company, a public agency and a community lender differ in their details. Our teams bring sector context to each, and a common method to all.</p></div></section>
+<span class="eyebrow">Industries</span><h1>Sector fluency, one science of behavior.</h1>
+<p class="lede">A health club member, a car owner, a homebuyer, a patient and a portfolio company CEO behave in different contexts. We bring sector context to each and the same behavioral science to all.</p></div></section>
 <section class="section"><div class="wrap"><div class="grid g3">{''.join(industry_card(pg, i) for i in INDUSTRIES.values())}</div></div></section>{cta_band(pg)}"""
     write(pg, layout(pg, title="Industries We Serve", active="industries",
-                     description="Datalidy advises private equity, healthcare, nonprofits, government, education, financial services, technology and more on the people side of business.",
+                     description="Datalidy brings behavioral science to private equity, startups, healthcare, digital health, fitness, automotive, mortgage, education, associations and more.",
                      body=body, ld=[crumbs_ld([("Home", ""), ("Industries", "industries/")])], img=IMG_PAGE["industries"]), "0.9")
 
     for slug, i in INDUSTRIES.items():
@@ -565,12 +616,12 @@ def build_insights():
         f'<li><button data-filter="{e(t)}" aria-pressed="false">{e(t)}</button></li>' for t in topics)
     body = f"""<section class="hero hero-page"><div class="wrap">
 {crumbs_html(pg, [("Home", ""), ("Insights", "insights/")])}
-<span class="eyebrow">Insights</span><h1>Ideas for the people side of business.</h1>
-<p class="lede">Explainers and points of view on the concepts we use every day: service design, people analytics, impact measurement, leadership and the economics of serving people well.</p></div></section>
+<span class="eyebrow">Insights</span><h1>Ideas on behavior, measurement and leadership.</h1>
+<p class="lede">Explainers and points of view on the ideas we use every day: behavioral signals, predictive KPIs, behavioral design, coaching, health behavior and the ethics of persuasion.</p></div></section>
 <section class="section-tight section-white"><div class="wrap"><ul class="chips">{chips}</ul></div></section>
 <section class="section"><div class="wrap"><div class="grid g3">{''.join(insight_card(pg, a) for a in INSIGHTS.values())}</div></div></section>{cta_band(pg)}"""
     write(pg, layout(pg, title="Insights on People, Design & Impact", active="insights",
-                     description="Insights from Datalidy on service design, people analytics, leadership, impact measurement, private equity value creation and human-centered strategy.",
+                     description="Insights from Datalidy on behavioral science, predictive KPIs, behavioral design, executive coaching, health behavior change and ethical persuasive technology.",
                      body=body, ld=[crumbs_ld([("Home", ""), ("Insights", "insights/")])], img=IMG_PAGE["insights"]), "0.9")
 
     for slug, a in INSIGHTS.items():
@@ -611,21 +662,21 @@ def build_insights():
 def build_approach():
     pg = Page("approach/")
     detail = {
-        "Listen": ("We start with the people closest to the problem.",
-                   "Before we form a view, we listen: to executives and frontline staff, to customers and community members, to the people who are usually spoken for rather than heard. Our researchers use interviews, contextual inquiry, ethnographic observation, listening sessions and diary studies to understand what people actually experience and why.",
-                   ["Stakeholder and community interviews", "Contextual inquiry and field observation", "Listening sessions and focus groups", "Document, policy and data review"]),
-        "Measure": ("We turn experience into evidence.",
-                    "Qualitative insight tells us what matters. Measurement tells us how much, for whom and at what cost. We build baselines from HR, operational, financial and customer data, field targeted surveys, and apply people analytics methods to separate signal from noise and size the opportunity.",
-                    ["People analytics diagnostics", "Baseline metrics and KPI design", "Survey design and statistical analysis", "Equity and segmentation analysis"]),
-        "Design": ("We design with people, not for them.",
-                   "Using service design, experience design and organizational design, we develop solutions in partnership with the people who will live with them. Co-design workshops, prototypes and pilots let us test ideas cheaply and improve them before they are scaled.",
-                   ["Service blueprints and journey maps", "Organizational and operating model design", "Co-design workshops and prototypes", "Pilot design and evaluation plans"]),
-        "Deliver": ("We stay through the hard part.",
-                    "Recommendations are only as good as their implementation. We support leaders through rollout with change management, communications, leadership coaching and capability building, adjusting the plan as evidence comes in.",
-                    ["Implementation roadmaps and governance", "Change management and communications", "Leader coaching and team enablement", "Training and capability building"]),
-        "Sustain": ("We leave you stronger than we found you.",
-                    "Lasting change needs measurement and ownership. We build dashboards, governance routines and impact measurement frameworks, then transfer them to your team so progress continues and compounds after our engagement ends.",
-                    ["People and impact dashboards", "Governance and review cadences", "Impact measurement frameworks", "Knowledge transfer and handover"]),
+        "Observe": ("We start with what people actually do.",
+                    "Before we form a view, we watch and listen: to executives and frontline teams, to customers, users, patients and members. Interviews, contextual inquiry, think-aloud usability sessions and journey mapping reveal the gap between what people say and what they do, which is where most strategies quietly fail.",
+                    ["Stakeholder, customer and user interviews", "Contextual inquiry and field observation", "Usability testing and think-aloud protocols", "Journey and process mapping"]),
+        "Signal": ("We find the behaviors that predict the outcome.",
+                   "Using our Behavioral Signals Design approach, we analyze operating, customer and people data, often scattered across unintegrated systems, to isolate the few conversion moments and behavioral types that drive results. We surface the untested assumptions filling the gaps and turn them into hypotheses.",
+                   ["Behavioral data analysis and integration", "Conversion points and behavioral typologies", "Predictive, behavior-based KPIs", "Hypotheses ready for testing"]),
+        "Design": ("We make the right behavior easier.",
+                   "Drawing on behavioral design, persuasive technology, experience and service design, and coaching, we redesign the environment around a behavior: the prompts, the friction, the motivation and the support. We design with the people affected, and we design ethically.",
+                   ["Behavioral and experience design", "Service blueprints and journey redesign", "Messaging and choice architecture", "Leader and team coaching plans"]),
+        "Test": ("We replace assumptions with evidence.",
+                 "Every design is a hypothesis until it is tested. We run A/B tests, pilots and controlled comparisons with clear success measures and guardrails, so leaders can invest with confidence and stop what does not work early.",
+                 ["Experiment and pilot design", "A/B and multivariate testing", "Measurement plans and guardrail metrics", "Readouts with clear decisions"]),
+        "Scale": ("We make the gains durable.",
+                  "Lasting change needs ownership. We scale what works through implementation support, executive and team coaching, dashboards and predictive KPIs, and we transfer methods to your team so progress continues and compounds after our engagement ends.",
+                  ["Implementation roadmaps", "Executive and team coaching", "Decision dashboards and KPI governance", "Training and knowledge transfer"]),
     }
     secs = []
     for n, ph in enumerate(PHASES, 1):
@@ -633,26 +684,26 @@ def build_approach():
         lis = "".join(f"<li>{e(x)}</li>" for x in items)
         secs.append(f'<section id="{ph.lower()}"><span class="eyebrow">0{n} · {ph}</span><h2>{e(h)}</h2><p>{e(txt)}</p><ul class="bullets">{lis}</ul></section>')
     principles = [
-        ("Rigor and empathy, together", "Numbers without context mislead; stories without evidence don't scale. We insist on both."),
-        ("The affected are experts", "People who live with a problem understand it in ways no outsider can. We design with them."),
-        ("Measure what matters", "We define outcomes for employees, customers and communities, not just outputs and activity."),
-        ("Responsible with data", "People data is personal. We apply privacy, consent and ethical review to every analysis."),
-        ("Build capability, not dependency", "We transfer methods and tools so your team can continue the work without us."),
-        ("Candor over comfort", "We tell clients what the evidence shows, especially when it is uncomfortable."),
+        ("Behavior is the unit of analysis", "Strategy, culture and experience become manageable when they are expressed as specific, observable behaviors."),
+        ("Hypotheses, then tests", "We treat every recommendation as a hypothesis and every assumption as something to test, not defend."),
+        ("Ethical persuasion only", "We help people do what they already want to do. We do not design manipulation, dark patterns or coercion."),
+        ("Responsible with data", "People and customer data is personal. We apply privacy, consent and ethical review to every analysis."),
+        ("Build capability, not dependency", "We transfer methods, tools and habits so your team can continue the work without us."),
+        ("Candor over comfort", "We tell clients and investors what the evidence shows, especially when it is uncomfortable."),
     ]
     pcards = "".join(f'<div class="card"><h3>{e(t)}</h3><p>{e(b)}</p></div>' for t, b in principles)
     trail = [("Home", ""), ("Approach", "approach/")]
     body = f"""<section class="hero hero-page"><div class="wrap">
 {crumbs_html(pg, trail)}
-<span class="eyebrow">Our approach</span><h1>Listen. Measure. Design. Deliver. Sustain.</h1>
-<p class="lede">One disciplined method sits under every {BRAND} engagement, from a two-week diligence sprint to a multi-year transformation. It joins the rigor of analytics with the depth of human-centered design.</p></div></section>
+<span class="eyebrow">Our approach</span><h1>Observe. Signal. Design. Test. Scale.</h1>
+<p class="lede">One disciplined method sits under every {BRAND} engagement, from a two-week diligence sprint to a multi-year transformation. It joins behavioral science, data analysis, human-centered design and coaching, and it always ends in measurable outcomes.</p></div></section>
 <section class="section"><div class="wrap layout">
 {toc_html(pg, [(p.lower(), p) for p in PHASES])}
 <div class="prose">{''.join(secs)}</div></div></section>
 <section class="section section-alt"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Principles</span><h2>How we hold ourselves accountable.</h2></div><p></p></div><div class="grid g3">{pcards}</div></div></section>
 {cta_band(pg)}"""
     write(pg, layout(pg, title="Our Consulting Approach", active="approach",
-                     description="Datalidy's five-phase consulting method, Listen, Measure, Design, Deliver, Sustain, pairs people analytics with human-centered design for lasting change.",
+                     description="Datalidy's five-phase method, Observe, Signal, Design, Test, Scale, joins behavioral science, data analysis, design and coaching for measurable outcomes.",
                      body=body, ld=[crumbs_ld(trail)], img=IMG_PAGE["approach"]), "0.8")
 
 
@@ -660,34 +711,43 @@ def build_about():
     pg = Page("about/")
     trail = [("Home", ""), ("About", "about/")]
     who = [
-        ("Investors", "Private equity sponsors, impact investors and lenders who see people as the source of value creation and risk."),
-        ("Executives and boards", "CEOs, CHROs, COOs and directors leading growth, transformation, succession or integration."),
-        ("Mission-driven institutions", "Nonprofits, foundations, health systems, schools and public agencies serving communities."),
-        ("Social enterprises", "B Corps, cooperatives and purpose-led companies building business models around social good."),
+        ("Investors", "Private equity sponsors, venture investors, family offices and impact funds who want to see customer and leadership behavior before and after they invest."),
+        ("Founders and executives", "CEOs, founders and leadership teams of fast-growing, knowledge-based businesses and established enterprises."),
+        ("Health and mission-driven institutions", "Health systems, medical and public health associations, schools, universities and nonprofits serving the public good."),
+        ("Product, growth and experience leaders", "Teams responsible for conversion, adoption, retention and the experience customers, patients and members actually have."),
     ]
     wc = "".join(f'<div class="card"><h3>{e(t)}</h3><p>{e(b)}</p></div>' for t, b in who)
+    disciplines = ["Behavioral science and behavioral design", "Clinical and health psychology", "Behavioral medicine",
+                   "Human-computer interaction and usability", "Persuasive technology", "Research methods and psychometrics",
+                   "Data analysis and visualization", "Executive and team coaching", "Startup founding and product development",
+                   "University teaching in design and computing"]
+    disc = "".join(f"<li>{e(d)}</li>" for d in disciplines)
     body = f"""<section class="hero hero-page"><div class="wrap">
 {crumbs_html(pg, trail)}
-<span class="eyebrow">About {BRAND}</span><h1>We exist to make the people side of business as rigorous as the rest of it.</h1>
-<p class="lede">{BRAND} is a data-driven, social-impact-oriented advising and consulting firm. We help organizations solve the people problems that decide whether strategy succeeds, and in doing so, serve their customers, communities and the social good more fully.</p></div></section>
+<span class="eyebrow">About {BRAND}</span><h1>We make human behavior measurable, predictable and improvable.</h1>
+<p class="lede">{BRAND} is a Chicago-based behavioral science and data advisory firm. We help investors, leaders and mission-driven institutions solve the people problems that decide performance, inside the business and beyond it, and we hold that work to the standard of the public good.</p></div></section>
 <section class="section"><div class="wrap"><div class="belief">
-<div><span class="eyebrow">Our mission</span><h2>Better for people. Better for business. Better for communities.</h2></div>
+<div><span class="eyebrow">Our story</span><h2>Two decades of applied behavioral science.</h2></div>
 <div class="prose">
-<p>Most organizations manage money, assets and operations with precision. Their people, the source of nearly every result, are too often managed by instinct. Leaders sense that culture is strained, that a team is not working, that customers are frustrated or that a community has lost trust, but lack the evidence to act decisively.</p>
-<p>{BRAND} was founded to close that gap. We believe decisions about people deserve the same standard of evidence as decisions about capital. We also believe evidence alone is not enough. Solutions must be designed with the people they affect, or they will not be adopted.</p>
-<p>That is why our teams combine people analytics, organizational psychology, service design, experience design and strategy. We work across the full life of an organization, from the diligence before an investment to the leadership that carries it, the services that reach customers and the communities those services sustain.</p>
+<p>{BRAND} began in 2003 as a behavioral design consultancy, working at the intersection of psychology, health and technology. Over two decades our principals have built that practice across academic medicine and public health, university classrooms in design and computing, startups we founded and scaled, and enterprise programs for some of the most recognized brands in the country.</p>
+<p>Along the way we learned something simple. Organizations are drowning in data and starving for signal. The behaviors that actually predict conversion, adoption, adherence, engagement and leadership effectiveness are usually hiding in plain sight, buried in systems that were never integrated and covered by assumptions that were never tested.</p>
+<p>So we built a way to find them. Our Behavioral Signals Design approach turns noisy data into predictive, behavior-based KPIs and clear experiments. Our coaching practice helps leaders and teams act on what the signals show. And our commitment to social impact keeps the work honest: behavioral science should help people do what they already want to do, never manipulate them.</p>
 </div></div></div></section>
+<section class="section section-alt"><div class="wrap"><div class="belief">
+<div><span class="eyebrow">Our expertise</span><h2>The disciplines behind the work.</h2><p class="lede" style="margin-top:16px">Our principals are PhD-trained behavioral scientists, executive coaches, founders and university faculty.</p></div>
+<div class="prose"><ul class="bullets">{disc}</ul></div></div></div></section>
 <section class="section section-dark"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Our values</span><h2>What we stand for.</h2></div><p></p></div>
 <div class="grid g3">
 <div class="card"><h3>Validity</h3><p>We are honest about what the data can and cannot tell us, and we never let a convenient story outrun the evidence.</p></div>
-<div class="card"><h3>Dignity</h3><p>Every person in a system deserves to be understood, from the boardroom to the front line to the community beyond.</p></div>
-<div class="card"><h3>Shared value</h3><p>We look for solutions where performance and social good reinforce each other, and we say so when they do not.</p></div>
+<div class="card"><h3>Dignity</h3><p>Every person in a system deserves to be understood and respected, from the boardroom to the front line to the patient, student or customer.</p></div>
+<div class="card"><h3>Shared value</h3><p>We look for solutions where returns and the public good reinforce each other, and we say so plainly when they do not.</p></div>
 </div></div></section>
-<section class="section"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Who we serve</span><h2>Our clients.</h2></div><p>We work with leaders who believe that serving people well is both the right thing to do and the smart thing to do.</p></div>
+<section class="section"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Who we serve</span><h2>Our clients.</h2></div><p>We work with people who believe that understanding human behavior is both the right thing to do and the smart thing to do.</p></div>
 <div class="grid g4">{wc}</div></div></section>
+{experience_strip()}
 {cta_band(pg)}"""
     write(pg, layout(pg, title="About Our Firm", active="about",
-                     description="Datalidy is a data-driven, social-impact consulting firm that makes the people side of business as rigorous as the rest, for performance and the common good.",
+                     description="Datalidy is a Chicago-based behavioral science and data advisory firm, rooted in psychology, HCI and coaching, serving investors, leaders and the public good.",
                      body=body, ld=[crumbs_ld(trail), ORG_LD], img=IMG_PAGE["about"]), "0.8")
 
 
@@ -711,7 +771,7 @@ def build_contact():
   <label>How can we help?<textarea name="message" required></textarea></label>
   <div><button class="btn btn-dark" type="submit">Send inquiry {ARROW}</button></div>
 </form></div></div></section>"""
-    write(pg, layout(pg, title="Contact Us", description="Contact Datalidy to discuss private equity advisory, leadership consulting, service design, people analytics or social impact strategy.",
+    write(pg, layout(pg, title="Contact Us", description="Contact Datalidy to discuss Behavioral Signals Design, private equity and venture advisory, executive coaching, behavioral design or social impact work.",
                      body=body, ld=[crumbs_ld(trail)], img=IMG_PAGE["contact"]), "0.8")
 
 

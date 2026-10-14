@@ -1,116 +1,458 @@
 {
-  "practices": [
-    {"slug": "capital-investment-advisory", "name": "Capital & Investment Advisory", "services": [
-      ["private-equity-advisory", "Private Equity Advisory"],
-      ["human-capital-due-diligence", "Human Capital Due Diligence"],
-      ["value-creation-planning", "Value Creation Planning"],
-      ["post-merger-integration", "Post-Merger Integration"],
-      ["impact-investing-advisory", "Impact Investing Advisory"],
-      ["esg-impact-measurement", "ESG & Impact Measurement"],
-      ["portfolio-leadership-assessment", "Portfolio Leadership Assessment"],
-      ["exit-readiness", "Exit Readiness"]
-    ]},
-    {"slug": "leadership-organization", "name": "Leadership & Organization", "services": [
-      ["leadership-consulting", "Leadership Consulting"],
-      ["executive-coaching", "Executive Coaching"],
-      ["management-consulting", "Management Consulting"],
-      ["organizational-design", "Organizational Design"],
-      ["change-management", "Change Management"],
-      ["culture-transformation", "Culture Transformation"],
-      ["succession-planning", "Succession Planning"],
-      ["board-advisory-governance", "Board Advisory & Governance"],
-      ["team-effectiveness", "Team Effectiveness"]
-    ]},
-    {"slug": "human-centered-design", "name": "Human-Centered Design", "services": [
-      ["service-design", "Service Design"],
-      ["experience-design", "Experience Design"],
-      ["employee-experience", "Employee Experience Design"],
-      ["human-centered-design-consulting", "Human-Centered Design Consulting"],
-      ["design-research", "Design Research"],
-      ["journey-mapping", "Customer & Employee Journey Mapping"],
-      ["design-thinking-workshops", "Design Thinking Workshops"],
-      ["community-co-design", "Community Co-Design"],
-      ["inclusive-accessible-design", "Inclusive & Accessible Design"]
-    ]},
-    {"slug": "people-analytics-data", "name": "People Analytics & Data", "services": [
-      ["people-analytics", "People Analytics"],
-      ["strategic-workforce-planning", "Strategic Workforce Planning"],
-      ["organizational-network-analysis", "Organizational Network Analysis"],
-      ["employee-listening", "Employee Listening & Surveys"],
-      ["data-strategy", "Data Strategy"],
-      ["pay-equity-analysis", "Pay Equity Analysis"],
-      ["equity-audits", "Equity Audits & DEI Analytics"],
-      ["retention-analytics", "Predictive Retention Analytics"],
-      ["impact-dashboards", "Impact & People Dashboards"]
-    ]},
-    {"slug": "social-impact-community", "name": "Social Impact & Community", "services": [
-      ["social-impact-strategy", "Social Impact Strategy"],
-      ["community-engagement", "Community Engagement"],
-      ["stakeholder-engagement", "Stakeholder Engagement"],
-      ["theory-of-change", "Theory of Change Development"],
-      ["nonprofit-strategy", "Nonprofit Strategy"],
-      ["public-sector-consulting", "Public Sector Consulting"],
-      ["corporate-social-responsibility", "Corporate Social Responsibility"],
-      ["workforce-development", "Workforce Development Programs"],
-      ["philanthropy-advisory", "Philanthropy Advisory"]
-    ]},
-    {"slug": "strategy-operations", "name": "Strategy & Operations", "services": [
-      ["strategic-planning", "Strategic Planning"],
-      ["operating-model-design", "Operating Model Design"],
-      ["process-improvement", "Process Improvement"],
-      ["mission-driven-growth", "Mission-Driven Growth Strategy"],
-      ["customer-strategy", "Customer Strategy"],
-      ["innovation-strategy", "Innovation Strategy"],
-      ["responsible-ai-adoption", "Responsible AI Adoption"],
-      ["talent-strategy", "Talent Strategy"]
-    ]}
+ "practices": [
+  {
+   "slug": "behavioral-signals-analytics",
+   "name": "Behavioral Signals & Analytics",
+   "services": [
+    [
+     "behavioral-signals-design",
+     "Behavioral Signals Design"
+    ],
+    [
+     "predictive-kpi-design",
+     "Predictive KPI Design"
+    ],
+    [
+     "behavioral-data-analysis",
+     "Behavioral Data Analysis"
+    ],
+    [
+     "conversion-behavior-analytics",
+     "Conversion Behavior Analytics"
+    ],
+    [
+     "experimentation-ab-testing",
+     "Experimentation & A/B Testing"
+    ],
+    [
+     "behavioral-segmentation",
+     "Behavioral Segmentation"
+    ],
+    [
+     "survey-measurement-design",
+     "Survey & Measurement Design"
+    ],
+    [
+     "data-visualization",
+     "Data Visualization & Decision Dashboards"
+    ],
+    [
+     "people-analytics",
+     "People Analytics"
+    ]
+   ]
+  },
+  {
+   "slug": "investor-venture-advisory",
+   "name": "Investor & Venture Advisory",
+   "services": [
+    [
+     "private-equity-advisory",
+     "Private Equity Advisory"
+    ],
+    [
+     "venture-capital-advisory",
+     "Venture Capital & Startup Advisory"
+    ],
+    [
+     "commercial-due-diligence",
+     "Customer & Commercial Due Diligence"
+    ],
+    [
+     "management-team-assessment",
+     "Management Team Assessment"
+    ],
+    [
+     "portfolio-value-creation",
+     "Portfolio Value Creation"
+    ],
+    [
+     "founder-ceo-coaching",
+     "Founder & CEO Coaching"
+    ],
+    [
+     "impact-investing-advisory",
+     "Impact Investing Advisory"
+    ],
+    [
+     "post-acquisition-integration",
+     "Post-Acquisition Integration"
+    ]
+   ]
+  },
+  {
+   "slug": "leadership-coaching",
+   "name": "Leadership & Executive Coaching",
+   "services": [
+    [
+     "executive-coaching",
+     "Executive Coaching"
+    ],
+    [
+     "team-coaching",
+     "High-Performance Team Coaching"
+    ],
+    [
+     "leadership-development",
+     "Leadership Development Programs"
+    ],
+    [
+     "decision-making-under-pressure",
+     "Decision-Making Under Pressure"
+    ],
+    [
+     "leadership-alignment",
+     "Leadership Alignment & Engagement"
+    ],
+    [
+     "behavioral-change-management",
+     "Behavioral Change Management"
+    ],
+    [
+     "culture-design",
+     "High-Performance Culture Design"
+    ],
+    [
+     "scaling-leadership",
+     "Leadership for High-Growth Companies"
+    ]
+   ]
+  },
+  {
+   "slug": "behavioral-design-experience",
+   "name": "Behavioral Design & Experience",
+   "services": [
+    [
+     "behavioral-design",
+     "Behavioral Design Consulting"
+    ],
+    [
+     "customer-journey-mapping",
+     "Customer Journey Mapping"
+    ],
+    [
+     "customer-experience-research",
+     "Customer Experience Research"
+    ],
+    [
+     "user-research-usability-testing",
+     "User Research & Usability Testing"
+    ],
+    [
+     "hci-consulting",
+     "Human-Computer Interaction Consulting"
+    ],
+    [
+     "persuasive-technology-design",
+     "Persuasive Technology Design"
+    ],
+    [
+     "technology-adoption",
+     "Technology Adoption Strategy"
+    ],
+    [
+     "service-design",
+     "Service Design"
+    ],
+    [
+     "onboarding-design",
+     "Onboarding & Activation Design"
+    ]
+   ]
+  },
+  {
+   "slug": "health-behavior",
+   "name": "Health & Behavioral Medicine",
+   "services": [
+    [
+     "health-behavior-change",
+     "Health Behavior Change Design"
+    ],
+    [
+     "patient-engagement-adherence",
+     "Patient Engagement & Medication Adherence"
+    ],
+    [
+     "digital-health-product-design",
+     "Digital Health Product Design"
+    ],
+    [
+     "patient-experience",
+     "Patient & Member Experience"
+    ],
+    [
+     "wellness-program-design",
+     "Workplace Wellbeing Program Design"
+    ],
+    [
+     "fitness-wellness-advisory",
+     "Fitness & Wellness Industry Advisory"
+    ],
+    [
+     "health-communication",
+     "Evidence-Based Health Communication"
+    ],
+    [
+     "clinician-wellbeing",
+     "Clinician Wellbeing & Burnout Reduction"
+    ]
+   ]
+  },
+  {
+   "slug": "growth-commercial-strategy",
+   "name": "Growth & Commercial Strategy",
+   "services": [
+    [
+     "cross-sell-process-design",
+     "Cross-Sell & Sales Process Design"
+    ],
+    [
+     "brand-messaging-research",
+     "Brand Messaging Research"
+    ],
+    [
+     "behavioral-go-to-market",
+     "Behavioral Go-to-Market Strategy"
+    ],
+    [
+     "process-mapping",
+     "Process Mapping & Improvement"
+    ],
+    [
+     "product-strategy",
+     "Product Strategy & Development"
+    ],
+    [
+     "customer-retention-strategy",
+     "Customer Retention Strategy"
+    ],
+    [
+     "responsible-ai-adoption",
+     "Responsible AI Adoption"
+    ]
+   ]
+  },
+  {
+   "slug": "social-impact-education",
+   "name": "Social Impact & Public Good",
+   "services": [
+    [
+     "social-impact-strategy",
+     "Social Impact Strategy"
+    ],
+    [
+     "nonprofit-association-advisory",
+     "Nonprofit & Association Advisory"
+    ],
+    [
+     "education-learning-design",
+     "Education & Learning Design"
+    ],
+    [
+     "research-translation",
+     "Research Translation & Knowledge Dissemination"
+    ],
+    [
+     "public-awareness-campaigns",
+     "Public Awareness & Education Campaigns"
+    ],
+    [
+     "community-behavioral-health",
+     "Community Behavioral Health Advisory"
+    ],
+    [
+     "workshops-training",
+     "Behavioral Science Workshops & Training"
+    ],
+    [
+     "impact-measurement",
+     "Impact Measurement & Evaluation"
+    ]
+   ]
+  }
+ ],
+ "industries": [
+  [
+   "healthcare-health-systems",
+   "Healthcare & Health Systems"
   ],
-  "industries": [
-    ["private-equity-portfolio-companies", "Private Equity & Portfolio Companies"],
-    ["healthcare", "Healthcare & Life Sciences"],
-    ["nonprofits-foundations", "Nonprofits & Foundations"],
-    ["public-sector", "Government & Public Sector"],
-    ["education", "Education"],
-    ["financial-services-cdfis", "Financial Services & CDFIs"],
-    ["technology", "Technology"],
-    ["manufacturing", "Manufacturing & Industrial"],
-    ["retail-consumer", "Retail & Consumer"],
-    ["professional-services", "Professional Services"],
-    ["social-enterprises-b-corps", "Social Enterprises & B Corps"],
-    ["community-development-real-estate", "Real Estate & Community Development"],
-    ["energy-utilities", "Energy & Utilities"],
-    ["hospitality", "Hospitality & Services"]
+  [
+   "venture-backed-startups",
+   "Venture-Backed Startups"
   ],
-  "insights": [
-    ["what-is-service-design", "What Is Service Design?"],
-    ["human-centered-design-vs-design-thinking", "Human-Centered Design vs. Design Thinking"],
-    ["theory-of-change-explained", "Theory of Change, Explained"],
-    ["what-is-employee-experience", "What Is Employee Experience?"],
-    ["people-analytics-maturity-model", "The People Analytics Maturity Model"],
-    ["psychological-safety", "Psychological Safety at Work"],
-    ["stakeholder-capitalism", "Stakeholder Capitalism in Practice"],
-    ["social-return-on-investment", "Social Return on Investment (SROI)"],
-    ["jobs-to-be-done", "Jobs to Be Done"],
-    ["service-blueprinting", "Service Blueprinting"],
-    ["human-capital-in-private-equity", "Human Capital as a Value Creation Lever in Private Equity"],
-    ["change-fatigue", "Change Fatigue and How to Prevent It"],
-    ["equity-centered-design", "Equity-Centered Design"],
-    ["double-materiality", "Double Materiality"],
-    ["impact-measurement-management", "Impact Measurement & Management (IMM)"],
-    ["cost-of-employee-turnover", "The Real Cost of Employee Turnover"],
-    ["middle-managers", "Why Middle Managers Make or Break Strategy"],
-    ["measuring-trust", "Measuring Trust in Organizations"],
-    ["data-ethics", "Data Ethics for People Data"],
-    ["belonging-at-work", "Belonging at Work"],
-    ["co-design-principles", "Principles of Co-Design"],
-    ["okrs-for-mission-driven-organizations", "OKRs for Mission-Driven Organizations"],
-    ["culture-due-diligence", "Culture Due Diligence"],
-    ["systems-thinking", "Systems Thinking for Leaders"],
-    ["community-benefit-agreements", "Community Benefit Agreements"],
-    ["skills-based-organization", "The Skills-Based Organization"],
-    ["moments-that-matter", "Designing for Moments That Matter"],
-    ["responsible-ai-workforce", "Responsible AI and the Workforce"],
-    ["leading-and-lagging-indicators", "Leading and Lagging People Indicators"],
-    ["people-problems-are-business-problems", "People Problems Are Business Problems"]
+  [
+   "digital-health",
+   "Digital Health"
+  ],
+  [
+   "fitness-wellness",
+   "Fitness, Health Clubs & Wellness"
+  ],
+  [
+   "automotive",
+   "Automotive"
+  ],
+  [
+   "mortgage-lending",
+   "Mortgage & Consumer Lending"
+  ],
+  [
+   "banking-financial-services",
+   "Banking & Financial Services"
+  ],
+  [
+   "commercial-real-estate",
+   "Commercial Real Estate & Capital Markets"
+  ],
+  [
+   "higher-education",
+   "Higher Education & Research"
+  ],
+  [
+   "k12-education",
+   "K-12 Education"
+  ],
+  [
+   "associations-nonprofits",
+   "Associations & Nonprofits"
+  ],
+  [
+   "technology-saas",
+   "Technology & SaaS"
+  ],
+  [
+   "retail-consumer",
+   "Retail & Consumer Brands"
+  ],
+  [
+   "professional-services",
+   "Professional & Knowledge Services"
+  ],
+  [
+   "private-equity-portfolio-companies",
+   "Private Equity & Portfolio Companies"
   ]
+ ],
+ "insights": [
+  [
+   "what-is-behavioral-signals-design",
+   "What Is Behavioral Signals Design?"
+  ],
+  [
+   "predictive-kpis-vs-vanity-metrics",
+   "Predictive KPIs vs. Vanity Metrics"
+  ],
+  [
+   "leading-and-lagging-indicators",
+   "Leading and Lagging Indicators"
+  ],
+  [
+   "fogg-behavior-model",
+   "The Fogg Behavior Model, Explained"
+  ],
+  [
+   "nudge-theory-in-business",
+   "Nudge Theory in Business"
+  ],
+  [
+   "behavioral-vs-demographic-segmentation",
+   "Behavioral vs. Demographic Segmentation"
+  ],
+  [
+   "from-noisy-data-to-hypotheses",
+   "From Noisy Data to Testable Hypotheses"
+  ],
+  [
+   "cost-of-untested-assumptions",
+   "The Cost of Untested Assumptions"
+  ],
+  [
+   "ab-testing-beyond-tech",
+   "A/B Testing Beyond the Tech Industry"
+  ],
+  [
+   "conversion-points-customer-journey",
+   "Finding the Conversion Points in a Customer Journey"
+  ],
+  [
+   "psychology-of-technology-adoption",
+   "The Psychology of Technology Adoption"
+  ],
+  [
+   "habit-formation",
+   "Habit Formation for Products and Organizations"
+  ],
+  [
+   "medication-adherence-behavioral-design",
+   "Behavioral Design for Medication Adherence"
+  ],
+  [
+   "ethics-of-persuasive-technology",
+   "The Ethics of Persuasive Technology"
+  ],
+  [
+   "what-is-executive-coaching",
+   "What Executive Coaching Is, and What It Is Not"
+  ],
+  [
+   "psychological-safety",
+   "Psychological Safety at Work"
+  ],
+  [
+   "how-leaders-decide-under-pressure",
+   "How Leaders Decide Under Pressure"
+  ],
+  [
+   "teams-as-growth-engines",
+   "Building Teams Into Engines of Growth"
+  ],
+  [
+   "group-behavior-change",
+   "Behavior Change at the Group Level"
+  ],
+  [
+   "psychology-of-cross-selling",
+   "The Psychology of Cross-Selling"
+  ],
+  [
+   "behavioral-science-brand-messaging",
+   "Behavioral Science in Brand Messaging"
+  ],
+  [
+   "usability-testing-for-executives",
+   "Usability Testing: A Guide for Executives"
+  ],
+  [
+   "hci-principles-for-leaders",
+   "HCI Principles Every Leader Should Know"
+  ],
+  [
+   "emotion-and-decision-making",
+   "Emotion and Decision-Making"
+  ],
+  [
+   "psychometrics-for-business-surveys",
+   "Psychometrics for Business Surveys"
+  ],
+  [
+   "data-visualization-for-decisions",
+   "Data Visualization for Better Decisions"
+  ],
+  [
+   "systems-thinking",
+   "Systems Thinking for Leaders"
+  ],
+  [
+   "research-to-practice-gap",
+   "Closing the Research-to-Practice Gap"
+  ],
+  [
+   "ai-and-organizational-culture",
+   "AI, Training Data and the Cultures We Leave Behind"
+  ],
+  [
+   "people-problems-are-business-problems",
+   "People Problems Are Business Problems"
+  ]
+ ]
 }

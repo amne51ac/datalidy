@@ -1,26 +1,50 @@
 # Datalidy content brief
 
 ## The firm
-Datalidy (website: datalidy.com) is a data-driven, social-impact-oriented advising and consulting firm. Its services range from private equity advising to leadership and management consulting. Everything it does centers on the **people problems of a business**: it solves people problems inside the business (leadership, culture, talent, organization, employee experience) and outside it (customers, communities, stakeholders) using evidence, analytics, service design, experience design and human-centered design. The firm's belief is that serving people well inside an organization is how a business better serves its customers, its communities and the social good it exists for, and that this also drives durable financial performance.
+Datalidy (website: datalidy.com) is a Chicago-based behavioral science and data advisory firm. It began in 2003 as a behavioral design consultancy and is rooted in clinical and health psychology, behavioral medicine, human-computer interaction (HCI), persuasive technology, research methods and psychometrics, university teaching in design and computing, startup founding and product development, and executive coaching.
 
-Positioning line options: "Data-driven advisory for the people side of business." / "Where evidence meets empathy."
+Its core belief: **performance is behavior.** Customer conversion, technology adoption, patient adherence, employee engagement and leadership effectiveness are all behaviors, and behaviors leave signals in data. Predicting how people will behave should not be an expensive guess.
 
-Methodology (use these names consistently when referencing the approach): **Listen → Measure → Design → Deliver → Sustain**.
-- Listen: qualitative research, interviews, ethnography, community listening.
-- Measure: people analytics, baselines, quantitative diagnostics.
-- Design: service design, experience design, co-design with the people affected.
-- Deliver: implementation, change management, capability building.
-- Sustain: dashboards, governance, impact measurement, handover.
+What the firm does, in one breath: it finds the behavioral signals hidden in large, noisy, unintegrated datasets; turns them into testable hypotheses and **predictive KPIs**; designs interventions with behavioral design, experience design and service design; tests them with experiments and A/B tests; and builds leaders and teams who can sustain the results through executive and team coaching. It works on people problems inside the business (leaders, teams, culture, decision-making) and outside it (customers, users, patients, members, students, communities).
+
+### Signature methodology: Behavioral Signals Design
+A proprietary approach for building more predictive KPIs. Describe it this way:
+- Start from the outcome that matters (conversion, adoption, retention, adherence, satisfaction, performance).
+- Map the full journey and the data around it, often across systems that were never integrated.
+- Identify the few key behavioral moments (conversion points) that actually drive the outcome, and behavioral types (segments defined by behavior, not demographics).
+- Surface the untested assumptions that are quietly filling gaps in the data, and turn them into testable hypotheses.
+- Define predictive, behavior-based KPIs and clear A/B tests or pilots to improve them.
+
+### The engagement method (use these five phase names, in order): **Observe → Signal → Design → Test → Scale**
+- Observe: qualitative research, interviews, contextual inquiry, user testing, journey mapping.
+- Signal: behavioral data analysis, finding conversion points and behavioral types, predictive KPIs.
+- Design: behavioral design, experience and service design, coaching plans, messaging.
+- Test: experiments, A/B tests, pilots, usability testing, measurement.
+- Scale: implementation, leadership and team coaching, dashboards, capability building.
+
+### Influences you may reference qualitatively
+B.J. Fogg's Behavior Model (behavior happens when motivation, ability and a prompt converge) and his work on persuasive technology and group-level change; behavioral economics and nudge theory; HCI and usability principles; psychometrics and test-and-measurement; systems thinking; psychological safety (Amy Edmondson); self-determination theory; health behavior models. Do not cite statistics.
+
+### Social impact
+The firm cares about the social good its clients serve: public health, patient wellbeing, behavioral health access, education, accessible scientific knowledge, and ethical use of persuasion and AI. Behavioral science should help people do what they already want to do, never manipulate them.
+
+Positioning lines: "Read the signals. Design the behavior. Measure what matters." / "Behavioral science for measurable performance." / "Connecting theory with measurable, real-world outcomes."
 
 ## Voice
-Formal, confident, precise, warm but not casual. Like a top-tier strategy firm writing for executives, boards, investors, foundation leaders and public officials. Concrete and specific, no filler, no hype words ("revolutionary", "synergy", "cutting-edge", "unlock", "leverage" as a verb, "in today's fast-paced world", "delve"). American English. Use plain verbs. Don't use em dashes; use commas, colons, or periods instead.
+Formal, confident, precise, warm but not casual; scientifically literate without jargon walls. Written for executives, founders, product and marketing leaders, health system and association leaders, and investors. Concrete and specific, no filler, no hype ("revolutionary", "synergy", "cutting-edge", "unlock", "leverage" as a verb, "in today's fast-paced world", "delve"). American English. No em dashes; use commas, colons or periods.
 
 ## Hard rules
-- NO invented statistics, percentages, dollar figures, client names, case studies, testimonials, awards, team member names, years in business, or office locations. Do not cite specific studies by name with numbers. You may describe well-established concepts (e.g., "research on psychological safety", "Amy Edmondson's work") qualitatively.
+- Never name any person (no founders, staff, partners or individual clients). Never name client organizations; the site lists selected organizations in one place that the editor controls.
+- NO invented statistics, percentages, dollar figures, case studies, testimonials, awards or headcounts. You may describe types of past work generically ("for an automotive brand's owner-experience center", "for a mortgage lender") but never with results numbers.
 - No promises of guaranteed results.
-- Every page must be genuinely useful and distinct, written for search intent (someone searching e.g. "service design consulting" or "human capital due diligence"). Naturally include the primary keyword in the lede and a few times in body. No keyword stuffing.
-- Plain text only in strings (no Markdown, no HTML). Paragraph arrays are arrays of plain strings.
-- meta_title: max 60 characters, should NOT include "Datalidy" (the site appends " | Datalidy").
+- Every page must be genuinely useful and distinct, written for search intent. Include the primary keyword naturally in the lede and a few times in the body. No keyword stuffing.
+- Plain text only in strings (no Markdown, no HTML).
+- meta_title: max 60 characters, must NOT include "Datalidy" (the site appends " | Datalidy").
 - meta_description: 140–160 characters.
-- Output must be valid JSON (UTF-8, straight quotes inside strings escaped). Validate with `python3 -c "import json;json.load(open('FILE'))"` before finishing.
-- Only use slugs from content/taxonomy.json in `related_*` fields.
+- Output must be valid JSON. Validate with `python3 -c "import json;json.load(open('FILE'))"` before finishing.
+- Only use slugs from content/taxonomy.json in `related_*` and `service` fields.
+
+## Emphasis (added)
+Two pillars must be prominent and clear everywhere they are relevant:
+1. **Investor, venture and private equity advisory**: diligence that reads customer and leadership behavior, management team assessment, predictive KPIs for portfolio monitoring and LP reporting, founder and CEO coaching, value creation, impact investing.
+2. **Social good**: public health, behavioral health, education, accessible science, ethical persuasion and AI. Returns and the public good should reinforce each other.
