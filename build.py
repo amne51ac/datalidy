@@ -15,7 +15,7 @@ ROOT = Path(__file__).parent
 CONTENT = ROOT / "content"
 OUT = ROOT / "docs"
 SITE = "https://datalidy.com"
-BRAND = "Datalidity"
+BRAND = "Datalidy"
 EMAIL = "hello@datalidy.com"
 TODAY = date.today().isoformat()
 PHASES = ["Listen", "Measure", "Design", "Deliver", "Sustain"]
@@ -131,7 +131,7 @@ ORG_LD = {
     "logo": SITE + "/assets/logo.png",
     "image": SITE + "/assets/og.png",
     "email": EMAIL,
-    "description": "Datalidity is a data-driven, social-impact advisory and consulting firm solving the people problems of business, from private equity advisory to leadership consulting, service design and people analytics.",
+    "description": "Datalidy is a data-driven, social-impact advisory and consulting firm solving the people problems of business, from private equity advisory to leadership consulting, service design and people analytics.",
     "areaServed": "Worldwide",
     "knowsAbout": [],
 }
@@ -398,7 +398,7 @@ def build_home():
 </div></section>
 {cta_band(pg)}"""
     write(pg, layout(pg, title=f"{BRAND} | Data-Driven People & Social Impact Consulting", full_title=True,
-                     description="Datalidity is a data-driven social impact consulting firm solving the people problems of business: private equity advisory, leadership, service design and people analytics.",
+                     description="Datalidy is a data-driven social impact consulting firm solving the people problems of business: private equity advisory, leadership, service design and people analytics.",
                      body=body, ld=ld, img=IMG_PAGE["home"]), "1.0")
 
 
@@ -425,7 +425,7 @@ def build_services_hub():
               {"@type": "ListItem", "position": i + 1, "url": f"{SITE}/services/{s}/", "name": v["name"]}
               for i, (s, v) in enumerate(SERVICES.items())]}]
     write(pg, layout(pg, title="Consulting Services", active="services",
-                     description="Explore Datalidity's consulting services: private equity advisory, leadership consulting, service design, people analytics, social impact strategy and more.",
+                     description="Explore Datalidy's consulting services: private equity advisory, leadership consulting, service design, people analytics, social impact strategy and more.",
                      body=body, ld=ld, img=IMG_PAGE["services"]), "0.9")
 
     # A–Z
@@ -441,7 +441,7 @@ def build_services_hub():
 <p class="lede">Every {BRAND} service in one alphabetical index.</p></div></section>
 <section class="section"><div class="wrap"><div class="az">{az}</div></div></section>{cta_band(pg)}"""
     write(pg, layout(pg, title="Services A–Z", active="services",
-                     description="An alphabetical index of every Datalidity consulting service, from board advisory and change management to theory of change and workforce planning.",
+                     description="An alphabetical index of every Datalidy consulting service, from board advisory and change management to theory of change and workforce planning.",
                      body=body), "0.5")
 
 
@@ -522,7 +522,7 @@ def build_industries():
 <p class="lede">The people problems of a hospital, a portfolio company, a public agency and a community lender differ in their details. Our teams bring sector context to each, and a common method to all.</p></div></section>
 <section class="section"><div class="wrap"><div class="grid g3">{''.join(industry_card(pg, i) for i in INDUSTRIES.values())}</div></div></section>{cta_band(pg)}"""
     write(pg, layout(pg, title="Industries We Serve", active="industries",
-                     description="Datalidity advises private equity, healthcare, nonprofits, government, education, financial services, technology and more on the people side of business.",
+                     description="Datalidy advises private equity, healthcare, nonprofits, government, education, financial services, technology and more on the people side of business.",
                      body=body, ld=[crumbs_ld([("Home", ""), ("Industries", "industries/")])], img=IMG_PAGE["industries"]), "0.9")
 
     for slug, i in INDUSTRIES.items():
@@ -570,7 +570,7 @@ def build_insights():
 <section class="section-tight section-white"><div class="wrap"><ul class="chips">{chips}</ul></div></section>
 <section class="section"><div class="wrap"><div class="grid g3">{''.join(insight_card(pg, a) for a in INSIGHTS.values())}</div></div></section>{cta_band(pg)}"""
     write(pg, layout(pg, title="Insights on People, Design & Impact", active="insights",
-                     description="Insights from Datalidity on service design, people analytics, leadership, impact measurement, private equity value creation and human-centered strategy.",
+                     description="Insights from Datalidy on service design, people analytics, leadership, impact measurement, private equity value creation and human-centered strategy.",
                      body=body, ld=[crumbs_ld([("Home", ""), ("Insights", "insights/")])], img=IMG_PAGE["insights"]), "0.9")
 
     for slug, a in INSIGHTS.items():
@@ -652,7 +652,7 @@ def build_approach():
 <section class="section section-alt"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Principles</span><h2>How we hold ourselves accountable.</h2></div><p></p></div><div class="grid g3">{pcards}</div></div></section>
 {cta_band(pg)}"""
     write(pg, layout(pg, title="Our Consulting Approach", active="approach",
-                     description="Datalidity's five-phase consulting method, Listen, Measure, Design, Deliver, Sustain, pairs people analytics with human-centered design for lasting change.",
+                     description="Datalidy's five-phase consulting method, Listen, Measure, Design, Deliver, Sustain, pairs people analytics with human-centered design for lasting change.",
                      body=body, ld=[crumbs_ld(trail)], img=IMG_PAGE["approach"]), "0.8")
 
 
@@ -674,7 +674,7 @@ def build_about():
 <div><span class="eyebrow">Our mission</span><h2>Better for people. Better for business. Better for communities.</h2></div>
 <div class="prose">
 <p>Most organizations manage money, assets and operations with precision. Their people, the source of nearly every result, are too often managed by instinct. Leaders sense that culture is strained, that a team is not working, that customers are frustrated or that a community has lost trust, but lack the evidence to act decisively.</p>
-<p>{BRAND} was founded to close that gap. Our name joins <em>data</em> and <em>validity</em>: we believe decisions about people deserve the same standard of evidence as decisions about capital. We also believe evidence alone is not enough. Solutions must be designed with the people they affect, or they will not be adopted.</p>
+<p>{BRAND} was founded to close that gap. We believe decisions about people deserve the same standard of evidence as decisions about capital. We also believe evidence alone is not enough. Solutions must be designed with the people they affect, or they will not be adopted.</p>
 <p>That is why our teams combine people analytics, organizational psychology, service design, experience design and strategy. We work across the full life of an organization, from the diligence before an investment to the leadership that carries it, the services that reach customers and the communities those services sustain.</p>
 </div></div></div></section>
 <section class="section section-dark"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Our values</span><h2>What we stand for.</h2></div><p></p></div>
@@ -687,7 +687,7 @@ def build_about():
 <div class="grid g4">{wc}</div></div></section>
 {cta_band(pg)}"""
     write(pg, layout(pg, title="About Our Firm", active="about",
-                     description="Datalidity is a data-driven, social-impact consulting firm that makes the people side of business as rigorous as the rest, for performance and the common good.",
+                     description="Datalidy is a data-driven, social-impact consulting firm that makes the people side of business as rigorous as the rest, for performance and the common good.",
                      body=body, ld=[crumbs_ld(trail), ORG_LD], img=IMG_PAGE["about"]), "0.8")
 
 
@@ -711,7 +711,7 @@ def build_contact():
   <label>How can we help?<textarea name="message" required></textarea></label>
   <div><button class="btn btn-dark" type="submit">Send inquiry {ARROW}</button></div>
 </form></div></div></section>"""
-    write(pg, layout(pg, title="Contact Us", description="Contact Datalidity to discuss private equity advisory, leadership consulting, service design, people analytics or social impact strategy.",
+    write(pg, layout(pg, title="Contact Us", description="Contact Datalidy to discuss private equity advisory, leadership consulting, service design, people analytics or social impact strategy.",
                      body=body, ld=[crumbs_ld(trail)], img=IMG_PAGE["contact"]), "0.8")
 
 
@@ -725,7 +725,7 @@ def build_privacy():
 <h2>Client data</h2><p>Data we handle in the course of client engagements, including people data, is governed by the agreement with each client and by our data ethics practices, including data minimization, de-identification where possible and strict access controls.</p>
 <h2>Contact</h2><p>Questions about privacy may be sent to <a href="mailto:{EMAIL}">{EMAIL}</a>.</p>
 </div></section>"""
-    write(pg, layout(pg, title="Privacy Notice", description="How Datalidity handles information shared through this website and in the course of client engagements.", body=body), "0.3")
+    write(pg, layout(pg, title="Privacy Notice", description="How Datalidy handles information shared through this website and in the course of client engagements.", body=body), "0.3")
 
 
 def build_404():

@@ -1,6 +1,6 @@
 # datalidy.com
 
-Marketing site for **Datalidity**, a data-driven, social-impact advisory and consulting firm.
+Marketing site for **Datalidy**, a data-driven, social-impact advisory and consulting firm.
 
 ## How it works
 
