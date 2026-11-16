@@ -1,0 +1,1195 @@
+{
+ "perspectives": [
+  {
+   "slug": "celsius-withdrawal-freeze-crypto-lending-trust",
+   "title": "Celsius Freezes Withdrawals: What a Run on Trust Reveals About Behavior",
+   "event_month": "2022-06",
+   "meta_title": "Celsius Withdrawal Freeze: Lessons in Trust and Liquidity",
+   "meta_description": "Celsius paused withdrawals in June 2022. An analysis of the customer behavior, incentives and leading indicators behind a crypto lender's liquidity crisis.",
+   "topic": "Behavior",
+   "sector": "Finance & Business",
+   "organizations": [
+    "Celsius Network"
+   ],
+   "summary": "When Celsius paused withdrawals in June 2022, customer trust became the binding constraint. The behavioral signals of a run were visible well before the freeze.",
+   "dek": "Celsius Network paused withdrawals, swaps and transfers for roughly 1.7 million users amid a crypto market slide. The episode shows how yield incentives, reassurance and falling deposits combine into a run, and which signals leaders and investors can watch.",
+   "key_takeaways": [
+    "High advertised yields attract deposits, but they also attract customers whose loyalty depends entirely on confidence that money can leave at any time.",
+    "Falling platform assets in the months before the freeze were a measurable leading indicator of withdrawal pressure and eroding trust.",
+    "Public reassurance that contradicts observable customer behavior can accelerate a run rather than calm one.",
+    "Investors should treat deposit flows, concentration and redemption terms as behavioral data, not only balance sheet entries."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "Late on Sunday, June 12, 2022, crypto lender Celsius Network told customers it was pausing all withdrawals, swaps and transfers between accounts, citing what it called extreme market conditions. According to TechCrunch, the company said it was acting \"to put Celsius in a better position to honor, over time, its withdrawal obligations\" and that it had activated a clause in its terms of use. Celsius said about 1.7 million people used its platform.",
+      "Fortune reported that about $12 billion in user funds were affected and that the company had advertised interest of up to 30 percent, paid weekly, on deposited crypto assets. Citing the Financial Times, Fortune reported that platform assets had fallen by about half, from $24 billion in December to $12 billion in May. The company's own token fell sharply over the weekend, and Bloomberg reported that the freeze fueled a broader market rout.",
+      "The freeze came a month after the collapse of the TerraUSD stablecoin, which TechCrunch said had increased scrutiny of crypto lenders. Fortune noted that Celsius had restricted its high-interest Earn product in the United States to institutional investors in April 2022 after discussions with securities regulators. The company did not give a date for resuming withdrawals. Fortune also reported that the company's founder had publicly said Celsius had minimal exposure to the collapsed stablecoin and had dismissed liquidity concerns."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "A lending platform built on customer deposits runs on a behavioral promise: people believe they can leave whenever they want, so most of them stay. That promise holds only while confidence holds. Advertised yields far above traditional savings rates drew deposits, but they also drew customers motivated primarily by return, a group likely to move quickly when returns or safety come into doubt. When many people act on the same doubt at once, individually rational withdrawals become collectively destabilizing.",
+      "Communication played a role as well. TechCrunch reported that customers had recently been told they could withdraw at any time, and that Celsius had run a promotion rewarding customers who transferred assets and held them for up to 180 days. Messages meant to reassure can create a gap between what people are told and what they observe in prices, headlines and their peers' behavior. Once that gap is visible, reassurance tends to read as a signal of stress rather than strength."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Most of the signals that preceded the freeze were behavioral and observable. Customers were already voting with their deposits in the months before June. The question for boards and investors was whether anyone was treating those flows as a predictive KPI with a threshold for action, rather than a figure reported after the fact.",
+      "Deposit trends are lagging indicators for the business but leading indicators for liquidity. A board that saw assets halve in five months had evidence that customer behavior was changing well before the freeze."
+     ],
+     "bullets": [
+      "Sustained decline in platform assets under management across consecutive months",
+      "Rising share of withdrawals relative to new deposits, segmented by customer cohort",
+      "Yield promises that depend on continued inflows rather than durable returns",
+      "Regulatory actions narrowing products available to retail customers",
+      "Growing gap between public reassurance and observable market and customer behavior"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "For investors in financial platforms, customer behavior is the earliest risk report available. Deposit and withdrawal patterns, concentration among large holders and the terms under which customers can exit belong in diligence and in ongoing portfolio monitoring. Leaders also need communication plans that acknowledge uncertainty honestly, because credibility spent on confident reassurance is difficult to recover."
+     ],
+     "bullets": [
+      "Model deposits as behavior: track cohort-level inflows, outflows and time-to-withdrawal as leading indicators.",
+      "Stress-test liquidity against plausible runs, not only against average withdrawal rates.",
+      "Align public statements with observable data, and say plainly what is not yet known.",
+      "Ask in diligence how incentives such as high yields shape the type of customer a platform attracts."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Retail customers with limited ability to assess counterparty risk carried much of the exposure here, which makes clear disclosure and honest communication an ethical obligation, not only a regulatory one. Products that use persuasive incentives to gather savings owe customers an equally clear picture of what could prevent them from getting that money back. At Datalidy, we see this as a reminder that trust is a behavior that can be measured, and that measuring it early protects both investors and the people whose savings are at stake."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Crypto lender Celsius pauses withdrawals, transfers citing 'extreme market conditions'",
+     "publisher": "TechCrunch",
+     "url": "https://techcrunch.com/2022/06/12/crypto-lender-celsius-pauses-withdrawals-transfers-citing-extreme-market-conditions/",
+     "date": "2022-06-12"
+    },
+    {
+     "title": "Crypto lender Celsius suspends withdrawals, locking up billions in user funds amid 'extreme market conditions'",
+     "publisher": "Fortune",
+     "url": "https://fortune.com/2022/06/13/celsius-suspends-withdrawals-crypto-lender-market/",
+     "date": "2022-06-13"
+    },
+    {
+     "title": "Crypto Lender Celsius Freezes Withdrawals, Fueling Market Rout",
+     "publisher": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2022-06-13/crypto-lender-celsius-freezes-withdrawals-fueling-market-rout",
+     "date": "2022-06-13"
+    }
+   ],
+   "related_services": [
+    "commercial-due-diligence",
+    "predictive-kpi-design",
+    "customer-retention-strategy"
+   ],
+   "related_insights": [
+    "leading-and-lagging-indicators",
+    "ethics-of-persuasive-technology"
+   ]
+  },
+  {
+   "slug": "fda-juul-marketing-denial-youth-vaping-evidence",
+   "title": "FDA Orders Juul Products Off the U.S. Market Over Evidence Gaps",
+   "event_month": "2022-06",
+   "meta_title": "FDA Denies Juul Marketing: Evidence, Youth and Trust",
+   "meta_description": "In June 2022 the FDA denied marketing authorization for Juul products, citing evidence gaps. What it shows about youth behavior, evidence and public health.",
+   "topic": "Health",
+   "sector": "Health Care",
+   "organizations": [
+    "U.S. Food and Drug Administration",
+    "Juul Labs"
+   ],
+   "summary": "The FDA's June 2022 denial of Juul's marketing applications turned on evidence, but the larger story is how product design and youth behavior shaped regulation.",
+   "dek": "The FDA issued marketing denial orders for Juul's device and pods, saying the company's applications lacked sufficient toxicological evidence. A court stay followed within a day. The case shows why evidence of behavior and safety must be built in from the start.",
+   "key_takeaways": [
+    "The FDA said Juul's applications lacked sufficient toxicological evidence, placing the burden of proof squarely on the company seeking authorization.",
+    "Youth vaping shaped the regulatory context, showing how unintended user behavior can define a product's license to operate.",
+    "Evidence generated after a product is popular is harder and costlier to produce than evidence designed in before launch.",
+    "Investors in regulated consumer health products should diligence the evidence pipeline as carefully as the growth curve."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On June 23, 2022, the U.S. Food and Drug Administration issued marketing denial orders for all Juul Labs products then sold in the United States, including the Juul device and four types of pods, according to Healio. The orders barred importation, distribution and retail sale, but did not restrict individual possession or use. The decision followed a review of the company's premarket applications that lasted nearly two years.",
+      "Healio reported that the FDA found the applications lacked sufficient evidence about the products' toxicological profile, and that some study findings raised concerns, including insufficient and conflicting genotoxicity data and the possibility of potentially harmful chemicals leaching from pods. The agency also said it had not received clinical information suggesting an immediate hazard. An acting director at the FDA's Center for Tobacco Products said the responsibility to demonstrate that a product meets the standard \"ultimately falls on the shoulders of the company.\"",
+      "NPR reported that Juul said it respectfully disagreed with the findings and would seek a stay. According to the American College of Cardiology, a federal appeals court granted a temporary stay on June 24, allowing sales to continue while the courts considered the case. The FDA's action concerned commercial distribution only, and the agency said it intended to ensure compliance by distributors and retailers. The legal process meant that the practical effect of the orders would be determined over time rather than on the day they were issued."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "The regulatory debate over e-cigarettes has always involved two populations whose behavior pulls in opposite directions. NPR noted that supporters see vaping as a less harmful alternative for adults addicted to cigarettes, and that the FDA has authorized some products on that basis. At the same time, FDA Commissioner Robert Califf said, as quoted by NPR, that some products \"have played a disproportionate role in the rise in youth vaping.\" A product designed for one behavior became associated with another, and that association shaped how regulators and the public viewed it.",
+      "NPR also reported that critics had accused the company of youth-oriented marketing and flavors, and that Juul had since stopped selling flavors such as mango and creme. Whatever one concludes about intent, the episode illustrates a durable lesson in behavioral design: how people actually use a product, and who uses it, matters more than how its makers intended it to be used."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "In regulated health categories, the most important signals are often about who is adopting a product and whether evidence keeps pace with adoption. Both were visible long before the June decision.",
+      "None of these signals required predicting a regulatory outcome. They required honest measurement of who was using the product and how well the company could answer the safety questions it knew were coming. Treated as leading indicators, they would have pointed toward investment in evidence well before a review deadline."
+     ],
+     "bullets": [
+      "Adoption by populations the product was not intended for, especially minors",
+      "Public concern from parents, clinicians and health groups about usage patterns",
+      "Evidence gaps on safety questions regulators had signaled they would ask",
+      "Product changes made reactively, such as withdrawing flavors after scrutiny",
+      "Dependence of revenue on a single product line awaiting authorization"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "The FDA's framing was clear: the burden of evidence rests with the company. For leaders, that means research design is a strategic function, not a compliance afterthought. For investors, it means that a fast adoption curve in a regulated category can hide a growing liability if the evidence base and the user base are diverging.",
+      "Leaders in consumer health should also recognize that public trust is shaped by how a company responds to evidence of unintended use. Visible, early action tends to build credibility; reactive changes made under pressure tend to be read as reluctant."
+     ],
+     "bullets": [
+      "Map who actually uses a product, by behavior, and compare it with the intended user.",
+      "Fund safety and outcomes research early, designed around the questions regulators will ask.",
+      "Treat reactive product changes as a signal to revisit diligence assumptions.",
+      "Build scenario plans for adverse regulatory outcomes in single-product businesses."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Public health policy on nicotine involves real tradeoffs between helping adult smokers and protecting young people, and reasonable experts disagree on how to balance them. What is less debatable is that evidence, transparently produced, is the foundation for making those tradeoffs well. Health and consumer companies that design products with an honest picture of who will use them, and that invest in evidence before it is demanded, serve both the public and their own long-term license to operate."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "FDA denies authorization to market Juul vaping products",
+     "publisher": "Healio",
+     "url": "https://www.healio.com/news/pulmonology/20220623/fda-denies-authorization-to-market-juul-vaping-products",
+     "date": "2022-06-23"
+    },
+    {
+     "title": "The FDA orders Juul to pull all of its vaping products from the U.S. market",
+     "publisher": "NPR via Georgia Public Broadcasting",
+     "url": "https://www.gpb.org/news/2022/06/23/the-fda-orders-juul-pull-all-of-its-vaping-products-the-us-market",
+     "date": "2022-06-23"
+    },
+    {
+     "title": "FDA Update: Agency Denies Marketing Authorization For JUUL Products",
+     "publisher": "American College of Cardiology",
+     "url": "https://www.acc.org/Latest-in-Cardiology/Articles/2022/06/23/17/51/FDA-Update-Agency-Denies-Marketing-Authorization-For-JUUL-Products",
+     "date": "2022-06-23"
+    }
+   ],
+   "related_services": [
+    "health-communication",
+    "product-strategy",
+    "commercial-due-diligence"
+   ],
+   "related_insights": [
+    "ethics-of-persuasive-technology",
+    "cost-of-untested-assumptions"
+   ]
+  },
+  {
+   "slug": "rogers-network-outage-change-management-lessons",
+   "title": "The Rogers Outage: How One Configuration Change Took Down a Network",
+   "event_month": "2022-07",
+   "meta_title": "Rogers Outage of July 2022: Change Management Lessons",
+   "meta_description": "A July 2022 configuration change knocked out Rogers' wireless and wireline services. What the outage shows about risk ratings, routine and recovery design.",
+   "topic": "Leadership",
+   "sector": "Technology",
+   "organizations": [
+    "Rogers Communications",
+    "Canadian Radio-television and Telecommunications Commission"
+   ],
+   "summary": "A routine upgrade step at Rogers in July 2022 removed a routing filter and took down mobile and internet service for millions. The lessons are about people and process.",
+   "dek": "On July 8, 2022, a core network update at Rogers Communications triggered a nationwide outage that lasted about a day. A regulator-commissioned review later traced it to a configuration error and to recovery tools that depended on the network that had failed.",
+   "key_takeaways": [
+    "A risk rating that drifted from high to low after earlier phases succeeded removed the extra scrutiny that might have caught the error.",
+    "Recovery was slowed because engineers relied on the same network for communication and diagnostics that had just failed.",
+    "Routine success can quietly change how teams perceive risk, which makes risk perception itself something to measure.",
+    "Boards overseeing critical infrastructure should ask how change risk is scored and who can override the score."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "Early on Friday, July 8, 2022, Rogers Communications suffered an outage that cut wireless and wireline services for millions of customers across Canada. In a July 12 letter, the Canadian Radio-television and Telecommunications Commission noted that Rogers had publicly attributed the outage to a maintenance upgrade in its core network and required the company to answer detailed questions. Futuriom reported that Rogers' July 22 filing described a planned core network upgrade during which a router filter was deleted, triggering a flood of routing messages.",
+      "According to MobileSyrup's account of an independent review commissioned by the CRTC and published in July 2024, the change occurred during the sixth of seven planned upgrade phases. Staff removed a policy filter on distribution routers while cleaning up configuration files, which flooded the core network with routing information and caused it to crash. The review said change management audits \"failed to flag the erroneous configuration change.\"",
+      "The review also found that the outage was not caused by a design flaw in the core architecture. Futuriom reported that Rogers failed to deliver several emergency alerts in Saskatchewan during the outage, and that the company's chief executive pledged $10 billion over three years for reliability work. The review recommended, among other steps, separating the wireless and wireline cores, which it said had made the outage so extensive because one shared network carried both."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "One of the most instructive findings concerns risk perception. MobileSyrup reported that Rogers initially rated the upgrade as high risk, but its assessment algorithm downgraded it to low after the first five phases went smoothly. A low rating meant no lab testing or higher-level approval. This is a familiar pattern in high-reliability settings: repeated success makes a risky task feel routine, and the safeguards built for risky tasks quietly fall away. The algorithm formalized a very human tendency.",
+      "Recovery revealed a second human factor. According to the review, the management network depended on the same core network, critical sites lacked backup connectivity, and staff relied on Rogers' own mobile and internet services to communicate. Engineers could not access error logs from the failed routers and needed about 14 hours to find the root cause. People were trying to solve a problem with tools the problem had disabled."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "The review's findings point to signals that sit at the boundary of technology and behavior. None requires hindsight; each can be monitored as a leading indicator of resilience.",
+      "The common thread is that the safeguards depended on assumptions about normal conditions: that a well-performing upgrade stays low risk, and that the people restoring service will have working tools. Testing those assumptions before a crisis is far less expensive than discovering them during one."
+     ],
+     "bullets": [
+      "Risk scores that fall automatically as phases succeed, without human review",
+      "Change audits that check parameters but not the intent of each change",
+      "Single dependencies shared by production, management and staff communication",
+      "Recovery drills that assume engineers can reach logs and each other",
+      "Absence of independent backup connectivity at operations centers"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "The review's recommendations, including separate management networks, third-party backup connectivity, overload safeguards, a new risk algorithm and better collaboration between operations and engineering, are technical, but their core is organizational. Leaders should treat the way teams perceive and score risk as a system to design and test, not a fixed property of the work.",
+      "Investors in infrastructure and technology businesses can ask management to walk through their most recent major incident: how long it took to find the cause, what slowed the team down and what changed afterward. The answers reveal more about operational culture than any uptime statistic."
+     ],
+     "bullets": [
+      "Require human sign-off whenever an automated process lowers the risk rating of a critical change.",
+      "Run failure drills that remove the tools teams normally rely on to communicate.",
+      "Ask in diligence how incident response depends on the systems it is meant to restore.",
+      "Measure near misses and risk-rating overrides as leading indicators of reliability culture."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Telecommunications networks carry emergency calls, alerts, payments and the daily coordination of public life, so their reliability is a public good as much as a commercial asset. The CRTC's follow-up, including its later letter stating that Rogers' measures had addressed the cause, reflects a reasonable expectation that critical infrastructure operators learn openly from failure. At Datalidy, we see the outage as a clear example that resilience depends on how people perceive routine work, and that those perceptions can be measured and improved."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Telecom - Commission Letter addressed to Ted Woodhead (Rogers Communications Canada Inc.)",
+     "publisher": "Canadian Radio-television and Telecommunications Commission",
+     "url": "https://crtc.gc.ca/eng/archive/2022/lt220712.htm",
+     "date": "2022-07-12"
+    },
+    {
+     "title": "Rogers Comes Clean on July 8 Outage",
+     "publisher": "Futuriom",
+     "url": "https://www.futuriom.com/articles/news/rogers-called-on-the-carpet-over-july-8-outage/2022/07",
+     "date": "2022-07-25"
+    },
+    {
+     "title": "July 2022 Rogers outage caused by human error, prolonged by management 'deficiencies'",
+     "publisher": "MobileSyrup",
+     "url": "https://mobilesyrup.com/2024/07/05/july-2022-rogers-outage-report-crtc/",
+     "date": "2024-07-05"
+    }
+   ],
+   "related_services": [
+    "process-mapping",
+    "decision-making-under-pressure",
+    "culture-design"
+   ],
+   "related_insights": [
+    "systems-thinking",
+    "how-leaders-decide-under-pressure"
+   ]
+  },
+  {
+   "slug": "988-suicide-crisis-lifeline-launch-behavioral-design",
+   "title": "The 988 Lifeline Launch: Designing a Crisis Line People Will Use",
+   "event_month": "2022-07",
+   "meta_title": "988 Suicide and Crisis Lifeline Launch: Behavioral Lessons",
+   "meta_description": "The 988 Suicide and Crisis Lifeline launched in July 2022. How a three-digit number lowers barriers to help, and what capacity signals leaders should track.",
+   "topic": "Health",
+   "sector": "Public Sector",
+   "organizations": [
+    "U.S. Department of Health and Human Services",
+    "Substance Abuse and Mental Health Services Administration",
+    "988 Suicide and Crisis Lifeline"
+   ],
+   "summary": "The July 2022 launch of 988 made crisis support easier to reach. Its success depends on capacity, answer rates and public awareness, all measurable behaviors.",
+   "dek": "On July 16, 2022, the United States moved its national suicide prevention line to a three-digit number, 988. Making help easier to reach is a behavioral design choice, and it only works if the system behind the number is ready to answer.",
+   "key_takeaways": [
+    "A short, memorable number reduces the effort required to seek help at a moment when ability is lowest.",
+    "Lowering barriers increases demand, so capacity and answer rates become the decisive measures of success.",
+    "Federal officials projected that contact volume would at least double, making staffing and funding leading indicators.",
+    "Sustained local funding and planning, not the launch itself, determine whether callers reach a person quickly."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On July 16, 2022, the National Suicide Prevention Lifeline transitioned to 988, a three-digit number people can call or text for 24/7 crisis support. NPR, in a report published by OPB, said calls are routed to a crisis center near the caller within a network of more than 200 local centers, with 16 backup centers taking calls when a local center is busy. The previous ten-digit number remained active and routes to 988.",
+      "According to NPR, HHS said more than $400 million had gone to local and backup call centers and related services, up from $24 million, including support for a Spanish-language subnetwork. The lifeline handled 3.6 million calls, chats and texts in 2021, and officials projected that volume would at least double in the first full year. HHS Secretary Xavier Becerra marked the transition at a crisis center in Philadelphia on July 15.",
+      "NPR also reported readiness concerns. A 2021 SAMHSA report found the existing system answered 85 percent of calls, 56 percent of texts and 30 percent of chats. A RAND survey of public health officials found that 16 percent had created a budget for 988 operations, and only four states had added a phone fee to fund the service. Advocates quoted by NPR described the transition as the beginning of a longer effort rather than a finished system."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "In a crisis, the ability to act is constrained. Behavioral science, including B.J. Fogg's model that behavior happens when motivation, ability and a prompt converge, suggests that reducing friction matters most precisely when people are least able to work through it. A number as easy to remember as 911 lowers the effort of seeking help, and the same design logic underlies text and chat options for people who are unable or unwilling to speak aloud.",
+      "The human dimension also includes the people answering. NPR reported that many crisis centers had closed in recent years for lack of resources, and that advocates were calling for sustained federal, state and local investment. Crisis counselors work in emotionally demanding conditions, and a surge in demand without matching staffing risks burnout and longer waits. An HHS official quoted by NPR said the vision is crisis services that work \"much the way emergency medical services work,\" which requires people, not only a number."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Because 988 was designed to increase help-seeking, success depends on whether supply keeps pace with demand. Several measures could serve as leading indicators for policymakers and funders.",
+      "Volume alone is an ambiguous measure. Rising contacts may mean the number is working as designed or that other services are failing. Pairing volume with answer rates, wait times and follow-up connections gives a clearer picture of whether people in crisis are actually being served."
+     ],
+     "bullets": [
+      "Answer rates for calls, texts and chats, tracked separately by channel",
+      "Share of contacts rolled over from local centers to backup centers",
+      "Counselor staffing, turnover and vacancy rates at local centers",
+      "State funding mechanisms and budgets in place for ongoing operations",
+      "Public awareness of 988 among groups at elevated risk"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "The 988 launch is a useful case for any leader who reduces friction in a service. Easier access changes behavior, and the downstream system must be designed for the demand it creates. For health systems, payers and impact investors, the crisis continuum around 988, including mobile response and stabilization services, is where outcomes will be determined."
+     ],
+     "bullets": [
+      "Forecast demand changes before reducing barriers, and fund capacity accordingly.",
+      "Measure the full journey, from first contact to follow-up care, not only call volume.",
+      "Invest in workforce wellbeing as an operating requirement for crisis services.",
+      "Use channel-level data to design for people who prefer text or chat."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Few public services show the link between design and wellbeing more directly than a crisis line. A number that is easy to remember, staffed by trained people who answer quickly, can connect someone to support at a decisive moment. Measuring answer rates, wait times and follow-up honestly, and funding the workforce that makes the promise real, is how behavioral design serves public health rather than only signaling good intentions. At Datalidy, we regard 988 as a model of how lowering barriers must be paired with readiness."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "The new 988 crisis number is about to launch. Here's what to know",
+     "publisher": "NPR via OPB",
+     "url": "https://www.opb.org/article/2022/07/15/988-crisis-number-for-mental-health-help/",
+     "date": "2022-07-15"
+    },
+    {
+     "title": "Remarks by Secretary Xavier Becerra in Philadelphia to Launch the Transition of the 988 National Suicide Prevention Lifeline",
+     "publisher": "U.S. Department of Health and Human Services",
+     "url": "https://www.hhs.gov/about/news/2022/07/15/remarks-by-secretary-xavier-becerra-in-philadelphia-to-launch-the-transition-of-the-988-national-suicide-prevention-lifeline.html",
+     "date": "2022-07-15"
+    }
+   ],
+   "related_services": [
+    "community-behavioral-health",
+    "service-design",
+    "impact-measurement"
+   ],
+   "related_insights": [
+    "fogg-behavior-model",
+    "leading-and-lagging-indicators"
+   ]
+  },
+  {
+   "slug": "twitter-whistleblower-complaint-security-governance",
+   "title": "Twitter's Whistleblower Complaint and the Governance of Security Risk",
+   "event_month": "2022-08",
+   "meta_title": "Twitter Whistleblower Complaint: Security and Governance",
+   "meta_description": "A former Twitter security chief's August 2022 whistleblower complaint raised governance questions. What boards can learn about escalation and candid reporting.",
+   "topic": "Leadership",
+   "sector": "Technology",
+   "organizations": [
+    "Twitter",
+    "U.S. Securities and Exchange Commission",
+    "Federal Trade Commission",
+    "U.S. Department of Justice"
+   ],
+   "summary": "A former Twitter security chief alleged in August 2022 that executives misled regulators about security. Twitter disputed the claims. The governance lessons apply widely.",
+   "dek": "A whistleblower complaint filed with U.S. regulators alleged security and spam-account failures at Twitter, claims the company called a false narrative. Whatever the merits, the episode shows how boards receive, or fail to receive, candid risk information.",
+   "key_takeaways": [
+    "The complaint alleged that candid security reporting was discouraged, a claim Twitter disputed and that was not adjudicated at the time.",
+    "How information about risk travels from specialists to the board is itself a governance behavior worth measuring.",
+    "Disputes about metrics, such as spam account counts, become high stakes when transactions depend on them.",
+    "Investors should diligence escalation paths and psychological safety, not only stated security controls."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On August 23, 2022, news organizations reported that Twitter's former head of security had filed whistleblower complaints with the Securities and Exchange Commission, the Federal Trade Commission and the Justice Department in July. According to PBS NewsHour, the complaint alleged that Twitter misled regulators about its cybersecurity defenses and its handling of spam and fake accounts, and that the company had violated an earlier FTC settlement by claiming a strong security plan.",
+      "NBC News reported that the complaint alleged security incidents serious enough to report to a government agency about once a week, minimal insider-threat monitoring, and that the former executive had been told to withhold a security report from the board. Twitter disputed the account. A spokesperson called it \"a false narrative\" that was \"riddled with inconsistencies and inaccuracies,\" and said the executive had been fired in January for \"ineffective leadership and poor performance.\"",
+      "The complaint arrived during litigation over a roughly $44 billion acquisition agreement, in which the number of spam accounts was central to the buyer's effort to withdraw, PBS reported. Members of the Senate Intelligence Committee said they were reviewing the allegations. NBC News reported that the SEC declined to comment and that the Justice Department and FTC did not immediately respond. A senator quoted by PBS said the claims, if accurate, \"may show dangerous data privacy and security risks\" for users."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Whistleblower disputes are hard to judge from outside, and the allegations here were contested and not adjudicated at the time. What can be discussed fairly is the organizational dynamic the case brought into view. Security leaders hold information that is technical, uncertain and often unwelcome. Whether that information reaches the board intact depends on incentives, relationships and the perceived cost of delivering bad news, all of which are behavioral rather than technical.",
+      "The complaint also concerned measurement. NBC reported the allegation that executives were not incentivized to accurately detect or report spam accounts. Whether or not that was true at Twitter, the general point holds: when a metric influences valuation or compensation, the people producing it face pressures that can bend how it is defined and reported. Metrics with high stakes need independent definitions and periodic validation."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Several signals of governance strain are observable in any organization, and none requires assuming bad faith. They indicate whether risk information is flowing freely.",
+      "These signals are not evidence that any allegation is true. They are the conditions under which organizations are more likely to miss real problems, and boards can monitor them routinely. A pattern of departures, contested metrics and limited board visibility into security findings is worth investigating regardless of its cause."
+     ],
+     "bullets": [
+      "Turnover or abrupt departures in security and risk leadership",
+      "Security findings shared with management but not presented to the board",
+      "Contested definitions of key metrics tied to valuation or deals",
+      "Repeated incidents reportable to regulators without visible remediation trends",
+      "Low employee confidence that raising concerns is safe and useful"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Boards can design for candor. Direct access between risk leaders and board committees, clear metric definitions owned outside the business unit that benefits from them, and regular measurement of whether employees feel safe raising concerns all make it more likely that problems surface early. For acquirers and investors, the case shows that disputes over a single metric can redefine a transaction.",
+      "Directors should also recognize the incentives they create. If presenting unfavorable security findings is seen as a career risk, the board will hear fewer of them. Rewarding candor, and following up visibly on what is reported, changes the calculation for the people closest to the risk."
+     ],
+     "bullets": [
+      "Give security and risk leaders a standing, direct line to a board committee.",
+      "Validate deal-critical metrics independently, with documented definitions and methods.",
+      "Survey psychological safety in risk functions and track it over time.",
+      "Treat whistleblower channels as a governance asset and measure their responsiveness."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Platforms that hold personal data for many millions of people carry obligations that extend beyond shareholders. Robust security, honest disclosure to regulators and channels that let employees raise concerns safely protect users as well as companies. Organizations that build cultures where unwelcome information travels quickly, as Amy Edmondson's research on psychological safety describes, are better positioned to serve both the public and their investors."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Former head of Twitter security files whistleblower complaints",
+     "publisher": "PBS NewsHour",
+     "url": "https://www.pbs.org/newshour/nation/former-head-of-twitter-security-files-whistleblower-complaints",
+     "date": "2022-08-23"
+    },
+    {
+     "title": "Twitter whistleblower alleges major security issues",
+     "publisher": "NBC News",
+     "url": "https://www.nbcnews.com/tech/tech-news/twitter-whistleblower-alleges-major-security-issues-rcna44361",
+     "date": "2022-08-23"
+    }
+   ],
+   "related_services": [
+    "leadership-alignment",
+    "commercial-due-diligence",
+    "culture-design"
+   ],
+   "related_insights": [
+    "psychological-safety",
+    "predictive-kpis-vs-vanity-metrics"
+   ]
+  },
+  {
+   "slug": "fda-over-the-counter-hearing-aids-rule-adoption",
+   "title": "FDA Creates Over-the-Counter Hearing Aids: An Adoption Challenge",
+   "event_month": "2022-08",
+   "meta_title": "FDA OTC Hearing Aid Rule: Access, Adoption and Design",
+   "meta_description": "The FDA's August 2022 rule created over-the-counter hearing aids for adults. Why access alone may not drive adoption, and which behavioral signals to watch.",
+   "topic": "Design",
+   "sector": "Health Care",
+   "organizations": [
+    "U.S. Food and Drug Administration",
+    "American Speech-Language-Hearing Association"
+   ],
+   "summary": "The FDA's August 2022 rule let adults buy hearing aids without a prescription. Removing a barrier is a start; adoption depends on self-fitting, trust and stigma.",
+   "dek": "The FDA finalized a rule creating a category of over-the-counter hearing aids for adults with perceived mild to moderate hearing loss. The policy removes a structural barrier, but adoption will depend on how people recognize hearing loss, choose devices and keep using them.",
+   "key_takeaways": [
+    "The rule removed the need for a medical exam, prescription or professional fitting for adults with perceived mild to moderate hearing loss.",
+    "Access is necessary but not sufficient: recognizing the need, choosing a device and sustained use are separate behaviors.",
+    "Professional groups welcomed much of the rule while raising concerns about assessment and support when devices disappoint.",
+    "Product design, labeling and onboarding will shape whether new buyers keep using devices or abandon them."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On August 16, 2022, the U.S. Food and Drug Administration announced a final rule establishing a new regulatory category for over-the-counter hearing aids. According to the FDA's announcement, as published by AudiologyOnline, adults aged 18 and older with perceived mild to moderate hearing impairment can buy these devices without a medical exam, prescription or fitting by an audiologist. Devices for severe impairment or for users under 18 remain prescription only. The rule appeared in the Federal Register on August 17.",
+      "The FDA said close to 30 million adults in the United States could potentially benefit from hearing aids and that it expected the rule to make devices less expensive. HHS Secretary Xavier Becerra called the action \"a significant milestone in making hearing aids more cost-effective and accessible.\" Consumers could see devices in stores as early as mid-October 2022. The rule took effect 60 days after publication, and manufacturers of devices already on the market received a transition period to comply.",
+      "Compared with the proposed rule, the final rule lowered maximum sound output, required a user-adjustable volume control and simplified labeling, according to the FDA. The American Speech-Language-Hearing Association said it was pleased with many provisions, but noted the rule contained no gain limit and little mention of consulting an audiologist. ASHA said it would work with allied professional groups to educate the public."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Removing a prescription requirement addresses one barrier, but hearing aid adoption involves a chain of behaviors. People must first notice and acknowledge hearing loss, which often develops gradually and carries stigma. They must then choose among unfamiliar devices, fit and adjust them, and persist through an adaptation period in which sound can feel unnatural. Each step is a possible point of abandonment.",
+      "The rule's own terms reflect this. Eligibility rests on perceived hearing loss, so self-assessment becomes the gateway. ASHA emphasized the importance of audiological assessment before fitting any hearing aid and said it planned to educate the public about consulting professionals. These positions are not necessarily in conflict with broader access; the open question is how to design journeys in which people who need more help find it, while people who can manage on their own are not held back."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "For manufacturers, retailers, clinicians and policymakers, the measures that will show whether the policy is working are behavioral, and many can be tracked from the first months of sale.",
+      "Unit sales will rise as products reach shelves, but sales alone cannot show whether people benefit. Sustained use and satisfaction after the adaptation period are the indicators most likely to predict long-term value for consumers and for the companies serving them."
+     ],
+     "bullets": [
+      "Return rates and reasons, segmented by buyer type and device features",
+      "Daily wear time in the weeks after purchase, where devices can report it",
+      "Share of buyers who later seek professional assessment or support",
+      "Completion rates for in-app setup and self-fitting steps",
+      "Customer language about stigma, comfort and sound quality in reviews"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "New consumer health categories often reward companies that treat onboarding and sustained use as the product, not as an afterthought. The OTC hearing aid market creates opportunities for device makers, retailers and digital health companies, but the winners are likely to be those who design for the full adoption journey and measure it honestly."
+     ],
+     "bullets": [
+      "Design onboarding around the first weeks of adaptation, when abandonment risk is highest.",
+      "Make it easy to escalate from self-care to professional care without friction or shame.",
+      "Track sustained use, not unit sales, as the leading indicator of value.",
+      "Test labeling and setup instructions with older adults through usability research."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Untreated hearing loss can affect communication, work and social connection, so lowering cost and access barriers is a meaningful public-good step. The benefit will be realized only if people actually wear the devices and get help when they need it. Clear, plain-language guidance, honest marketing and research that follows real-world use can turn a regulatory change into improved quality of life. At Datalidy, we see the rule as a reminder that access opens a door and good behavioral design helps people walk through it."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "FDA Finalizes Historic Rule Enabling Access to Over-the-Counter Hearing Aids for Millions of Americans",
+     "publisher": "U.S. Food and Drug Administration via AudiologyOnline",
+     "url": "https://www.audiologyonline.com/releases/fda-finalizes-historic-rule-enabling-28366",
+     "date": "2022-08-16"
+    },
+    {
+     "title": "FDA Releases Final Rule for OTC Hearing Aids",
+     "publisher": "American Speech-Language-Hearing Association",
+     "url": "https://asha.org/news/2022/fda-releases-final-rule-for-otc-hearing-aids",
+     "date": "2022-08-16"
+    },
+    {
+     "title": "Medical Devices; Ear, Nose, and Throat Devices; Establishing Over-the-Counter Hearing Aids (Federal Register Vol. 87, No. 158)",
+     "publisher": "Federal Register via GovInfo",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2022-08-17/html/2022-17230.htm",
+     "date": "2022-08-17"
+    }
+   ],
+   "related_services": [
+    "technology-adoption",
+    "onboarding-design",
+    "digital-health-product-design"
+   ],
+   "related_insights": [
+    "psychology-of-technology-adoption",
+    "usability-testing-for-executives"
+   ]
+  },
+  {
+   "slug": "optus-data-breach-customer-communication-trust",
+   "title": "The Optus Data Breach and the Behavior of Customer Trust",
+   "event_month": "2022-09",
+   "meta_title": "Optus Data Breach: Customer Trust and Communication",
+   "meta_description": "Optus disclosed a cyberattack in September 2022 that exposed customer identity data. Lessons on data minimization, breach communication and customer trust.",
+   "topic": "Behavior",
+   "sector": "Technology",
+   "organizations": [
+    "Optus",
+    "Singtel",
+    "Australian Cyber Security Centre",
+    "Office of the Australian Information Commissioner"
+   ],
+   "summary": "Optus disclosed in September 2022 that a cyberattack exposed personal details of up to 10 million customers. How it communicated mattered as much as what was taken.",
+   "dek": "Australian telecom Optus said a cyberattack had exposed names, dates of birth, contact details and, for some customers, license and passport numbers. The breach raised questions about why so much identity data was retained and how customers learn they are at risk.",
+   "key_takeaways": [
+    "The data most valuable to attackers, such as identity document numbers, was data many customers may not have realized was still held.",
+    "Customers who learned of a breach from the news rather than the company experienced a second failure of trust.",
+    "Data minimization is a behavioral and cultural practice as much as a technical control.",
+    "Investors should treat retained personal data as a liability on the balance sheet of trust."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On September 22, 2022, Optus, the Australian unit of Singapore Telecommunications, disclosed that it had been the target of a cyberattack. Reuters, as published by Insurance Journal, reported that customer names, dates of birth, phone numbers and email addresses may have been exposed, along with driver's license numbers for some customers and passport numbers in a smaller number of cases. Optus said payment details and account passwords were not compromised.",
+      "Light Reading reported that up to 10 million customers could be affected, while Reuters noted an earlier newspaper report of up to 9 million and said Optus could not yet confirm the number. Optus said it had shut down the attack after discovering it and was working with the Australian Cyber Security Centre and federal police. The Office of the Australian Information Commissioner said it would work with Optus to inform customers.",
+      "Chief executive Kelly Bayer Rosmarin apologized and said the company was \"devastated\" by the attack, according to Light Reading. A senator quoted by Light Reading described it as one of the most serious cyberattacks on an Australian business. The method of the attack and the identity of those responsible were under investigation at the time of the initial reports. Reuters reported that Optus said it was notifying customers at heightened risk as well as key financial institutions."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "A breach is experienced by customers as a sequence of moments: learning that something happened, understanding what it means for them and knowing what to do next. Light Reading reported that customers complained on social media that they had learned of the breach from the media and had received no advice from Optus. Whatever the operational constraints of an active investigation, that gap shapes how people judge an organization's competence and care.",
+      "The breach also points to a quieter organizational behavior: retention. Identity document numbers are collected for legitimate verification purposes, but holding them long after they are needed increases what can be lost. Decisions about what to keep are rarely made in a single meeting. They accumulate through defaults, system designs and the absence of anyone accountable for deletion, which makes data minimization a cultural habit as much as a policy."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Many breach risks are visible in how an organization treats data long before an attacker arrives. Leaders can monitor these as leading indicators rather than learning of them in an incident report.",
+      "Several of these signals concern habits rather than technology. Retention defaults, unclear ownership and untested communication plans persist because no one is measured on them. Turning them into tracked indicators gives leaders a way to see risk accumulating before it is realized."
+     ],
+     "bullets": [
+      "Volume of identity data retained beyond its original verification purpose",
+      "Systems exposing customer records without clear ownership or access review",
+      "Absence of a tested, customer-facing breach communication plan",
+      "Time from detection to direct customer notification in past incidents",
+      "Customer complaints about unclear privacy or data-handling practices"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Boards should ask not only how data is protected but why it is held at all. Investors evaluating consumer businesses can treat the scale and sensitivity of retained personal data as a risk exposure that grows silently. And every organization should rehearse how it will tell customers, plainly and quickly, what happened and what they should do.",
+      "Communication deserves particular attention. In the first days of a breach, facts are incomplete and legal and investigative constraints are real. Even so, customers can be told what is known, what is not yet known, what the company is doing and what they can do now. Clarity under uncertainty is a skill organizations can rehearse."
+     ],
+     "bullets": [
+      "Set and enforce retention limits for identity documents and sensitive fields.",
+      "Assign a named owner for each customer data store, including deletion.",
+      "Design breach notifications with customers, testing clarity and next steps in advance.",
+      "Include data inventory and retention practices in commercial due diligence."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "When identity data is exposed, the burden of protection shifts to customers, who may need to replace documents, monitor accounts and stay alert to fraud. People with fewer resources often find that burden heaviest. Organizations that collect only what they need, delete what they no longer need and communicate clearly when things go wrong protect the public as well as their own reputation. At Datalidy, we see customer trust as a behavior that responds to every one of those choices."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Telecoms Firm Optus Warns Cyber Attack May Have Exposed Australian Clients' Details",
+     "publisher": "Insurance Journal (Reuters)",
+     "url": "https://amp.insurancejournal.com/news/international/2022/09/23/686435.htm",
+     "date": "2022-09-23"
+    },
+    {
+     "title": "Cyberattack breaches data of millions of Optus customers",
+     "publisher": "Light Reading",
+     "url": "https://www.lightreading.com/security/cyberattack-breaches-data-of-millions-of-optus-customers",
+     "date": "2022-09-23"
+    }
+   ],
+   "related_services": [
+    "customer-experience-research",
+    "service-design",
+    "culture-design"
+   ],
+   "related_insights": [
+    "people-problems-are-business-problems",
+    "systems-thinking"
+   ]
+  },
+  {
+   "slug": "patagonia-ownership-transfer-purpose-governance",
+   "title": "Patagonia's Ownership Transfer and the Governance of Purpose",
+   "event_month": "2022-09",
+   "meta_title": "Patagonia Ownership Transfer: Purpose, Profit, Governance",
+   "meta_description": "In September 2022 Patagonia's founding family transferred ownership to a trust and a nonprofit. What the structure shows about purpose, incentives and impact.",
+   "topic": "Strategy",
+   "sector": "Retail & Consumer",
+   "organizations": [
+    "Patagonia",
+    "Patagonia Purpose Trust",
+    "Holdfast Collective"
+   ],
+   "summary": "Patagonia's founding family moved the company into a purpose trust and a nonprofit in September 2022. The structure turns stated values into binding governance.",
+   "dek": "Patagonia announced that its founding family had transferred ownership to two new entities, a trust holding voting control and a nonprofit receiving profits not reinvested in the business. The move offers a case study in designing incentives so that purpose outlasts its founders.",
+   "key_takeaways": [
+    "The structure separates voting control, held by a purpose trust, from economic benefit, directed to a nonprofit focused on environmental work.",
+    "Durable purpose depends on governance and incentives, not only on founder conviction or brand storytelling.",
+    "Reported tax costs suggest the family accepted tradeoffs to lock in mission, a credible signal of intent.",
+    "Impact investors can learn from how the design aligns leadership behavior with long-term goals."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On September 14, 2022, Patagonia announced that its founding family had transferred its entire ownership of the outdoor apparel company into two newly created entities, effective immediately, according to CNN. The Patagonia Purpose Trust holds all voting stock, which the Pacific Coast Business Times reported equals 2 percent of total shares. The Holdfast Collective, a nonprofit, holds the remaining 98 percent.",
+      "Profits not reinvested in the business are to be paid as a dividend to the Holdfast Collective, which Patagonia estimated at about $100 million a year, according to both outlets. CNN reported that the money will be used to \"protect nature and biodiversity, support thriving communities and fight the environmental crisis.\" The family will guide the trust, which elects and oversees the company's board.",
+      "The Pacific Coast Business Times, citing The New York Times, reported that the family would pay about $17.5 million in taxes on the gift and that the arrangement offered no tax benefit, because the Holdfast Collective is a 501(c)(4) organization rather than a charity eligible for deductible contributions. CNN reported that the company's chief executive said he hoped the structure would inspire new ways of doing business."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Founder-led companies often carry their values in the person of the founder. That works while the founder is present, but it creates a succession question: what keeps future leaders, boards and owners behaving consistently with the original purpose? The founder's letter, as quoted by the Pacific Coast Business Times, rejected selling the company or taking it public, and said the family needed a way to put more money into the environmental crisis \"while keeping the company's values intact.\"",
+      "From a behavioral perspective, the design changes incentives rather than relying on exhortation. Voting control sits with an entity whose stated purpose is to protect the company's values, and surplus profits flow to environmental work. Leaders still need to run a profitable business, since the dividend depends on it, but the structure makes it harder for short-term pressures to redirect the company's mission. Governance becomes a commitment device."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Commitments to purpose are easy to state and harder to verify. Observers can look for signals that indicate whether purpose is structural or merely rhetorical.",
+      "The tax cost reported by the Pacific Coast Business Times is a useful example of a costly signal. Commitments that cost the people making them something are generally more credible than commitments that cost nothing, which is why observers often look for evidence of tradeoffs when assessing claims of purpose."
+     ],
+     "bullets": [
+      "Whether governance documents bind future owners to stated purpose",
+      "Willingness to accept costs, such as taxes, to make commitments durable",
+      "Consistency between stated values and capital allocation over time",
+      "Transparency about how much profit flows to the stated mission",
+      "Leadership continuity plans that do not depend on a single founder"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Not every company can or should adopt this structure, and it involves real tradeoffs in access to capital and owner liquidity. But the principle generalizes: if leaders want behavior to persist after they leave, they must design the incentives and decision rights that will shape it. For impact investors and family offices, the case shows that mission protection can be engineered into ownership itself.",
+      "There are open questions as well. Observers will reasonably watch how the trust exercises its oversight, how the company performs commercially and how transparently the nonprofit reports on its use of funds. Durable purpose structures still depend on measurement and accountability to show that they work."
+     ],
+     "bullets": [
+      "Translate stated values into decision rights, not only mission statements.",
+      "Measure mission outcomes with the same rigor as financial performance.",
+      "Use governance to protect long-term goals from short-term pressure.",
+      "Diligence whether purpose survives a change in leadership or ownership."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "The arrangement directs a substantial and recurring stream of profit toward environmental and community work, while keeping the company operating as a business. Whether this model spreads or not, it challenges a common assumption that profit and public good must be balanced through after-the-fact philanthropy. At Datalidy, we see it as an example of how returns and the public good can be designed to reinforce each other, with impact that can be measured over time."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Patagonia's founder transfers ownership into two entities to help fight the climate crisis",
+     "publisher": "CNN via ABC 17 News",
+     "url": "https://abc17news.com/money/cnn-business-consumer/2022/09/14/patagonias-founder-transfers-ownership-into-two-entities-to-help-fight-the-climate-crisis/",
+     "date": "2022-09-14"
+    },
+    {
+     "title": "Patagonia founder donates entire company to environmental nonprofits",
+     "publisher": "Pacific Coast Business Times",
+     "url": "https://www.pacbiztimes.com/?p=74216",
+     "date": "2022-09-14"
+    }
+   ],
+   "related_services": [
+    "impact-investing-advisory",
+    "social-impact-strategy",
+    "leadership-alignment"
+   ],
+   "related_insights": [
+    "teams-as-growth-engines",
+    "group-behavior-change"
+   ]
+  },
+  {
+   "slug": "kroger-albertsons-merger-integration-people-risk",
+   "title": "Kroger and Albertsons Agree to Merge: The People Side of a Megadeal",
+   "event_month": "2022-10",
+   "meta_title": "Kroger-Albertsons Merger: The People Side of Integration",
+   "meta_description": "Kroger agreed to acquire Albertsons in October 2022 in a $24.6 billion deal. The workforce, customer and regulatory behaviors that shape merger outcomes.",
+   "topic": "Strategy",
+   "sector": "Retail & Consumer",
+   "organizations": [
+    "Kroger",
+    "Albertsons Companies"
+   ],
+   "summary": "Kroger's planned $24.6 billion acquisition of Albertsons, announced in October 2022, put workforce, shopper and regulator behavior at the center of deal value.",
+   "dek": "Kroger and Albertsons announced a merger that would combine nearly 5,000 stores and more than 710,000 associates. Projected savings and pricing pledges rested on assumptions about how shoppers, employees, unions and regulators would respond.",
+   "key_takeaways": [
+    "Merger value depended on behavioral assumptions about shoppers, associates and regulators that could be tested before closing.",
+    "A long review period creates uncertainty that affects employee engagement and retention well before integration begins.",
+    "Commitments on prices, wages and store divestitures are promises whose credibility stakeholders will weigh.",
+    "Investors should diligence the people risks of integration as closely as projected cost savings."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On October 14, 2022, Kroger and Albertsons Companies announced an agreement under which Kroger would acquire Albertsons for $34.10 per share, a total enterprise value of about $24.6 billion including assumed debt, according to Supermarket News. CBS News reported that the price represented a 19 percent premium and that the combined company would have nearly 5,000 stores, roughly 4,000 pharmacies and more than 710,000 workers.",
+      "Supermarket News reported that, to address regulatory concerns, Albertsons could spin off a separate company holding an estimated 100 to 375 stores. Kroger said it expected about $1 billion in annual run-rate cost savings and planned to invest half a billion dollars of savings in lower prices and $1 billion in associate wages and benefits after closing. The deal was expected to close in early 2024, pending regulatory approval.",
+      "CBS News reported that the transaction was likely to face close scrutiny from U.S. antitrust enforcers. Kroger's chief executive said Albertsons brought \"a complementary footprint,\" and, according to Supermarket News, that the merger \"secures union jobs.\" Albertsons also planned a special cash dividend of up to $4 billion to its shareholders, according to CBS News. The companies said the deal required regulatory approval, including antitrust clearance, before it could close."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Large mergers are often modeled as combinations of assets, but their outcomes depend on people. Associates at both companies faced an extended period of uncertainty about store ownership, roles and contracts. Uncertainty affects behavior: engagement can decline, high performers may leave, and managers may defer decisions. These effects begin at announcement, not at closing.",
+      "Customers are part of the equation too. Shoppers form habits around stores, brands, loyalty programs and pharmacies. If divested stores change ownership, or if pricing and assortment change after integration, some shoppers will adapt and others will switch. Regulators, unions and communities also act on their own expectations, and their responses shape what any deal can become. Each group's behavior is a variable in the deal model."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Several behavioral indicators can show whether a merger is on track to deliver value, and many can be tracked long before integration.",
+      "Many of these indicators exist in data the companies already hold, such as loyalty programs, scheduling systems and engagement surveys. The question is whether they are assembled into a view that connects the deal thesis to the behaviors it depends on, and reviewed regularly by the people accountable for integration."
+     ],
+     "bullets": [
+      "Associate turnover and engagement in stores slated for divestiture or change",
+      "Shopper visit frequency and basket size in overlapping markets",
+      "Loyalty program activity before and after major announcements",
+      "Tone of union, community and regulator responses over the review period",
+      "Progress against stated pricing and wage commitments after any closing"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Projected cost savings are hypotheses about behavior. Treating them that way means defining the behaviors each savings target depends on, measuring them early and building contingency plans if they do not appear. For acquirers and investors, the people side of integration is not a soft factor but a source of measurable risk and value.",
+      "Long regulatory reviews add a further dimension. During the waiting period, both companies must continue to compete and to retain talent without certainty about the outcome. Leaders who acknowledge that uncertainty openly with associates, rather than promising outcomes they cannot guarantee, are more likely to preserve the trust that integration will later require."
+     ],
+     "bullets": [
+      "Translate savings targets into specific behavioral assumptions and test them.",
+      "Communicate early and often with frontline associates during long reviews.",
+      "Track customer retention in overlapping markets as a leading indicator of value.",
+      "Plan integration around culture and leadership alignment, not only systems."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Grocery stores and pharmacies are essential services, and changes in ownership can affect food prices, access and jobs in many communities. Antitrust review exists in part to weigh those public interests. Companies that make specific commitments on prices, wages and store operations, and that measure and report progress honestly, help stakeholders evaluate whether consolidation serves the public. At Datalidy, we see merger planning as an opportunity to make those commitments measurable from day one."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Kroger, Albertsons to merge in $24.6 billion deal",
+     "publisher": "Supermarket News",
+     "url": "https://supermarketnews.com/finance/kroger-albertsons-to-merge-in-24-6-billion-deal",
+     "date": "2022-10-14"
+    },
+    {
+     "title": "Kroger and Albertsons to merge in $24.6 billion deal",
+     "publisher": "CBS News",
+     "url": "https://www.cbsnews.com/news/kroger-albertsons-merger-24-6-billion-deal",
+     "date": "2022-10-14"
+    }
+   ],
+   "related_services": [
+    "post-acquisition-integration",
+    "commercial-due-diligence",
+    "behavioral-change-management"
+   ],
+   "related_insights": [
+    "cost-of-untested-assumptions",
+    "habit-formation"
+   ]
+  },
+  {
+   "slug": "credit-suisse-restructuring-culture-and-confidence",
+   "title": "Credit Suisse's Restructuring Plan and the Challenge of Rebuilding Confidence",
+   "event_month": "2022-10",
+   "meta_title": "Credit Suisse Restructuring: Culture, Confidence, Capital",
+   "meta_description": "Credit Suisse unveiled a major restructuring in October 2022, with job cuts and a capital raise. What it shows about culture, focus and stakeholder confidence.",
+   "topic": "Leadership",
+   "sector": "Finance & Business",
+   "organizations": [
+    "Credit Suisse",
+    "Saudi National Bank",
+    "CS First Boston"
+   ],
+   "summary": "In October 2022 Credit Suisse announced job cuts, an investment bank carve-out and a capital raise. Restoring confidence depended on behavior as much as balance sheets.",
+   "dek": "Credit Suisse reported a large quarterly loss and planned to raise about 4 billion Swiss francs, carve out its investment bank and cut about 9,000 jobs. Its chairman said the bank had become unfocused, a cultural diagnosis as much as a financial one.",
+   "key_takeaways": [
+    "The bank's chairman described it as having become unfocused, framing the problem as one of direction and culture, not only capital.",
+    "Restructurings ask employees, clients and investors to change behavior at a moment when trust is low.",
+    "Market reaction on announcement day showed how confidence, not only the plan's content, determines outcomes.",
+    "Boards should track client, employee and investor behavior as leading indicators during turnarounds."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On October 27, 2022, Credit Suisse reported a third-quarter net loss of about 4 billion Swiss francs and announced a restructuring plan, according to Al Jazeera and Fortune. The plan included raising about 4 billion Swiss francs through a share issue to qualified investors and a rights offering, with Saudi National Bank committing up to 1.5 billion francs for a stake of up to 9.9 percent.",
+      "Fortune reported that the bank planned to carve out its investment bank under the CS First Boston name, sell a majority of its securitized products group to a consortium led by Apollo Global Management, reduce its cost base by about 2.5 billion francs and cut about 9,000 positions, bringing headcount from roughly 52,000 to about 43,000 by the end of 2025. The bank's chief executive called it \"a historic moment for Credit Suisse.\"",
+      "Investor reaction was negative. Al Jazeera reported that shares opened down more than 7 percent in Zurich, and Fortune reported that the bank's American depositary receipts fell more than 19 percent that day. Al Jazeera noted that the bank had faced a series of scandals and quoted the chairman saying the bank had \"become unfocused\" in recent years. Fortune reported that the bank's market value stood at about $16.4 billion, down from more than $22 billion in 2021."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "An overhaul of strategy at this scale is, at its core, a request for behavior change from several groups at once. Employees must stay engaged through uncertainty about their roles. Clients must decide whether to keep assets and relationships with the institution. Investors must decide whether to commit new capital. Each group watches the others, and their decisions reinforce one another, for better or worse.",
+      "The chairman's description of a bank that had become unfocused points to cultural drift: decisions about risk, priorities and accountability that accumulated over years. Cultures do not reset with an announcement. They change through consistent leadership behavior, clear decision rights and incentives that reward the conduct the new strategy requires. That takes time, and confidence must be sustained while it happens."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "In a turnaround, the most informative signals are often behavioral and visible before financial results confirm them. Fortune reported that the bank had already faced comparisons to Lehman Brothers and that executives had sought to reassure clients and investors about liquidity, an indication of how much confidence itself had become a risk factor.",
+      "Repeated reassurance is a particularly important signal. When leaders must keep stating that an institution is stable, the statements themselves indicate that stakeholders are questioning it, and the behavior of clients and counterparties deserves closer measurement."
+     ],
+     "bullets": [
+      "Client asset flows and relationship attrition in core businesses",
+      "Voluntary departures among senior bankers and control function staff",
+      "Frequency of public reassurance statements about liquidity or stability",
+      "Repeated conduct or risk incidents across different business units",
+      "Gap between announced strategy and investor reaction on announcement day"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Restructuring plans are often judged on capital ratios and cost targets, but their success depends on whether people believe and act on them. Leaders who measure confidence directly, through client, employee and investor behavior, can see earlier whether a plan is taking hold.",
+      "Investors in financial institutions can also ask how a restructuring plan addresses the behaviors that led to the need for it. Cost cuts and asset sales change the shape of a business; they do not by themselves change how risk is identified, escalated and acted upon. Evidence of changes in those behaviors is an important leading indicator."
+     ],
+     "bullets": [
+      "Define behavioral milestones for a turnaround, not only financial targets.",
+      "Retain and align the leaders whose behavior signals the new culture to others.",
+      "Communicate uncertainty candidly; repeated reassurance can signal stress.",
+      "Monitor risk culture with surveys and incident data, tracked over time."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Large banks are deeply connected to the financial system, and their stability affects depositors, employees, counterparties and economies well beyond their shareholders. That makes risk culture and governance a matter of public interest. Institutions that measure and strengthen the behaviors underlying sound risk management protect not only their own franchise but the broader system that relies on them."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Credit Suisse outlines Saudi-backed plan to raise $4bn",
+     "publisher": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2022/10/27/credit-suisse-outlines-saudi-backed-plan-to-raise-4bn",
+     "date": "2022-10-27"
+    },
+    {
+     "title": "Credit Suisse lays out restructuring plan including asset sales, capital raise, 9,000 headcount reduction",
+     "publisher": "Fortune",
+     "url": "https://fortune.com/2022/10/27/credit-suisse-restructuring-asset-sale-9000-headcount-cs-first-boston/",
+     "date": "2022-10-27"
+    }
+   ],
+   "related_services": [
+    "behavioral-change-management",
+    "culture-design",
+    "management-team-assessment"
+   ],
+   "related_insights": [
+    "how-leaders-decide-under-pressure",
+    "people-problems-are-business-problems"
+   ]
+  },
+  {
+   "slug": "ftx-collapse-governance-and-investor-diligence",
+   "title": "FTX's Collapse: Governance, Diligence and the Speed of a Run",
+   "event_month": "2022-11",
+   "meta_title": "FTX Collapse: Governance and Investor Diligence Lessons",
+   "meta_description": "FTX filed for bankruptcy in November 2022 after a run on the exchange. What the collapse teaches investors and boards about governance and diligence signals.",
+   "topic": "Leadership",
+   "sector": "Finance & Business",
+   "organizations": [
+    "FTX",
+    "Alameda Research",
+    "Binance"
+   ],
+   "summary": "FTX filed for bankruptcy in November 2022, days after doubts about an affiliated firm set off a run. The collapse raised hard questions about governance and diligence.",
+   "dek": "Within about nine days, a report questioning an affiliated trading firm's balance sheet led to mass withdrawals, a failed rescue and a Chapter 11 filing covering FTX and more than 100 related companies. The episode is a case study in governance, trust and diligence.",
+   "key_takeaways": [
+    "A single report about an affiliated firm triggered a run that unfolded in days, showing how quickly concentrated trust can reverse.",
+    "A potential acquirer withdrew after about a day of reviewing the balance sheet, a stark contrast to prior investor confidence.",
+    "Governance structures, related-party ties and controls are diligence questions, not formalities, even in fast-growing companies.",
+    "Customers without deposit insurance bore exposure they may not have understood, raising questions about disclosure."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On November 11, 2022, cryptocurrency exchange FTX, its affiliated trading firm Alameda Research and about 130 related companies filed for Chapter 11 bankruptcy protection in Delaware, Al Jazeera reported. The founder resigned as chief executive and a new chief executive was appointed to oversee the process. In its petition, FTX reported more than 100,000 creditors. The new chief executive said the group had valuable assets that could be administered effectively only through an organized joint process.",
+      "According to a timeline published by The Block, the sequence began on November 2, when CoinDesk reported concerns about Alameda Research's balance sheet. On November 6, Binance said it would sell its holdings of FTX's token. Withdrawals from FTX appeared to pause on November 8, the same day Binance announced a non-binding agreement to acquire FTX's non-U.S. business. On November 9, Binance withdrew after reviewing FTX's finances; a crypto lending executive quoted by Al Jazeera said the rival walked away after \"only 24 hours of due diligence.\"",
+      "The Block reported that investors were told of a shortfall of up to $8 billion and that The Wall Street Journal had reported FTX lent about $10 billion to Alameda Research. Al Jazeera quoted the founder saying, \"I'm really sorry, again, that we ended up here.\" Investigations into what happened were only beginning at the time. The Block noted that the founder's personal fortune, estimated by the Bloomberg Billionaires Index at about $16 billion, had been wiped out."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "The speed of the collapse reflects how trust works in financial platforms. Customers, counterparties and investors relied in part on reputation and on the confidence of other sophisticated parties. When a credible report raised questions, and a large rival signaled doubt, many people acted on the same information at once. Their withdrawals were individually reasonable and collectively decisive.",
+      "The episode also raises questions about how governance behaves under rapid growth. Close ties between an exchange and an affiliated trading firm, and decision-making concentrated among a small group, are structures that make independent challenge harder. Investors, auditors and board members face real constraints in fast-moving private markets, including competition for allocations and limited information rights. Those pressures can make it difficult to ask uncomfortable questions."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Several governance and behavioral signals are relevant to any fast-growing financial business. None proves wrongdoing by itself, but each warrants scrutiny in diligence and monitoring.",
+      "Some of these features are common in early-stage companies and are often accepted as the price of speed. The FTX case suggests that when a company holds customer assets, the tolerance for informal governance should fall sharply, and investors should expect controls to mature as quickly as the business grows."
+     ],
+     "bullets": [
+      "Material financial ties between a platform and affiliated trading entities",
+      "Limited board independence or investor information rights",
+      "Reliance on a proprietary token as a significant balance sheet asset",
+      "Concentration of decision-making authority in a small leadership group",
+      "Speed of customer withdrawals relative to available liquid assets"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "The FTX collapse reinforced that governance and controls are not optional for high-growth companies, especially those holding customer assets. For investors, diligence that reads leadership behavior, decision rights and related-party structures is as important as diligence on market opportunity.",
+      "Boards and investors also benefit from asking how leaders respond to challenge. A management team that welcomes difficult questions, shares information readily and documents decisions is easier to oversee. Resistance to scrutiny, however it is explained, is itself a signal worth weighing."
+     ],
+     "bullets": [
+      "Require independent board members and clear information rights before investing.",
+      "Map related-party relationships and how customer assets are segregated.",
+      "Assess management team decision-making and openness to challenge.",
+      "Monitor customer flow data as a leading indicator of confidence."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Many people affected by the collapse were individual customers who could not assess the risks behind the platform they used. Clear disclosure, segregation of customer assets and robust oversight protect those customers and the wider credibility of financial innovation. At Datalidy, we see the episode as a reminder that leadership behavior and governance are measurable, and that measuring them carefully serves both investors and the public."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Distressed crypto exchange FTX files for bankruptcy",
+     "publisher": "Al Jazeera",
+     "url": "https://www.aljazeera.com/economy/2022/11/11/distressed-crypto-exchange-ftx-files-for-bankruptcy",
+     "date": "2022-11-11"
+    },
+    {
+     "title": "FTX collapse timeline: Six days that rocked the crypto industry",
+     "publisher": "The Block",
+     "url": "https://www.theblock.co/post/186132/ftx-collapse-timeline-six-days-that-rocked-the-crypto-industry",
+     "date": "2022-11-11"
+    }
+   ],
+   "related_services": [
+    "venture-capital-advisory",
+    "management-team-assessment",
+    "commercial-due-diligence"
+   ],
+   "related_insights": [
+    "leading-and-lagging-indicators",
+    "cost-of-untested-assumptions"
+   ]
+  },
+  {
+   "slug": "chatgpt-launch-adoption-and-responsible-ai",
+   "title": "ChatGPT's Launch and the Behavioral Science of Rapid AI Adoption",
+   "event_month": "2022-11",
+   "meta_title": "ChatGPT Launch: Rapid Adoption and Responsible AI Use",
+   "meta_description": "OpenAI released ChatGPT as a free research preview in November 2022. Why adoption came so quickly, and what leaders should measure for responsible AI use.",
+   "topic": "Behavior",
+   "sector": "Technology",
+   "organizations": [
+    "OpenAI"
+   ],
+   "summary": "OpenAI released ChatGPT as a free research preview on November 30, 2022. Its rapid adoption offers lessons in usability, trust and responsible AI governance.",
+   "dek": "ChatGPT reached a reported 1 million users within five days of launch. A conversational interface lowered the barrier to using a large language model, while known limitations, such as confidently stated errors, made trust calibration a central challenge.",
+   "key_takeaways": [
+    "A conversational interface and free access removed friction, turning a research model into a tool millions tried within days.",
+    "OpenAI acknowledged that the system could produce incorrect or harmful content, making user trust calibration essential.",
+    "Organizations faced adoption by employees before policies existed, a classic pattern in technology diffusion.",
+    "Leaders should measure how AI changes work behavior and decision quality, not only usage volume."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On November 30, 2022, OpenAI released ChatGPT, a conversational AI system, as a free research preview. According to a Weights and Biases summary published that day, the model was trained with a method nearly identical to OpenAI's earlier InstructGPT, using human-written dialogue and human rankings of outputs to fine-tune a GPT-3.5 model with reinforcement learning. Users could rate responses, and that feedback was intended to guide improvements.",
+      "The same summary listed limitations OpenAI acknowledged, including that the system could \"produce toxic, incorrect, and harmful content,\" tended to write long responses and guessed at the meaning of ambiguous questions rather than asking for clarification. Its knowledge was limited to its training data. The research preview framing signaled that OpenAI expected to learn from public use and to refine the system based on what it observed.",
+      "Adoption was rapid. History.com reported that the chief executive of OpenAI said ChatGPT reached 1 million users within five days, and that UBS analysts estimated about 100 million monthly users by January 2023, which they described as the fastest growth on record for a consumer application. History.com also reported that a Pew poll found 14 percent of U.S. adults had tried ChatGPT by March 2023."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "The speed of adoption is a lesson in friction. Large language models existed before ChatGPT, but using them typically required technical access. A chat window, free and open to anyone with an account, made the behavior of trying the technology almost effortless. Curiosity, social sharing of surprising answers and immediate usefulness for writing and explanation provided motivation, and every news story served as a prompt. In the language of B.J. Fogg's model, motivation, ability and prompts converged at scale.",
+      "The human challenge that followed was calibration. People tend to trust fluent, confident language. When a system produces plausible text that is sometimes wrong, users must learn when to rely on it and when to verify. History.com noted that AI text tools are prone to presenting incorrect information as fact, and that schools were deciding how, and whether, to integrate them. Trust that is too high or too low both carry costs."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "For organizations, the launch created signals worth tracking as employees, students and customers began using generative AI, often before formal guidance existed.",
+      "The earliest signals were often informal: employees mentioning that they had used the tool to draft a document, or students submitting work shaped by it. Organizations that noticed and studied these patterns early were better positioned to set guidance grounded in how people actually behaved."
+     ],
+     "bullets": [
+      "Employee use of AI tools before policies or training are in place",
+      "Frequency with which AI-generated content is checked before use",
+      "Errors or rework traced to unverified AI outputs",
+      "Customer expectations shifting toward conversational, instant answers",
+      "Uneven adoption across teams, signaling gaps in skills or confidence"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Generative AI adoption is a behavior change challenge as much as a technology decision. Leaders who study how people actually use these tools, and design guidance and workflows around that behavior, are more likely to capture value while managing risk. Investors evaluating AI-exposed companies should ask how products help users calibrate trust, not only how fast usage grows.",
+      "It is also worth remembering that early adoption curves can mislead. Trying a tool is a different behavior from building it into daily work, and novelty-driven use often fades. Distinguishing trial from habit, and habit from measurable improvement in outcomes, is the analytical work that turns AI enthusiasm into durable value."
+     ],
+     "bullets": [
+      "Observe real usage patterns before writing AI policies, then test the policies.",
+      "Train people to verify outputs, and measure whether verification actually happens.",
+      "Define predictive KPIs for AI value, such as decision quality and rework, not only adoption.",
+      "Assess governance and transparency practices in AI investments."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Generative AI can make knowledge and assistance more accessible to people who lacked them, including learners and those working in a second language. It can also spread errors and erode trust in information if used carelessly. Responsible adoption means designing systems and habits that help people use these tools well: transparent limitations, easy verification and education that builds judgment. At Datalidy, we see that combination of behavioral design and honest measurement as central to ensuring AI serves the public good."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "ChatGPT: OpenAI's Newest AI Model Engages In Intelligent Dialogue, Free To Use In Preview",
+     "publisher": "Weights and Biases",
+     "url": "https://wandb.ai/telidavies/ml-news/reports/ChatGPT-OpenAI-s-Newest-AI-Model-Engages-In-Intelligent-Dialogue-Free-To-Use-In-Preview--VmlldzozMDYzMjg4",
+     "date": "2022-11-30"
+    },
+    {
+     "title": "ChatGPT, the generative AI chatbot, is released",
+     "publisher": "History.com",
+     "url": "https://www.history.com/this-day-in-history/november-30/chatgpt-released-openai",
+     "date": "2025-11-24"
+    }
+   ],
+   "related_services": [
+    "responsible-ai-adoption",
+    "technology-adoption",
+    "hci-consulting"
+   ],
+   "related_insights": [
+    "psychology-of-technology-adoption",
+    "ai-and-organizational-culture"
+   ]
+  }
+ ]
+}

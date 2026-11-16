@@ -1,0 +1,511 @@
+{
+ "perspectives": [
+  {
+   "slug": "adobe-figma-merger-terminated-regulatory-review",
+   "title": "Adobe and Figma End Their Merger After Regulatory Opposition",
+   "event_month": "2023-12",
+   "meta_title": "Adobe and Figma End Merger: Lessons for Deal Teams",
+   "meta_description": "Adobe and Figma ended their planned $20 billion merger in December 2023 after UK and EU scrutiny. What the outcome teaches deal teams about users and behavior.",
+   "topic": "Strategy",
+   "sector": "Technology",
+   "organizations": [
+    "Adobe",
+    "Figma",
+    "UK Competition and Markets Authority",
+    "European Commission"
+   ],
+   "summary": "Adobe and Figma abandoned their planned merger after UK and EU regulators raised competition concerns, a case study in how users, rivals and regulators read deals.",
+   "dek": "On December 18, 2023, Adobe and Figma said they would terminate their merger agreement, citing no clear path to approval in the UK and EU. The episode offers lessons on deal theses, user behavior and integration risk.",
+   "key_takeaways": [
+    "Regulators assessed the deal partly by how designers actually use competing tools, which makes user behavior evidence central to deal risk.",
+    "A long review period leaves both companies, their teams and their customers operating under uncertainty that affects behavior.",
+    "A large reverse termination fee prices regulatory risk into the deal, but not the human cost of prolonged limbo.",
+    "Investors should test whether a deal thesis depends on assumptions about competition that customer data could confirm or refute."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On December 18, 2023, Adobe and Figma announced that they had mutually agreed to terminate the merger first announced on September 15, 2022, under which Adobe would have acquired Figma for cash and stock. According to Adobe's release, the companies shared the view that there was no clear path to receive the necessary regulatory approvals from the European Commission and the UK Competition and Markets Authority.",
+      "Engadget reported that the deal was valued at 20 billion dollars and that Adobe would pay Figma a previously agreed one billion dollar termination fee. In provisional findings, the CMA said the merger would \"eliminate competition between two main competitors,\" according to Engadget, and it had been considering remedies including blocking the deal or requiring divestment. The European Commission had sent a Statement of Objections the previous month.",
+      "Adobe said that \"no realistic remedy would satisfy the concerns the CMA is maintaining,\" according to Engadget, and the company's chief executive said in the joint statement that both firms \"strongly disagree with the recent regulatory findings\" but would move forward independently. The outcome ended one of the most closely watched technology acquisitions of the period and returned both companies to operating as independent competitors in design software."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Competition reviews ultimately turn on behavior: which tools designers choose, how easily teams switch, and whether a dominant firm would have reason to keep innovating. Those are empirical questions about how real people work. The regulators' concerns, as reported, centered on the possibility that the deal would remove a key competitor, a question that hinges on observed product choices and development plans.",
+      "There is also an internal dimension. For roughly fifteen months, employees at both companies worked under a pending transaction. Uncertainty of this kind tends to affect retention, hiring, roadmap decisions and customer confidence. Both companies had to keep serving customers while the outcome remained open, a constraint that deserves acknowledgment rather than judgment."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Deal teams can track signals about how regulators, users and employees are likely to respond long before a final ruling. Many of these are behavioral, and some sit in data the companies already hold.",
+      "These signals are useful because they are observable during the review rather than after it. A deal team that sees heavy overlap in how customers use two products, or rising attrition at the target, has early evidence about both regulatory exposure and integration risk, and can adjust its strategy, communication or valuation accordingly."
+     ],
+     "bullets": [
+      "Overlap in active users and teams who use both products for the same tasks",
+      "Customer switching behavior between the acquirer's and target's competing tools",
+      "Tone and specificity of early regulatory questions and published issue statements",
+      "Voluntary attrition and offer acceptance rates at the target during the review",
+      "Community and customer sentiment about the deal in user forums and support channels"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "For acquirers and investors, the lesson is that a deal thesis rests on assumptions about customer behavior that can be examined in advance. Commercial due diligence that reads how customers actually use competing products can surface the same evidence a regulator will weigh. Leaders also need a plan for the people side of a long review, including how to keep teams engaged when the future is unclear.",
+      "Founders of acquired or pending targets face a parallel challenge. Their teams take cues from leadership about whether to keep building at full speed. Clear, honest internal communication about what is known and unknown helps people keep doing their best work, whatever the outcome."
+     ],
+     "bullets": [
+      "Test competition assumptions against real usage and switching data before signing.",
+      "Plan for employee retention and engagement through extended regulatory reviews.",
+      "Communicate with customers consistently while ownership remains uncertain.",
+      "Treat termination fees as financial protection, not protection against cultural drift."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Competition oversight exists to protect the choices of the people who use products, in this case designers, students and small teams who depend on affordable, capable tools. Regardless of one's view of the outcome, the case shows that evidence about real user behavior sits at the center of how markets are judged. Organizations like Datalidy that study behavior in data see that as a reason to measure customer choice carefully and honestly."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Adobe and Figma Mutually Agree to Terminate Merger Agreement",
+     "publisher": "Adobe",
+     "url": "https://news.adobe.com/news/news-details/2023/adobe-and-figma-mutually-agree-to-terminate-merger-agreement",
+     "date": "2023-12-18"
+    },
+    {
+     "title": "Adobe terminates its $20 billion Figma acquisition amid regulatory scrutiny",
+     "publisher": "Engadget",
+     "url": "https://www.engadget.com/adobe-walks-away-from-its-20-billion-figma-acquisition-amid-regulatory-scrutiny-132203336.html?guccounter=1&src=rss",
+     "date": "2023-12-18"
+    }
+   ],
+   "related_services": [
+    "commercial-due-diligence",
+    "post-acquisition-integration",
+    "behavioral-segmentation"
+   ],
+   "related_insights": [
+    "cost-of-untested-assumptions",
+    "behavioral-vs-demographic-segmentation"
+   ]
+  },
+  {
+   "slug": "alaska-airlines-1282-door-plug-and-manufacturing-quality",
+   "title": "Alaska Airlines Flight 1282 and the Human Systems Behind Quality",
+   "event_month": "2024-01",
+   "meta_title": "Alaska Airlines 1282 Door Plug: Quality as Behavior",
+   "meta_description": "A door plug blew out on Alaska Airlines Flight 1282 in January 2024. What the investigation shows about handoffs, records and quality culture in manufacturing.",
+   "topic": "Leadership",
+   "sector": "Aviation",
+   "organizations": [
+    "Alaska Airlines",
+    "Boeing",
+    "Federal Aviation Administration",
+    "National Transportation Safety Board",
+    "Spirit AeroSystems"
+   ],
+   "summary": "A mid-cabin door plug separated from a Boeing 737 MAX 9 shortly after takeoff. Investigators pointed to missing bolts, putting factory handoffs and records in focus.",
+   "dek": "On January 5, 2024, a door plug blew out of Alaska Airlines Flight 1282, prompting an FAA grounding of certain 737 MAX 9 aircraft. Preliminary findings centered on work that was not completed, a reminder that quality is a pattern of human behavior.",
+   "key_takeaways": [
+    "Preliminary NTSB findings point to bolts missing after rework, making handoffs and documentation central questions rather than design alone.",
+    "Quality depends on whether people can see, record and verify work across shifts, teams and companies.",
+    "Rework and out-of-sequence tasks are leading indicators that deserve the same attention as defect counts.",
+    "Investors and boards should read quality culture through behavioral evidence, not only through financial and delivery targets."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On January 5, 2024, Alaska Airlines Flight 1282, bound for Ontario, California, from Portland, Oregon, lost a mid-cabin door plug shortly after takeoff, according to ABC News. The cabin depressurized and the pilots returned to Portland with six crew members and 171 passengers aboard. ABC reported that no one was seriously hurt. A social media photo appeared to show an open hole in the fuselage beside a passenger seat.",
+      "The next day, the FAA temporarily grounded certain Boeing 737 MAX 9 aircraft operated by U.S. airlines or in U.S. territory until they were inspected. FAA Administrator Mike Whitaker said the agency was \"requiring immediate inspections of certain Boeing 737 MAX 9 planes before they can return to flight,\" according to ABC. Alaska had already grounded its fleet of 65 737-9 aircraft as a precaution.",
+      "On February 6, the NTSB released a preliminary report. ABC reported that investigators found the four bolts meant to secure the door plug were missing, and that a September photo exchanged between Boeing employees suggested the bolts were absent before delivery. The report did not assign a cause, and a final report was expected to take more than a year. Boeing's chief executive said, \"Whatever final conclusions are reached, Boeing is accountable for what happened.\""
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "The preliminary picture describes work that was opened, performed and closed again without every step being completed or recorded. That is a familiar pattern in complex manufacturing: rework happens out of sequence, responsibility passes between teams and between companies, and documentation does not always match what the next person needs to see. The question investigators continue to examine is not one person's action but how the system allowed an incomplete task to look complete.",
+      "Quality is a behavior that depends on conditions. People need time, clear ownership, tools that make missing steps obvious, and psychological safety to stop work and raise a concern. When schedule pressure is high, small gaps in any of these conditions tend to show up first in rework and handoffs. Leaders who want reliable quality need to design for those moments specifically."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Manufacturing organizations generate large amounts of data about how work actually flows. Much of it sits in separate systems that are rarely integrated. Signals that could point to elevated risk include the following.",
+      "No single indicator would have predicted this event. The value comes from combining them, so that rising rework, thin documentation and signs of schedule pressure appear together on the same view. That combined picture helps leaders decide where to add verification capacity before a defect leaves the factory."
+     ],
+     "bullets": [
+      "Volume of rework and out-of-sequence jobs per unit over time",
+      "Share of removed or reopened components without matching closure records",
+      "Gaps between planned and actual handoff documentation across teams and suppliers",
+      "Employee reports of schedule pressure in safety culture or pulse surveys",
+      "Rate of quality escapes found by customers rather than internal inspection"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Boards and investors often see quality through lagging indicators: groundings, recalls, delivery delays. By then the cost has arrived. The more useful view combines operational data with evidence about culture, such as whether employees feel able to stop the line. That evidence can be measured with well-designed surveys and observation, then tracked as predictive KPIs alongside output.",
+      "Supplier relationships deserve the same scrutiny. When work crosses company boundaries, accountability and records can thin out at exactly the points where verification matters most."
+     ],
+     "bullets": [
+      "Treat rework and handoff integrity as board-level indicators, not shop-floor details.",
+      "Integrate supplier and internal quality data so gaps at boundaries are visible.",
+      "Measure psychological safety and act on it as a safety control.",
+      "Balance production targets with explicit capacity for verification and documentation."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Air travel depends on public trust that every step was done right, often by people passengers never see. The crew's response and the absence of serious injuries reflect training that worked under pressure. Strengthening the systems behind manufacturing quality protects passengers and the workers who build aircraft, and an evidence-based view of human behavior, the kind Datalidy applies in its work, can help organizations make that protection measurable."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "FAA temporarily grounds certain Boeing 737 MAX 9s after emergency landing",
+     "publisher": "ABC News (ABC7 San Francisco)",
+     "url": "https://abc7news.com/faa-temporarily-grounds-certain-boeing-737-max-9s-after-emergency-l/14287282/",
+     "date": "2024-01-07"
+    },
+    {
+     "title": "NTSB report says key bolts missing from door plug in Boeing blowout",
+     "publisher": "ABC News (ABC7)",
+     "url": "https://abc7.com/post/ntsb-alaska-airlines-boeing-737-max-9-report/14391218/",
+     "date": "2024-02-07"
+    }
+   ],
+   "related_services": [
+    "process-mapping",
+    "culture-design",
+    "management-team-assessment"
+   ],
+   "related_insights": [
+    "psychological-safety",
+    "systems-thinking"
+   ]
+  },
+  {
+   "slug": "microsoft-midnight-blizzard-legacy-test-account-breach",
+   "title": "Microsoft's Midnight Blizzard Breach and the Risk in Legacy Accounts",
+   "event_month": "2024-01",
+   "meta_title": "Microsoft Midnight Blizzard Breach: Legacy Account Risk",
+   "meta_description": "Microsoft disclosed in January 2024 that a state-backed group used a legacy test account to reach executive email. Lessons on security habits and governance.",
+   "topic": "Leadership",
+   "sector": "Technology",
+   "organizations": [
+    "Microsoft"
+   ],
+   "summary": "A password spray against a legacy test account gave a state-sponsored group access to some Microsoft corporate email, including senior leaders, putting overlooked systems in focus.",
+   "dek": "On January 19, 2024, Microsoft disclosed that the group it calls Midnight Blizzard accessed a small share of corporate email accounts through a legacy, non-production test account. The case shows how forgotten systems and familiar habits create risk.",
+   "key_takeaways": [
+    "The intrusion began with a legacy non-production account, showing that systems people stop thinking about remain part of the attack surface.",
+    "Microsoft committed to apply current security standards to legacy systems even when that disrupts existing business processes.",
+    "Security tradeoffs are behavioral: teams keep exceptions alive because removing them costs time and friction.",
+    "Boards should ask for an inventory of exceptions, test accounts and legacy permissions, not only for policy compliance."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On January 19, 2024, Microsoft disclosed that its security team had detected a nation-state attack on its corporate systems on January 12. According to SecurityWeek, Microsoft attributed the attack to Midnight Blizzard, a Russian state-sponsored group also known as Nobelium, and said the intrusion dated back to late November 2023. Microsoft also disclosed the incident in a filing with the U.S. Securities and Exchange Commission.",
+      "Microsoft said the group used a password spray attack to compromise a legacy non-production test tenant account, then used that account's permissions to access \"a very small percentage of Microsoft corporate email accounts,\" including members of senior leadership and employees in cybersecurity and legal functions. TechCrunch reported that, according to Microsoft, the attackers were initially searching for information about Midnight Blizzard itself.",
+      "Microsoft said the attack did not result from a vulnerability in its products and that it had found no evidence of access to customer environments, production systems, source code or AI systems at the time of the January disclosure. The company said it would apply its current security standards to legacy systems and internal processes, \"even when these changes might cause disruption to existing business processes.\""
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Test accounts and legacy configurations usually exist for good reasons. Someone needed a sandbox, a proof of concept or a workaround to keep a project moving. Over time, the people who created them move on, and the systems persist without an owner. Nobody decides to accept the risk; it accumulates through many small, reasonable choices not to spend time cleaning up.",
+      "Microsoft's own statement names the tension directly: stronger standards can disrupt business processes. That friction is why exceptions survive. People rationally avoid changes that break their workflows when the benefit is abstract. Leaders who want security behavior to change have to make the secure path easier and the exceptions visible, and accept a period of disruption as the price of reducing risk."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Organizations can track whether legacy risk is growing or shrinking, using data that most identity and IT systems already hold.",
+      "These measures are simple, but they matter because they describe behavior rather than intent. An organization can have an excellent policy on multifactor authentication and still carry many unprotected exceptions. Watching the trend in exceptions, and how quickly they close, tells leaders whether the policy is shaping what people actually do."
+     ],
+     "bullets": [
+      "Number of accounts or applications without multifactor authentication, by owner",
+      "Count of test or non-production tenants with links to production permissions",
+      "Age of exceptions and how many lack a current, named owner",
+      "Password spray and failed login patterns against rarely used accounts",
+      "Time from a policy update to full adoption across legacy systems"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "The governance lesson applies well beyond technology firms. Policies describe how systems should work, while risk lives in how they actually work. Leaders need evidence about the real distribution of exceptions, and teams need clear incentives to retire them. Investors assessing technology-dependent companies can ask how exceptions are inventoried and how quickly they are closed, because these behaviors reveal more than written policy.",
+      "There is also a leadership signal in how an organization responds. Microsoft publicly accepted that faster security changes would cause some disruption. Leaders who name that cost openly give teams permission to prioritize cleanup over convenience, which is often the behavior change that matters most after an incident."
+     ],
+     "bullets": [
+      "Assign a named owner to every test system, exception and service account.",
+      "Report the trend in legacy exceptions to the board alongside incident metrics.",
+      "Budget explicitly for the disruption that security cleanup will cause.",
+      "Recognize teams that retire risky systems, not only those that ship new ones."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Large technology providers support governments, hospitals, schools and businesses, so their internal security practices affect many people indirectly. Transparent disclosure, as Microsoft provided through its blog and SEC filing, helps others learn. Datalidy's view is that durable security comes from understanding the everyday behaviors that let risk accumulate, and designing systems that make the safe choice the easy one."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Microsoft Actions Following Attack by Nation State Actor Midnight Blizzard",
+     "publisher": "Microsoft Security Response Center",
+     "url": "https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/",
+     "date": "2024-01-19"
+    },
+    {
+     "title": "Microsoft Says Russian Gov Hackers Stole Email Data From Senior Execs",
+     "publisher": "SecurityWeek",
+     "url": "https://www.securityweek.com/microsoft-says-russian-gov-hackers-stole-email-data-from-senior-execs/",
+     "date": "2024-01-19"
+    },
+    {
+     "title": "Hackers breached Microsoft to find out what Microsoft knows about them",
+     "publisher": "TechCrunch",
+     "url": "https://techcrunch.com/2024/01/19/hackers-breached-microsoft-to-find-out-what-microsoft-knows-about-them/",
+     "date": "2024-01-19"
+    }
+   ],
+   "related_services": [
+    "behavioral-change-management",
+    "responsible-ai-adoption",
+    "predictive-kpi-design"
+   ],
+   "related_insights": [
+    "habit-formation",
+    "leading-and-lagging-indicators"
+   ]
+  },
+  {
+   "slug": "change-healthcare-cyberattack-pharmacy-and-claims-disruption",
+   "title": "Change Healthcare Cyberattack Disrupts Pharmacies and Payments",
+   "event_month": "2024-02",
+   "meta_title": "Change Healthcare Cyberattack: Concentration and Patients",
+   "meta_description": "A February 2024 cyberattack on Change Healthcare disrupted prescriptions and claims nationwide. What it reveals about concentration risk and patient behavior.",
+   "topic": "Health",
+   "sector": "Health Care",
+   "organizations": [
+    "Change Healthcare",
+    "UnitedHealth Group"
+   ],
+   "summary": "A cyberattack on a UnitedHealth Group unit that processes claims for tens of thousands of pharmacies disrupted prescriptions and payments, exposing concentration risk in health care.",
+   "dek": "UnitedHealth Group disclosed in February 2024 that Change Healthcare's systems had been compromised. Pharmacies struggled to process prescriptions and providers faced payment backlogs, showing how one hidden dependency shapes patient and clinician behavior.",
+   "key_takeaways": [
+    "A single claims processor sat behind a large share of pharmacy and physician transactions, so one outage spread across the system.",
+    "When systems fail, patients and pharmacists improvise, and those workarounds carry clinical and financial costs.",
+    "Mapping hidden dependencies is a behavioral exercise as much as a technical one, because workflows reveal them.",
+    "Investors in health care should weigh concentration and continuity risk alongside scale efficiencies."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "In a Form 8-K filed with the SEC, UnitedHealth Group disclosed that on February 21, 2024, it identified that a suspected nation-state associated cybersecurity threat actor had gained access to some Change Healthcare information technology systems. The company said it isolated the affected systems and could not yet estimate the duration or extent of the disruption. UnitedHealth said it believed the incident was isolated to Change Healthcare and that its other systems were operating normally.",
+      "CNN reported on February 23 that pharmacies across the United States were having trouble processing some prescriptions, including at military hospital pharmacies. According to Bloomberg reporting published by Insurance Journal on February 28, Change Healthcare processes insurance claims and pharmacy requests for more than 340,000 physicians and 60,000 pharmacies, and the disruption created growing backlogs of claims and payments. CNN reported delays and refill problems at some military pharmacies.",
+      "UnitedHealth said most pharmacies had changed how they process claims to work around the outage, and described reports of members unable to obtain prescriptions as minimal, according to Bloomberg. The same reporting said UnitedHealth attributed the attack to the group known as BlackCat or ALPHV after initially suspecting nation-state links. Investigations and recovery continued well beyond February. The full scope of the incident was not known at the time."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Health care runs on routines. A pharmacist submits a claim, a payer responds, a patient pays a copay and leaves with medication. When that routine breaks, people adapt quickly: pharmacists switch processors, patients pay cash or delay a fill, practices hold claims. Each workaround is sensible. Together they create a hidden backlog of delayed therapy, unpaid work and administrative strain that rarely shows up in a single dashboard.",
+      "The behavioral cost falls hardest on people with the least slack. A patient deciding whether to pay out of pocket or wait is making a medication adherence decision under stress. A small practice waiting on payments is making staffing and access decisions. Those choices are where a technical outage becomes a public health and financial story."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Concentration risk is often invisible until it fails, but the workflows that depend on it can be observed. Useful indicators include the following.",
+      "Most of these indicators live outside any one organization's systems, which is part of the challenge. Pharmacies, practices, payers and patients each see only their piece of the disruption. Bringing those views together, even through simple shared measures, helps leaders recognize when a single dependency is carrying more of the system than anyone intended."
+     ],
+     "bullets": [
+      "Share of claims and prescriptions routed through a single intermediary",
+      "Time needed for pharmacies and practices to switch to an alternate processor",
+      "Prescription abandonment and delayed fills during service interruptions",
+      "Days of cash on hand for practices dependent on a single payment channel",
+      "Frequency of tested downtime procedures among front-line staff"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "For health system leaders, the lesson is to map dependencies through how work actually gets done, not only through vendor contracts. For investors, the case highlights that the efficiencies of consolidation come with correlated risk. Diligence on health care platforms and their customers should include continuity planning, workaround capacity and the human readiness to operate in downtime.",
+      "Payers and large platforms also have a role. Clear, frequent communication with pharmacies and practices during an outage shapes how quickly they adopt workarounds and how much trust remains afterward. Communication quality is itself a measurable part of resilience."
+     ],
+     "bullets": [
+      "Map critical workflows end to end and identify single points of failure.",
+      "Rehearse downtime procedures with the staff who would carry them out.",
+      "Track patient-level effects such as delayed fills during any disruption.",
+      "In diligence, value resilience and redundancy alongside scale and margin."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "When claims and prescriptions stop moving, the people affected are patients waiting for medication and clinicians trying to keep doors open. The public good depends on resilient infrastructure and on measuring the human consequences of disruption, not only system uptime. Datalidy's perspective is that patient adherence and provider stability are behaviors that deserve the same monitoring as servers."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "UnitedHealth Group Form 8-K (Item 1.05, Material Cybersecurity Incidents)",
+     "publisher": "U.S. Securities and Exchange Commission",
+     "url": "https://sec.gov/Archives/edgar/data/731766/000073176624000045/unh-20240221.htm",
+     "date": "2024-02-22"
+    },
+    {
+     "title": "Pharmacies across US are having trouble processing some prescriptions because of cyberattack",
+     "publisher": "CNN (via ABC13)",
+     "url": "https://abc13.com/post/unitedhealth-change-healthcare-cyberattack-pharmacy-outage/14460194/",
+     "date": "2024-02-23"
+    },
+    {
+     "title": "Change Healthcare Cyberattack Is Still Disrupting Pharmacies, Other Providers",
+     "publisher": "Insurance Journal (Bloomberg)",
+     "url": "https://www.insurancejournal.com/news/national/2024/02/28/762566.htm",
+     "date": "2024-02-28"
+    }
+   ],
+   "related_services": [
+    "patient-engagement-adherence",
+    "process-mapping",
+    "commercial-due-diligence"
+   ],
+   "related_insights": [
+    "medication-adherence-behavioral-design",
+    "systems-thinking"
+   ]
+  },
+  {
+   "slug": "att-wireless-outage-network-change-process-failure",
+   "title": "AT&T's Nationwide Wireless Outage and the Discipline of Change Control",
+   "event_month": "2024-02",
+   "meta_title": "AT&T Outage: Change Control as a Human Process",
+   "meta_description": "A February 2024 AT&T wireless outage blocked more than 92 million calls, the FCC found. What it shows about peer review, change control and process habits.",
+   "topic": "Analytics",
+   "sector": "Technology",
+   "organizations": [
+    "AT&T",
+    "Federal Communications Commission"
+   ],
+   "summary": "An incorrect process during a network expansion knocked AT&T wireless customers offline for hours. Regulators later pointed to gaps in review and oversight of network changes.",
+   "dek": "On February 22, 2024, AT&T's wireless network went down across the United States. The company cited an incorrect process during network expansion, and an FCC review later described a misconfigured network element and insufficient safeguards.",
+   "key_takeaways": [
+    "AT&T attributed the outage to an incorrect process used during network expansion, not a cyberattack.",
+    "According to the FCC, the outage blocked more than 92 million calls, including more than 25,000 attempts to reach 911.",
+    "Peer review and approval steps only protect a network when they are actually followed and verified before work begins.",
+    "Change control compliance is a measurable behavior and a strong leading indicator for reliability."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "In the early morning of February 22, 2024, AT&T wireless customers across the United States lost service. Fox Business reported that the outage began at about 3:30 a.m. Eastern according to Downdetector, and that service was fully restored around 6 p.m. Eastern. The next day, AT&T said that \"based on our initial review, we believe the outage was caused by the application & execution of an incorrect process used as we were expanding our network, not a cyberattack.\"",
+      "In July 2024, the FCC released the findings of its investigation. Reuters, as published by Claims Journal, reported that the outage affected more than 125 million devices, blocked more than 92 million voice calls and prevented more than 25,000 attempts to reach 911 over more than 12 hours. The FCC attributed the outage to a network change with an equipment configuration error and referred the matter to its Enforcement Bureau.",
+      "Broadband Breakfast reported that the FCC cited insufficient precautions, including weak safeguards to ensure network changes were approved before implementation, and that AT&T had since added peer review steps so maintenance cannot proceed until required reviews are confirmed. AT&T had apologized to affected customers after restoring service and said it was taking steps to ensure they would not experience the same problem again, according to Fox Business."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Change control processes exist because skilled people make occasional errors, especially during routine work at night. Peer review is a behavioral safeguard: a second person looks before a change goes live. Its value depends entirely on whether it happens consistently, and on whether the system makes skipping it difficult. When approvals can be bypassed, the process becomes a norm rather than a control, and norms erode under time pressure and familiarity.",
+      "Routine work carries its own risk. Engineers who have made many similar changes without incident reasonably build confidence in their process. That confidence is usually earned, which is why organizations need structural checks that do not rely on anyone's judgment in the moment. AT&T's reported addition of enforced peer review reflects that design principle."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Reliability failures in large networks are often preceded by measurable drift in how changes are made. Indicators worth tracking include the following.",
+      "The common thread is that each indicator measures whether safeguards are actually used, rather than whether they exist. A rising share of changes that skip review, or a growing gap between test and production setups, is a signal that norms are drifting even when nothing has yet gone wrong."
+     ],
+     "bullets": [
+      "Share of network changes deployed with documented, verified peer review",
+      "Number of changes executed outside approved windows or procedures",
+      "Gap between lab test configurations and production configurations",
+      "Near misses and rollbacks reported per hundred changes",
+      "Time to notify public safety customers after a service disruption begins"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "For leaders, the lesson is that a process on paper is not a control until it is enforced by design and measured in practice. For boards and investors, change control compliance is a leading indicator of operational risk that can be tracked quarterly, well before an outage becomes a regulatory matter. Rewarding teams for near-miss reporting makes those signals more visible.",
+      "The same discipline applies in any organization that changes critical systems, from hospitals updating clinical software to banks adjusting payment platforms. Reliability is built from many small, repeated behaviors done the same way every time."
+     ],
+     "bullets": [
+      "Build approval requirements into tools so changes cannot proceed without them.",
+      "Measure process compliance as a KPI, not only outage minutes.",
+      "Treat near misses as data and make reporting them safe and expected.",
+      "Ask management how often critical procedures are bypassed, and how they know."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Mobile networks are public infrastructure in practice: people use them to call 911, reach family and run their work. When they fail, the most serious effects fall on those in emergencies. Reliable change discipline is therefore a public safety practice. Datalidy's view is that measuring the human behaviors inside technical processes is one of the most direct ways to protect that public trust."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "AT&T reveals likely cause of outage that affected customers nationwide",
+     "publisher": "Fox Business",
+     "url": "https://www.foxbusiness.com/technology/att-reveals-likely-cause-outage-affected-customers-nationwide",
+     "date": "2024-02-23"
+    },
+    {
+     "title": "AT&T February Wireless Outage Blocked More Than 92M Calls, Agency Says",
+     "publisher": "Claims Journal (Reuters)",
+     "url": "https://amp.claimsjournal.com/news/national/2024/07/23/325261.htm",
+     "date": "2024-07-23"
+    },
+    {
+     "title": "February AT&T Outage Blocked 92 Million Calls FCC Says",
+     "publisher": "Broadband Breakfast",
+     "url": "https://broadbandbreakfast.com/february-at-t-outage-blocked-92-million-calls-fcc-says/",
+     "date": "2024-07-22"
+    }
+   ],
+   "related_services": [
+    "process-mapping",
+    "predictive-kpi-design",
+    "culture-design"
+   ],
+   "related_insights": [
+    "leading-and-lagging-indicators",
+    "psychological-safety"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1191 @@
+{
+ "perspectives": [
+  {
+   "slug": "reddit-api-blackout-moderators-and-platform-trust",
+   "title": "Reddit's API Blackout: When a Platform's Volunteers Push Back",
+   "event_month": "2023-06",
+   "meta_title": "Reddit's API Blackout and the Behavior of Volunteers",
+   "meta_description": "Thousands of subreddits went dark in June 2023 over new API fees. An analysis of volunteer moderators, platform trust and the signals leaders can watch.",
+   "topic": "Behavior",
+   "sector": "Technology",
+   "organizations": [
+    "Reddit",
+    "Apollo"
+   ],
+   "summary": "Thousands of Reddit communities went private to protest new API fees. The episode shows how platforms depend on volunteer behavior that rarely appears on a dashboard.",
+   "dek": "In June 2023, volunteer moderators took thousands of Reddit communities offline to protest new data access fees. The dispute revealed how much platform value rests on unpaid contributor behavior, and how quickly that goodwill can become a measurable risk.",
+   "key_takeaways": [
+    "Platform value often rests on volunteer behavior that is never priced, measured or managed as a core business asset.",
+    "Policy changes that remove contributors' tools change their ability to act, not just their motivation, and both matter.",
+    "Contributor sentiment, tool dependence and coordination activity are leading indicators that can be tracked before a public protest.",
+    "Investors evaluating community platforms should ask how leadership measures and protects the trust of its most active contributors."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "In April 2023, Reddit announced that it would begin charging some third-party developers for access to its data through its application programming interface, according to NPR. On June 12, thousands of communities, known as subreddits, went private for 48 hours in protest. Organizers said nearly 9,000 subreddits were participating, NPR reported. Several popular third-party apps, including Apollo, Reddit is Fun and ReddPlanet, said they would shut down. Apollo's developer wrote that Reddit's decisions had made it impossible for the app to continue.",
+      "Reddit's chief executive, Steve Huffman, wrote in a public question-and-answer session that the company \"needs to be a self-sustaining business\" and could no longer subsidize commercial entities that require large-scale data use, according to NPR. The company said it spends \"multi-millions of dollars\" a year supporting third-party access, that about 90 percent of third-party apps would keep free access, and that researchers and academics would continue to have free access. NPR noted that the changes came alongside a broader restructuring that included a reduction of about 5 percent of staff.",
+      "By the end of that week, more than 4,000 subreddits remained dark, according to a boycott tracker cited by the Associated Press in a report published by Fortune. Huffman told the AP that protesting communities were \"not going to stay offline indefinitely,\" even if that meant finding new moderators. Organizers responded with frustration and asked the company to pause the changes, the AP reported. Reddit did not reverse the fees."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "The business question looked straightforward: data access had real costs, and the company wanted to be paid for it. The behavioral question was harder. Reddit's communities are run largely by unpaid moderators, and many of them relied on third-party tools to do that work. For those contributors, the change did not just alter a price. It reduced their ability to perform a role they had chosen to take on.",
+      "Behavioral science distinguishes between motivation and ability. Volunteers are motivated by identity, autonomy and a sense of ownership over a community. When a change lowers their ability and also signals that their autonomy is negotiable, even committed contributors can redirect their energy toward collective protest. The company faced real financial constraints and a fair rationale. The friction came from the gap between how leadership framed the change, as a pricing decision, and how contributors experienced it, as a change to the conditions of their volunteer work."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Before the blackout, there were observable signals. Developers had publicly estimated what the new fees would cost them, moderators were coordinating in public posts, and users were openly saying they would leave if their preferred apps stopped working. These are the kinds of contributor behaviors that can be measured systematically rather than read anecdotally."
+     ],
+     "bullets": [
+      "Share of moderation activity performed through third-party tools rather than official apps",
+      "Volume and tone of moderator coordination posts in the weeks after a policy announcement",
+      "Stated intent to leave among high-activity contributors, segmented by role"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Community platforms carry an asset that does not appear on the balance sheet: the willingness of volunteers to keep doing unpaid work. Leaders who change the terms of that work should treat contributor behavior as a primary outcome, model who will be affected and how, and test communication and transition options before announcing a final policy.",
+      "For investors, the episode is a reminder that community-driven businesses carry concentration risk in a small group of highly active contributors. Diligence that looks only at traffic and revenue can miss how dependent those numbers are on unpaid work, and how sensitive that work is to policy decisions. Asking management how it segments contributors, how it consults them before major changes, and how it tracks their activity over time reveals whether leadership understands the behavioral foundation of its own business model."
+     ],
+     "bullets": [
+      "Map which contributor behaviors produce the most platform value before changing pricing or access",
+      "Segment contributors by behavior, such as moderation load and tool use, rather than by account age",
+      "Pilot transition timelines and support with a sample of affected contributors before full rollout",
+      "In diligence, ask how management measures contributor health and how quickly it detects declines"
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Online communities provide support, information and connection that many people rely on. Decisions about data access shape whether those spaces remain usable and well moderated. Platforms can pursue sustainable business models while protecting the people who make communities work, and doing so is partly a measurement problem. At Datalidy, we see contributor trust as a behavior that can be observed and protected, not an intangible that only becomes visible once it is gone."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Thousands of Reddit communities 'go dark' in protest of new developer fees",
+     "publisher": "NPR",
+     "url": "https://www.npr.org/2023/06/12/1181376050/reddit-communities-go-dark-protest-new-api-developer-fees",
+     "date": "2023-06-12"
+    },
+    {
+     "title": "Reddit is grappling with a user protest that is among its biggest challenges ever. Here's what's behind the unrest",
+     "publisher": "Fortune (Associated Press)",
+     "url": "https://fortune.com/2023/06/16/reddit-blackout-thrid-party-apps-api/",
+     "date": "2023-06-16"
+    }
+   ],
+   "related_services": [
+    "behavioral-segmentation",
+    "customer-retention-strategy",
+    "behavioral-change-management"
+   ],
+   "related_insights": [
+    "fogg-behavior-model",
+    "leading-and-lagging-indicators"
+   ]
+  },
+  {
+   "slug": "eu-parliament-ai-act-position-and-organizational-readiness",
+   "title": "The European Parliament Sets Its Position on the AI Act",
+   "event_month": "2023-06",
+   "meta_title": "EU Parliament's AI Act Vote: What Leaders Should Prepare",
+   "meta_description": "In June 2023 the European Parliament adopted its AI Act negotiating position. What the vote signaled for AI governance, human oversight and adoption.",
+   "topic": "Strategy",
+   "sector": "Public Sector",
+   "organizations": [
+    "European Parliament",
+    "European Commission",
+    "Council of the European Union",
+    "Mozilla Foundation"
+   ],
+   "summary": "The European Parliament adopted its AI Act position in June 2023, signaling that AI governance would become a question of documented human behavior, not only technology.",
+   "dek": "On June 14, 2023, the European Parliament adopted its negotiating position on the EU's proposed AI Act. The vote previewed a risk-based regime in which organizations would need to show how people design, deploy and oversee AI systems.",
+   "key_takeaways": [
+    "The Parliament's position framed AI governance around risk to people, which turns compliance into a question of human behavior.",
+    "Bans on emotion recognition in workplaces and schools show regulators scrutinizing AI that infers human states.",
+    "Organizations that inventory AI use and assign accountable owners early will adapt faster as rules are finalized.",
+    "Investors should treat AI governance maturity as a diligence item, since penalties under the position scale with global revenue."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On June 14, 2023, the European Parliament adopted its negotiating position on the AI Act, the European Union's proposed framework for regulating artificial intelligence, according to the law firm Cooley. The vote set the Parliament's starting point for three-way negotiations, called trilogues, with the European Commission and the Council of the EU. Cooley reported that trilogue negotiations were scheduled to begin later in June, with a deal expected by the end of 2023.",
+      "The Parliament's position took a risk-based approach, scaling obligations to the level of risk an AI system poses, according to Gibson Dunn. Cooley reported that it expanded the list of prohibited uses to include real-time remote biometric identification in publicly accessible spaces, predictive policing based on profiling, untargeted scraping of facial images, and emotion recognition in law enforcement, border management, workplaces and schools. Gibson Dunn noted that the position added AI used to influence elections and recommender systems of very large online platforms to the high-risk category.",
+      "For foundation models, providers would need to assess and mitigate risks and register models in an EU database, and generative AI systems would face transparency requirements such as disclosing AI-generated content, Cooley reported. Maximum fines for prohibited practices would rise to the higher of 40 million euros or 7 percent of worldwide annual turnover, according to both firms. The Mozilla Foundation welcomed several provisions but criticized what it described as a weakening of the process for classifying systems as high-risk. The final law would be shaped in later negotiations."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Much of the Parliament's position is about people rather than code. Bans on emotion recognition in workplaces and schools address what happens when systems infer human feelings in settings where people have little power to opt out. Requirements for complaints and explanations, which Cooley described, assume that affected individuals will need to understand and contest decisions made with AI. High-risk obligations depend on the daily behavior of the people who build, buy and operate these systems.",
+      "Inside organizations, that shifts the governance question. It is no longer only whether a model performs well, but whether teams know where AI is being used, who is accountable for it, and how human oversight works in practice. Many organizations adopt AI tools informally, one team at a time. That pattern is understandable, since early experimentation often happens before policy catches up, but it makes it difficult to answer the questions a risk-based regime will ask."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "The direction of travel was visible well before the vote, through the Commission's original proposal and years of public debate. Organizations that tracked their own AI adoption behavior were better positioned to respond than those that waited for final text."
+     ],
+     "bullets": [
+      "Share of AI tools in use that appear in a maintained internal inventory",
+      "Number of AI-assisted decisions affecting people that have a named accountable owner",
+      "Frequency with which human reviewers override or question AI outputs",
+      "Time required to explain a specific AI-assisted decision to an affected person"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Regulation built around risk to people rewards organizations that already measure how their teams use AI. Leaders do not need to predict every detail of a final law to act sensibly: they can map current use, clarify ownership, and test whether human oversight is real rather than nominal.",
+      "For investors and boards, the practical question is not whether a portfolio company uses AI but whether it can describe that use clearly. Companies that cannot list their AI systems, name owners or explain decisions to affected people will face higher costs as rules settle, whatever the final text says. Treating AI governance as an operating capability, built through habits of documentation and review, positions organizations to adopt new tools with confidence rather than hesitation."
+     ],
+     "bullets": [
+      "Build an inventory of AI use that includes informal and team-level adoption",
+      "Assign accountable owners for AI systems that affect customers, patients, students or employees",
+      "Test oversight processes by checking whether reviewers can and do challenge model outputs",
+      "In diligence, assess AI governance maturity alongside data security and privacy practices"
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "The Parliament's position reflects a public interest in AI that respects people's rights, particularly in workplaces, schools and public services where individuals have limited choice. Transparency about AI-generated content and the ability to contest automated decisions both support public trust. Responsible adoption is not only a compliance exercise. It is a way of ensuring that new tools help people do what they intend to do, and Datalidy views clear human accountability as the foundation for using AI well."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "One Step Closer to a European Law Regulating Artificial Intelligence",
+     "publisher": "Cooley",
+     "url": "https://www.cooley.com/news/insight/2023/2023-06-20-one-step-closer-to-a-european-law-regulating-artificial-intelligence",
+     "date": "2023-06-20"
+    },
+    {
+     "title": "European Parliament Adopts Its Negotiating Position on the EU AI Act",
+     "publisher": "Gibson Dunn",
+     "url": "https://www.gibsondunn.com/european-parliament-adopts-its-negotiating-position-on-the-eu-ai-act/",
+     "date": "2023-06-21"
+    },
+    {
+     "title": "Today's EU AI Act Vote Marks Progress, But Coming Months Are Crucial",
+     "publisher": "Mozilla Foundation",
+     "url": "https://www.mozillafoundation.org/es/blog/todays-eu-ai-act-marks-progress-but-coming-months-are-crucial/",
+     "date": "2023-06-14"
+    }
+   ],
+   "related_services": [
+    "responsible-ai-adoption",
+    "technology-adoption",
+    "leadership-alignment"
+   ],
+   "related_insights": [
+    "ai-and-organizational-culture",
+    "ethics-of-persuasive-technology"
+   ]
+  },
+  {
+   "slug": "threads-launch-sign-ups-versus-retention",
+   "title": "Threads Hits 100 Million Sign-Ups, Then Faces the Retention Test",
+   "event_month": "2023-07",
+   "meta_title": "Threads' Launch: Sign-Ups vs. Retention as a KPI",
+   "meta_description": "Meta's Threads drew 100 million sign-ups within days of its July 2023 launch, then saw usage fall. What the gap says about vanity metrics and predictive KPIs.",
+   "topic": "Analytics",
+   "sector": "Technology",
+   "organizations": [
+    "Meta",
+    "Instagram",
+    "Sensor Tower",
+    "Similarweb"
+   ],
+   "summary": "Threads set a sign-up record in July 2023, then usage fell sharply. The launch is a clear case study in the difference between acquisition and habit.",
+   "dek": "Meta's Threads reached 100 million sign-ups within days of its July 2023 launch. Within weeks, third-party estimates showed steep declines in daily use. The gap between those two numbers is a lesson in which metrics predict lasting behavior.",
+   "key_takeaways": [
+    "Sign-ups measure curiosity and ease of entry; repeat visits and time spent measure whether a product has become a habit.",
+    "Meta's leadership publicly shifted focus to retention, which is the metric most closely tied to long-term value.",
+    "Missing core features can depress early retention even when acquisition is exceptional, because ability limits repeat behavior.",
+    "Investors should weight cohort retention and engagement depth over headline acquisition milestones when evaluating launches."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "Meta launched Threads, a text-based social app linked to Instagram accounts, in early July 2023. Bloomberg reported on July 10 that the app had reached 100 million users days after launch. Because people could sign up using existing Instagram accounts, the barrier to entry was low, and the milestone drew wide attention as one of the fastest consumer app launches on record.",
+      "Usage data soon told a more complicated story. TechCrunch reported on July 18 that Similarweb estimated Threads' daily active users had fallen from 49 million to 23.6 million within a week. On August 4, Fortune, citing CNN's reporting on Sensor Tower data, reported that daily active users were down 82 percent from launch as of July 31, falling from a peak of 44 million to fewer than 8 million. Average daily time spent fell from 19 minutes to 2.6 minutes, and daily opens fell from about 14 to about three, according to that report.",
+      "Meta's leaders framed the decline as expected. Mark Zuckerberg wrote that \"early growth was off the charts, but more importantly 10s of millions of people now come back daily,\" TechCrunch reported, and said the focus for the year would be \"improving the basics and retention.\" Instagram's head said growth, retention and engagement were ahead of company projections. TechCrunch listed features Meta said were still to come, including a following feed, post search and an edit button. Third-party estimates use different methods and should be read as directional."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "The launch shows how different behaviors are driven by different conditions. Signing up required one tap for an existing Instagram user, plus curiosity and a sense that others were joining. Coming back daily required something else: a reason to return, a feed worth reading, and the basic tools people had come to expect from similar apps. When those conditions are thin, novelty fades and the original prompt to visit loses its force.",
+      "Meta's leadership appeared to recognize this quickly, publicly setting retention as the priority rather than celebrating acquisition alone. That is a meaningful choice. Organizations often reward teams for the metric that moves fastest at launch. Shifting attention to the slower, harder behavior, whether people return without being reminded, aligns incentives with long-term value even when the numbers look less impressive in the short term."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "The most useful signals were visible within days: time spent per session, daily opens and the share of new users who returned in the first week. Each indicated whether early interest was turning into a routine."
+     ],
+     "bullets": [
+      "Day-one, day-seven and day-thirty return rates for each launch cohort",
+      "Average daily sessions per active user, tracked weekly after launch",
+      "Share of new users who follow, post or reply within their first visit",
+      "Requests for missing features, segmented by user activity level"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "A launch milestone is a lagging indicator of marketing reach and a weak predictor of durable value. Leaders who define early retention and engagement depth as the primary success measures before launch are better placed to make sound decisions about investment and product sequencing afterward.",
+      "Investors evaluating consumer products should be wary of launch milestones presented without cohort data. A large number of sign-ups can reflect the strength of an existing distribution channel more than the appeal of the new product. The more predictive question is how many people return on their own, how deeply they engage, and whether those patterns stabilize. Meta's public shift toward retention offers a useful model: name the behavior that matters, then report on it even when the trend is unflattering."
+     ],
+     "bullets": [
+      "Set cohort retention targets before launch so acquisition success does not redefine the goal",
+      "Treat missing core features as a constraint on user ability, not only a roadmap item",
+      "Report time spent and repeat visits alongside sign-ups in board materials",
+      "In diligence, request cohort curves rather than cumulative user counts"
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Social platforms shape how people find information and talk to one another, so the behaviors they cultivate matter beyond any one company's results. Designing for healthy return visits, rather than for maximum compulsion, is both an ethical and a strategic choice. Measuring whether people find lasting value, not just whether they arrive, is how product teams can align growth with the wellbeing of the people they serve. That is the kind of predictive measurement Datalidy encourages leaders to build in from the start."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Threads Hits 100 Million Users Days After Launch",
+     "publisher": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2023-07-10/meta-s-threads-app-reaches-100-million-users-days-after-launch",
+     "date": "2023-07-10"
+    },
+    {
+     "title": "Mark Zuckerberg touts Threads is seeing 'tens of millions' people return to the app daily",
+     "publisher": "TechCrunch",
+     "url": "https://techcrunch.com/2023/07/18/mark-zuckerberg-touts-threads-is-seeing-tens-of-millions-people-return-to-the-app-daily",
+     "date": "2023-07-18"
+    },
+    {
+     "title": "Threads traffic continues to spiral, now down 82% just a month after launch",
+     "publisher": "Fortune",
+     "url": "https://fortune.com/2023/08/04/threads-traffic-spiral-down-82-percent-launch-month-mark-zuckerberg/",
+     "date": "2023-08-04"
+    }
+   ],
+   "related_services": [
+    "predictive-kpi-design",
+    "onboarding-design",
+    "customer-retention-strategy"
+   ],
+   "related_insights": [
+    "predictive-kpis-vs-vanity-metrics",
+    "habit-formation"
+   ]
+  },
+  {
+   "slug": "ups-teamsters-agreement-labor-relations-and-heat-safety",
+   "title": "UPS and the Teamsters Reach a Deal Before a Nationwide Strike",
+   "event_month": "2023-07",
+   "meta_title": "UPS-Teamsters Deal: Labor Relations as a Leading Indicator",
+   "meta_description": "UPS and the Teamsters reached a tentative five-year deal in July 2023, averting a strike by 340,000 workers. Lessons on workforce signals and safety.",
+   "topic": "Leadership",
+   "sector": "Labor",
+   "organizations": [
+    "UPS",
+    "International Brotherhood of Teamsters"
+   ],
+   "summary": "UPS and the Teamsters reached a tentative contract days before a strike deadline. The terms show how pay structure, safety and fairness drive frontline behavior.",
+   "dek": "On July 25, 2023, UPS and the Teamsters reached a tentative five-year agreement covering more than 340,000 workers, averting a strike set for August 1. The deal addressed part-time pay, a two-tier driver system and heat safety in delivery vehicles.",
+   "key_takeaways": [
+    "Perceived fairness, including two-tier pay structures, shapes workforce behavior as strongly as absolute wage levels.",
+    "Heat safety became a bargaining issue, showing how physical working conditions surface in labor relations.",
+    "Workforce signals such as strike authorization votes and public bargaining positions are leading indicators of operational risk.",
+    "Investors in labor-intensive businesses should monitor contract cycles and frontline sentiment as part of risk assessment."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On July 25, 2023, UPS and the International Brotherhood of Teamsters reached a tentative five-year agreement, averting a strike by more than 340,000 workers that had been scheduled to begin August 1, according to Retail Brew. The Associated Press, in a report published by WHYY, said the agreement covers U.S. Teamsters-represented employees in small-package roles and that the union described it as \"historic.\" The deal was subject to a ratification vote by members from August 3 to August 22.",
+      "Under the tentative agreement, current part-time and full-time workers would receive a raise of $2.75 an hour in 2023, rising to $7.50 over the contract, and new part-time workers would start at $21 an hour, Retail Brew reported. The AP reported that the agreement ended a two-tier wage system for drivers that the union had called unfair. UPS said it would add air conditioning to U.S. small delivery vehicles purchased after January 1, 2024, and Retail Brew reported the deal included 7,500 new full-time positions.",
+      "UPS chief executive Carol Tomé called it a \"win-win-win agreement\" that gives the company the \"flexibility we need to stay competitive,\" according to Retail Brew. Teamsters General President Sean O'Brien said UPS \"put $30 billion in new money on the table\"; UPS did not confirm that figure. The AP noted that UPS profits had grown substantially since the last contract, during the pandemic surge in home deliveries, and that the union argued its members had carried much of that growth."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Two of the central issues were about fairness and physical strain rather than headline pay alone. Two-tier systems, in which people doing similar work are paid differently based on when they were hired, can erode trust and cohesion even when overall compensation is competitive. Workers compare themselves with colleagues on the same route or shift, and perceived inequity can affect morale, retention and willingness to go beyond minimum requirements.",
+      "The air conditioning commitment made heat in delivery vehicles an explicit part of the contract. Physical working conditions affect safety, fatigue and attention, which in turn affect service quality. Both sides faced real constraints: the company needed cost flexibility in a competitive market, and the union represented members who had worked through an intense period of demand. Reaching agreement before the deadline reflected a shared interest in avoiding a disruption that could have affected businesses and households nationwide."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Labor negotiations rarely surprise anyone who is watching the workforce closely. Strike authorization votes, public bargaining positions and frontline complaints about working conditions all signaled the stakes months before the deadline."
+     ],
+     "bullets": [
+      "Turnover and tenure differences between workers on different pay tiers",
+      "Frequency of frontline reports about heat, fatigue or physical strain",
+      "Participation and margins in union authorization or ratification votes",
+      "Gap between company performance messaging and frontline perceptions of shared gains"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Contract cycles in labor-intensive businesses are predictable events with unpredictable outcomes. Leaders can reduce that uncertainty by measuring frontline sentiment and working conditions continuously, rather than only during negotiation, and by addressing structural fairness issues before they become bargaining flashpoints.",
+      "For boards, the deal illustrates that labor costs and labor risk are different things to manage. Terms can be modeled in advance, but the likelihood of disruption depends on trust, perceived fairness and the quality of day-to-day relationships between managers and frontline workers. Organizations that invest in those relationships between contract cycles often find negotiations less adversarial, because both sides start from a shared understanding of conditions on the ground rather than from competing narratives."
+     ],
+     "bullets": [
+      "Track perceived fairness and working-condition data as ongoing people analytics, not crisis inputs",
+      "Model the operational cost of a disruption alongside the cost of proposed terms",
+      "Communicate how performance gains are shared in terms frontline workers find credible",
+      "In diligence, review labor contract timelines and workforce sentiment data for portfolio companies"
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Delivery networks are part of everyday infrastructure, carrying everything from household goods to medications. A stable agreement protects not only the company and its workers but the communities that depend on reliable service. Attention to heat safety reflects a broader public health concern about working conditions as temperatures rise. Organizations that measure and improve frontline conditions protect people as well as performance, and Datalidy regards that alignment as the core of sound people strategy."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "UPS, Teamsters reach tentative deal to avoid strike",
+     "publisher": "Retail Brew",
+     "url": "https://retailbrew.com/stories/2023/07/25/ups-teamsters-tentative-deal-to-avoid-strike",
+     "date": "2023-07-25"
+    },
+    {
+     "title": "UPS reaches contract with 340,000 unionized workers, averting potentially calamitous strike",
+     "publisher": "WHYY (Associated Press)",
+     "url": "https://whyy.org/articles/ups-reaches-contract-unionized-workers-averting-strike/",
+     "date": "2023-07-25"
+    }
+   ],
+   "related_services": [
+    "people-analytics",
+    "leadership-alignment",
+    "culture-design"
+   ],
+   "related_insights": [
+    "people-problems-are-business-problems",
+    "leading-and-lagging-indicators"
+   ]
+  },
+  {
+   "slug": "nats-air-traffic-control-failure-and-contingency-behavior",
+   "title": "UK Air Traffic Control Failure Strands Passengers on a Holiday Weekend",
+   "event_month": "2023-08",
+   "meta_title": "NATS Flight Plan Failure: Contingency as a Human System",
+   "meta_description": "A single flight plan triggered a UK air traffic control failure in August 2023. A look at contingency, recovery behavior and signals in rare failures.",
+   "topic": "Behavior",
+   "sector": "Aviation",
+   "organizations": [
+    "NATS",
+    "UK Civil Aviation Authority"
+   ],
+   "summary": "A rare flight plan caused UK air traffic systems to fail safe in August 2023. The recovery, more than the trigger, holds lessons about contingency planning.",
+   "dek": "On August 28, 2023, a UK bank holiday, a single flight plan caused the automated flight plan processing used by NATS to shut down, along with its backup. Hundreds of thousands of passengers were affected, and an independent review later issued 34 recommendations.",
+   "key_takeaways": [
+    "Systems designed to fail safely still need human contingency processes that can sustain capacity during recovery.",
+    "Rare events cannot be eliminated, so organizations should measure how quickly people can diagnose and recover from them.",
+    "Passenger support during disruption depends on coordination across air navigation, airlines and airports, not one organization.",
+    "Investors in infrastructure should ask how often contingency procedures are rehearsed and how recovery performance is measured."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On August 28, 2023, a bank holiday in the United Kingdom, the automated flight plan processing system used by NATS, the country's main air traffic service provider, stopped working, according to Euronews. A single flight plan contained two waypoints with the same name, located outside UK airspace and thousands of miles apart. The system shut down to protect safety, and its backup also failed, Euronews reported. NATS chief executive Martin Rolfe described it as a \"one in 15 million\" event, noting the system had processed about 15 million flight plans in five years without encountering this combination, TechXplore reported.",
+      "NATS moved to manual processing, which reduced capacity from about 400 flight plans per hour to as few as 60, according to Euronews. About 1,500 flights were cancelled, and disruption continued for days because aircraft and crews were out of position. Rolfe said the system did \"what it was designed to do\" by failing safely when it received data it could not process, Euronews reported, and NATS said safety was never compromised.",
+      "The UK Civil Aviation Authority commissioned an independent review. Its final report, published in November 2024, estimated that more than 700,000 passengers were affected, including about 300,000 by cancellations, according to the CAA. The panel made 34 recommendations for NATS, airlines, airports, the CAA and the government, including reviews of NATS contingency and engineering resource management, earlier warning of disruption, and better passenger support for vulnerable travelers and families with children."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "The trigger was a technical edge case, but the impact was shaped by human systems. Once automation stopped, everything depended on how quickly engineers could diagnose an unfamiliar problem, how well manual procedures could sustain throughput, and how effectively information flowed to airlines, airports and passengers. Rolfe said engineers had never encountered the problem before, TechXplore reported. Diagnosing a novel failure under pressure, on a holiday, is among the hardest tasks any team faces.",
+      "The CAA review's emphasis on engineering resource management, earlier notice and passenger support reflects this. Recommendations that airlines and airports create standard passenger information for major incidents recognize that confusion compounds disruption. Travelers make decisions about rebooking, accommodation and travel home based on what they are told. Clear, timely information changes behavior across an entire network, while gaps push people toward uncertain and costly choices."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Organizations cannot predict which one-in-millions event will occur, but they can measure how ready their people are for any of them. The relevant signals concern recovery capacity rather than failure probability."
+     ],
+     "bullets": [
+      "Time from automated failure to correct diagnosis in rehearsed scenarios",
+      "Manual processing capacity as a share of normal throughput",
+      "Availability of specialist engineering support during holidays and off-hours",
+      "Time from incident onset to first actionable information for partners and passengers"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "A system that fails safely has done its job, but the organization's job continues. Resilience depends on rehearsed human procedures, staffing that matches the risk calendar, and shared incident playbooks across partners. Measuring those capabilities makes them visible to boards before an incident rather than after it.",
+      "For investors in infrastructure and regulated services, the episode shows why uptime alone is an incomplete measure of operational quality. A provider can run reliably for years and still face a single event that tests every assumption about recovery. Asking how quickly teams diagnosed past incidents, how often contingency plans are exercised, and how partners are kept informed provides a more predictive view of resilience than historical availability figures, which describe only what has already gone right."
+     ],
+     "bullets": [
+      "Rehearse contingency procedures under realistic conditions, including holidays and peak periods",
+      "Measure recovery performance as a standing KPI alongside uptime",
+      "Coordinate passenger and customer communication protocols with partners in advance",
+      "In diligence, ask how contingency readiness is tested and reported to the board"
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Air travel connects families, workers and communities, and disruption on this scale falls hardest on vulnerable travelers, people with disabilities and families with young children. The independent review's attention to passenger support recognizes that how people are treated during a failure matters as much as the technical fix. Designing recovery around human needs is a public service obligation, and Datalidy sees it as a measurable part of operational performance."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "UK air traffic control meltdown caused by error with a '1 in 15 million' chance",
+     "publisher": "Euronews",
+     "url": "https://www.euronews.com/travel/2023/09/06/uk-air-traffic-control-meltdown-caused-by-error-with-a-1-in-15-million-chance",
+     "date": "2023-09-06"
+    },
+    {
+     "title": "UK air traffic control outage '1 in 15 million' event: boss",
+     "publisher": "TechXplore (AFP)",
+     "url": "https://techxplore.com/news/2023-09-uk-air-traffic-outage-million.amp",
+     "date": "2023-09-06"
+    },
+    {
+     "title": "Aviation regulator publishes independent review into August 2023 NATS flight planning system failure",
+     "publisher": "UK Civil Aviation Authority",
+     "url": "https://www.caa.co.uk/newsroom/news/aviation-regulator-publishes-independent-review-into-august-2023-nats-flight-planning-system-failure/",
+     "date": "2024-11-14"
+    }
+   ],
+   "related_services": [
+    "decision-making-under-pressure",
+    "process-mapping",
+    "service-design"
+   ],
+   "related_insights": [
+    "systems-thinking",
+    "how-leaders-decide-under-pressure"
+   ]
+  },
+  {
+   "slug": "san-francisco-robotaxi-expansion-and-public-trust",
+   "title": "California Expands Robotaxi Service, Then Asks Cruise to Cut Its Fleet",
+   "event_month": "2023-08",
+   "meta_title": "Robotaxi Expansion in San Francisco: Adoption and Trust",
+   "meta_description": "California approved paid robotaxi service in San Francisco in August 2023, then asked Cruise to halve its fleet. Lessons on adoption and public trust.",
+   "topic": "Design",
+   "sector": "Transportation",
+   "organizations": [
+    "California Public Utilities Commission",
+    "California DMV",
+    "Cruise",
+    "Waymo",
+    "City of San Francisco"
+   ],
+   "summary": "Regulators approved around-the-clock paid robotaxi rides in San Francisco, then asked Cruise to halve its fleet a week later. Adoption depends on public trust.",
+   "dek": "On August 10, 2023, California regulators allowed Waymo and Cruise to charge fares for driverless rides across San Francisco at any hour. About a week later, after a Cruise vehicle hit a fire truck, the DMV asked Cruise to halve its fleet.",
+   "key_takeaways": [
+    "Technology adoption in public spaces depends on the trust of people who never chose to use the product, including first responders.",
+    "Interactions with emergency vehicles and unplanned stops were raised before approval, showing that concerns were visible in advance.",
+    "Regulatory approval and public acceptance are different outcomes and need to be measured separately.",
+    "Investors in autonomous systems should track edge-case interaction data and community sentiment as core operating metrics."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On August 10, 2023, the California Public Utilities Commission voted 3 to 1 to allow Waymo and Cruise to charge fares for driverless rides in San Francisco with no time restrictions, according to the law firm Davis Wright Tremaine. Before the vote, the companies could offer driverless rides but faced limits on charging fares. The CPUC found that each company had met requirements set in a 2020 decision, including a passenger safety plan.",
+      "During the meeting, public commenters and commissioners raised questions about interactions with first responders, sudden and unplanned stops, compliance with traffic laws, and accessibility for passengers with disabilities, Davis Wright Tremaine reported. The City of San Francisco filed motions to stay both authorizations, arguing that the city \"will suffer serious harm.\" Commissioners asked CPUC staff for a follow-up report in about three months.",
+      "On August 17, a Cruise vehicle carrying a passenger collided with a fire truck operating with lights and sirens at a San Francisco intersection, Fox Business reported. The passenger was taken to a hospital with injuries not considered life-threatening. The next day, the California DMV asked Cruise to reduce its active fleet by 50 percent \"until the investigation is complete,\" and Cruise agreed to operate no more than 50 driverless vehicles during the day and 150 at night. Cruise said its vehicle detected the sirens and began braking but was \"ultimately unable to avoid the collision,\" noting that buildings blocked sightlines at the intersection."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Most technology adoption decisions are made by users. Autonomous vehicles are different: they operate among pedestrians, cyclists, other drivers and emergency crews who never opted in. Their acceptance depends on how those people experience the vehicles, especially in rare, high-stakes moments such as an emergency response. Each incident, whatever its cause, shapes public perception far more than routine trips that go well.",
+      "Regulators, companies and city officials each faced real constraints. The CPUC applied the criteria it had established. The companies were building a new service in a dense, complex city. City officials and first responders were concerned with the safety of their own operations. The DMV's response showed regulators using a proportional lever, reducing scale while an investigation proceeded, rather than an all-or-nothing decision. The challenge was not a lack of concern on any side but a lack of shared measures that all parties trusted."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "The concerns raised at the CPUC hearing were early signals. Questions about first responder interactions and unplanned stops described exactly the kinds of edge cases that would later attract attention."
+     ],
+     "bullets": [
+      "Frequency of interactions with emergency vehicles, and outcomes, reported in comparable terms",
+      "Number of unplanned stops that obstruct traffic or emergency access",
+      "Volume and themes of complaints from city agencies and first responders",
+      "Public sentiment trends in neighborhoods with the highest vehicle density"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "For technologies that operate in shared public space, the stakeholder map extends far beyond customers. Leaders who measure the experience of non-users, publish comparable safety data and test scaled rollouts in stages build the trust that approval alone cannot provide.",
+      "Investors in autonomous systems should recognize that regulatory permission can be narrowed quickly when public confidence shifts, as the DMV's request showed within days of the CPUC vote. Business plans that assume steady expansion after approval may underweight this risk. Companies that report comparable safety data, engage city agencies and first responders as partners, and scale in stages are more likely to keep the trust that sustains their license to operate."
+     ],
+     "bullets": [
+      "Define and share edge-case metrics with regulators and city partners before expanding",
+      "Scale deployment in measured stages tied to trust and safety thresholds",
+      "Treat first responders as a key user group in design and testing",
+      "In diligence, evaluate community and regulatory relationships as operating risks, not just legal ones"
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Autonomous vehicles could eventually improve mobility for people who cannot drive, including some older adults and people with disabilities, which is why accessibility was raised at the hearing. Realizing that public benefit depends on earning trust from the communities where the vehicles operate. Transparent measurement of how vehicles behave in rare situations is a public-good investment, and Datalidy views it as essential to responsible technology adoption."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Waymo and Cruise Receive CPUC Authorizations to Collect Fares for Autonomous Vehicle Rides in San Francisco",
+     "publisher": "Davis Wright Tremaine",
+     "url": "https://www.dwt.com/blogs/artificial-intelligence-law-advisor/2023/08/waymo-cruise-autonomous-vehicles-san-francisco",
+     "date": "2023-08-23"
+    },
+    {
+     "title": "California DMV requests Cruise to halve driverless car fleet after collision with firetruck in San Francisco",
+     "publisher": "Fox Business",
+     "url": "https://www.foxbusiness.com/markets/california-dmv-requests-cruise-halve-driverless-car-fleet-after-collision-with-firetruck-san-francisco",
+     "date": "2023-08-19"
+    }
+   ],
+   "related_services": [
+    "technology-adoption",
+    "hci-consulting",
+    "responsible-ai-adoption"
+   ],
+   "related_insights": [
+    "psychology-of-technology-adoption",
+    "hci-principles-for-leaders"
+   ]
+  },
+  {
+   "slug": "uaw-stand-up-strike-detroit-automakers",
+   "title": "The UAW Strikes All Three Detroit Automakers at Once",
+   "event_month": "2023-09",
+   "meta_title": "UAW Stand-Up Strike: Labor Strategy and Workforce Signals",
+   "meta_description": "The UAW struck GM, Ford and Stellantis at once in September 2023 using targeted walkouts. What the strike reveals about fairness and workforce signals.",
+   "topic": "Leadership",
+   "sector": "Transportation",
+   "organizations": [
+    "United Auto Workers",
+    "General Motors",
+    "Ford",
+    "Stellantis"
+   ],
+   "summary": "The UAW launched its first simultaneous strike against GM, Ford and Stellantis in September 2023, using targeted walkouts. Fairness, not only pay, drove the dispute.",
+   "dek": "On September 15, 2023, about 13,000 UAW members walked out at three plants, the first time the union struck all three Detroit automakers at once. The targeted \"stand-up\" strike expanded over six weeks before contracts with 25 percent base wage increases were ratified.",
+   "key_takeaways": [
+    "Workers' sense of fairness, shaped by past concessions and company profits, drove the dispute as much as specific wage figures.",
+    "The targeted strike strategy created uncertainty for management, showing how labor tactics shape decision-making under pressure.",
+    "Close ratification margins at some plants signaled that frontline sentiment varied widely even after agreement.",
+    "Investors should monitor labor relations and workforce sentiment as material risks, especially during industry transitions."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "Shortly after midnight on September 15, 2023, about 13,000 United Auto Workers members walked off the job at General Motors' plant in Wentzville, Missouri, Ford's Michigan Assembly Plant in Wayne, and a Stellantis Jeep complex in Toledo, Ohio, according to the Associated Press, as published by Fortune. It was the first time in the union's 88-year history that it struck all three companies simultaneously. NPR, as published by Michigan Public, reported that the initial walkout involved less than 9 percent of the nearly 150,000 UAW members at the three companies, under a \"stand-up strike\" strategy that targeted selected plants and could expand.",
+      "The AP reported that the union sought 36 percent raises over four years, along with restored cost-of-living adjustments, an end to tiered wages, restored pensions for new hires and a shorter workweek. GM and Ford had offered 20 percent and Stellantis 17.5 percent at that point. UAW President Shawn Fain said the companies were very profitable and could afford the raises. Ford chief executive Jim Farley said meeting the union's demands could have led to bankruptcy, and GM chief executive Mary Barra described GM's offer as historic, according to the AP.",
+      "The strike grew to more than 45,000 workers at its peak and lasted into a sixth week, Fox Business reported. Tentative agreements were reached in late October, and the contracts included 25 percent base wage increases through April 2028 and restored cost-of-living adjustments. GM workers ratified their agreement with about 55 percent approval, and seven of GM's 11 assembly plants voted against it, according to Fox Business."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "The union's demands drew heavily on history. Workers sought to recover wages and benefits given up during the 2008 financial crisis, NPR reported, and the union contrasted company profits with worker pay. Perceived fairness, how people judge the distribution of gains relative to their sacrifices, is a powerful driver of behavior. When workers believe earlier concessions were never repaid, even generous offers can feel insufficient, and trust becomes harder to rebuild than wages are to raise.",
+      "The stand-up strategy also changed management's decision environment. Rather than facing a single, predictable walkout, executives had to plan for escalation at any plant at any time. That uncertainty shaped bargaining on both sides. The companies faced genuine pressure: they were investing heavily in electric vehicles while producing gas-powered models, and they worried that higher labor costs could leave them less competitive with foreign automakers' U.S. plants, the AP reported."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "The dispute did not emerge suddenly. Workers' focus on past concessions, the contrast between profits and pay, and concern about jobs in the electric vehicle transition were all visible well before the contracts expired."
+     ],
+     "bullets": [
+      "Workforce perceptions of how past concessions and recent gains have been shared",
+      "Sentiment differences across plants and job classifications, including tiered roles",
+      "Worker concerns about job security during technology transitions",
+      "Ratification margins as a signal of residual frustration after agreement"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Labor agreements settle terms, but they do not automatically settle sentiment. The close GM vote suggests that many workers remained dissatisfied even with significant gains. Leaders who track workforce sentiment by site and role can identify where trust needs active rebuilding after a contract is signed.",
+      "For investors, the strike showed that labor relations can shape strategy during major industry transitions. Plans for electric vehicles and new battery plants depend on a workforce that trusts how the transition will be managed. Companies that understand how workers perceive fairness, job security and shared gains can plan transitions with fewer surprises. Those that rely only on wage benchmarks may find that the decisive variables were never measured."
+     ],
+     "bullets": [
+      "Measure perceived fairness regularly, not only during contract negotiations",
+      "Treat plant-level ratification results as a map of where engagement work is needed",
+      "Involve workers early in planning for technology transitions that affect jobs",
+      "In diligence, assess labor relations history and sentiment as part of operational risk"
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Auto manufacturing supports families and communities across the industrial Midwest and beyond. Agreements that restore a sense of fairness can strengthen those communities, while prolonged conflict affects suppliers, dealers and local economies. As industries change, the way companies and workers share the costs and benefits of transition shapes public trust in that transition. Datalidy sees measured, honest attention to workforce sentiment as part of sustaining both performance and community wellbeing."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "13,000 auto workers walk off the job at GM, Ford and Stellantis factories as UAW strike begins",
+     "publisher": "Fortune (Associated Press)",
+     "url": "https://fortune.com/2023/09/15/13000-auto-workers-walk-off-job-gm-ford-stellantis-factories-uaw-strike-begins/",
+     "date": "2023-09-15"
+    },
+    {
+     "title": "The UAW launches a historic strike against all Big 3 automakers",
+     "publisher": "Michigan Public (NPR)",
+     "url": "https://www.michiganpublic.org/2023-09-15/the-uaw-launches-a-historic-strike-against-all-big-3-automakers",
+     "date": "2023-09-15"
+    },
+    {
+     "title": "UAW ratifies labor deal with General Motors",
+     "publisher": "Fox Business",
+     "url": "https://www.foxbusiness.com/markets/uaw-ratifies-labor-deal-general-motors",
+     "date": "2023-11-16"
+    }
+   ],
+   "related_services": [
+    "people-analytics",
+    "behavioral-change-management",
+    "decision-making-under-pressure"
+   ],
+   "related_insights": [
+    "people-problems-are-business-problems",
+    "emotion-and-decision-making"
+   ]
+  },
+  {
+   "slug": "mgm-resorts-cyberattack-social-engineering-help-desk",
+   "title": "MGM Resorts Cyberattack Shows the Human Side of Security",
+   "event_month": "2023-09",
+   "meta_title": "MGM Resorts Cyberattack: Social Engineering and Behavior",
+   "meta_description": "A September 2023 cyberattack disrupted MGM Resorts at an estimated $100 million cost. What reported help desk social engineering teaches about security.",
+   "topic": "Behavior",
+   "sector": "Travel & Hospitality",
+   "organizations": [
+    "MGM Resorts International",
+    "CISA",
+    "FBI"
+   ],
+   "summary": "A September 2023 cyberattack disrupted MGM Resorts' operations. Reports pointed to social engineering, highlighting how security depends on everyday human decisions.",
+   "dek": "In September 2023, a cyberattack disrupted slot machines, reservations and other systems at MGM Resorts. The company later estimated a roughly $100 million hit. Reports said attackers gained access by impersonating an employee to the IT help desk.",
+   "key_takeaways": [
+    "Help desks are designed to help people quickly, which makes them a target when verification steps depend on human judgment.",
+    "Federal agencies urged phishing-resistant authentication because social engineering exploits normal helpful behavior.",
+    "Security metrics should include how often verification procedures are followed under time pressure, not just technical controls.",
+    "Investors should treat identity verification and help desk procedures as material cyber risk factors in diligence."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "In September 2023, MGM Resorts International said it had identified a cybersecurity issue affecting certain systems and was shutting some down as part of its response, according to AGBrief. Slot machine operations, hotel reservation systems, parking and parts of the company's websites were affected. AGBrief reported that a ransomware group claimed responsibility and said MGM \"was defeated by a 10-minute conversation,\" referring to a call to the help desk in which the caller used an employee's name found on LinkedIn. MGM did not publicly confirm how the attackers gained access.",
+      "In an October 5 filing with the Securities and Exchange Commission, MGM estimated the attack would cost about $100 million, with less than $10 million in one-time expenses such as legal and consultancy fees, The Register reported. Customer data was stolen, including names, contact details, dates of birth and, for some customers, Social Security and passport numbers. MGM said it had no evidence of bank card data or passwords being compromised and expected its cyber insurance to cover the financial impact. September occupancy was 88 percent, down from 93 percent a year earlier, according to The Register.",
+      "On November 16, 2023, the FBI and the Cybersecurity and Infrastructure Security Agency issued an advisory on the group known as Scattered Spider, which The Register reported had claimed responsibility for the MGM attack. The advisory said the group's actors pose as employees or IT staff and call help desks to request password resets and transfers of multifactor authentication tokens. The agencies recommended phishing-resistant multifactor authentication and continued employee training against voice phishing."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Help desks exist to restore access quickly so people can get back to work. That is a reasonable design goal, and agents are typically measured on speed and resolution. Social engineering exploits exactly that orientation. A caller who sounds plausible, references real details and conveys urgency is asking the agent to do what the job normally rewards. Verification steps that rely on information an attacker can find online offer little protection.",
+      "This is not a story of individual carelessness. It is a story of how incentives, procedures and ordinary helpfulness interact. When an organization's metrics reward fast resolution and its verification depends on easily researched facts, the system makes certain errors more likely. Changing outcomes requires redesigning the process so that the secure path is also the easy path, rather than relying on individuals to resist pressure that the role itself creates."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Organizations can measure the behaviors that social engineering targets. The relevant signals sit in help desk operations and identity processes, not only in network monitoring."
+     ],
+     "bullets": [
+      "Share of password and authentication resets completed with strong identity verification",
+      "Help desk resolution-time targets that may conflict with verification steps",
+      "Results of realistic voice phishing tests across support teams",
+      "Proportion of privileged accounts protected by phishing-resistant authentication"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Security investments often focus on technology while the most consequential decisions happen in routine human interactions. Leaders who align help desk incentives with verification, and who test procedures under realistic pressure, reduce the chance that a single conversation becomes an enterprise incident.",
+      "For investors, the MGM case shows that cyber risk is partly an operations and culture question. The company's own filing estimated an impact of about $100 million, and the disruption reached guest-facing systems. Diligence that asks how identity is verified, how support teams are measured and how procedures are tested under pressure offers a more complete picture of exposure than a review of technical tools alone."
+     ],
+     "bullets": [
+      "Review help desk metrics to ensure speed targets do not discourage proper verification",
+      "Adopt phishing-resistant authentication for privileged and high-risk accounts, as CISA recommends",
+      "Run realistic social engineering exercises and treat results as process feedback, not blame",
+      "In diligence, examine identity verification procedures alongside technical security controls"
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Hospitality companies hold sensitive personal information for millions of guests, and breaches create lasting risks for people whose identity documents are exposed. Protecting that information depends on everyday procedures as much as on technology. Security programs that respect employees, design for real-world pressures and measure behavior honestly protect both customers and staff. Datalidy views this kind of behavior-centered security design as a public-good responsibility for any organization trusted with personal data."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "BlackCat hack of MGM achieved by impersonation of employee, found via LinkedIn: reports",
+     "publisher": "AGBrief",
+     "url": "https://agbrief.com/news/14/09/2023/blackcat-hack-of-mgm-achieved-by-impersonation-of-employee-found-via-linkedin-reports/",
+     "date": "2023-09-14"
+    },
+    {
+     "title": "MGM Resorts attackers hit personal data jackpot, but house lost $100M",
+     "publisher": "The Register",
+     "url": "https://www.theregister.com/2023/10/06/mgm_resorts_cyberattack_cost/",
+     "date": "2023-10-06"
+    },
+    {
+     "title": "Scattered Spider (Cybersecurity Advisory AA23-320A)",
+     "publisher": "CISA and FBI",
+     "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a",
+     "date": "2023-11-16"
+    }
+   ],
+   "related_services": [
+    "process-mapping",
+    "behavioral-design",
+    "culture-design"
+   ],
+   "related_insights": [
+    "systems-thinking",
+    "cost-of-untested-assumptions"
+   ]
+  },
+  {
+   "slug": "kaiser-permanente-strike-health-care-staffing",
+   "title": "Kaiser Permanente Workers Stage a Historic Health Care Strike",
+   "event_month": "2023-10",
+   "meta_title": "Kaiser Permanente Strike: Staffing, Burnout and Signals",
+   "meta_description": "More than 75,000 Kaiser Permanente workers struck in October 2023 over staffing and pay. A look at workforce strain, competing data and leading signals.",
+   "topic": "Health",
+   "sector": "Health Care",
+   "organizations": [
+    "Kaiser Permanente",
+    "Coalition of Kaiser Permanente Unions",
+    "SEIU-United Healthcare Workers West"
+   ],
+   "summary": "More than 75,000 Kaiser Permanente workers walked out in October 2023 over staffing and pay, in what was described as the largest US health care strike.",
+   "dek": "On October 4, 2023, more than 75,000 Kaiser Permanente workers began a three-day strike over staffing and wages. The dispute showed how workforce strain, and disagreement about how to measure it, can become a defining issue for a health system.",
+   "key_takeaways": [
+    "Workers and management described staffing through different measures, showing why shared, trusted workforce metrics matter.",
+    "Frontline perceptions of understaffing can diverge from system-wide turnover figures, and both deserve attention.",
+    "Clinical workforce strain is a leading indicator of patient experience, access and quality concerns.",
+    "Investors in health care should evaluate workforce sentiment and staffing data with the same rigor as financial performance."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On October 4, 2023, more than 75,000 Kaiser Permanente workers began a strike at hospitals and medical offices in California, Colorado, Oregon, Virginia, Washington and Washington, D.C., according to CBS News, which described it as the largest walkout by health care workers in U.S. history. The strike was scheduled to last three days and involved nurses, lab technicians, pharmacists and other staff. CBS reported it could affect nearly 13 million people by curtailing nonessential care such as routine checkups.",
+      "The Coalition of Kaiser Permanente Unions, whose contract expired September 30, argued that chronic understaffing was harming patients and staff, according to Chief Healthcare Executive. CBS reported that the coalition sought a $25 hourly minimum wage plus annual raises, while Kaiser offered a $25 minimum in California and $23 in other states. Kaiser said talks \"unfortunately ended without a settlement,\" though the sides had reached \"a number of tentative agreements.\" Chief Healthcare Executive reported that both sides had made progress on protections against outsourcing.",
+      "Kaiser kept hospitals and emergency departments open, staffed by physicians, managers and contingent workers, CBS reported. The organization said it was doing its best in an industry facing worker shortages. In response to union claims about staff departures, Kaiser said the average coalition-represented employee stays nearly 11 years and that turnover was 7 percent, below the industry average, according to Chief Healthcare Executive."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "At the heart of the dispute was a disagreement about what staffing data meant. Workers described the daily experience of doing more with fewer people, while Kaiser pointed to tenure and turnover figures that compared favorably with the industry. Both can be true at once. Average turnover can look stable while specific units, roles or shifts are under acute strain, and system-level averages rarely capture how stretched people feel during a given shift.",
+      "Health care work carries unusual emotional and physical demands. When staff believe they cannot provide care the way patients deserve, the resulting moral distress can affect engagement, retention and safety. Kaiser faced real constraints, including industry-wide shortages and the need to keep care affordable. The workers faced their own constraints, including fatigue and rising living costs. A walkout of this scale reflects a gap that had grown over time between how the work felt and how it was measured."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "The issues behind the strike were long-running and widely discussed across the industry. The signals that best predict this kind of conflict sit at the unit and role level, not in system-wide averages."
+     ],
+     "bullets": [
+      "Vacancy and overtime rates by unit, role and shift rather than system-wide averages",
+      "Frontline reports of delayed or deferred care attributed to staffing",
+      "Burnout and intent-to-leave measures from validated, regularly repeated surveys",
+      "Use of contingent or temporary staff as a share of scheduled hours"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "When labor and management cite different numbers, the underlying problem is often measurement, not just money. Health system leaders who build workforce metrics that frontline staff recognize as accurate create a shared basis for decisions and a better chance of resolving disputes before they escalate.",
+      "For investors in health care services, the strike highlights that workforce data is not a back-office concern. Staffing strain affects access, patient experience and reputation, and disputes over its measurement can escalate into large-scale disruption. Organizations that pair system-wide turnover figures with unit-level strain indicators and validated surveys of staff wellbeing gain earlier warning, and they give boards a more accurate picture of operating risk than any single average can provide."
+     ],
+     "bullets": [
+      "Develop staffing metrics with frontline input so both sides trust the data",
+      "Report workforce strain by unit and role to boards, not only system averages",
+      "Link workforce indicators to patient access and experience measures",
+      "In diligence, examine staffing models and clinician sentiment as drivers of quality and risk"
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Kaiser Permanente serves millions of members, and the wellbeing of its workforce is inseparable from the care those members receive. Sustainable staffing protects patients, supports clinicians and strengthens public trust in health care. Measuring workforce strain honestly and early is a public health priority, not just an employment matter. Datalidy sees clinician and staff wellbeing as one of the clearest places where better measurement serves both performance and the public good."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Kaiser Permanente workers launch historic strike over staffing and pay",
+     "publisher": "CBS News",
+     "url": "https://www.cbsnews.com/news/kaiser-strike-2023-update-workers",
+     "date": "2023-10-04"
+    },
+    {
+     "title": "On strike: More than 75,000 Kaiser Permanente workers stage walkout",
+     "publisher": "Chief Healthcare Executive",
+     "url": "https://chiefhealthcareexecutive.com/view/on-strike-kaiser-permanente-workers-begin-walkout",
+     "date": "2023-10-04"
+    }
+   ],
+   "related_services": [
+    "clinician-wellbeing",
+    "people-analytics",
+    "survey-measurement-design"
+   ],
+   "related_insights": [
+    "leading-and-lagging-indicators",
+    "psychometrics-for-business-surveys"
+   ]
+  },
+  {
+   "slug": "23andme-data-breach-credential-stuffing-and-shared-data",
+   "title": "23andMe Breach Exposes Data of Millions Through Shared Features",
+   "event_month": "2023-10",
+   "meta_title": "23andMe Data Breach: Password Reuse and Shared Data Risk",
+   "meta_description": "A breach 23andMe disclosed in October 2023 began with reused passwords and reached millions via data-sharing features. Lessons for security design.",
+   "topic": "Design",
+   "sector": "Health Care",
+   "organizations": [
+    "23andMe"
+   ],
+   "summary": "A 23andMe breach that began with about 14,000 accounts reached 6.9 million people through a relative-matching feature, showing how design choices multiply security risk.",
+   "dek": "In October 2023, 23andMe disclosed that attackers had accessed customer accounts using reused credentials. The company later said about 14,000 accounts were compromised directly, but data on 6.9 million people was exposed through its DNA Relatives feature.",
+   "key_takeaways": [
+    "Password reuse is a predictable human behavior, so security design should assume it rather than rely on customers to avoid it.",
+    "Features that connect users can multiply the impact of a single compromised account across many people.",
+    "Optional two-step verification leaves protection to individual choice, and adoption rates are a key security metric.",
+    "Investors in consumer health and data businesses should evaluate how product design concentrates or limits breach exposure."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "In early October 2023, a hacker claimed on an online forum to have profile information on millions of 23andMe users, according to HIPAA Journal. 23andMe, the consumer genetic testing company, investigated and said its own systems had not been compromised. Instead, certain accounts had been accessed through credential stuffing, an attack that uses usernames and passwords leaked in other companies' breaches to log in where people have reused them, HIPAA Journal reported.",
+      "In December, 23andMe said that about 0.1 percent of its roughly 14 million users, approximately 14,000 accounts, had been compromised directly, according to HIPAA Journal. Through those accounts, attackers accessed DNA Relatives profiles of about 5.5 million other users and Family Tree information of about 1.4 million more, for a total of about 6.9 million people. A 23andMe spokesperson confirmed the 6.9 million figure to ISMG's GovInfoSecurity. The exposed data included names, relationship labels, birth years, ancestry information and self-reported locations.",
+      "23andMe forced a password reset for all users and made two-step verification mandatory, where it had previously been optional, HIPAA Journal reported. In a filing with the Securities and Exchange Commission, the company estimated one-time expenses of $1 million to $2 million, mostly for consulting, legal fees and advisors, and said it faced multiple putative class action lawsuits in state and federal courts and in Canada, according to GovInfoSecurity."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Password reuse is one of the most common behaviors in digital life. People manage dozens of accounts, and reusing passwords is a predictable response to that burden. Security that depends on every customer avoiding it will fail at scale. Making two-step verification optional left a key protection to individual choice, and many people do not activate optional safeguards even when they value security.",
+      "The larger issue was how product design amplified the impact. DNA Relatives was built to connect people through shared genetic information, a feature many customers valued. But it meant that one person's compromised account could expose information about many others who had done nothing wrong. Where responsibility lies in such cases is contested, and litigation followed. From a design perspective, the lesson is that connection features need protections calibrated to the most sensitive data they can reveal, not to the security habits of the least protected user."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "The conditions for this breach were measurable in advance. Organizations can track how many users rely on weak protections and how far data travels when a single account is compromised."
+     ],
+     "bullets": [
+      "Adoption rate of optional two-step verification across the user base",
+      "Volume of failed and anomalous login attempts indicating credential stuffing",
+      "Number of other users' records reachable from a single account",
+      "Share of users who opted into data-sharing features without strong authentication"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Security design should start from how people actually behave. Defaults matter more than options, and features that connect users should be evaluated for how they extend the reach of any single failure. Leaders who measure these exposures can make deliberate tradeoffs between convenience and protection.",
+      "For investors in consumer health and data businesses, the breach shows how product features and security posture interact. A feature that drives engagement can also widen the reach of a single compromise. Diligence should examine default settings, authentication adoption rates and the data each account can reach, not only whether core systems were breached. Those questions reveal whether a company's growth depends on design choices that quietly concentrate risk across its entire customer base."
+     ],
+     "bullets": [
+      "Make strong authentication the default for accounts holding sensitive data",
+      "Assess sharing features for how far a single compromise can spread",
+      "Monitor login patterns for credential stuffing and rate-limit suspicious activity",
+      "In diligence, evaluate data architecture and default security settings as material risk factors"
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Genetic information is uniquely personal and also shared with relatives who never agreed to its disclosure. Breaches involving such data raise questions about privacy, trust in health technology and willingness to participate in research. Protecting that trust supports the broader public good of accessible genetic insight. Datalidy believes behavior-informed security design, which assumes ordinary human habits and protects people anyway, is essential for any organization handling health-related data."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "6.9 Million 23andMe Users Affected by Data Breach",
+     "publisher": "HIPAA Journal",
+     "url": "https://www.hipaajournal.com/6-9-million-23andme-users-affected-by-data-breach/",
+     "date": "2023-12-05"
+    },
+    {
+     "title": "23andMe Says Hackers Stole Ancestry Data of 6.9M Users",
+     "publisher": "GovInfoSecurity (ISMG)",
+     "url": "https://www.govinfosecurity.com/23andme-says-hackers-stole-ancestry-data-69m-users-a-23772",
+     "date": "2023-12-05"
+    }
+   ],
+   "related_services": [
+    "digital-health-product-design",
+    "behavioral-design",
+    "user-research-usability-testing"
+   ],
+   "related_insights": [
+    "nudge-theory-in-business",
+    "cost-of-untested-assumptions"
+   ]
+  },
+  {
+   "slug": "openai-board-ceo-removal-and-governance",
+   "title": "OpenAI's Board Removes Its CEO, Then Reinstates Him Days Later",
+   "event_month": "2023-11",
+   "meta_title": "OpenAI Leadership Crisis: Governance and Board Trust",
+   "meta_description": "OpenAI's board removed its CEO in November 2023, then reinstated him days later under a new board. What it shows about governance, trust and communication.",
+   "topic": "Leadership",
+   "sector": "Technology",
+   "organizations": [
+    "OpenAI",
+    "Microsoft"
+   ],
+   "summary": "OpenAI's board removed its chief executive in November 2023, and he returned within days under a revamped board. The crisis was a test of governance and trust.",
+   "dek": "On November 17, 2023, OpenAI's board said its chief executive had not been \"consistently candid\" and removed him. After days of turmoil, including a letter signed by most employees, he was reinstated and the board was reconstituted.",
+   "key_takeaways": [
+    "Board decisions communicated without explanation can trigger stakeholder reactions that overwhelm the decision itself.",
+    "Employee collective action showed that workforce commitment is a decisive governance factor in talent-intensive firms.",
+    "Major partners learning of leadership changes at the last minute signals gaps in stakeholder communication.",
+    "Investors should assess whether governance structures can absorb conflict without threatening the organization's continuity."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On Friday, November 17, 2023, OpenAI announced that its board had removed chief executive Sam Altman after a \"deliberative review process\" concluded that he \"was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities,\" according to Computerworld. The board named chief technology officer Mira Murati interim CEO. Computerworld reported that co-founder Greg Brockman was removed as board chair and subsequently left the company.",
+      "Microsoft, which GovInfoSecurity reported had invested more than $13 billion in OpenAI, learned of the decision one minute before it was announced. Over the following days OpenAI had two interim chief executives, and a letter backing a board change was signed by 95 percent of the workforce, according to GovInfoSecurity. On November 22, the company announced Altman would return as CEO under a new initial board led by Bret Taylor and including Larry Summers, with Adam D'Angelo the only remaining member of the prior board. Microsoft's chief executive called the changes \"an essential step on a path to more stable, well-informed and effective governance.\"",
+      "As part of the agreement, Altman agreed to an independent investigation into the events that led to his removal, Semafor reported on November 29. The board had not publicly provided specifics about its concerns. Semafor reported that a week after his return, the lack of detail had left some employees uneasy, and that some staff had explored jobs at other AI companies."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "The board acted within its authority, but its communication left a vacuum. A brief statement citing a lack of candor, without further detail, invited employees, partners and the public to supply their own explanations. In moments of uncertainty, people look to one another for cues, and collective sentiment can form quickly. The employee letter showed how strongly the workforce identified with its leadership, and how that identification became a source of power in the governance dispute.",
+      "Board members operate under real constraints, including legal considerations, confidentiality and fiduciary duties to a specific mission. Those constraints can make full disclosure difficult. Yet governance depends on the trust of the people who must carry out its decisions. When a decision affects thousands of employees and a major partner, the way it is communicated becomes as consequential as the decision itself."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Governance strain rarely appears without warning. The board's own statement pointed to concerns about communication between directors and management, which is the kind of relationship that can be assessed before a crisis."
+     ],
+     "bullets": [
+      "Quality and consistency of information flow between management and the board",
+      "Alignment between key partners and the board on governance expectations",
+      "Employee identification with individual leaders versus the institution and its mission",
+      "Board composition and capacity to manage conflict in a high-growth organization"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Boards of fast-growing, mission-driven organizations face unusual pressure. The episode shows the value of assessing board and management relationships regularly, planning communication for high-stakes decisions, and understanding how employees and partners are likely to respond before acting.",
+      "For investors, the episode showed that governance structures can carry risk even when operating performance is strong. Unusual structures, such as nonprofit boards overseeing commercial entities, may have clear mission logic but uncertain dynamics under stress. Understanding who holds authority, how disagreements are surfaced and how key stakeholders would react to a leadership change is part of evaluating any organization where a small group of leaders and employees drives most of the value."
+     ],
+     "bullets": [
+      "Conduct regular, structured assessments of board and management trust",
+      "Plan stakeholder communication before, not after, major leadership decisions",
+      "Map key partner dependencies and how governance changes would affect them",
+      "In diligence, examine governance structures for clarity of authority and conflict resolution"
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "OpenAI's work affects how millions of people learn, work and access information, and its governance matters beyond its own investors and staff. Stable, transparent governance supports public confidence that powerful technology is being developed responsibly. When leadership disputes play out without explanation, public trust in that oversight can suffer. Datalidy sees clear, accountable leadership communication as an essential part of responsible AI development."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "OpenAI jettisons CEO Sam Altman for dishonesty",
+     "publisher": "Computerworld",
+     "url": "https://www.computerworld.com/article/3710951/openai-jettisons-ceo-sam-altman-for-dishonesty.html",
+     "date": "2023-11-17"
+    },
+    {
+     "title": "Founder Sam Altman Back as OpenAI CEO Under Revamped Board",
+     "publisher": "GovInfoSecurity (ISMG)",
+     "url": "https://www.govinfosecurity.com/founder-sam-altman-back-as-openai-ceo-under-revamped-board-a-23666",
+     "date": "2023-11-22"
+    },
+    {
+     "title": "OpenAI staff uneasy after Sam Altman's return",
+     "publisher": "Semafor",
+     "url": "https://www.semafor.com/newsletter/11/29/2023/openai-staff-uneasy-after-sam-altmans-return",
+     "date": "2023-11-29"
+    }
+   ],
+   "related_services": [
+    "leadership-alignment",
+    "management-team-assessment",
+    "executive-coaching"
+   ],
+   "related_insights": [
+    "how-leaders-decide-under-pressure",
+    "psychological-safety"
+   ]
+  },
+  {
+   "slug": "binance-guilty-plea-compliance-culture",
+   "title": "Binance Pleads Guilty and Agrees to Pay $4.3 Billion",
+   "event_month": "2023-11",
+   "meta_title": "Binance Guilty Plea: Compliance Culture and Growth",
+   "meta_description": "Binance pleaded guilty to anti-money laundering and sanctions violations in November 2023. What the case shows about compliance culture and diligence.",
+   "topic": "Strategy",
+   "sector": "Finance & Business",
+   "organizations": [
+    "Binance",
+    "U.S. Department of Justice",
+    "U.S. Department of the Treasury",
+    "Commodity Futures Trading Commission"
+   ],
+   "summary": "Binance pleaded guilty to anti-money laundering and sanctions violations and agreed to pay $4.3 billion, as its founder stepped down. Compliance culture was central to the case.",
+   "dek": "On November 21, 2023, Binance pleaded guilty to anti-money laundering and sanctions violations, agreeing to pay about $4.3 billion. Its founder and chief executive pleaded guilty to a Bank Secrecy Act violation and stepped down.",
+   "key_takeaways": [
+    "Compliance failures often reflect incentive structures that reward growth while treating controls as optional friction.",
+    "Prosecutors described a company that prioritized profits over required safeguards, a cultural finding as much as a legal one.",
+    "An independent monitor signals that regulators want sustained behavior change, not just a one-time payment.",
+    "Investors should evaluate compliance culture and leadership behavior as material risks, especially in fast-growing sectors."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On November 21, 2023, Binance Holdings and its founder and chief executive Changpeng Zhao pleaded guilty to anti-money laundering and U.S. sanctions violations under a settlement that allowed the exchange to keep operating, Bloomberg reported. Zhao pleaded guilty to violating the Bank Secrecy Act in federal court in Seattle, agreed to pay a $50 million fine and stepped down as CEO. The settlement involved the Justice Department, the Treasury Department and the Commodity Futures Trading Commission, according to Bloomberg.",
+      "Binance agreed to pay about $4.3 billion, combining a fine and forfeiture, according to USA Today, as published by Yahoo Finance. The company also pleaded guilty to failing to register as a money transmitting business and to violating the International Emergency Economic Powers Act. The Justice Department alleged that Binance kept VIP U.S. customers after announcing in 2019 that it would block them, helping them register offshore accounts, USA Today reported. Binance will be subject to a monitor and reporting requirements.",
+      "Attorney General Merrick Garland said Binance \"prioritized its profits over the safety of the American people,\" and added, \"Using new technology to break the law does not make you a disrupter; it makes you a criminal,\" according to USA Today. Treasury Secretary Janet Yellen said Binance processed transactions linked to terrorist groups without filing suspicious activity reports. Richard Teng, previously Binance's global head of regional markets, was named chief executive."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Compliance failures at this scale rarely result from a single decision. They emerge from incentives, norms and leadership signals that tell people which goals matter most. When growth is celebrated and controls are framed as obstacles, employees learn to treat compliance as negotiable. The Justice Department's account of retaining customers the company had publicly said it would block describes a gap between stated policy and actual behavior, which is a defining feature of weak compliance cultures.",
+      "Fast-growing companies in new markets face genuine ambiguity about how existing rules apply, and the cryptocurrency sector developed quickly relative to regulatory frameworks. That context explains some uncertainty, but the plea agreement shows that core obligations, such as anti-money laundering programs and sanctions compliance, applied throughout. Culture determines whether people resolve ambiguity by asking what is required or by asking what they can get away with."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Compliance culture can be assessed before enforcement action. Investors, boards and partners can look for signals that show whether stated policies govern actual behavior."
+     ],
+     "bullets": [
+      "Gaps between public compliance commitments and observed customer or transaction practices",
+      "Seniority, independence and resourcing of compliance leadership relative to growth teams",
+      "Volume and handling of suspicious activity reports compared with transaction growth",
+      "Employee willingness to raise compliance concerns without fear of consequences"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "The case is a reminder that compliance is a behavioral outcome shaped by leadership. Boards and investors should evaluate whether incentives reward adherence to controls, whether compliance leaders have real authority, and whether employees feel safe raising concerns.",
+      "For investors, the case shows that compliance risk can grow alongside commercial success when growth teams outpace controls. Penalties of this size, combined with leadership change and ongoing monitoring, can reshape a company's trajectory. Diligence that examines how compliance decisions are made, who can overrule them and whether stated policies match observed practice offers earlier insight than a review of written policies alone, which may look complete while behavior tells a different story."
+     ],
+     "bullets": [
+      "Align incentive structures so growth targets do not reward bypassing controls",
+      "Give compliance leaders independence and direct access to the board",
+      "Measure speak-up culture as a leading indicator of misconduct risk",
+      "In diligence, test whether stated policies match observed operational behavior"
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Anti-money laundering and sanctions rules protect the public from fraud, terrorism financing and other harms. When major financial platforms fail to apply them, the costs fall on society, not only on the company. Building cultures where compliance is part of how work gets done supports both market integrity and public safety. Datalidy views compliance culture as a measurable set of behaviors that boards and investors can and should examine."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Binance Pleads Guilty, Loses CZ, Pays Fines to End Legal Woes",
+     "publisher": "Bloomberg Law",
+     "url": "https://news.bloomberglaw.com/states-of-play/binance-ceo-zhao-to-plead-guilty-in-us-settlement-wsj",
+     "date": "2023-11-21"
+    },
+    {
+     "title": "Cryptocurrency exchange Binance pleads guilty along with CEO to money laundering charges",
+     "publisher": "Yahoo Finance (USA Today)",
+     "url": "https://uk.finance.yahoo.com/news/cryptocurrency-exchange-binance-pleads-guilty-004353507.html",
+     "date": "2023-11-21"
+    }
+   ],
+   "related_services": [
+    "commercial-due-diligence",
+    "culture-design",
+    "management-team-assessment"
+   ],
+   "related_insights": [
+    "psychological-safety",
+    "people-problems-are-business-problems"
+   ]
+  }
+ ]
+}

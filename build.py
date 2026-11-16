@@ -70,6 +70,44 @@ def load():
 
 
 PRACTICES, SERVICES, INDUSTRIES, INSIGHTS = load()
+
+
+def load_perspectives():
+    items = {}
+    for f in sorted(CONTENT.glob("perspectives_*.json")):
+        for a in json.loads(f.read_text())["perspectives"]:
+            items.setdefault(a["slug"], a)
+    # Newest event first; stable within a month
+    return dict(sorted(items.items(), key=lambda kv: kv[1]["event_month"], reverse=True))
+
+
+PERSPECTIVES = load_perspectives()
+MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+
+
+def month_label(ym):
+    y, m = ym.split("-")
+    return f"{MONTHS[int(m) - 1]} {y}"
+
+
+IMG_SECTOR = {
+    "Aviation": [912050, 2026324, 290595], "Transportation": [1170187, 164634], "Technology": [3861969, 6476589, 3184360, 3862130, 590022, 3183197],
+    "Health Care": [7579831, 4386467, 4031818, 6823562], "Finance & Business": [2422293, 590022, 1181396],
+    "Retail & Consumer": [264636, 3184639], "Energy & Infrastructure": [433308, 1105766], "Public Sector": [1105766, 323705],
+    "Education": [207692, 5212345], "Media": [3184639, 3862130], "Labor": [1108101, 3182759, 6646918],
+    "Travel & Hospitality": [258154, 2026324],
+}
+
+
+def sector_img(a):
+    opts = IMG_SECTOR.get(a.get("sector"))
+    if not opts:
+        return POOL[sum(map(ord, a["slug"])) % len(POOL)]
+    # Rotate through a sector's photos by position so neighbors differ
+    same = [x for x in PERSPECTIVES.values() if x.get("sector") == a.get("sector")]
+    return opts[same.index(a) % len(opts)] if a in same else opts[0]
+
+
 IMG_INSIGHT = {slug: POOL[n % len(POOL)] for n, slug in enumerate(INSIGHTS)}
 
 ARROW = '<svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M2 8h11M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.6"/></svg>'
@@ -172,6 +210,7 @@ def header(pg, active):
       </li>
       <li><a href="{pg.u('industries/')}"{cur('industries')}>Industries</a></li>
       <li><a href="{pg.u('insights/')}"{cur('insights')}>Insights</a></li>
+      <li><a href="{pg.u('perspectives/')}"{cur('perspectives')}>Perspectives</a></li>
       <li><a href="{pg.u('approach/')}"{cur('approach')}>Approach</a></li>
       <li><a href="{pg.u('about/')}"{cur('about')}>About</a></li>
       <li><a class="btn btn-primary" href="{pg.u('contact/')}">Start a conversation</a></li>
@@ -198,6 +237,7 @@ def footer(pg):
       <div><h4>Firm</h4><ul>
         <li><a href="{pg.u('about/')}">About</a></li>
         <li><a href="{pg.u('approach/')}">Approach</a></li>
+        <li><a href="{pg.u('perspectives/')}">Perspectives</a></li>
         <li><a href="{pg.u('services/')}">All services</a></li>
         <li><a href="{pg.u('services/a-z/')}">Services A–Z</a></li>
         <li><a href="{pg.u('contact/')}">Contact</a></li>
@@ -281,6 +321,11 @@ def service_card(pg, s, show_practice=True):
     meta = f'<div class="meta">{e(PRACTICES[s["practice"]]["name"])}</div>' if show_practice and s["practice"] in PRACTICES else ""
     return (f'<a class="card" href="{pg.u("services/" + s["slug"] + "/")}">{meta}<h3>{e(s["name"])}</h3>'
             f'<p>{e(s["summary"])}</p><span class="more">Explore</span></a>')
+
+
+def perspective_card(pg, a):
+    return (f'<a class="card" href="{pg.u("perspectives/" + a["slug"] + "/")}"><div class="card-img"><img src="{pg.u(f"assets/img/{sector_img(a)}-sm.jpg")}" alt="" loading="lazy" width="720" height="405"></div>'
+            f'<div class="meta">{e(a.get("sector", ""))} · {month_label(a["event_month"])}</div><h3>{e(a["title"])}</h3><p>{e(a["summary"])}</p><span class="more">Read the analysis</span></a>')
 
 
 def insight_card(pg, a):
@@ -429,6 +474,8 @@ def build_home():
   <p>Behavior looks different in a dealership, a health club, a mortgage file, a classroom or a portfolio company. We bring sector context to each and the same science to all.</p></div>
   <div class="industry-list">{industries}</div>
 </div></section>
+
+{perspectives_home(pg)}
 
 <section class="section section-alt"><div class="wrap">
   <div class="section-head"><div><span class="eyebrow">Insights</span><h2>Ideas we put to work.</h2></div>
@@ -648,6 +695,100 @@ def build_insights():
                          ld=[crumbs_ld(trail), art, faq_ld(a["faqs"])], img=IMG_INSIGHT[slug]), "0.7")
 
 
+def perspectives_home(pg):
+    latest = list(PERSPECTIVES.values())[:3]
+    if not latest:
+        return ""
+    return f"""<section class="section section-dark"><div class="wrap">
+  <div class="section-head"><div><span class="eyebrow">Perspectives</span><h2>The behavior behind the headlines.</h2></div>
+  <p>Objective analysis of major events through a behavioral lens: what happened, the human decisions underneath, the signals that mattered, and what leaders and investors can learn.</p></div>
+  <div class="grid g3">{''.join(perspective_card(pg, a) for a in latest)}</div>
+  <p style="margin-top:40px"><a class="link-arrow" style="color:#fff" href="{pg.u('perspectives/')}">All perspectives</a></p>
+</div></section>"""
+
+
+def build_perspectives():
+    if not PERSPECTIVES:
+        return
+    items = list(PERSPECTIVES.values())
+    pg = Page("perspectives/")
+    trail = [("Home", ""), ("Perspectives", "perspectives/")]
+    by_year = {}
+    for a in items:
+        by_year.setdefault(a["event_month"][:4], {}).setdefault(a["event_month"], []).append(a)
+    sectors = sorted({a.get("sector", "") for a in items if a.get("sector")})
+    chips = '<li><button data-filter="all" aria-pressed="true">All sectors</button></li>' + "".join(
+        f'<li><button data-filter="{e(x)}" aria-pressed="false">{e(x)}</button></li>' for x in sectors)
+    years_nav = "".join(f'<li><a href="#y{y}">{y}</a></li>' for y in by_year)
+    blocks = []
+    for y, months in by_year.items():
+        rows = []
+        for ym, arts in months.items():
+            lis = "".join(
+                f'<li data-topic="{e(a.get("sector", ""))}"><a href="{pg.u("perspectives/" + a["slug"] + "/")}"><span class="p-sector">{e(a.get("sector", ""))}</span>'
+                f'<span class="p-title">{e(a["title"])}</span><span class="p-sum">{e(a["summary"])}</span></a></li>' for a in arts)
+            rows.append(f'<div class="p-month"><h3>{MONTHS[int(ym[5:]) - 1]}</h3><ul>{lis}</ul></div>')
+        blocks.append(f'<section class="p-year" id="y{y}"><h2>{y}</h2>{"".join(rows)}</section>')
+    body = f"""<section class="hero hero-page"><div class="wrap">
+{crumbs_html(pg, trail)}
+<span class="eyebrow">Perspectives</span><h1>The behavior behind the headlines.</h1>
+<p class="lede">Objective analysis of {len(items)} major events from the past five years: outages, safety incidents, leadership transitions, layoffs, launches and public health moments. Each piece looks past the headline to the human decisions, incentives and signals underneath, with sources cited.</p></div></section>
+<section class="section-tight section-white"><div class="wrap"><ul class="chips">{chips}</ul><ul class="chips" style="margin-top:14px">{years_nav}</ul></div></section>
+<section class="section-tight"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Latest</span><h2>Recent analysis.</h2></div><p></p></div>
+<div class="grid g3">{''.join(perspective_card(pg, a) for a in items[:3])}</div></div></section>
+<section class="section"><div class="wrap"><div class="archive">{''.join(blocks)}</div></div></section>
+{cta_band(pg)}"""
+    write(pg, layout(pg, title="Perspectives: The Behavior Behind the Headlines", active="perspectives",
+                     description="Objective analysis of major news events through a behavioral science lens: the human decisions, signals and lessons for leaders, investors and the public good.",
+                     body=body, ld=[crumbs_ld(trail)], img=912050), "0.8")
+
+    for idx, a in enumerate(items):
+        pg = Page(f"perspectives/{a['slug']}/")
+        trail = [("Home", ""), ("Perspectives", "perspectives/"), (a["title"], pg.path)]
+        secs, toc = [], []
+        for n, sec in enumerate(a["sections"], 1):
+            sid = f"s{n}"
+            toc.append((sid, sec["heading"]))
+            bullets = "".join(f"<li>{e(b)}</li>" for b in sec.get("bullets") or [])
+            secs.append(f'<section id="{sid}"><h2>{e(sec["heading"])}</h2>{para(sec["paragraphs"])}{f"<ul class=bullets>{bullets}</ul>" if bullets else ""}</section>')
+        toc.append(("sources", "Sources"))
+        src = "".join(
+            f'<li><a href="{e(x["url"])}" rel="nofollow noopener" target="_blank">{e(x["title"])}</a><span>{e(x.get("publisher", ""))}{", " + e(x["date"]) if x.get("date") else ""}</span></li>'
+            for x in a["sources"])
+        takeaways = "".join(f"<li>{e(t)}</li>" for t in a["key_takeaways"])
+        orgs = ", ".join(a.get("organizations", []))
+        rel_s = pick(SERVICES, a.get("related_services", []))[:3]
+        newer = items[idx - 1] if idx > 0 else None
+        older = items[idx + 1] if idx + 1 < len(items) else None
+        pager = '<div class="pager">' + (
+            f'<a href="{pg.u("perspectives/" + older["slug"] + "/")}"><small>← Earlier</small>{e(older["title"])}</a>' if older else "<span></span>") + (
+            f'<a class="next" href="{pg.u("perspectives/" + newer["slug"] + "/")}"><small>Later →</small>{e(newer["title"])}</a>' if newer else "<span></span>") + "</div>"
+        body = f"""<section class="hero hero-page"><div class="wrap">
+{crumbs_html(pg, trail)}
+<span class="eyebrow">Perspective · {e(a.get('sector', ''))} · {month_label(a['event_month'])}</span><h1>{e(a['title'])}</h1><p class="lede">{e(a['dek'])}</p></div></section>
+<section class="section"><div class="wrap layout">
+{toc_html(pg, toc)}
+<article class="prose">
+  <p class="p-meta">Event: {month_label(a['event_month'])}{(' · Organizations: ' + e(orgs)) if orgs else ''}<br>This analysis examines the event as it unfolded, based on the reporting cited below. Later developments may not be reflected.</p>
+  <div class="takeaways"><h2>Key takeaways</h2><ul>{takeaways}</ul></div>
+  {''.join(secs)}
+  <section id="sources"><h2>Sources</h2><ol class="sources">{src}</ol></section>
+  {pager}
+</article></div></section>
+<section class="section section-white"><div class="wrap"><div class="section-head"><div><span class="eyebrow">Put it to work</span><h2>Related services.</h2></div><p></p></div>
+<div class="grid g3">{''.join(service_card(pg, r) for r in rel_s)}</div></div></section>
+{cta_band(pg)}"""
+        art = {"@context": "https://schema.org", "@type": "AnalysisNewsArticle", "headline": a["title"], "description": a["meta_description"],
+               "author": {"@type": "Organization", "name": BRAND, "url": SITE + "/"},
+               "publisher": {"@type": "Organization", "name": BRAND, "logo": {"@type": "ImageObject", "url": SITE + "/assets/logo.png"}},
+               "mainEntityOfPage": SITE + "/" + pg.path, "image": f"{SITE}/assets/img/{sector_img(a)}.jpg",
+               "datePublished": TODAY, "dateModified": TODAY,
+               "about": [{"@type": "Organization", "name": o} for o in a.get("organizations", [])],
+               "citation": [x["url"] for x in a["sources"]]}
+        write(pg, layout(pg, title=a["meta_title"], description=a["meta_description"], body=body, active="perspectives", og_type="article",
+                         ld=[crumbs_ld(trail), art], img=sector_img(a)), "0.6")
+
+
 def build_approach():
     pg = Page("approach/")
     detail = {
@@ -828,6 +969,7 @@ def main():
         build_service(slug, s)
     build_industries()
     build_insights()
+    build_perspectives()
     build_approach()
     build_about()
     build_contact()
