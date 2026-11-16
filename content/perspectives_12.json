@@ -1,0 +1,615 @@
+{
+ "perspectives": [
+  {
+   "slug": "coupang-record-privacy-fine-access-controls",
+   "title": "Coupang's Record Privacy Fine Puts Access Controls and Offboarding in Focus",
+   "event_month": "2026-06",
+   "meta_title": "Coupang's Record Fine and the Human Side of Access Control",
+   "meta_description": "South Korea fined Coupang a record sum after a former employee reached customer data. What it shows about offboarding, access keys and early warning signals.",
+   "topic": "Strategy",
+   "sector": "Retail",
+   "organizations": [
+    "Coupang",
+    "Personal Information Protection Commission (South Korea)"
+   ],
+   "summary": "South Korea's privacy regulator imposed a record penalty on Coupang after a former employee used a signing key to reach data on tens of millions of customers.",
+   "dek": "Regulators traced one of South Korea's largest data exposures to a former employee and an authentication key that worked like a master key. The case is a lesson in how access, offboarding and escalation habits shape security outcomes.",
+   "key_takeaways": [
+    "South Korea's privacy regulator imposed combined penalties of about 624.7 billion won on Coupang, which is challenging them in court.",
+    "The regulator cited weak management of authentication signing keys and insufficient access controls after a former employee reached customer data.",
+    "Offboarding, key ownership and the speed of escalation are behavioral systems, and they can be measured before an incident occurs.",
+    "Investors should treat access governance and notification discipline as leading indicators of regulatory and reputational risk."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On June 11, 2026, South Korea's Personal Information Protection Commission imposed combined penalties of about 624.7 billion won on Coupang, the country's largest online retail platform. TNW reported that the total, roughly $409 million, was the largest data breach penalty in South Korean history, well above the 134.8 billion won fine imposed on SK Telecom in 2025. According to UPI, the total included about 423.6 billion won for the data leak and about 201.1 billion won for collecting and storing members' personal data without a legal basis.",
+      "TNW reported that a former Coupang employee used a stolen cryptographic signing key to access customer data and that the intrusion went undetected for nearly five months in 2025. UPI, citing the regulator, reported that information on about 37.5 million people was compromised, including more than 33 million registered members. The commission concluded that Coupang had failed to maintain basic safeguards, citing authentication signing keys that \"functioned as master keys\" and insufficient access controls. TNW also reported that Coupang notified regulators 48 hours after detecting suspicious activity, missing a 24-hour requirement, and that the delay weighed on the penalty.",
+      "TNW reported that Coupang had announced compensation in platform vouchers and that its chief executive resigned in December 2025. AFP, in a report carried by The Manila Times, said Coupang would challenge the fine in court, and UPI reported that the company filed two administrative lawsuits in October 2026 seeking to overturn the penalties. The legal process is ongoing, and the findings described here are the regulator's."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "According to UPI, the former employee had helped build an alternative authentication system while at the company. That detail matters because it describes a common pattern: the people who build a system often hold knowledge and access that no one else fully maps. When they leave, offboarding checklists tend to close accounts, not the less visible credentials, keys and paths they created. Closing those gaps depends on habits and ownership as much as on technology.",
+      "The 48-hour notification gap reported by TNW points to a second behavioral question: how teams decide when uncertain evidence is strong enough to escalate. Under pressure, people often wait for confirmation before raising an alarm. Clear thresholds, rehearsed escalation paths and leaders who reward early reporting all reduce that hesitation. The choice to compensate customers with platform vouchers also carries a behavioral message, since it asks affected customers to shop again in order to benefit, and customers may read that offer in different ways."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "The regulator's findings point to conditions that can be tracked well before data leaves the building. Each of these signals is a measure of behavior and ownership, not only of technical configuration."
+     ],
+     "bullets": [
+      "Signing keys without a named owner or rotation schedule after staff changes",
+      "Credentials and access paths that remain valid after an employee's offboarding is complete",
+      "Unusual data retrieval volumes from overseas or unfamiliar infrastructure",
+      "Elapsed time from first anomaly to internal escalation and regulator notification",
+      "Data collection practices that lack a documented legal basis or customer awareness"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "For boards and investors, the case shows how a single access failure can turn into a record penalty, leadership change, litigation and political attention at the same time. Access governance and notification discipline belong in diligence and portfolio monitoring, alongside growth and margin metrics. They are leading indicators that can be audited, trended and tied to accountability."
+     ],
+     "bullets": [
+      "Ask who owns every high-privilege key and how often ownership is verified.",
+      "Track offboarding completeness as a KPI, including credentials built by departing staff.",
+      "Rehearse escalation decisions under uncertainty and reward early reporting.",
+      "Treat a regulator's \"basic safeguards\" finding as a culture signal, not only a technical one."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "When a single platform holds data on a large share of a country's population, its security habits become a public concern. People cannot easily opt out of the services they use every day, so trust depends on organizations doing the unglamorous work of key management, offboarding and fast disclosure. Behavioral science, including the kind Datalidy practices, can help leaders turn those habits into measurable routines that protect customers before an incident, not after."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "South Korea hits Coupang with record $409 million fine over massive data breach",
+     "publisher": "TNW",
+     "url": "https://thenextweb.com/news/coupang-409-million-data-breach-fine-south-korea",
+     "date": "2026-06-11"
+    },
+    {
+     "title": "South Korea's Coupang challenges $466 million privacy fines",
+     "publisher": "UPI",
+     "url": "https://www.upi.com/Top_News/World-News/2026/10/08/coupang-challenges-privacy-fines-cybersecurity/7291791507436/",
+     "date": "2026-10-08"
+    },
+    {
+     "title": "SKorea hits Coupang with record fine over e-commerce data leak",
+     "publisher": "The Manila Times (AFP)",
+     "url": "https://www.manilatimes.net/2026/06/12/business/foreign-business/skorea-hits-coupang-with-record-fine-over-e-commerce-data-leak/2363796",
+     "date": "2026-06-12"
+    }
+   ],
+   "related_services": [
+    "behavioral-change-management",
+    "predictive-kpi-design",
+    "commercial-due-diligence"
+   ],
+   "related_insights": [
+    "leading-and-lagging-indicators",
+    "people-problems-are-business-problems"
+   ]
+  },
+  {
+   "slug": "brazil-pauses-butantan-dengue-vaccine-safety-signal",
+   "title": "Brazil Pauses a Single-Dose Dengue Vaccine to Investigate a Safety Signal",
+   "event_month": "2026-06",
+   "meta_title": "Brazil's Dengue Vaccine Pause and the Psychology of Trust",
+   "meta_description": "Brazil suspended the Butantan-DV dengue vaccine after rare severe events while it investigates. What the pause teaches about safety signals and public trust.",
+   "topic": "Health",
+   "sector": "Health Care",
+   "organizations": [
+    "Ministry of Health (Brazil)",
+    "Instituto Butantan",
+    "National Immunization Program (Brazil)"
+   ],
+   "summary": "Brazil's health ministry suspended its single-dose dengue vaccine after three severe cases, including two deaths, among more than 500,000 recipients. No causal link has been established.",
+   "dek": "Brazil paused a homegrown single-dose dengue vaccine while it investigates rare severe events after vaccination. The decision shows how health systems balance precaution, momentum and public confidence, and why adherence to existing vaccines matters as much as new ones.",
+   "key_takeaways": [
+    "Brazil suspended the Butantan-DV dengue vaccine in June 2026 after rare severe events, while stating that causality had not been established.",
+    "Officials framed the pause as a response to a safety signal, not a verdict, and the vaccine remained suspended in October.",
+    "Clear communication about what a pause means can protect confidence in vaccination more broadly, including in other available vaccines.",
+    "Second-dose follow-through for the two-dose Qdenga vaccine is a separate behavioral challenge that needs its own measures."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "In early June 2026, Brazil's Ministry of Health suspended administration of the single-dose dengue vaccine developed by Instituto Butantan, known as Butantan-DV, pending a safety review. Writing in The Conversation on June 16, an epidemiologist who serves as rector of the Federal University of Rio de Janeiro reported that just over 500,000 doses had been given as of May 30. Among them, 42 cases with alarm signs such as intense abdominal pain, persistent vomiting and bleeding had been reported, about 0.008 percent of those vaccinated. Three were classified as severe, including two deaths.",
+      "The author wrote that there was no conclusion that the vaccine caused these cases and that investigators still needed to examine vaccine lots, timing, laboratory results, circulating serotypes and clinical histories. He described the ministry's decision as correct and argued that a temporary suspension should generate confidence rather than panic. He advised people who had been vaccinated to monitor their health for 21 days and to seek care for warning signs.",
+      "Agência Brasil reported in October 2026 that the vaccine remained suspended. The director of the National Immunization Program said the ministry had treated the timing of the cases as a safety signal, that the pause did not cancel the vaccine, and that complementary studies were needed. He called the vaccine a great hope for the country, noting a plan to vaccinate 40 to 60 million people a year once safety questions are resolved."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Pausing a promising vaccine is a hard decision. Officials must weigh a very small number of serious events, whose cause is unknown, against the value of protecting millions of people from a disease that, according to The Conversation, caused more than 6,300 deaths in the comparable period of 2024. People tend to give more weight to harms that follow an action than to harms that follow inaction, so even a small signal can shift public perception. Acting early and explaining the reasoning helps keep that perception grounded in evidence.",
+      "The same Agência Brasil report shows a quieter behavioral challenge. More than 3 million adolescents who received a first dose of the two-dose Qdenga vaccine had not returned for the second, according to the immunization program director, who said it is difficult to vaccinate adolescents who do not perceive the risk. Completion depends on reminders, convenience and perceived relevance, not only on supply."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Brazil's response depended on surveillance that could detect rare events quickly. The same discipline can be applied to public confidence and follow-through, which shape outcomes just as directly.",
+      "Most of these measures already exist in some form inside health systems. The gap is usually integration: safety data, distribution data and attendance data sit in separate places and are reviewed by different teams. Bringing them together allows leaders to see whether a pause is affecting confidence in other vaccines and where follow-up efforts should focus first."
+     ],
+     "bullets": [
+      "Rate and timing of reported adverse events against expected background rates",
+      "Time from first severe report to review, decision and public explanation",
+      "Public search and inquiry patterns after a pause is announced",
+      "Second-dose return rates by age group and municipality",
+      "Administered doses compared with doses distributed to local health services"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "For health systems, manufacturers and investors in vaccines and other medical products, the episode shows that safety monitoring and communication are part of the product. A pause handled transparently can preserve the trust needed for later adoption, while a pause poorly explained can depress demand well beyond the product in question."
+     ],
+     "bullets": [
+      "Define in advance what triggers a pause and who explains it to the public.",
+      "Pair every safety review with a communication plan and a measure of public confidence.",
+      "Track completion of multi-dose regimens as a core outcome, not an afterthought.",
+      "In diligence, assess pharmacovigilance capacity alongside efficacy data."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Dengue places a heavy, recurring burden on Brazilian families and health services. A safe, single-dose vaccine could change that, which is why getting the safety question right matters so much. The public good is served by both careful investigation and steady attention to the vaccines already available, especially helping adolescents complete their series. Behavioral science, including the health communication work Datalidy does, can support both: clear explanations that build confidence, and reminder and access designs that make the second dose easy."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "A vacina da dengue e o princípio da precaução",
+     "publisher": "The Conversation",
+     "url": "https://theconversation.com/a-vacina-da-dengue-e-o-principio-da-precaucao-285409",
+     "date": "2026-06-16"
+    },
+    {
+     "title": "Dengue: 3 milhões de adolescentes estão com vacinação incompleta",
+     "publisher": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/dengue-3-milhoes-de-adolescentes-estao-com-vacinacao-incompleta",
+     "date": "2026-10-26"
+    },
+    {
+     "title": "Portal:Current events/2026 June 8",
+     "publisher": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_June_8",
+     "date": "2026-06-08"
+    }
+   ],
+   "related_services": [
+    "health-communication",
+    "patient-engagement-adherence",
+    "public-awareness-campaigns"
+   ],
+   "related_insights": [
+    "medication-adherence-behavioral-design",
+    "emotion-and-decision-making"
+   ]
+  },
+  {
+   "slug": "cyclospora-outbreak-taylor-farms-lettuce-traceback",
+   "title": "Cyclospora Outbreak Linked to Taylor Farms Lettuce Tests Traceback and Trust",
+   "event_month": "2026-07",
+   "meta_title": "The Cyclospora Lettuce Outbreak and the Limits of Traceback",
+   "meta_description": "A cyclospora outbreak tied to Taylor Farms lettuce sickened thousands in 2026. What it shows about traceback, recall design and signals food firms can watch.",
+   "topic": "Analytics",
+   "sector": "Food and Retail",
+   "organizations": [
+    "Taylor Farms",
+    "Taco Bell",
+    "U.S. Centers for Disease Control and Prevention",
+    "U.S. Food and Drug Administration",
+    "Michigan Department of Health and Human Services"
+   ],
+   "summary": "A cyclospora outbreak traced to shredded iceberg lettuce from a Taylor Farms facility in Mexico grew into one of the largest U.S. foodborne outbreaks in years.",
+   "dek": "Thousands of people fell ill with cyclosporiasis in summer 2026 before investigators linked an outbreak to lettuce supplied to Taco Bell. The case shows why delayed symptoms, recall wording and public disputes shape how quickly a food system can protect people.",
+   "key_takeaways": [
+    "Federal investigators linked a multistate cyclosporiasis outbreak to shredded iceberg lettuce from a Taylor Farms facility in central Mexico.",
+    "Symptoms can take up to two weeks to appear, so case interviews and people's memories of what they ate become the bottleneck.",
+    "Experts criticized a recall notice that was hard for consumers to read, and public disputes over test results added confusion.",
+    "Supplier oversight, interview speed and recall readability are measurable signals that food companies can track before a crisis."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "In July 2026, U.S. health officials reported an unusually large wave of cyclosporiasis, an intestinal illness caused by a microscopic parasite. NBC News reported on July 13 that Michigan officials had identified lettuce or salad greens as a possible source after the state recorded 2,640 cases. A day later, NBC News reported that the CDC counted nearly 7,000 confirmed or suspected cases nationwide and called it one of the largest U.S. foodborne outbreaks in years. Michigan officials based their early lettuce finding on more than 1,000 interviews with people who tested positive.",
+      "CNBC reported on July 24 that the CDC had linked the largest multistate outbreak to shredded iceberg lettuce in nine states, counting 1,947 sick people who reported eating at Taco Bell. The FDA said Taylor Farms supplied the lettuce from its plant in Guanajuato, Mexico. Taylor Farms issued a voluntary recall of all iceberg lettuce from that facility, and Taco Bell removed the affected lettuce. CNBC also reported that Mexican health authorities said their samples tested negative, and that the FDA and Taylor Farms publicly disagreed about how a false positive test had been handled.",
+      "Food Safety News reported in October that the CDC counted 12,883 illnesses, 570 hospitalizations and two deaths before declaring the outbreak over on September 11. The FDA found cyclospora in wastewater at the Taylor Farms de Mexico facility and in a drainage ditch at a contract grower, while stating there was not enough evidence to conclusively determine how contamination occurred. A company spokesperson said the facility remained closed and the grower was no longer a supplier."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Cyclospora is hard to trace partly because of human memory. NBC News reported that symptoms can take up to two weeks to appear, so many people cannot recall what made them sick. Investigators rely on interviews, and the quality of those interviews depends on how questions are asked and how quickly they happen. Restaurant meals add a further layer, because diners rarely know which supplier's produce is in their food.",
+      "Communication also shaped behavior. According to CNBC, some health experts said the abbreviations in the recall notice made it hard for consumers to tell whether they had affected product, and a public back-and-forth between the company and the FDA over a test result created mixed messages. When guidance is hard to read or appears contested, people tend to fall back on habit and keep eating what they already have."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "The earliest signals came from state interviews and clusters of cases among people who ate at the same chain. Several indicators could help food companies and regulators act sooner.",
+      "None of these signals requires new science. Most depend on whether supplier, sales and complaint data are connected and reviewed by people empowered to act. A restaurant chain that can quickly match illness reports to the suppliers behind specific menu items is better placed to remove product early and to give investigators useful leads."
+     ],
+     "bullets": [
+      "Time from first case interviews to a common food hypothesis",
+      "Clusters of illness among customers of a single chain or supplier",
+      "Water and environmental testing results at growers and processing sites",
+      "Readability scores and consumer comprehension tests for recall notices",
+      "Consistency of public statements between companies and regulators during an investigation"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Food companies that depend on a few large suppliers carry concentrated risk that rarely appears in standard financial reporting. Leaders and investors can treat supplier oversight, traceability and recall readiness as operating disciplines with their own metrics, rather than as legal formalities activated only after illness is reported."
+     ],
+     "bullets": [
+      "Map which menu items depend on a single facility or grower.",
+      "Test recall notices with real customers before they are needed.",
+      "Agree on joint communication protocols with suppliers and regulators in advance.",
+      "Include traceback speed and supplier audit quality in portfolio reviews."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Thousands of people were sickened and hundreds hospitalized, and the outbreak reached families who had no way of knowing where their lettuce was grown. Public health agencies did essential work under real constraints, including delayed symptoms and imperfect recall. The broader public good lies in a food system where water quality at farms, clear consumer warnings and fast, consistent communication are treated as shared responsibilities. Behavioral science, the discipline at the center of Datalidy's work, can help design warnings people actually read and act on."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Lettuce or salad greens could be source of diarrhea-causing illness, Michigan health officials say",
+     "publisher": "NBC News",
+     "url": "https://www.nbcnews.com/health/health-news/michigan-cyclosporiasis-lettuce-salad-greens-rcna587395",
+     "date": "2026-07-13"
+    },
+    {
+     "title": "Nearly 7,000 cases of cyclosporiasis confirmed or under investigation nationwide, CDC says",
+     "publisher": "NBC News",
+     "url": "https://www.nbcnews.com/health/health-news/cyclosporiasis-7000-cases-us-cdc-parasite-explosive-diarrhea-rcna587445",
+     "date": "2026-07-14"
+    },
+    {
+     "title": "CDC says massive cyclospora outbreak is now in nine states",
+     "publisher": "CNBC",
+     "url": "https://www.cnbc.com/amp/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
+     "date": "2026-07-24"
+    },
+    {
+     "title": "FDA found Cyclospora at Taylor Farms lettuce operation",
+     "publisher": "Food Safety News",
+     "url": "https://www.foodsafetynews.com/2026/10/fda-found-cyclospora-at-taylor-farms-lettuce-operation/",
+     "date": "2026-10-02"
+    }
+   ],
+   "related_services": [
+    "health-communication",
+    "process-mapping",
+    "predictive-kpi-design"
+   ],
+   "related_insights": [
+    "leading-and-lagging-indicators",
+    "systems-thinking"
+   ]
+  },
+  {
+   "slug": "microsoft-xbox-reset-gaming-job-cuts-studio-spinoffs",
+   "title": "Microsoft's Xbox Reset Cuts 3,200 Gaming Jobs and Releases Studios",
+   "event_month": "2026-07",
+   "meta_title": "Microsoft's Xbox Reset and the Metrics Behind Studio Cuts",
+   "meta_description": "Microsoft cut 4,800 jobs in July 2026, 3,200 in gaming, and released several studios. What the Xbox reset shows about metrics, incentives and creative teams.",
+   "topic": "Leadership",
+   "sector": "Media",
+   "organizations": [
+    "Microsoft",
+    "Xbox",
+    "Double Fine Productions",
+    "Compulsion Games",
+    "Ninja Theory",
+    "Undead Labs",
+    "Communications Workers of America"
+   ],
+   "summary": "Microsoft cut 4,800 jobs, including 3,200 in its gaming division, and moved several Xbox studios toward independence as it reset the business around fewer franchises.",
+   "dek": "Microsoft's July 2026 restructuring fell heavily on Xbox, where several well-known studios were released or spun off. Reporting on how studio performance was measured offers a lesson on the gap between what a metric captures and what a team actually contributes.",
+   "key_takeaways": [
+    "Microsoft cut about 4,800 jobs in July 2026, including 3,200 in its gaming division, according to Reuters.",
+    "Several studios were set to become independent or be spun off as Xbox narrowed its focus to major franchises.",
+    "Reporting suggested studios were judged against retail benchmarks that subscription play does not fully capture.",
+    "Leaders should test whether performance metrics reflect the value teams create before using them to make structural decisions."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On July 6, 2026, Microsoft said it would cut 4,800 jobs, about 2 percent of its global workforce, according to a Reuters report carried by Global News. The gaming division accounted for 3,200 of the cuts. Reuters reported that Compulsion Games and Double Fine Productions would become independent, that Ninja Theory and Undead Labs would be spun off, and that Arkane Studios had begun consultations with its French workers' union. Xbox's new head told employees the company was shifting toward releasing games on more platforms rather than relying on console exclusives.",
+      "Microsoft's chief people officer wrote in a memo that \"the roles eliminated today are not being replaced by AI,\" while noting that AI is changing how work is done, Reuters reported. The report placed the cuts against heavy spending on Xbox, including the Activision Blizzard acquisition, and wider pressure to fund AI infrastructure. Earlier in the year, Microsoft had offered voluntary buyouts to about 7 percent of its U.S. workforce.",
+      "Tech Times reported that a June memo from Xbox leadership said the division would close its fiscal year at about a 3 percent profitability margin, compared with roughly 30 percent expected of major divisions, and stated, \"Going forward, this cannot continue.\" Tech Times also reported that the Communications Workers of America, which represents more than 3,500 Microsoft gaming employees, opposed the restructuring, and that Microsoft said it was continuing to negotiate in good faith."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "One detail in the coverage deserves attention from any leader who manages by metrics. Tech Times, citing industry analyst reporting, said retail revenue lost to day-one subscription play was not credited to the studios, so teams were judged against retail benchmarks they could not reach even when many people played their games. It cited one title that reached more than a million subscription players within three weeks. Whether or not that accounting drove specific decisions, it illustrates how a metric can understate a team's contribution and shape who is seen as succeeding.",
+      "Creative work depends on trust and continuity. Studios that learn their future rests on numbers they cannot influence may become cautious, and talented people may leave before decisions are made. The explicit statement that cut roles were not being replaced by AI shows that leaders recognized a specific fear among employees. Addressing fears directly is useful, though people tend to judge such statements by the decisions that follow."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Several indicators could have shown strain earlier, both for leaders inside the business and for investors outside it.",
+      "The most useful of these compare two views of the same team. When audience engagement points one way and credited financial results point another, the disagreement itself is a signal that the measurement system needs review before it drives decisions about people and studios."
+     ],
+     "bullets": [
+      "Engagement measures that rise while credited revenue for the same teams falls",
+      "Divisional margins far below company expectations over several periods",
+      "Declining bargaining time and unanswered proposals in union relations",
+      "Studio leadership departures ahead of formal restructuring announcements",
+      "Voluntary buyout uptake as an early read on workforce sentiment"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "The Xbox reset is a reminder that business model changes, such as moving from unit sales to subscriptions, require new ways to measure contribution. When metrics lag the model, organizations risk cutting teams whose value is real but uncounted, and investors risk misreading where returns come from."
+     ],
+     "bullets": [
+      "Audit performance metrics whenever the revenue model changes.",
+      "Credit teams for engagement and retention value, not only direct sales.",
+      "Pair restructuring with clear, behavior-based criteria that employees can understand.",
+      "Watch labor relations data as a leading indicator of execution risk."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Games are a major cultural medium, and the people who make them carry craft knowledge that is hard to rebuild once teams disperse. Releasing studios to independence can preserve some of that value, but only if they find sustainable footing. Fair measurement, transparent criteria and good-faith bargaining help protect both workers and the creative work audiences value. Behavioral measurement, of the kind Datalidy applies, can help organizations see contributions their financial reports miss."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Microsoft to lay off another 4,800 workers, including Xbox gaming division",
+     "publisher": "Global News (Reuters)",
+     "url": "https://globalnews.ca/news/11956623/microsoft-job-cuts-xbox/",
+     "date": "2026-07-07"
+    },
+    {
+     "title": "Xbox Fires Thousands, Shuts Five Studios in Largest Gaming Layoff in Years",
+     "publisher": "Tech Times",
+     "url": "https://www.techtimes.com/articles/319765/20260706/xbox-fires-thousands-shuts-five-studios-largest-gaming-layoff-years.htm",
+     "date": "2026-07-06"
+    }
+   ],
+   "related_services": [
+    "predictive-kpi-design",
+    "behavioral-change-management",
+    "portfolio-value-creation"
+   ],
+   "related_insights": [
+    "predictive-kpis-vs-vanity-metrics",
+    "people-problems-are-business-problems"
+   ]
+  },
+  {
+   "slug": "hyundai-motor-union-wage-deal-after-full-day-strike",
+   "title": "Hyundai Motor and Its Union Settle After the First Full-Day Strike in a Decade",
+   "event_month": "2026-08",
+   "meta_title": "Hyundai's Wage Deal and the Behavior of Labor Negotiations",
+   "meta_description": "Hyundai Motor and its union reached a wage deal in August 2026 after the first full-day strike in a decade. Lessons on aging workforces, automation and trust.",
+   "topic": "Behavior",
+   "sector": "Labor",
+   "organizations": [
+    "Hyundai Motor Company",
+    "Hyundai Motor union"
+   ],
+   "summary": "After 111 days of talks and the first full-day strike in a decade, Hyundai Motor and its union agreed on pay, bonuses, shares and retirement-age terms.",
+   "dek": "Hyundai Motor's 2026 wage talks ended with a tentative deal on August 25 and a ratification vote days later. Beneath the pay terms sat questions about retirement age, older workers' wages and automation that many industrial employers will face.",
+   "key_takeaways": [
+    "Hyundai Motor and its union reached a tentative deal on August 25, 2026, after 111 days of talks and repeated strikes.",
+    "The package combined a base pay raise and large bonus with company shares, new hiring and retirement-age commitments.",
+    "Nearly two in five members who voted did not back the deal, a signal of unresolved concerns worth tracking.",
+    "Aging workforces and automation make job security and fairness central to labor relations, not side issues."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "Hyundai Motor and its union reached a tentative wage agreement on August 25, 2026, AFP reported, after workers staged a full-day strike described as the first such action in a decade. According to union figures cited by AFP, about 40,000 of the company's roughly 73,000 domestic employees walked off the job, and workers had staged 60 hours of strikes during the year. The Korea Herald reported that talks began on May 6, so the tentative agreement came 111 days later after repeated breakdowns.",
+      "The final package, as reported by The Korea Herald, raised monthly base pay by 100,000 won and included a performance bonus equal to 400 percent of monthly salary plus 12.7 million won, 15 Hyundai Motor shares per worker, welfare points and the hiring of 500 new production workers through 2028. AFP reported that Hyundai would raise its retirement age once national legislation lifts it from 60 to 65 and would not apply its wage peak system, which gradually reduces older workers' pay, after that extension.",
+      "Union members approved the deal in a vote held on August 31, with 61.55 percent of those voting in favor, The Korea Herald reported. Citing industry estimates, the paper said walkouts had disrupted production of about 55,200 vehicles and caused sales losses of more than 2.3 trillion won. Hyundai said labor and management would \"put all effort into production in the second half of the year.\""
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "The retirement and wage peak terms point to a demographic reality. Workers nearing 60 face a gap between leaving the company and becoming eligible for other support, and a system that trims their pay in their final years can feel like a penalty for staying. Tying the retirement change to national legislation lets both sides share the uncertainty, but it also leaves workers waiting on an outcome neither side controls.",
+      "Automation was present in the background. AFP reported that a Hyundai spokesman said both sides recognize that \"physical AI and robotics are essential part\" of future mobility. When employees hear that message during wage talks, it can raise concern about job security even if no specific changes are proposed. The commitment to hire 500 production workers and the grant of company shares can be read as signals of shared future interest, which may matter as much to trust as the cash terms."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Labor disputes rarely arrive without warning. Several measurable signals can show whether tension is building or easing.",
+      "These indicators are most useful when combined. A long negotiation, a workforce with many members approaching retirement and public statements about robotics together tell a richer story than any single number, and they can point leaders toward the specific concerns that need to be addressed at the bargaining table and on the shop floor."
+     ],
+     "bullets": [
+      "Length of negotiations and number of breakdowns before agreement",
+      "Share of members voting against a ratified deal",
+      "Employee sentiment about automation plans and job security",
+      "Age profile of the workforce relative to retirement and pay rules",
+      "Production hours lost per dispute compared with prior years"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Investors often judge labor settlements by their cost. The more predictive question is whether the settlement reduces the concerns that produced the dispute. A vote with a substantial minority against suggests that some concerns remain, and those may resurface in the next round of talks or in day-to-day engagement.",
+      "Leaders also face a timing question. Commitments that depend on outside events, such as national retirement legislation, can build goodwill, but they can also become sources of frustration if those events are delayed. Clear communication about what happens in each scenario helps keep expectations realistic."
+     ],
+     "bullets": [
+      "Track ratification margins, not only whether a deal passes.",
+      "Discuss automation plans early and concretely, with retraining and hiring commitments.",
+      "Model the people side of demographic change, including older workers' pay and roles.",
+      "Use employee ownership and hiring pledges deliberately as trust signals."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "How large manufacturers handle aging workforces and automation influences norms across an economy. Settlements that combine fair pay, clear paths for older workers and honest conversation about technology help workers plan their lives and help communities absorb change. Behavioral science, including Datalidy's work on leadership and change, can help both sides measure trust and design transitions people can accept."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Hyundai reaches tentative deal with workers after strike",
+     "publisher": "France 24 (AFP)",
+     "url": "https://www.france24.com/en/live-news/20260825-hyundai-reaches-tentative-deal-with-workers-after-strikes",
+     "date": "2026-08-25"
+    },
+    {
+     "title": "Hyundai Motor union approves wage deal, ending months of labor strife",
+     "publisher": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10858862",
+     "date": "2026-09-01"
+    }
+   ],
+   "related_services": [
+    "leadership-alignment",
+    "behavioral-change-management",
+    "people-analytics"
+   ],
+   "related_insights": [
+    "ai-and-organizational-culture",
+    "group-behavior-change"
+   ]
+  },
+  {
+   "slug": "meta-multistate-teen-safety-settlement-usage-limits",
+   "title": "Meta's Multistate Teen Safety Settlement Writes Usage Limits Into Design",
+   "event_month": "2026-08",
+   "meta_title": "Meta's Teen Safety Settlement and Design for Wellbeing",
+   "meta_description": "Meta agreed to a settlement of up to $16.7 billion with U.S. states, adding teen time limits and overnight blocks. What it means for design and investors.",
+   "topic": "Design",
+   "sector": "Technology",
+   "organizations": [
+    "Meta Platforms",
+    "Facebook",
+    "Instagram",
+    "U.S. state attorneys general"
+   ],
+   "summary": "Meta agreed to pay up to about $16.7 billion and to add daily limits, overnight blocks and school-day notification limits for teens on Facebook and Instagram.",
+   "dek": "Meta's August 2026 settlement with a broad coalition of U.S. states turns product design choices such as time limits, overnight access and notifications into enforceable commitments. It marks a shift in how youth wellbeing is measured and governed in consumer technology.",
+   "key_takeaways": [
+    "Meta agreed to maximum payments of about $16.7 billion over a decade and denied wrongdoing, pending court approval.",
+    "The deal caps teen use at two hours a day, blocks overnight use without parental consent and limits school-day notifications.",
+    "Part of the payment depends on whether other major platforms adopt similar protections, a novel industry-wide incentive.",
+    "Engagement metrics for young users now carry legal and financial risk that boards and investors must price."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On August 26, 2026, Meta Platforms agreed to a settlement with a broad coalition of U.S. states over claims that Facebook and Instagram harmed young users, Reuters reported in a story carried by The Daily Record. Meta agreed to maximum payments of about $16.7 billion, of which about $12.7 billion is guaranteed, while another $5 billion depends on whether Snap, TikTok and YouTube adopt similar child protections. Newsweek, in a report published by Yahoo Finance, said payments would be made in annual installments over ten years and that the settlement was filed in federal court in Northern California, subject to approval.",
+      "Under the deal, according to Reuters, teens' use of Facebook and Instagram will be capped at two hours a day, use will be blocked from midnight to 6 a.m. unless parents consent, and most push notifications to teens will be disabled from 8 a.m. to 3 p.m. on school days. Meta will also strengthen measures to keep children away from age-restricted content. Reuters noted that the deal does not require Meta to end personalized recommendations or targeted advertising.",
+      "Meta denied wrongdoing. In a statement reported by Reuters, the company said, \"Ensuring teens have a safe and productive experience on our platforms is an absolute imperative for Meta.\" California Attorney General Rob Bonta said, as quoted by Newsweek, that \"Meta has agreed to make massive transformations that will reduce the risk of harm from its platforms.\" Reuters reported that the presiding judge called the settlement a good step forward. Thousands of other lawsuits against social media companies remain pending."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "The settlement's core terms are behavioral design choices. Behavior happens when motivation, ability and a prompt converge, and push notifications are prompts by design. Limiting them during school hours removes a trigger at the moments when attention matters most. Overnight blocks and daily caps change defaults, and defaults are powerful because most people, including teenagers, rarely change them.",
+      "The terms also shift responsibility. Parental consent for overnight use places a decision with families, while age verification measures place demands on the platform. How well these work will depend on how they are designed and tested in practice: whether limits are easy to understand, whether workarounds are common, and whether teens experience the changes as protective or as obstacles to avoid."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Over several years, legal actions, jury verdicts and state claims built a record that engagement among young users carried risk. Several indicators could help companies and investors read that risk earlier.",
+      "Many of these measures sit inside the platforms themselves. The question for leaders is whether they are reviewed with the same attention as growth dashboards, and whether teams are rewarded for reducing harmful patterns rather than only for increasing time spent."
+     ],
+     "bullets": [
+      "Late-night and school-hour usage patterns among teen accounts",
+      "Notification volume and response rates for users under 18",
+      "Internal research findings on wellbeing and how leaders act on them",
+      "Growth in state litigation and jury verdicts involving product design",
+      "Age verification accuracy and rates of underage account creation"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "For technology leaders, the settlement shows that design choices once treated as growth tactics can become legal obligations. For investors, the contingent $5 billion tied to competitors' behavior signals that standards may spread across the industry, changing how youth engagement should be valued."
+     ],
+     "bullets": [
+      "Separate healthy engagement from compulsive use in core product KPIs.",
+      "Test wellbeing features with the same rigor applied to growth features.",
+      "Ask portfolio companies how internal research reaches product decisions.",
+      "Price regulatory and litigation exposure tied to youth engagement into valuations."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Some states plan to direct their share of the money to children's mental health, Reuters reported, while others will deposit funds into general accounts. The larger public good lies in the design changes, if they are implemented well and measured honestly. Persuasive technology can help young people connect and learn, but it should support what they and their families want for their lives. Datalidy holds that ethical persuasion and measurable wellbeing outcomes belong together."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "MD to net up to $327M from $16.68B Meta settlement over social media harms to children",
+     "publisher": "The Daily Record (Reuters)",
+     "url": "https://thedailyrecord.com/2026/08/26/meta-settlement-facebook-instagram-child-harms/",
+     "date": "2026-08-26"
+    },
+    {
+     "title": "Meta reaches $16bn settlement: Map shows payouts for each state",
+     "publisher": "Newsweek via Yahoo Finance",
+     "url": "https://finance.yahoo.com/media-advertising/articles/meta-reaches-16bn-settlement-map-142125732.html",
+     "date": "2026-08-26"
+    }
+   ],
+   "related_services": [
+    "persuasive-technology-design",
+    "behavioral-design",
+    "commercial-due-diligence"
+   ],
+   "related_insights": [
+    "ethics-of-persuasive-technology",
+    "fogg-behavior-model"
+   ]
+  }
+ ]
+}

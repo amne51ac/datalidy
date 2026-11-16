@@ -1,0 +1,785 @@
+{
+ "perspectives": [
+  {
+   "slug": "rite-aid-facial-recognition-ban-ftc",
+   "title": "FTC Bans Rite Aid From Facial Recognition After Shoppers Were Misidentified",
+   "event_month": "2023-12",
+   "meta_title": "Rite Aid's Facial Recognition Ban: Lessons on AI Safeguards",
+   "meta_description": "The FTC barred Rite Aid from facial recognition for five years over false matches. What the case teaches about AI safeguards, frontline staff and shopper trust.",
+   "topic": "Analytics",
+   "sector": "Retail",
+   "organizations": [
+    "Rite Aid",
+    "Federal Trade Commission"
+   ],
+   "summary": "The FTC says Rite Aid's facial recognition flagged innocent shoppers thousands of times. The case shows why AI safeguards depend on testing, training and frontline behavior.",
+   "dek": "A five-year ban on facial recognition at Rite Aid turned an abstract debate about biased algorithms into a concrete question for every retailer: who checks the machine, and what happens to customers when nobody does?",
+   "key_takeaways": [
+    "The FTC alleged Rite Aid's system produced thousands of false matches that led staff to confront innocent shoppers.",
+    "The agency's complaint centers on missing safeguards: no accuracy testing, poor images, no monitoring and inadequate employee training.",
+    "An AI alert becomes a human action at the store counter, so frontline judgment and training are part of the system.",
+    "False-positive rates and their distribution across communities are leading indicators that boards should require before deployment."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On December 19, 2023, the Federal Trade Commission announced a proposed order that bans Rite Aid from using facial recognition technology for surveillance purposes for five years. According to the FTC, the drugstore chain used AI-based facial recognition from 2012 to 2020 to identify customers it suspected of shoplifting or other problematic behavior, and the system generated thousands of false-positive matches. CNBC reported that the technology was used in hundreds of pharmacies across several states.",
+      "The FTC said employees acted on those alerts by following customers, searching them, ordering them to leave, calling the police and publicly accusing them, sometimes in front of friends or family. The agency said false positives were more likely in plurality-Black and Asian communities. Its complaint also alleged that Rite Aid violated a 2010 data security order by failing to oversee its service providers adequately.",
+      "Rite Aid told CNBC it disagreed with the allegations, described the effort as a pilot program in a limited number of stores, and said it stopped using the technology more than three years earlier, before the FTC investigation began. Because Rite Aid had filed for Chapter 11 bankruptcy in October 2023, CNBC noted, the settlement required court approval. Samuel Levine, director of the FTC's Bureau of Consumer Protection, said the company's \"reckless use of facial surveillance systems left its customers facing humiliation and other harms.\""
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "The FTC's account reads less like a story about a flawed algorithm than a story about the human system around it. According to the agency, Rite Aid did not test the technology's accuracy before deployment, did not ask its vendors about their testing, allowed low-quality images into a database of tens of thousands of photos drawn from security cameras, employee phones and news stories, and did not track false-positive rates. Each of those gaps is a decision, or a missing decision, made by people.",
+      "The most consequential moment came at the store level. The FTC said employees were not adequately trained or warned that matches could be wrong, and that even after a \"bad match\" reporting tool was introduced, the company did not ensure staff used it. When an alert arrives with the authority of technology and no guidance about uncertainty, people tend to treat it as fact. Automation bias is a well-documented behavioral pattern, and here it reached customers as public accusations. The FTC also said employees were discouraged from telling customers the technology was in use, which removed a natural check from the people most affected."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "The relevant indicators were measurable long before any regulator arrived. A system that produces alerts can also produce data about how often those alerts are wrong, where, and what staff do next. According to the FTC, those measures were not being collected, which meant leaders lacked the very evidence that would have shown whether the tool was working."
+     ],
+     "bullets": [
+      "False-positive rate per store, tracked over time and reviewed by leadership",
+      "Differences in match and error rates across neighborhoods and customer groups",
+      "Share of alerts escalated to confrontations, bans or police calls",
+      "Usage rate of the bad-match reporting tool by frontline staff",
+      "Image quality standards and audit results for the enrollment database"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "For boards and investors, the case shows that AI risk is operational risk. The FTC's proposed order requires deletion of images and of algorithms developed from them, consumer notice, and a data security program overseen by senior executives with annual CEO certification. Remediation of that kind is expensive, and it lands on companies that cannot show they measured what their systems were doing to customers. Diligence on any AI deployment that touches customers should ask how accuracy was tested, how errors are detected, and how frontline staff are trained to respond to uncertain outputs."
+     ],
+     "bullets": [
+      "Require pre-deployment accuracy testing, including testing across the populations the system will serve.",
+      "Treat frontline training and escalation protocols as part of the technology, not an afterthought.",
+      "Make error rates a standing board-level metric for any customer-facing AI system.",
+      "In diligence, ask for vendor testing evidence and monitoring data, not only feature descriptions."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Pharmacies are places people visit when they are unwell or caring for someone who is, and being wrongly accused there carries real costs to dignity and trust. The FTC's emphasis on notice, complaint handling and deletion reflects a principle that applies well beyond retail: people affected by automated decisions deserve to know about them and to have a way to correct them. At Datalidy, we see measurement as the first ethical safeguard, because a system that is not measured cannot be held accountable to the people it affects."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Rite Aid Banned from Using AI Facial Recognition After FTC Says Retailer Deployed Technology without Reasonable Safeguards",
+     "publisher": "Federal Trade Commission",
+     "url": "https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without",
+     "date": "2023-12-19"
+    },
+    {
+     "title": "FTC bars Rite Aid from using facial recognition under settlement",
+     "publisher": "CNBC",
+     "url": "https://www.cnbc.com/2023/12/19/ftc-bars-rite-aid-from-using-facial-recognition-under-settlement.html",
+     "date": "2023-12-19"
+    }
+   ],
+   "related_services": [
+    "responsible-ai-adoption",
+    "predictive-kpi-design",
+    "customer-experience-research"
+   ],
+   "related_insights": [
+    "ethics-of-persuasive-technology",
+    "cost-of-untested-assumptions"
+   ]
+  },
+  {
+   "slug": "boeing-ceo-board-chair-leadership-shakeup",
+   "title": "Boeing's CEO, Board Chair and Airplanes Chief Step Aside in One Day",
+   "event_month": "2024-03",
+   "meta_title": "Boeing's 2024 Leadership Shake-Up and the Culture Question",
+   "meta_description": "Boeing said its CEO, board chair and commercial airplanes chief would step aside. What the shake-up says about culture, customer signals and board oversight.",
+   "topic": "Leadership",
+   "sector": "Aviation",
+   "organizations": [
+    "Boeing",
+    "Federal Aviation Administration",
+    "Alaska Airlines"
+   ],
+   "summary": "Boeing changed its CEO, board chair and commercial airplanes leader at once. The move shows how customer pressure and quality signals converge on leadership.",
+   "dek": "On March 25, 2024, Boeing announced a sweeping leadership change as it worked to restore confidence after the Alaska Airlines door plug accident. The harder task is changing the daily behaviors that leaders inherit.",
+   "key_takeaways": [
+    "Boeing announced that its CEO would step down at year end and that its board chair and commercial airplanes chief would also change.",
+    "Airline customers had been seeking meetings with Boeing directors to raise concerns about quality and delivery, CNBC reported.",
+    "Leadership turnover can signal accountability, but culture change depends on behaviors on the factory floor, not titles.",
+    "Boards should watch customer escalations and regulatory constraints as leading indicators of a confidence problem."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On March 25, 2024, Boeing CEO Dave Calhoun told employees he would step down at the end of the year. In the same message, published by the company, Boeing said board chair Larry Kellner would not stand for re-election and that director Steve Mollenkopf would become chair and lead the search for a new CEO. Stan Deal, head of Boeing Commercial Airplanes, was leaving, and Stephanie Pope was taking over that business.",
+      "The announcement came less than three months after a door plug blew out of an Alaska Airlines 737 Max 9 on January 5. In his message, Calhoun called that accident \"a watershed moment for Boeing\" and said the company must respond with \"humility and complete transparency.\" CNBC reported that Calhoun said the decision to step down was \"100%\" his own.",
+      "CNBC also reported that airline CEOs had begun scheduling meetings with Boeing directors to voice complaints about manufacturing quality and lower-than-expected 737 Max output, according to people familiar with the matter. FAA Administrator Mike Whitaker had said Boeing would not be allowed to increase 737 production until the agency was satisfied with its quality control, and Boeing's chief financial officer said the company would burn more cash than expected in the first quarter because of limited production."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Leadership changes of this scale are partly symbolic, and symbols matter. They tell employees, customers and regulators that the organization accepts the seriousness of the moment. Yet the problems that prompted the change, as described by the FAA's production constraints and by customers' complaints reported by CNBC, sit in thousands of daily decisions about inspection, documentation, schedule pressure and when to stop the line. Those behaviors are shaped by incentives and norms that outlast any one executive.",
+      "The structure of the change is also worth noting. Separating the search for a new CEO from the outgoing leadership, and placing it with a new board chair, gives the board an opportunity to define what it wants the next leader to fix. Calhoun's message framed the period ahead in terms of transparency and putting safety and quality first at every level. Turning those words into practice requires that employees feel able to raise problems early and that managers are rewarded for doing so, even when it costs output in the short term."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "By the time leadership changed, the visible signals were external: a regulator capping production and customers seeking direct access to the board. Those are late indicators. Earlier, more predictive measures typically live inside the operation and in the tone of customer relationships."
+     ],
+     "bullets": [
+      "Rate of quality escapes found by customers rather than internal inspection",
+      "Volume and resolution time of employee quality and safety reports",
+      "Customer requests to escalate past management to the board",
+      "Regulatory findings that limit production or require added oversight",
+      "Gap between promised and actual delivery schedules over consecutive quarters"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "For investors, the episode shows that operational quality and customer trust can become capital allocation issues quickly. CNBC reported that Boeing shares rose on the day of the announcement but were down more than 26% for the year. A board that reads customer escalations as a governance signal, rather than a sales matter, has more time to act."
+     ],
+     "bullets": [
+      "Treat customer complaints that reach the board as a leading indicator of systemic risk.",
+      "Define the behavioral changes a new leader is expected to produce, and how they will be measured.",
+      "Reward managers for surfacing problems early, even when it slows output.",
+      "Pair leadership transitions with direct listening to frontline employees and customers."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Commercial aviation depends on public confidence that every aircraft is built and checked as designed, and that confidence is a shared asset across airlines, manufacturers and regulators. Leadership changes can reset expectations, but the public benefits only when the reset reaches the people building aircraft each day. The lasting test will be whether quality signals improve, not whether names on an organization chart change. At Datalidy, we would describe that as the difference between announcing a culture and measuring one."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "CEO Message to Employees",
+     "publisher": "Boeing",
+     "url": "https://boeing.mediaroom.com/2024-03-25-CEO-Message-to-Employees",
+     "date": "2024-03-25"
+    },
+    {
+     "title": "Boeing CEO to step down in broad management shake-up as 737 Max crisis weighs on aerospace giant",
+     "publisher": "CNBC",
+     "url": "https://www.cnbc.com/2024/03/25/boeing-ceo-board-chair-commercial-head-out-737-max-crisis.html",
+     "date": "2024-03-25"
+    }
+   ],
+   "related_services": [
+    "management-team-assessment",
+    "culture-design",
+    "leadership-alignment"
+   ],
+   "related_insights": [
+    "psychological-safety",
+    "leading-and-lagging-indicators"
+   ]
+  },
+  {
+   "slug": "baltimore-key-bridge-collapse-dali-ntsb-findings",
+   "title": "The Key Bridge Collapse: A Loose Wire, a Fast Warning and a Missed Risk Review",
+   "event_month": "2024-03",
+   "meta_title": "Baltimore Key Bridge Collapse: Systems Lessons from the NTSB",
+   "meta_description": "The NTSB traced the Key Bridge collapse to a loose wire on the Dali and found gaps in risk review and worker warnings. What leaders can learn about resilience.",
+   "topic": "Strategy",
+   "sector": "Transportation",
+   "organizations": [
+    "National Transportation Safety Board",
+    "Maryland Transportation Authority",
+    "Maersk"
+   ],
+   "summary": "A blackout aboard the Dali led to the Key Bridge collapse and six deaths. NTSB findings show how small failures and unexamined risks combine.",
+   "dek": "The early-morning collapse of Baltimore's Francis Scott Key Bridge closed a major port and took six workers' lives. The NTSB's findings point to a chain of small technical and organizational gaps, and to a fast human response that saved lives.",
+   "key_takeaways": [
+    "The NTSB found a loose wire caused blackouts that left the Dali without propulsion or steering near the bridge.",
+    "Quick action by pilots, dispatchers and the transportation authority stopped bridge traffic, which the NTSB said prevented greater loss of life.",
+    "The NTSB said a recommended vulnerability assessment could have identified protective countermeasures for the bridge.",
+    "Risk assumptions made decades ago need routine review as the environment around an asset changes."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "At about 1:29 a.m. on March 26, 2024, the containership Dali lost propulsion and steering after an electrical blackout and struck a pier of the Francis Scott Key Bridge in Baltimore, according to the National Transportation Safety Board. The bridge collapsed. Six of the seven highway maintenance workers on the bridge died, and one survived with serious injuries, the NTSB said. CNBC reported that the ship issued a mayday call shortly before the collision.",
+      "In its findings, adopted at a public meeting on November 18, 2025, the NTSB determined that a loose signal wire connection caused a breaker to open unexpectedly, starting a chain of events that produced two blackouts. The board found that wire-label banding had kept the wire from fully seating in a terminal block. NTSB Chair Jennifer Homendy compared finding the single wire to locating a loose rivet on the Eiffel Tower and said the accident was preventable.",
+      "The collapse closed the channel into the Port of Baltimore. CNBC reported that Maersk, which chartered the Dali, said it would skip Baltimore for the foreseeable future, and that Maryland Gov. Wes Moore said more than 52 million tons of foreign cargo worth about $80 billion had moved through the port the previous year. Moore later called the collapse \"a national economic catastrophe,\" according to CNBC."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Two human stories sit inside the NTSB's account. The first is one of speed and coordination: the NTSB said the Dali's pilots, shoreside dispatchers and the Maryland Transportation Authority acted quickly to stop traffic onto the bridge, which prevented greater loss of life. In the minutes available, people on the ship and on shore recognized the danger, communicated it and acted on it. The second is sobering: the NTSB listed the lack of effective, immediate communications to warn highway workers to evacuate as a contributing factor. The warning reached the road but not everyone on the span.",
+      "The board also pointed to a slower kind of human decision. According to the NTSB, the bridge lacked countermeasures to reduce its vulnerability to ship strikes, and a vulnerability assessment recommended by AASHTO could have identified them. The NTSB noted that ships have grown much larger since the bridge opened in 1977, and found that many bridge owners were likely unaware of their collision risk. Risk judgments made for one era quietly persisted into another."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Investigators were careful to separate the immediate mechanical cause from the conditions that turned it into a catastrophe. For leaders, both layers offer indicators that could be tracked before an event rather than reconstructed after it."
+     ],
+     "bullets": [
+      "Age of the last formal risk assessment relative to changes in operating conditions",
+      "Growth in the size of vessels or loads an asset is exposed to",
+      "Time needed to warn every person in a hazard zone, tested through drills",
+      "Electrical maintenance findings involving connections and installation practices",
+      "Status of industry guidance adopted versus guidance acknowledged but not applied"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "Infrastructure owners, insurers and investors share an interest in the NTSB's central point: risk is not static. The board sent letters to 30 bridge owners about collision risk and said all had responded. Any organization that operates long-lived assets can ask the same question of its own portfolio, and can test whether its warning systems reach every person who needs them."
+     ],
+     "bullets": [
+      "Schedule risk reassessments when the operating environment changes, not only on fixed cycles.",
+      "Drill emergency communications end to end, including people working in temporary or remote roles.",
+      "Treat small maintenance practices as potential single points of failure in critical systems.",
+      "Recognize and reinforce the fast, coordinated responses that limit harm."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "The six workers who died were maintaining a public road in the middle of the night, work that most travelers never see. Honoring that loss means taking the NTSB's recommendations seriously across the country, from bridge risk reduction plans to motorist warning systems. It also means recognizing the people whose quick decisions that night kept the toll from being higher. At Datalidy, we view this as a reminder that resilience is a behavioral property of systems: it depends on what people notice, say and do when seconds count, and on the risk reviews that prepare them."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Loose Wire on Containership Dali Leads to Blackouts and Contact with Baltimore's Francis Scott Key Bridge",
+     "publisher": "National Transportation Safety Board",
+     "url": "https://www.ntsb.gov/news/press-releases/Pages/NR20251118.aspx",
+     "date": "2025-11-18"
+    },
+    {
+     "title": "Contact of Containership Dali with the Francis Scott Key Bridge and Subsequent Bridge Collapse (DCA24MM031)",
+     "publisher": "National Transportation Safety Board",
+     "url": "https://www.ntsb.gov/investigations/Pages/DCA24MM031.aspx",
+     "date": "2025-11-18"
+    },
+    {
+     "title": "Logistics companies scramble after bridge collapse closes Port of Baltimore until further notice",
+     "publisher": "CNBC",
+     "url": "https://www.cnbc.com/2024/03/26/logistics-companies-scramble-after-bridge-collapse-closes-port-of-baltimore.html",
+     "date": "2024-03-26"
+    },
+    {
+     "title": "Baltimore bridge collapse a 'national economic catastrophe,' says Maryland governor",
+     "publisher": "CNBC",
+     "url": "https://www.cnbc.com/2024/03/31/baltimore-bridge-collapse-a-national-economic-catastrophe.html",
+     "date": "2024-03-31"
+    }
+   ],
+   "related_services": [
+    "process-mapping",
+    "decision-making-under-pressure",
+    "predictive-kpi-design"
+   ],
+   "related_insights": [
+    "systems-thinking",
+    "how-leaders-decide-under-pressure"
+   ]
+  },
+  {
+   "slug": "volkswagen-chattanooga-workers-vote-uaw",
+   "title": "Volkswagen's Chattanooga Workers Vote to Join the UAW on the Third Attempt",
+   "event_month": "2024-04",
+   "meta_title": "VW Chattanooga UAW Vote: What Changed on the Third Try",
+   "meta_description": "Volkswagen workers in Chattanooga voted to join the UAW after two failed votes. What the result shows about employee voice, trust and labor signals for leaders.",
+   "topic": "Leadership",
+   "sector": "Labor",
+   "organizations": [
+    "Volkswagen",
+    "United Auto Workers",
+    "National Labor Relations Board"
+   ],
+   "summary": "After losing in 2014 and 2019, the UAW won a decisive vote at Volkswagen's Tennessee plant. The result offers lessons about employee voice and early signals.",
+   "dek": "Workers at Volkswagen's Chattanooga plant voted by a wide margin to join the United Auto Workers in April 2024, a reversal of two earlier defeats. The shift says as much about how employees weigh voice and fairness as about labor strategy.",
+   "key_takeaways": [
+    "NPR reported that about 73% of ballots cast favored joining the UAW, with turnout of 83.5%.",
+    "The union had lost two earlier votes at the same plant, in 2014 and 2019.",
+    "Workers described wanting a say in schedules, benefits and pay, which points to voice as a core motivator.",
+    "Card-signing momentum and turnout are leading indicators that leaders can read long before an election."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "Workers at Volkswagen's assembly plant in Chattanooga, Tennessee, voted to join the United Auto Workers in an election held April 17 to 19, 2024. NPR reported that 2,628 workers voted yes and 985 voted no, about 73% in favor, with roughly 4,300 hourly workers eligible and turnout of 83.5%. The UAW had lost two earlier elections at the same plant, in 2014 and 2019.",
+      "In a March 25 announcement, the UAW said a supermajority of workers had signed union cards and that a majority had signed by early February, about two months after the public campaign began. The National Labor Relations Board scheduled the secret-ballot election. One assembly worker quoted by the union said, \"We need a say in our schedules, benefits, pay, and more.\"",
+      "The vote drew opposition from state leaders. NPR reported that Tennessee Gov. Bill Lee and the governors of five other Southern states issued a joint statement opposing the union drive. Volkswagen said, \"Volkswagen thanks its Chattanooga workers for voting in this election,\" and had earlier said it respected employees' right to decide through a democratic process. NPR noted the Chattanooga plant had been the only Volkswagen plant worldwide without worker representation."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "The same plant, the same union and broadly the same workforce produced a very different result than in 2019. NPR quoted a worker who voted no in 2019 and yes in 2024, and another who said the company seemed neutral before the election. Those accounts suggest that the decision was shaped by changes in perceived fairness, trust and the credibility of the alternative, factors that can move quickly when conditions shift.",
+      "Self-determination theory offers a useful lens. People are motivated by autonomy, competence and relatedness, and the language workers used centered on autonomy: having a say. When employees feel that decisions about their schedules and pay are made without them, collective representation becomes a way to restore voice. Employer neutrality may also have reduced the sense of risk associated with voting yes, which matters because fear of consequences is a powerful brake on stated preferences."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Union elections are lagging events. By the time an election is scheduled, the underlying shift in employee sentiment has usually been building for months, and the UAW's own timeline shows a majority signing cards within about two months of the public campaign."
+     ],
+     "bullets": [
+      "Speed and breadth of card-signing or petition activity across shifts and departments",
+      "Employee survey items on voice, fairness and trust in decision-making",
+      "Changes in how former skeptics describe the company to colleagues",
+      "Scheduling and overtime complaints raised through informal channels",
+      "Participation rates in company forums compared with union meetings"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "For leaders and investors in manufacturing, the result is less about whether a workforce unionizes than about what the vote revealed: a strong, measurable desire for voice that existing channels were not satisfying. Organizations that measure employee voice well can respond to concerns early, and can build labor relationships, union or not, on clearer information.",
+      "The vote also marks the start of a new relationship rather than the end of a contest. NPR reported that the UAW's next target was a Mercedes-Benz plant in Alabama, which signals that other employers in the region will face similar questions. Companies that invest early in listening, transparent communication and fair processes are better prepared for any outcome, and for the bargaining that follows."
+     ],
+     "bullets": [
+      "Measure employee voice directly, with validated survey items, and act visibly on results.",
+      "Treat a rapid shift in sentiment as a strategic signal, not only a human resources matter.",
+      "In diligence, assess labor relations readiness and the quality of management communication.",
+      "Prepare leaders to bargain and collaborate constructively if representation is chosen."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Elections like this one are a democratic process inside the workplace, and their legitimacy depends on workers being able to choose without fear. High turnout and a clear result give both the company and the union a mandate to build a working relationship. When management and labor both invest in that relationship, the benefits reach families and communities that depend on stable, fairly paid work. Datalidy's view is that organizations perform best when employees have real voice, whatever form it takes."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Volkswagen workers vote yes to unionizing, igniting UAW's push to organize the South",
+     "publisher": "NPR",
+     "url": "https://text.npr.org/1244291402",
+     "date": "2024-04-19"
+    },
+    {
+     "title": "Volkswagen Workers in Chattanooga Will Vote in Their Union Election on April 17-19",
+     "publisher": "United Auto Workers",
+     "url": "https://uaw.org/volkswagen-workers-in-chattanooga-will-vote-in-their-union-election-on-april-17-19/",
+     "date": "2024-03-25"
+    }
+   ],
+   "related_services": [
+    "people-analytics",
+    "survey-measurement-design",
+    "leadership-alignment"
+   ],
+   "related_insights": [
+    "psychological-safety",
+    "psychometrics-for-business-surveys"
+   ]
+  },
+  {
+   "slug": "tesla-cuts-more-than-ten-percent-of-workforce",
+   "title": "Tesla Cuts More Than 10% of Its Global Workforce as Sales Slow",
+   "event_month": "2024-04",
+   "meta_title": "Tesla's 2024 Layoffs and the Behavioral Cost of Cuts",
+   "meta_description": "Tesla said it would cut more than 10% of its global workforce after weaker sales. What the cuts show about duplication, morale and signals leaders should track.",
+   "topic": "Leadership",
+   "sector": "Technology",
+   "organizations": [
+    "Tesla"
+   ],
+   "summary": "Tesla announced cuts of more than 10% of its global workforce in April 2024, citing duplicated roles. The move raises questions about morale and capability.",
+   "dek": "Tesla told employees in April 2024 that it would reduce its global headcount by more than 10%, citing role duplication after rapid growth. Senior departures and weak quarterly results followed, testing how a growth company manages a reset.",
+   "key_takeaways": [
+    "Tesla's CEO told staff the company would cut more than 10% of global headcount, citing duplicated roles from rapid growth.",
+    "Two senior executives left the same day, and the head of investor relations resigned days later, CNBC reported.",
+    "Layoffs carry behavioral costs, including lost trust and voluntary departures, that rarely appear in cost-savings estimates.",
+    "Role duplication is measurable before it becomes a crisis, through workload mapping and decision-rights reviews."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On April 15, 2024, Tesla CEO Elon Musk told employees in a company-wide email that he had made \"the difficult decision to reduce our headcount by more than 10% globally,\" Electrek reported. According to the email, rapid growth across multiple factories had led to \"duplication of roles and job functions in certain areas,\" and the company needed to reduce costs and raise productivity as it prepared for its next phase of growth. \"There is nothing I hate more, but it must be done,\" he wrote.",
+      "Electrek estimated the cuts would affect at least 14,000 employees, based on a headcount of about 140,000. The same day, CNBC reported, Drew Baglino, senior vice president of powertrain and energy engineering, and Rohan Patel, a senior Tesla policy executive, said they were leaving. Electrek noted that the cuts followed a weak first-quarter delivery report, with a year-over-year sales decline driven mainly by China, and that many technology companies were making similar reductions at the time.",
+      "On April 23, Tesla reported first-quarter results. CNBC reported that revenue fell 9%, the steepest year-over-year decline since 2012, and that net income dropped 55%. At the end of that earnings call, Martin Viecha, Tesla's vice president of investor relations, announced he was resigning, according to CNBC. CNBC attributed the revenue decline to softer demand and increased global competition, the backdrop against which the workforce reduction was announced."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Workforce reductions are framed in financial terms, but they are experienced as behavioral events. Employees who remain watch closely how colleagues are treated and draw conclusions about their own security. Research on layoff survivors consistently describes reduced trust, lower discretionary effort and higher voluntary turnover when cuts feel unpredictable. Electrek itself argued that Tesla might be understaffed rather than overstaffed and that the cuts could hurt morale and stability, a view that reflects how quickly outside observers question the logic of a reduction.",
+      "The stated rationale, duplicated roles after rapid growth, is a common and real problem in scaling companies. Teams are added to meet urgent demand, decision rights blur and similar work happens in parallel. The behavioral challenge is that duplication is usually visible to frontline managers long before it becomes a headcount decision, yet the incentives of growth reward adding people rather than clarifying who owns what. The simultaneous departure of senior leaders adds another layer, because employees often read executive exits as signals about direction."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Growth companies can see the conditions for a sharp reset forming if they track how work is organized, not only how many people are doing it."
+     ],
+     "bullets": [
+      "Number of teams claiming ownership of the same process or decision",
+      "Headcount growth rate compared with output or delivery growth",
+      "Engagement and intent-to-stay scores among high performers",
+      "Concentration of departures among senior and long-tenured leaders",
+      "Demand indicators such as deliveries diverging from hiring plans"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "For investors, the episode illustrates that the cost of a workforce reduction includes capability and continuity, not only severance. When senior engineering leaders leave alongside a broad cut, institutional knowledge can go with them. Boards should ask management for evidence of where duplication exists and how critical skills will be protected.",
+      "Leaders also have a choice about sequencing. A reduction announced during a demand slowdown is read by employees and markets as a signal about the future, so the clarity of the plan that follows matters as much as the cut itself. Employees who understand which work will stop, which will continue and why are better able to refocus, and are less likely to leave on their own."
+     ],
+     "bullets": [
+      "Map roles and decision rights during growth so duplication is addressed before cuts are needed.",
+      "Communicate the logic of reductions clearly and treat departing employees with visible respect.",
+      "Track retention of critical talent for several quarters after a reduction.",
+      "In diligence, compare hiring trajectories with demand signals to spot overexpansion early."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Large layoffs affect families and communities around factories and offices, and the way they are carried out shapes how employees view work and employers more broadly. Companies that scale responsibly, by matching hiring to demand and clarifying roles as they grow, reduce the need for abrupt reversals that fall hardest on individual workers. Datalidy sees workforce planning as a behavioral discipline as much as a financial one."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Tesla lays off 'more than 10%' of its global workforce",
+     "publisher": "Electrek",
+     "url": "https://electrek.co/2024/04/15/tesla-lays-off-more-than-10-of-its-global-workforce/",
+     "date": "2024-04-15"
+    },
+    {
+     "title": "Former Tesla SVP Drew Baglino is selling $181.5 million worth of stock, SEC filing says",
+     "publisher": "CNBC",
+     "url": "https://www.cnbc.com/2024/04/25/former-tesla-svp-drew-baglino-is-selling-181point5-million-worth-of-stock.html",
+     "date": "2024-04-25"
+    }
+   ],
+   "related_services": [
+    "people-analytics",
+    "behavioral-change-management",
+    "scaling-leadership"
+   ],
+   "related_insights": [
+    "people-problems-are-business-problems",
+    "leading-and-lagging-indicators"
+   ]
+  },
+  {
+   "slug": "ascension-ransomware-attack-hospital-downtime",
+   "title": "Ascension Ransomware Attack Forces Hospitals Onto Paper for Weeks",
+   "event_month": "2024-05",
+   "meta_title": "Ascension Ransomware Attack: Patient Safety in Downtime",
+   "meta_description": "A May 2024 ransomware attack locked Ascension clinicians out of health records for weeks. What it shows about downtime readiness, staff strain and patient care.",
+   "topic": "Health",
+   "sector": "Health Care",
+   "organizations": [
+    "Ascension"
+   ],
+   "summary": "A ransomware attack locked Ascension staff out of electronic health records for weeks. Clinicians' accounts show how downtime shifts risk onto people and workarounds.",
+   "dek": "When a ransomware attack hit Ascension in May 2024, clinicians across its hospitals returned to paper, phones and faxes. Their accounts reveal how a cyber incident becomes a patient safety and workforce problem.",
+   "key_takeaways": [
+    "A May 8 ransomware attack cut Ascension clinicians off from electronic records and ordering systems, NPR and KFF Health News reported.",
+    "Clinicians described near-misses and workarounds such as handwritten notes, faxes and spreadsheets during the outage.",
+    "Downtime procedures are behavioral systems that depend on practice, staffing and clear escalation.",
+    "Hospitals can track downtime readiness and staff strain as leading indicators of patient safety risk."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On May 8, 2024, a ransomware attack struck Ascension, a Catholic health system that operates about 140 hospitals, according to reporting by KFF Health News and Michigan Public published by NPR. The attack locked providers out of electronic health records, some phones and the systems used to order tests, procedures and medications. Staff turned to handwritten notes, faxes, sticky notes and spreadsheets.",
+      "Ascension said on May 9 that its care teams were \"trained for these kinds of disruptions.\" In a June 3 email to reporters, a spokesperson said, \"We are confident that our care providers in our hospitals and facilities continue to provide quality medical care.\" Electronic health record access was restored in mid-June, NPR reported, though Ascension said records from May 8 onward might be temporarily inaccessible. Ascension declined to comment on specific clinician accounts.",
+      "Ascension's Wikipedia entry, citing contemporaneous reporting, notes that the company brought in Mandiant to assist and that in December 2024 Ascension began notifying approximately 5.6 million people whose information was compromised. NPR reported that the FBI found the health sector had the largest share of ransomware attacks among critical infrastructure sectors in 2023, and that the Department of Health and Human Services said large ransomware-related breaches had risen 264% over five years."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Clinicians who spoke to NPR and KFF Health News described a stressful shift in how care was delivered. Nurses reported near-misses involving medication doses that could not be scanned as usual, and an emergency physician described a patient receiving a narcotic meant for someone else. A nurse described a patient who died after lab results were delayed for hours. These accounts were not independently verified, and Ascension did not comment on them, but they illustrate how quickly safety checks built into digital systems disappear when those systems go dark.",
+      "Downtime places the burden of safety on human memory, handwriting and communication at the exact moment workload rises. Barcode scanning, order checks and alerts are designed to catch the errors that tired people make. NPR reported that at least 125 staff at one Michigan hospital signed a petition asking for fewer elective surgeries and nonemergency admissions, a sign that clinicians felt capacity had not been adjusted to match the new conditions. The gap between a policy that says staff are trained and the lived experience of working without tools is where risk accumulates."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Downtime readiness can be measured before an attack and monitored during one. The most useful indicators combine technical recovery with the behavior of the people delivering care."
+     ],
+     "bullets": [
+      "Frequency and realism of downtime drills, including multi-week scenarios",
+      "Near-miss reports and medication variances during periods without electronic systems",
+      "Turnaround time for lab results and orders under paper processes",
+      "Staff requests to reduce elective volume or pause admissions",
+      "Nurse-to-patient workload and overtime during the outage period"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "For health system boards and investors, the lesson is that cyber resilience is a clinical quality issue. NPR reported that there were no federal requirements for hospitals to prevent or prepare for cyberattacks, which leaves preparation largely to each organization's leadership. Investments in security controls matter, and so do investments in the human systems that keep care safe when controls fail.",
+      "Communication is part of that system. Ascension's public statements emphasized training and confidence in care, while clinicians interviewed by NPR described strain and near-misses. Neither account has to be wrong for the gap between them to matter. Leaders who build fast, two-way channels with frontline staff during an incident gain better information for decisions such as diverting patients or reducing scheduled procedures."
+     ],
+     "bullets": [
+      "Run extended downtime exercises that test staffing, communication and clinical safety checks.",
+      "Give clinical leaders authority to reduce elective volume quickly during a prolonged outage.",
+      "Create rapid channels for frontline staff to report safety concerns during an incident.",
+      "In diligence, review downtime plans and drill results alongside cybersecurity controls."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Patients cannot choose whether their hospital is targeted, and they bear the risk when care slows or safety checks lapse. Clinicians bear a heavy burden too, working longer and under greater uncertainty. Preparing people, not only systems, for extended downtime is a public health investment that protects both. Datalidy regards clinician wellbeing and patient safety as two sides of the same resilience plan."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Cyberattack led to harrowing lapses at Ascension hospitals, clinicians say",
+     "publisher": "NPR / KFF Health News",
+     "url": "https://text.npr.org/nx-s1-5010219",
+     "date": "2024-06-19"
+    },
+    {
+     "title": "Ascension (healthcare system)",
+     "publisher": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ascension_(healthcare_system)",
+     "date": "2026-11-16"
+    }
+   ],
+   "related_services": [
+    "clinician-wellbeing",
+    "patient-experience",
+    "process-mapping"
+   ],
+   "related_insights": [
+    "systems-thinking",
+    "how-leaders-decide-under-pressure"
+   ]
+  },
+  {
+   "slug": "google-ai-overviews-launch-errors",
+   "title": "Google's AI Overviews Launch Draws Viral Errors and a Quick Course Correction",
+   "event_month": "2024-05",
+   "meta_title": "Google AI Overviews Errors: Lessons in Responsible AI Launch",
+   "meta_description": "Google's AI Overviews produced viral errors soon after launch, from glue on pizza to eating rocks. Lessons on user behavior, data voids and AI rollout.",
+   "topic": "Design",
+   "sector": "Technology",
+   "organizations": [
+    "Google"
+   ],
+   "summary": "Days after Google rolled out AI Overviews in the U.S., users shared odd answers. Google's explanation shows how real user behavior tests AI systems.",
+   "dek": "Google brought AI-generated answers to the top of U.S. search results in May 2024. Within days, unusual answers spread online, and Google explained that data voids, satire and forum posts had misled the system.",
+   "key_takeaways": [
+    "Google rolled out AI Overviews to U.S. users on May 14, 2024, and said it expected to reach over a billion people by year end.",
+    "Users soon shared errors, including a suggestion to add glue to pizza sauce, CNBC reported.",
+    "Google attributed many errors to data voids, satire and forum content, and said it made more than a dozen technical improvements.",
+    "Real-world users ask unexpected questions at scale, so launch testing must include adversarial and unusual behavior."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On May 14, 2024, Google announced that AI Overviews, AI-generated summaries at the top of search results, would begin rolling out to everyone in the United States. In a company blog post, Google's head of Search wrote that the feature had already been used billions of times in its Search Labs experiment and that Google expected to bring it to over a billion people by the end of the year.",
+      "Within days, users shared screenshots of incorrect answers. CNBC reported that for a query about cheese not sticking to pizza, AI Overviews suggested adding \"about 1/8 cup of nontoxic glue to the sauce,\" apparently drawn from an 11-year-old Reddit comment, and that it told one user to eat \"at least one small rock a day.\" CNBC also noted that users could not opt out of the feature. A Google spokesperson told CNBC that \"the vast majority of AI Overviews provide high quality information\" and that some examples were doctored or could not be reproduced.",
+      "On May 30, Google published a post titled \"AI Overviews: About last week.\" It said some viral screenshots were fake but acknowledged real errors, which it linked to data voids, satirical content presented as fact and sarcastic forum posts. Google said it had made \"more than a dozen technical improvements,\" including better detection of nonsensical queries, limits on user-generated content and additional health safeguards."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "Google's explanation is, at heart, about human behavior. The rock example, Google wrote, came from a question that almost no one had searched before it went viral, and the only substantial content answering it was satire. Once people discovered the system's weak spots, they deliberately searched for more of them and shared the results, creating a feedback loop of attention. Any system deployed at the scale of search will meet curiosity, humor and testing by its users, and those behaviors are predictable even if the specific queries are not.",
+      "The design choice to place AI answers at the top of results also matters. A summary in that position carries an implied endorsement, and people tend to trust information that appears authoritative and requires little effort to consume. When the answer is right, that convenience is valuable. When it is wrong, the same design lowers the chance that a user checks the source. Google's added health safeguards reflect the recognition that the cost of misplaced trust varies by topic."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "Many of the failure patterns Google described could be anticipated by studying how people search, especially at the edges of normal behavior. Teams launching AI features can monitor these signals before and after release."
+     ],
+     "bullets": [
+      "Share of answers drawn from satire, forums or other low-reliability sources",
+      "Queries with little authoritative content available, known as data voids",
+      "Rate of user feedback flags and screenshot sharing in the first days after launch",
+      "Error rates on health, safety and financial topics compared with general queries",
+      "Gap between test-group behavior and full-population behavior after rollout"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "For leaders deploying generative AI in customer-facing products, the episode shows that pilot results may not predict behavior at full scale. Billions of uses in an opt-in experiment did not surface every pattern that appeared when the feature reached everyone. Google's rapid, public explanation and fixes also show the value of owning errors quickly."
+     ],
+     "bullets": [
+      "Test AI features with adversarial and unusual inputs, not only typical user journeys.",
+      "Set stricter thresholds for topics where wrong answers could cause harm.",
+      "Plan for rapid public explanation and correction before launch, not after.",
+      "In diligence, ask how AI products detect and respond to errors in production."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Search is a primary way people seek health, safety and civic information, which makes accuracy a public good, not only a product feature. AI summaries can make information more accessible, especially for people with less time or expertise, but only if they direct users to reliable sources and signal uncertainty honestly. Datalidy's perspective is that responsible AI adoption starts with understanding how real people will use, test and trust a system."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "Generative AI in Search: Let Google do the searching for you",
+     "publisher": "Google",
+     "url": "https://blog.google/products/search/generative-ai-google-search-may-2024/",
+     "date": "2024-05-14"
+    },
+    {
+     "title": "AI Overviews: About last week",
+     "publisher": "Google",
+     "url": "https://blog.google/products/search/ai-overviews-update-may-2024/",
+     "date": "2024-05-30"
+    },
+    {
+     "title": "Google criticized as AI Overview makes obvious errors, such as saying former President Obama is Muslim",
+     "publisher": "CNBC",
+     "url": "https://www.cnbc.com/2024/05/24/google-criticized-as-ai-overview-makes-errors-like-saying-president-obama-is-muslim.html",
+     "date": "2024-05-24"
+    }
+   ],
+   "related_services": [
+    "responsible-ai-adoption",
+    "user-research-usability-testing",
+    "hci-consulting"
+   ],
+   "related_insights": [
+    "psychology-of-technology-adoption",
+    "usability-testing-for-executives"
+   ]
+  },
+  {
+   "slug": "powerschool-breach-student-data-stolen-credentials",
+   "title": "PowerSchool Breach Exposes Student Data Through a Support Portal Login",
+   "event_month": "2025-01",
+   "meta_title": "PowerSchool Data Breach: Stolen Credentials and Student Data",
+   "meta_description": "PowerSchool said attackers used stolen credentials to reach a support portal and take K-12 student data. What it teaches about vendor access and school trust.",
+   "topic": "Strategy",
+   "sector": "Education",
+   "organizations": [
+    "PowerSchool"
+   ],
+   "summary": "PowerSchool disclosed that stolen credentials gave an attacker access to student and teacher data. The breach puts vendor access and school trust in focus.",
+   "dek": "In January 2025, education software provider PowerSchool disclosed that an attacker used stolen credentials to reach a customer support portal and download student and teacher records. The case shows how one login can expose a sector.",
+   "key_takeaways": [
+    "PowerSchool said an attacker used stolen credentials to access its PowerSource customer support portal, BleepingComputer reported.",
+    "The attacker claimed data on tens of millions of students and teachers from thousands of districts.",
+    "PowerSchool acknowledged paying a ransom, which offers no lasting guarantee that stolen data is gone.",
+    "Support tools with broad access to customer data deserve the same scrutiny as core production systems."
+   ],
+   "sections": [
+    {
+     "heading": "What happened",
+     "paragraphs": [
+      "On January 7, 2025, PowerSchool, which provides student information software to K-12 schools, disclosed that a threat actor had used stolen credentials to access its PowerSource customer support portal, BleepingComputer reported. According to the company's disclosures as reported by BleepingComputer, the attacker used a customer support maintenance access tool to download student and teacher data from school districts' databases. The breach took place on December 19, 2024, using a subcontractor's stolen credentials, BleepingComputer later reported.",
+      "In an extortion demand, the attacker claimed to have taken data from 6,505 school districts in the United States, Canada and other countries, and BleepingComputer was told the breach affected more than 62 million students and more than 9.5 million teachers. PowerSchool said the data varied by district and that, for a subset of students, it included Social Security numbers, medical information and grades. The company said it expected more than three quarters of affected individuals did not have Social Security numbers taken.",
+      "PowerSchool acknowledged in a customer FAQ that it paid a ransom to prevent public release and received a video of the attacker claiming to delete the data. BleepingComputer reported the demand was $2.85 million in Bitcoin. In May 2025, individual districts began receiving extortion demands. A CrowdStrike investigation found the portal had also been accessed in August and September 2024 with the same credentials. In September 2025, the Texas Attorney General sued the company."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The human dimension",
+     "paragraphs": [
+      "The entry point was not an exotic software flaw but a login. Credentials belonging to a subcontractor opened a support tool that could reach customer databases. Support systems are built for convenience: they let staff solve problems quickly on behalf of many customers. That design creates a concentration of access, and the behavior of every person who holds those credentials, including people outside the organization, becomes part of the security boundary.",
+      "The ransom decision reflects a difficult trade-off faced by leaders under pressure. Paying may reduce the immediate risk of public release, but it relies on trusting the attacker. The later extortion of individual districts, reported by BleepingComputer, shows why that trust is fragile. For school leaders, the incident added unexpected work: notifying families, answering questions and managing anxiety, often with limited information while the vendor's investigation continued."
+     ],
+     "bullets": []
+    },
+    {
+     "heading": "The signals that mattered",
+     "paragraphs": [
+      "According to the CrowdStrike findings reported by BleepingComputer, the same credentials had been used to access the portal months before the December breach. Earlier access is exactly the kind of signal that monitoring and access reviews are designed to catch."
+     ],
+     "bullets": [
+      "Logins to support tools from unusual locations, times or contractor accounts",
+      "Volume of data exported through maintenance or support functions",
+      "Number of third parties holding credentials with broad customer data access",
+      "Time since last review of who can use support access tools",
+      "Repeat access by the same credentials outside normal support tickets"
+     ]
+    },
+    {
+     "heading": "Lessons for leaders and investors",
+     "paragraphs": [
+      "For investors in education technology and other software serving many customers, the lesson is that shared support infrastructure can turn one compromised account into a sector-wide event. Diligence should look beyond product security to how vendors, contractors and support staff access customer data, and how unusual access is detected.",
+      "School districts face a parallel lesson. Many rely on a small number of vendors for core records, so vendor risk management is a governance responsibility for district leaders and boards, not only for IT staff. Asking vendors how support access is granted, monitored and revoked is a practical step that does not require deep technical expertise."
+     ],
+     "bullets": [
+      "Limit support tools to the minimum data access needed for each task.",
+      "Apply strong authentication and monitoring to contractor and subcontractor accounts.",
+      "Plan breach communications for customers who must in turn inform families.",
+      "In diligence, request evidence of access reviews and anomaly detection on support systems."
+     ]
+    },
+    {
+     "heading": "The public-good dimension",
+     "paragraphs": [
+      "Schools collect student information because families trust them to protect it, and children have no say in which vendors hold their records. A breach of this scale affects that trust across communities, and the effects can last as long as the stolen data circulates. Education technology providers serve the public good when they treat student data with the care owed to the people it describes. Datalidy believes that trust is built through measurable safeguards, not assurances."
+     ],
+     "bullets": []
+    }
+   ],
+   "sources": [
+    {
+     "title": "PowerSchool hacker claims they stole data of 62 million students",
+     "publisher": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/powerschool-hacker-claims-they-stole-data-of-62-million-students/",
+     "date": "2025-01-22"
+    },
+    {
+     "title": "Texas sues PowerSchool over breach exposing 62M students, 880k Texans",
+     "publisher": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/texas-sues-powerschool-after-massive-data-breach-hit-62-million-students/",
+     "date": "2025-09-04"
+    }
+   ],
+   "related_services": [
+    "education-learning-design",
+    "commercial-due-diligence",
+    "process-mapping"
+   ],
+   "related_insights": [
+    "systems-thinking",
+    "people-problems-are-business-problems"
+   ]
+  }
+ ]
+}
